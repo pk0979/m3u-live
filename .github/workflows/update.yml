@@ -1,30 +1,86 @@
-- name: Merge M3U Sources
-  run: |
-    echo "#EXTM3U" > all.m3u
+name: Auto Update M3U (Production)
 
-    SOURCES=(
-      "http://pk79.wuaze.com/upload/colatv.m3u"
-      "http://pk79.wuaze.com/upload/2qlive.m3u"
-    )
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
-    for url in "${SOURCES[@]}"; do
-      echo "Downloading $url"
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-      curl -L -A "Mozilla/5.0" --connect-timeout 15 --max-time 30 "$url" -o temp.m3u
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      # Nếu có HTML thì bỏ qua
-      if grep -qi "<html" temp.m3u; then
-        echo "⚠ $url trả HTML - bỏ qua"
-        continue
-      fi
+      - name: Create new merged file safely
+        run: |
+          echo "Building new playlist..."
 
-      # Nếu không có #EXTINF thì bỏ
-      if ! grep -q "#EXTINF" temp.m3u; then
-        echo "⚠ $url không hợp lệ - bỏ qua"
-        continue
-      fi
+          echo "#EXTM3U" > new.m3u
+          VALID_SOURCE_FOUND=false
 
-      sed '/#EXTM3U/d' temp.m3u >> all.m3u
-    done
+          SOURCES=(
+            "http://pk79.wuaze.com/upload/colatv.m3u"
+            "http://pk79.wuaze.com/upload/2qlive.m3u"
+          )
 
-    rm -f temp.m3u
+          for url in "${SOURCES[@]}"; do
+            echo "Downloading $url"
+
+            curl -L -A "Mozilla/5.0" \
+              --connect-timeout 15 \
+              --max-time 30 \
+              --retry 2 \
+              --silent \
+              "$url" -o temp.m3u
+
+            # Bỏ nếu HTML
+            if grep -qi "<html" temp.m3u; then
+              echo "❌ HTML detected, skipping $url"
+              continue
+            fi
+
+            # Bỏ nếu không có EXTINF
+            if ! grep -q "#EXTINF" temp.m3u; then
+              echo "❌ Invalid M3U format, skipping $url"
+              continue
+            fi
+
+            VALID_SOURCE_FOUND=true
+            sed '/#EXTM3U/d' temp.m3u >> new.m3u
+          done
+
+          rm -f temp.m3u
+
+          # Nếu không có source hợp lệ → dừng và giữ file cũ
+          if [ "$VALID_SOURCE_FOUND" = false ]; then
+            echo "⚠ No valid source found. Keeping old playlist."
+            exit 0
+          fi
+
+          # Remove duplicate lines
+          awk '!seen[$0]++' new.m3u > clean.m3u
+          mv clean.m3u new.m3u
+
+          # Nếu file quá nhỏ → coi như lỗi
+          FILESIZE=$(wc -c < new.m3u)
+          if [ "$FILESIZE" -lt 100 ]; then
+            echo "⚠ File too small. Abort update."
+            exit 0
+          fi
+
+          mv new.m3u all.m3u
+
+      - name: Commit if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          if git diff --quiet; then
+            echo "No changes detected."
+          else
+            git add all.m3u
+            git commit -m "Auto update M3U (Production)"
+            git push
+          fi
