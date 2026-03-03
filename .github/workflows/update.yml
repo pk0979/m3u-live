@@ -1,44 +1,30 @@
-name: Auto Update M3U
+- name: Merge M3U Sources
+  run: |
+    echo "#EXTM3U" > all.m3u
 
-on:
-  schedule:
-    - cron: "*/5 * * * *"   # chạy mỗi 5 phút
-  workflow_dispatch:
+    SOURCES=(
+      "http://pk79.wuaze.com/upload/colatv.m3u"
+      "http://pk79.wuaze.com/upload/2qlive.m3u"
+    )
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
+    for url in "${SOURCES[@]}"; do
+      echo "Downloading $url"
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      curl -L -A "Mozilla/5.0" --max-time 30 "$url" -o temp.m3u
 
-      - name: Merge M3U Sources
-        run: |
-          echo "#EXTM3U" > all.m3u
+      # Kiểm tra nếu file chứa HTML thì bỏ qua
+      if grep -qi "<html" temp.m3u; then
+        echo "⚠ $url trả về HTML - bỏ qua"
+        continue
+      fi
 
-          SOURCES=(
-            "http://pk79.wuaze.com/upload/colatv.m3u"
-            "http://pk79.wuaze.com/upload/2qlive.m3u"
-          )
+      # Kiểm tra nếu không có #EXTINF thì bỏ
+      if ! grep -q "#EXTINF" temp.m3u; then
+        echo "⚠ $url không phải M3U hợp lệ - bỏ qua"
+        continue
+      fi
 
-          for url in "${SOURCES[@]}"; do
-            echo "Downloading $url"
-            curl -L -A "Mozilla/5.0" "$url" -o temp.m3u
-            sed '/#EXTM3U/d' temp.m3u >> all.m3u
-          done
+      sed '/#EXTM3U/d' temp.m3u >> all.m3u
+    done
 
-          rm -f temp.m3u
-
-      - name: Remove duplicate lines
-        run: |
-          awk '!seen[$0]++' all.m3u > clean.m3u
-          mv clean.m3u all.m3u
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add all.m3u
-          git commit -m "Auto update M3U" || echo "No changes"
-          git push
+    rm -f temp.m3u
