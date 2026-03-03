@@ -1,0 +1,44 @@
+name: Auto Update M3U
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # chạy mỗi 5 phút
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Merge M3U Sources
+        run: |
+          echo "#EXTM3U" > all.m3u
+
+          SOURCES=(
+            "http://pk79.wuaze.com/upload/colatv.m3u"
+            "http://pk79.wuaze.com/upload/2qlive.m3u"
+          )
+
+          for url in "${SOURCES[@]}"; do
+            echo "Downloading $url"
+            curl -L -A "Mozilla/5.0" "$url" -o temp.m3u
+            sed '/#EXTM3U/d' temp.m3u >> all.m3u
+          done
+
+          rm -f temp.m3u
+
+      - name: Remove duplicate lines
+        run: |
+          awk '!seen[$0]++' all.m3u > clean.m3u
+          mv clean.m3u all.m3u
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add all.m3u
+          git commit -m "Auto update M3U" || echo "No changes"
+          git push
