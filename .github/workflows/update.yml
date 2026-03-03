@@ -1,4 +1,4 @@
-- name: Merge M3U Sources
+- name: Auto Update M3U
   run: |
     echo "#EXTM3U" > all.m3u
 
