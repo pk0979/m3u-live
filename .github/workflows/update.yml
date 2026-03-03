@@ -1,4 +1,4 @@
-- name: Auto Update M3U
+- name: Merge M3U Sources
   run: |
     echo "#EXTM3U" > all.m3u
 
@@ -10,17 +10,17 @@
     for url in "${SOURCES[@]}"; do
       echo "Downloading $url"
 
-      curl -L -A "Mozilla/5.0" --max-time 30 "$url" -o temp.m3u
+      curl -L -A "Mozilla/5.0" --connect-timeout 15 --max-time 30 "$url" -o temp.m3u
 
-      # Kiểm tra nếu file chứa HTML thì bỏ qua
+      # Nếu có HTML thì bỏ qua
       if grep -qi "<html" temp.m3u; then
-        echo "⚠ $url trả về HTML - bỏ qua"
+        echo "⚠ $url trả HTML - bỏ qua"
         continue
       fi
 
-      # Kiểm tra nếu không có #EXTINF thì bỏ
+      # Nếu không có #EXTINF thì bỏ
       if ! grep -q "#EXTINF" temp.m3u; then
-        echo "⚠ $url không phải M3U hợp lệ - bỏ qua"
+        echo "⚠ $url không hợp lệ - bỏ qua"
         continue
       fi
 
