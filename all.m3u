@@ -834,7 +834,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-# Update: 2026-03-14 18:10:09 (VN)
+# Update: 2026-03-14 18:23:49 (VN)
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-14/03: Kocaelispor - Konyaspor (TUR D1) - BLV WUKONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -3742,6 +3742,8 @@ https://cdn-hls.phogatv8.com/live/69b52b922f936_35/index.m3u8?expire=1774085650&
 https://google.com.vn
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 🔴 18h00 14/03/2026 | empty | Quy Nhon United vs Dong Thap | 
 https://google.com.vn
+#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 🔴 18h00 14/03/2026 | empty | Yulon Luxgen Dinos vs Keelung Black Kites | Sóng quốc tế
+https://live.alilicloud.com/live/e1caa17eabc6374369f77fa119a4411d/playlist.m3u8
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/bZp2qSp/48521c57af92.png", 🔴 18h00 14/03/2026 | https://i.ibb.co/bZp2qSp/48521c57af92.png | Francisco Sánchez Ruiz vs Dương Quốc Hoàng | 
 https://google.com.vn
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/TDYYDH8G/962453fa77c7.png", 🔴 18h00 14/03/2026 | https://i.ibb.co/TDYYDH8G/962453fa77c7.png | Robbie Capito vs Moritz Neuhausen | 
@@ -3750,12 +3752,12 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/TDYYDH8G/962453fa77c7.png", 🔴 18h00 14/03/2026 | https://i.ibb.co/TDYYDH8G/962453fa77c7.png | Can Salim vs Eklent Kaci | 
 https://google.com.vn
+#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/hxxCrBTT/c2b0fe6603a8.png", 🔴 18h15 14/03/2026 | https://i.ibb.co/hxxCrBTT/c2b0fe6603a8.png | BAO Li Jing / LUO Xu Min vs JIA Yi Fan / ZHANG Shu Xian | 
+https://google.com.vn
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 🔴 LIVE | empty | Hsinchu Lioneers 0 - 0 Kaohsiung Aquas | Sóng quốc tế
 https://live.alilicloud.com/live/cef8cddce4753d03d5b66bd18b0b488e/playlist.m3u8
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 🔴 LIVE | empty | Fubon Braves 33 - 35 Yankey Ark | Sóng quốc tế
 https://live.alilicloud.com/live/0544f40cc8e9763a75c3768bf1b40b14/playlist.m3u8
-#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 🔴 LIVE | empty | Ryukyu Golden Kings 51 - 37 Nagasaki Velca | Sóng quốc tế
-https://live.alilicloud.com/live/16e95ee8230e1f8db27f3162aecaae8e/playlist.m3u8
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 🔴 LIVE | empty | Converge FiberXers 85 - 87 Terrafirma Dyip | Sóng quốc tế
 https://live.alilicloud.com/live/c57672e1d336585450c1b5c1bbba06a4/playlist.m3u8
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 🔴 LIVE | empty | Royal Hali Gaziantep 40 - 41 Ormanspor Genc Ankara | Sóng quốc tế
@@ -3766,12 +3768,8 @@ https://live.alilicloud.com/live/b7982d2934a2f3d0c03840c2043cff48/playlist.m3u8
 https://live.alilicloud.com/live/e6686ea1f20f565b1bd974cb43b7f24d/playlist.m3u8
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/PvZFV00M/4b84d36d5769.png", 🔴 LIVE | https://i.ibb.co/PvZFV00M/4b84d36d5769.png | Han Ji-eun 0 - 0 Lee Woo-kyung | Sóng Sạch 3-hls
 https://cdn-hls.phogatv8.com/live/69b4daf36b8f4_3/index.m3u8?expire=1774065011&sign=f6ccb98ed765c11fbd395a6c75ca4d0c
-#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/7x7kKnWp/2bfdef2a4fdb.png", 18h30 14/03/2026 | https://i.ibb.co/7x7kKnWp/2bfdef2a4fdb.png | Australia Women vs Hungary Women | Sóng quốc tế
-https://live.alilicloud.com/live/ca962cd7bb03eb3858a37bd0aad674dc/playlist.m3u8
-#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/s9CT237J/0dab81cf8e3e.png", 18h30 14/03/2026 | https://i.ibb.co/s9CT237J/0dab81cf8e3e.png | China Women vs South Sudan Women | Sóng quốc tế
-https://live.alilicloud.com/live/5f61d321498131928a9a41e537ade338/playlist.m3u8
-#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 18h35 14/03/2026 | empty | Fujian Xunxing Sturgeons vs Ningbo Rockets | Sóng quốc tế
-https://live.alilicloud.com/live/2def593f91c236d35119063de1ee41a8/playlist.m3u8
+#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 18h30 14/03/2026 | empty | Siddhant Banthia/Alexander Donski vs Stefan Latinovic/Luka Pavlovic | Sóng quốc tế
+https://live.alilicloud.com/live/85c67fae3b9816d8b420a1c91b17b576/playlist.m3u8
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 19h00 14/03/2026 | empty | Arminia Bielefeld vs SC Paderborn 07 | 
 https://google.com.vn
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 19h00 14/03/2026 | empty | Eintracht Braunschweig vs Fortuna Dusseldorf | 
@@ -3780,8 +3778,8 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/TDYYDH8G/962453fa77c7.png", 19h30 14/03/2026 | https://i.ibb.co/TDYYDH8G/962453fa77c7.png | Wiktor Zielinski vs Oliver Szolnoki | 
 https://google.com.vn
-#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/hxxCrBTT/c2b0fe6603a8.png", 20h00 14/03/2026 | https://i.ibb.co/hxxCrBTT/c2b0fe6603a8.png | BAO Li Jing / LUO Xu Min vs JIA Yi Fan / ZHANG Shu Xian | 
-https://google.com.vn
+#EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="empty", 20h00 14/03/2026 | empty | Nigeria Women vs Philippines Women | Sóng quốc tế
+https://live.alilicloud.com/live/ef73eb5640da5ddc9398153a104b4855/playlist.m3u8
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/S4ygJ4H7/d6cdfafb57c2.png", 03h30 15/03/2026 | https://i.ibb.co/S4ygJ4H7/d6cdfafb57c2.png | Alexander Zverev vs Jannik Sinner | 
 https://google.com.vn
 #EXTINF:-1 group-title="⚽THẬP CẨM TV" tvg-logo="https://i.ibb.co/rRT1L4LJ/7f85c75c227c.png", 05h00 15/03/2026 | https://i.ibb.co/rRT1L4LJ/7f85c75c227c.png | Carlos Alcaraz Garfia vs Daniil Medvedev | 
