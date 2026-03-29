@@ -3786,10 +3786,8 @@ https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/10.png", 🟢 30/03-02:00 | Friendlies | Colombia vs France | BLV Ngọc Hoàng(A Cháo)
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
-#EXTINF:-1 group-title="Bún chả",[AFC Champions League Elite] Melbourne City vs Buriram United lúc 15:24 ngày 03/03/2026 [MAIN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://ssai-streaming.thairath.co.th/bamm-csai/playlist.m3u8
+#EXTINF:-1 group-title="SCTV",SCTV phim tổng hợp
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 # Updated: 2026-03-29 09:46:33 VN
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
