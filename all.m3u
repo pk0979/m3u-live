@@ -670,7 +670,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-# Update: 2026-04-01 19:55:02 (VN)
+# Update: 2026-04-01 20:00:03 (VN)
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 18:35-01/04: Zhejiang Chouzhou - Beijing (CBA) - CHAN SENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -2497,7 +2497,7 @@ url-tvg="https://hnlive.dramahay.xyz/epg.xml"
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTVVN" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-# Updated: 2026-04-01 19:55:03 VN
+# Updated: 2026-04-01 20:00:03 VN
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
@@ -2853,88 +2853,88 @@ https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
 http://103.90.220.236/hytvlive/radio.m3u8
 http://vietanhtv.id.vn/onlive/getlive.php?id=lazyfanclub&broad_no=124886
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124782?8", abeomukbang - [Tường thuật] 2025 PMSL SEA GFD3 Fall | Tân Vương Kế Vị
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124782?785", abeomukbang - [Tường thuật] 2025 PMSL SEA GFD3 Fall | Tân Vương Kế Vị
 http://vietanhtv.id.vn/onlive/getlive.php?id=abeomukbang&broad_no=124782
 http://vietanhtv.id.vn/onlive/getlive.php?id=abeomukbang&broad_no=124782
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124784?732", up2you - [Tường thuật] CHUNG KẾT TỔNG | VISA VMC WINTER 2025
-http://vietanhtv.id.vn/onlive/getlive.php?id=up2you&broad_no=124784
-http://vietanhtv.id.vn/onlive/getlive.php?id=up2you&broad_no=124784
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124787?518", neoson - [Tường thuật] VCT 2025 Pacific Stage 2 | Chung kết tổng
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124787?238", neoson - [Tường thuật] VCT 2025 Pacific Stage 2 | Chung kết tổng
 http://vietanhtv.id.vn/onlive/getlive.php?id=neoson&broad_no=124787
 http://vietanhtv.id.vn/onlive/getlive.php?id=neoson&broad_no=124787
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122480?848", dancewithme - [Tường thuật] VALORANT Challengers 2025 Southeast Asia: Split 3
-http://vietanhtv.id.vn/onlive/getlive.php?id=dancewithme&broad_no=122480
-http://vietanhtv.id.vn/onlive/getlive.php?id=dancewithme&broad_no=122480
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122493?731", bongchuyen - [Tường thuật] Giải bóng chuyền trẻ VĐQG
-http://vietanhtv.id.vn/onlive/getlive.php?id=bongchuyen&broad_no=122493
-http://vietanhtv.id.vn/onlive/getlive.php?id=bongchuyen&broad_no=122493
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124788?435", Susubay - [Tường thuật] VALORANT Champions Paris — Chung kết tổng
-http://vietanhtv.id.vn/onlive/getlive.php?id=gamerts&broad_no=124788
-http://vietanhtv.id.vn/onlive/getlive.php?id=gamerts&broad_no=124788
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124785?54", phimhaivn - [Tường thuật] Chung Kết Khu Vực APAC | ĐTCL Mùa 15
-http://vietanhtv.id.vn/onlive/getlive.php?id=phimhaivn&broad_no=124785
-http://vietanhtv.id.vn/onlive/getlive.php?id=phimhaivn&broad_no=124785
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124880?613", vothuatvn - [Tường thuật] Chung kết FC Pro Champions Cup 2025
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124784?660", up2you - [Tường thuật] CHUNG KẾT TỔNG | VISA VMC WINTER 2025
+http://vietanhtv.id.vn/onlive/getlive.php?id=up2you&broad_no=124784
+http://vietanhtv.id.vn/onlive/getlive.php?id=up2you&broad_no=124784
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124880?673", vothuatvn - [Tường thuật] Chung kết FC Pro Champions Cup 2025
 http://vietanhtv.id.vn/onlive/getlive.php?id=vothuatvn&broad_no=124880
 http://vietanhtv.id.vn/onlive/getlive.php?id=vothuatvn&broad_no=124880
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122479?19", Emmy - [Tường thuật] BLAST Rivals Season 2
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122479?713", Emmy - [Tường thuật] BLAST Rivals Season 2
 http://vietanhtv.id.vn/onlive/getlive.php?id=kenhcs2&broad_no=122479
 http://vietanhtv.id.vn/onlive/getlive.php?id=kenhcs2&broad_no=122479
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124786?77", Temiu - [Tường thuật] QUARTER FINALS AIC 2025
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122480?899", dancewithme - [Tường thuật] VALORANT Challengers 2025 Southeast Asia: Split 3
+http://vietanhtv.id.vn/onlive/getlive.php?id=dancewithme&broad_no=122480
+http://vietanhtv.id.vn/onlive/getlive.php?id=dancewithme&broad_no=122480
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124785?950", phimhaivn - [Tường thuật] Chung Kết Khu Vực APAC | ĐTCL Mùa 15
+http://vietanhtv.id.vn/onlive/getlive.php?id=phimhaivn&broad_no=124785
+http://vietanhtv.id.vn/onlive/getlive.php?id=phimhaivn&broad_no=124785
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124788?824", Susubay - [Tường thuật] VALORANT Champions Paris — Chung kết tổng
+http://vietanhtv.id.vn/onlive/getlive.php?id=gamerts&broad_no=124788
+http://vietanhtv.id.vn/onlive/getlive.php?id=gamerts&broad_no=124788
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122493?667", bongchuyen - [Tường thuật] Giải bóng chuyền trẻ VĐQG
+http://vietanhtv.id.vn/onlive/getlive.php?id=bongchuyen&broad_no=122493
+http://vietanhtv.id.vn/onlive/getlive.php?id=bongchuyen&broad_no=122493
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124786?453", Temiu - [Tường thuật] QUARTER FINALS AIC 2025
 http://vietanhtv.id.vn/onlive/getlive.php?id=greengame&broad_no=124786
 http://vietanhtv.id.vn/onlive/getlive.php?id=greengame&broad_no=124786
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124991?128", kubocastch - Radio 24/7
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124991?635", kubocastch - Radio 24/7
 http://vietanhtv.id.vn/onlive/getlive.php?id=kubocastch&broad_no=124991
 http://vietanhtv.id.vn/onlive/getlive.php?id=kubocastch&broad_no=124991
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124781?384", tinesport - [Tường thuật] CKTG 2025 - Tứ Kết - T1 vs AL
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124781?273", tinesport - [Tường thuật] CKTG 2025 - Tứ Kết - T1 vs AL
 http://vietanhtv.id.vn/onlive/getlive.php?id=tinesport&broad_no=124781
 http://vietanhtv.id.vn/onlive/getlive.php?id=tinesport&broad_no=124781
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122482?424", Ligue1 - Sôi động bóng đá Pháp
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122482?24", Ligue1 - Sôi động bóng đá Pháp
 http://vietanhtv.id.vn/onlive/getlive.php?id=ligue1&broad_no=122482
 http://vietanhtv.id.vn/onlive/getlive.php?id=ligue1&broad_no=122482
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122483?288", ONSports+ - Lion Actions Số 25-25 - Điểm Nhấn Sự Kiện Mma Cuối Năm
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122483?892", ONSports+ - Lion Actions Số 25-25 - Điểm Nhấn Sự Kiện Mma Cuối Năm
 http://vietanhtv.id.vn/onlive/getlive.php?id=onsportsplus&broad_no=122483
 http://vietanhtv.id.vn/onlive/getlive.php?id=onsportsplus&broad_no=122483
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122484?875", ONSports - Tạp Chí H/L Pga Tour - Farmers Insurance Open 2026
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122484?8", ONSports - Tạp Chí H/L Pga Tour - Farmers Insurance Open 2026
 http://vietanhtv.id.vn/onlive/getlive.php?id=onsports&broad_no=122484
 http://vietanhtv.id.vn/onlive/getlive.php?id=onsports&broad_no=122484
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122485?323", ONGolf - Tổng Hợp Golf - Pga Championship 2013 - Phần 1
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122485?169", ONGolf - Tổng Hợp Golf - Pga Championship 2013 - Phần 1
 http://vietanhtv.id.vn/onlive/getlive.php?id=ongolf&broad_no=122485
 http://vietanhtv.id.vn/onlive/getlive.php?id=ongolf&broad_no=122485
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122486?478", Bundesliga - Mãn nhãn pha bóng hấp dẫn ở Bundesliga 2023/24
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122486?409", Bundesliga - Mãn nhãn pha bóng hấp dẫn ở Bundesliga 2023/24
 http://vietanhtv.id.vn/onlive/getlive.php?id=bundesliga&broad_no=122486
 http://vietanhtv.id.vn/onlive/getlive.php?id=bundesliga&broad_no=122486
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122487?518", ONFootball - Bản Tin Thế Giới Thể Thao 20H - Nk SEA Games
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122487?896", ONFootball - Bản Tin Thế Giới Thể Thao 20H - Nk SEA Games
 http://vietanhtv.id.vn/onlive/getlive.php?id=onfootball&broad_no=122487
 http://vietanhtv.id.vn/onlive/getlive.php?id=onfootball&broad_no=122487
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122488?788", ONSportsNews - World Tennis League 2025 Trận 4 Trực Tiếp - Trực Tiếp
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/122488?383", ONSportsNews - World Tennis League 2025 Trận 4 Trực Tiếp - Trực Tiếp
 http://vietanhtv.id.vn/onlive/getlive.php?id=onsportsnews&broad_no=122488
 http://vietanhtv.id.vn/onlive/getlive.php?id=onsportsnews&broad_no=122488
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124597?225", Sunix - [Tường thuật] Red Bull Home Ground 2025
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124597?361", Sunix - [Tường thuật] Red Bull Home Ground 2025
 http://vietanhtv.id.vn/onlive/getlive.php?id=kenhfps&broad_no=124597
 http://vietanhtv.id.vn/onlive/getlive.php?id=kenhfps&broad_no=124597
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124598?183", keohanaa - [Tường thuật] CÚP VỆ BINH TINH TÚ | ĐTCL Mùa 15
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124598?598", keohanaa - [Tường thuật] CÚP VỆ BINH TINH TÚ | ĐTCL Mùa 15
 http://vietanhtv.id.vn/onlive/getlive.php?id=keohanaa&broad_no=124598
 http://vietanhtv.id.vn/onlive/getlive.php?id=keohanaa&broad_no=124598
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124599?384", kattyy - [Tường thuật] FCI x VRE | CSC 2025 S2 FINAL NGÀY 11.08
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124599?974", kattyy - [Tường thuật] FCI x VRE | CSC 2025 S2 FINAL NGÀY 11.08
 http://vietanhtv.id.vn/onlive/getlive.php?id=kattyy&broad_no=124599
 http://vietanhtv.id.vn/onlive/getlive.php?id=kattyy&broad_no=124599
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124600?17", haivolo - [Tường thuật] Giải đấu Audition VietNam Championship 2025
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124600?552", haivolo - [Tường thuật] Giải đấu Audition VietNam Championship 2025
 http://vietanhtv.id.vn/onlive/getlive.php?id=haivolo&broad_no=124600
 http://vietanhtv.id.vn/onlive/getlive.php?id=haivolo&broad_no=124600
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124601?633", cookstory - [Tường thuật] FC Pro Festival 2025
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124601?621", cookstory - [Tường thuật] FC Pro Festival 2025
 http://vietanhtv.id.vn/onlive/getlive.php?id=cookstory&broad_no=124601
 http://vietanhtv.id.vn/onlive/getlive.php?id=cookstory&broad_no=124601
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124602?903", angelclubvn - [Tường thuật] CHUNG KẾT THẾ GIỚI: VƯƠNG MIỆN CHIẾN THUẬT | ĐTCL MÙA 15
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124602?21", angelclubvn - [Tường thuật] CHUNG KẾT THẾ GIỚI: VƯƠNG MIỆN CHIẾN THUẬT | ĐTCL MÙA 15
 http://vietanhtv.id.vn/onlive/getlive.php?id=angelclubvn&broad_no=124602
 http://vietanhtv.id.vn/onlive/getlive.php?id=angelclubvn&broad_no=124602
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124603?106", veramadsen - [Tường thuật] SOOP VALORANT League 2025 | GROUP STAGE | Ngày 2
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124603?494", veramadsen - [Tường thuật] SOOP VALORANT League 2025 | GROUP STAGE | Ngày 2
 http://vietanhtv.id.vn/onlive/getlive.php?id=veramadsen&broad_no=124603
 http://vietanhtv.id.vn/onlive/getlive.php?id=veramadsen&broad_no=124603
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124610?486", gummyon - [Tường thuật] SAIGON PHANTOM vs FPT X FLASH | CHUNG KẾT TỔNG | ĐTDV MÙA ĐÔN
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124610?927", gummyon - [Tường thuật] SAIGON PHANTOM vs FPT X FLASH | CHUNG KẾT TỔNG | ĐTDV MÙA ĐÔN
 http://vietanhtv.id.vn/onlive/getlive.php?id=gummyon&broad_no=124610
 http://vietanhtv.id.vn/onlive/getlive.php?id=gummyon&broad_no=124610
-#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124611?256", onmovies - Phim Truyện Giấc Mộng Đêm Hè Tập 30
+#EXTINF:-1 group-title="ON Live" tvg-logo="http://liveimg.onlive.vn/1/124611?965", onmovies - Phim Truyện Giấc Mộng Đêm Hè Tập 30
 http://vietanhtv.id.vn/onlive/getlive.php?id=onmovies&broad_no=124611
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
