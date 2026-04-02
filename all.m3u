@@ -77,6 +77,9 @@ https://live5.msrktz.app/live/08552895.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/168fd080867baf21c901a7eafd92ad41.png!w80", 🕒 03/04-08:00 | Giải vô địch Costa Rica | Sporting San Jose vs Cartagines | BLV C2
 https://live5.msrktz.app/live/08552895.m3u8
 
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80", 🕒 03/04-08:00 | Giải bóng đá nữ cao cấp Mexico | Santos Laguna Nữ vs Pachuca Nữ | BLV GIÀ LÀNG
+https://live5.msrktz.app/live/14830711.m3u8
+
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80", 🕒 03/04-08:00 | Giải bóng đá nữ cao cấp Mexico | Santos Laguna Nữ vs Pachuca Nữ | BLV AQUA
 https://live5.msrktz.app/live/18812304.m3u8
 
@@ -915,7 +918,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-# Update: 2026-04-02 21:10:03 (VN)
+# Update: 2026-04-02 21:15:03 (VN)
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-02/04: Sabail FC - Baku Sporting FK (AZE D1) - BLV RYO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -2851,8 +2854,8 @@ https://vietanhtv.id.vn/socolive/527383.m3u8
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/170430.m3u8
-#EXTINF:-1 tvg-name="MB Vietnam Cup 2026: Ngày 3/4 - Buổi chiều - Sân Grandstand" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/02/live-ppa-asia-1000-mb-hanoi-cup-2026-slide-thumb_1775121181389.jpg" group-title="⭐ Sự kiện FPT", 🕒 03/04 13:55 | MB Vietnam Cup 2026: Ngày 3/4 - Buổi chiều - Sân Grandstand
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-name="MB Vietnam Cup 2026: Ngày 3/4 - Buổi chiều - Sân Grandstand" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/02/live-ppa-asia-1000-mb-hanoi-cup-2026-slide-thumb_1775121181389.jpg" group-title="⭐ Sự kiện FPT", 🕒 03/04 13:55 | MB Vietnam Cup 2026: Ngày 3/4 - Buổi chiều - Sân Grandstand [BACKUP]
+http://is.am/62sv
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/278.png", 🔴 02/04-21:00 | Super League | Bunyodkor vs Lokomotiv | BLV Táo Tàu
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/525.png", 🟢 02/04-23:45 | UEFA Champions League Women | Barcelona W vs Real Madrid W | BLV Ngọc Hoàng(A Cháo)
@@ -2895,7 +2898,7 @@ url-tvg="https://hnlive.dramahay.xyz/epg.xml"
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTVVN" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-# Updated: 2026-04-02 21:10:03 VN
+# Updated: 2026-04-02 21:15:03 VN
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
