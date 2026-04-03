@@ -764,7 +764,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-# Update: 2026-04-04 03:15:04 (VN)
+# Update: 2026-04-04 03:20:03 (VN)
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-03/04: Birmingham City - Blackburn Rovers (ENG LCH) - BLV VOI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -3340,8 +3340,6 @@ https://vietanhtv.id.vn/socolive/462413.m3u8
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/351530.m3u8
 
-#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/307.png", 🔴 04/04-01:00 | Pro League | Al-Nassr vs Al Najma | BLV Thần Thông
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png", 🔴 04/04-01:45 | Ligue 1 | Paris Saint Germain vs Toulouse | BLV Ngọc Hoàng(A Cháo)
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/140.png", 🔴 04/04-02:00 | La Liga | Rayo Vallecano vs  Elche | BLV Táo Mèo
@@ -3362,10 +3360,10 @@ https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
 https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/1070.png", 🟢 04/04-20:00 | AFC U20 Asian Cup - Women | Vietnam U20 W vs Thailand U20 W | BLV Táo Thiên Vương
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8
-#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg", 🟢 04/04-20:30 | Bundesliga | Bayer Leverkusen vs VfL Wolfsburg | BLV Táo Tàu
-https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg", 🟢 04/04-20:30 | Bundesliga | SC Freiburg vs Bayern München | BLV Ngọc Hoàng(A Cháo)
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
+#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg", 🟢 04/04-20:30 | Bundesliga | Bayer Leverkusen vs VfL Wolfsburg | BLV Táo Tàu
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/140.png", 🟢 04/04-21:15 | La Liga | Mallorca vs Real Madrid | BLV Táo Mèo
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png", 🟢 04/04-22:00 | Ligue 1 | Strasbourg vs Nice | BLV Táo Thiên Vương
@@ -3390,7 +3388,7 @@ url-tvg="https://hnlive.dramahay.xyz/epg.xml"
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTVVN" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-# Updated: 2026-04-04 03:15:04 VN
+# Updated: 2026-04-04 03:20:04 VN
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
