@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/2bf4316056c6dfba58002657790731a9.png!w80", 🔴 03/04-19:15 | Cúp Malaysia | Kuala Lumpur City FC vs Johor Darul Takzim | BLV STING
-https://live5.msrktz.app/live/14707124.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/61f530e22493ace89b5a47e2c6c045c5.png!w80", 🔴 03/04-21:00 | Championship | Oxford United vs Hull City | BLV DR THANH
 https://live5.msrktz.app/live/79665343.m3u8
 
@@ -59,11 +56,11 @@ https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80", 🕒 04/04-01:45 | Ligue 1 | Paris Saint-Germain vs Toulouse FC | BLV HỔ VẰN
 https://live5.msrktz.app/live/07428422.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80", 🕒 04/04-02:00 | Giải Bóng đá Vô địch Quốc gia Tây Ban Nha  | Rayo Vallecano vs Elche | BLV  KHÔNG ĐỘ
-https://live5.msrktz.app/live/41943555.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/759f19ccaecadd33a5c09b535e543410.png!w80", 🕒 04/04-02:00 | Championship | Coventry City vs Derby County | BLV C2
 https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80", 🕒 04/04-02:00 | Giải Bóng đá Vô địch Quốc gia Tây Ban Nha  | Rayo Vallecano vs Elche | BLV  KHÔNG ĐỘ
+https://live5.msrktz.app/live/41943555.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80", 🕒 04/04-02:30 | Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha | Sporting vs Santa Clara | BLV STING
 https://live5.msrktz.app/live/14707124.m3u8
@@ -734,7 +731,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-# Update: 2026-04-03 21:05:02 (VN)
+# Update: 2026-04-03 21:10:03 (VN)
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:15-03/04: Kuala Lumpur City FC - Johor Darul Ta'zim FC (MAS Cup) - BON BON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -3251,7 +3248,7 @@ url-tvg="https://hnlive.dramahay.xyz/epg.xml"
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTVVN" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-# Updated: 2026-04-03 21:05:03 VN
+# Updated: 2026-04-03 21:10:03 VN
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
