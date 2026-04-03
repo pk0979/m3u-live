@@ -47,11 +47,11 @@ https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/f08f87259dc2abc1449b67081e8b7f83.png!w80", 🕒 03/04-18:30 | Championship | Middlesbrough vs Millwall | BLV SAMURAI
 https://live5.msrktz.app/live/07808742.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80", 🕒 03/04-18:35 | Giải bóng đá ngoại hạng Trung Quốc | Chengdu Rongcheng vs Qingdao West Coast | BLV SODA
-https://live5.msrktz.app/live/02456966.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80", 🕒 03/04-18:35 | Giải bóng đá ngoại hạng Trung Quốc | Chengdu Rongcheng vs Qingdao West Coast | BLV PEPSI
 https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80", 🕒 03/04-18:35 | Giải bóng đá ngoại hạng Trung Quốc | Chengdu Rongcheng vs Qingdao West Coast | BLV SODA
+https://live5.msrktz.app/live/02456966.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80", 🕒 03/04-19:00 | Giải bóng đá Liga 1 Indonesia | Dewa United FC vs PSIM Yogyakarta | BLV MONSTER
 https://live5.msrktz.app/live/75915087.m3u8
@@ -73,9 +73,6 @@ https://live5.msrktz.app/live/07428422.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/37aec5cf94aa5fa74a012b5413d52d06.png!w80", 🕒 03/04-21:00 | Championship | Leicester City vs Preston North End | BLV AQUA
 https://live5.msrktz.app/live/18812304.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80", 🕒 03/04-21:30 | Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha | Gil Vicente vs AVS Futebol SAD | BLV LAVIE
-https://live5.msrktz.app/live/75748097.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80", 🕒 03/04-21:30 | Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha | Gil Vicente vs AVS Futebol SAD | BLV SAMURAI
 https://live5.msrktz.app/live/07808742.m3u8
@@ -723,7 +720,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-# Update: 2026-04-03 10:10:03 (VN)
+# Update: 2026-04-03 10:15:02 (VN)
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:30-03/04: Deportiva Once Caldas - Dep.Independiente Medellin (COL D1) - LÃO LÂM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -3924,7 +3921,7 @@ url-tvg="https://hnlive.dramahay.xyz/epg.xml"
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTVVN" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-# Updated: 2026-04-03 10:10:03 VN
+# Updated: 2026-04-03 10:15:03 VN
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
