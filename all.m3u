@@ -845,6 +845,9 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-36
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/02/12_1775148831920.jpg" group-title="⭐Sự kiện FPT OTT",05/04 - 11:00 - FC Mobile Vietnam Super League 2026 - Ngày 05/04
 http://phuockhai.giize.com:1979/fpt/play1.php?id=the-thao-6
 
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/04/live-fiba-3x3-asia-cup-2026-slide-thumb_1775314504029.jpg" group-title="⭐Sự kiện FPT OTT",05/04 - 12:25 - FIBA 3x3 Asia Cup 2026 - Ngày 5/4 - Buổi Chiều
+http://phuockhai.giize.com:1979/fpt/play1.php?id=event-04
+
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/02/5-3_1775148182188.jpg" group-title="⭐Sự kiện FPT OTT",05/04 - 13:00 - Đấu Trường Danh Vọng Mùa Xuân 2026 - Ngày 05/04
 http://phuockhai.giize.com:1979/fpt_replay/mot-buoi-sang-xung-dang
 
@@ -1191,7 +1194,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-# Update: 2026-04-04 22:05:07 (VN)
+# Update: 2026-04-04 22:10:03 (VN)
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-04/04: Bayer 04 Leverkusen - VfL Wolfsburg (GER D1) - BLV CÒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://m.socoliveqn.co/
@@ -3915,7 +3918,7 @@ https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/140.png", 🟢 06/04-02:00 | La Liga | Alaves vs Osasuna | BLV Táo Mèo
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
-# Updated: 2026-04-04 22:05:10 VN
+# Updated: 2026-04-04 22:10:03 VN
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
