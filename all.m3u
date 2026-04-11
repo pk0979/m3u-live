@@ -1368,7 +1368,7 @@ https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10092_small.png",🔴 07:00 - 11.04 | Liga Profesional Apertura | Belgrano vs Aldosivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/huawei-hd/playlist.m3u8
+https://google.com
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7847_small.png",08:00 - 11.04 | Liga MX Clausura | Puebla vs León
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1522,139 +1522,661 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/74/4a/a1/12/20/0c/74a12-lu20trungquocvsu20uzbekistan192055e5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 16:00 | U20 Trung Quốc vs U20 Uzbekistan Tứ kết Giải Vô địch U20 Nữ Châu Á 2026
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/74/4a/a1/12/20/0c/74a12-lu20trungquocvsu20uzbekistan192055e5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 16:00 | U20 Trung Quốc vs U20 Uzbekistan Tứ kết Giải Vô địch U20 Nữ Châu Á 2026
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/39/9b/b6/61/16/61/39b61-l01castawaydf9cjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 11/04/2026 17:45 | CAST AWAY 
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/39/9b/b6/61/16/61/39b61-l01castawaydf9cjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 11/04/2026 17:45 | CAST AWAY 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/b7/75/52/2f/fb/bd/b752f-lvleaguehaiphongvscongantp06f2jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 18:00 | Hải Phòng vs Công an TP. Hồ Chí Minh Vòng 18 Vleague 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/b7/75/52/2f/fb/bd/b752f-lvleaguehaiphongvscongantp06f2jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 18:00 | Hải Phòng vs Công an TP. Hồ Chí Minh Vòng 18 Vleague 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=459
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/45/51/11/18/8d/d4/45118-l01chidep1e1920dff5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 19:00 | Chị Đẹp Đạp Gió 2026 - Tập 1E Mini Test Công 1 
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/45/51/11/18/8d/d4/45118-l01chidep1e1920dff5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 19:00 | Chị Đẹp Đạp Gió 2026 - Tập 1E Mini Test Công 1 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=449
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/32/21/13/30/00/01/32130-llaligarealsociedadvsalaves192010129jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 19:00 | Real Sociedad vs Alaves Vòng 31 Laliga 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/32/21/13/30/00/01/32130-llaligarealsociedadvsalaves192010129jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 19:00 | Real Sociedad vs Alaves Vòng 31 Laliga 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=823
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/2d/da/a5/56/63/37/2da56-lu20nhatbanvsu20vietnam192010524jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 20:00 | U20 Nhật Bản vs U20 Việt Nam Giải Vô địch U20 Nữ Châu Á 2026
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/2d/da/a5/56/63/37/2da56-lu20nhatbanvsu20vietnam192010524jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 20:00 | U20 Nhật Bản vs U20 Việt Nam Giải Vô địch U20 Nữ Châu Á 2026
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/e7/76/66/6c/c6/64/e766c-llaligaelchevsvalencia19204c5bjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 21:15 | Elche vs Valencia Vòng 31 Laliga 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/e7/76/66/6c/c6/64/e766c-llaligaelchevsvalencia19204c5bjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 21:15 | Elche vs Valencia Vòng 31 Laliga 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=823
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/54/46/6a/a4/46/64/546a4-limg05616f8bjpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 11/04/2026 22:00 | Lens vs PSG Vòng 29 Ligue 1 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/54/46/6a/a4/46/64/546a4-limg05616f8bjpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 11/04/2026 22:00 | Lens vs PSG Vòng 29 Ligue 1 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=441
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/16/6c/cf/f5/58/85/16cf5-lmasters1920round332a4jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 23:00 | The Masters 2026  Round 3
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/16/6c/cf/f5/58/85/16cf5-lmasters1920round332a4jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 23:00 | The Masters 2026  Round 3
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=632
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/c4/46/6c/c2/2b/b6/c46c2-llaligabarcelonavsespanyol1920397fjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 23:30 | Barcelona vs Espanyol Vòng 31 Laliga 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/c4/46/6c/c2/2b/b6/c46c2-llaligabarcelonavsespanyol1920397fjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/04/2026 23:30 | Barcelona vs Espanyol Vòng 31 Laliga 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=823
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/bc/c8/84/44/4d/df/bc844-limg0557221ejpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 00:00 | Auxerre vs Nantes Vòng 29 Ligue 1 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/bc/c8/84/44/4d/df/bc844-limg0557221ejpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 00:00 | Auxerre vs Nantes Vòng 29 Ligue 1 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=441
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/f6/60/0e/e4/45/5b/f60e4-lsaudialokhdoodvsalnassr19202ff910jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 12/04/2026 00:45 | Al Okhdood vs Al Nassr ROSHN Saudi League 2025/26 Tuần 29
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/f6/60/0e/e4/45/5b/f60e4-lsaudialokhdoodvsalnassr19202ff910jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 12/04/2026 00:45 | Al Okhdood vs Al Nassr ROSHN Saudi League 2025/26 Tuần 29
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=633
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/0c/cb/b5/57/7a/ab/0cb57-llaligasevillavsatlaeffjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 12/04/2026 02:00 | Sevilla vs Atl. Madrid Vòng 31 Laliga 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/0c/cb/b5/57/7a/ab/0cb57-llaligasevillavsatlaeffjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 12/04/2026 02:00 | Sevilla vs Atl. Madrid Vòng 31 Laliga 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=823
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/a9/94/44/47/70/08/a9447-limg0555fb18jpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 02:05 | Rennes vs Angers Vòng 29 Ligue 1 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/a9/94/44/47/70/08/a9447-limg0555fb18jpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 02:05 | Rennes vs Angers Vòng 29 Ligue 1 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=441
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/be/e8/86/66/63/3d/be866-limg0571089bjpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 15:50 | Đồng Tháp vs Trường Tươi Đồng Nai Vòng 14 Hạng Nhất QG 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/be/e8/86/66/63/3d/be866-limg0571089bjpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 15:50 | Đồng Tháp vs Trường Tươi Đồng Nai Vòng 14 Hạng Nhất QG 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/15/59/96/68/81/1b/15968-lu20thailanvsu20hanquoc1920e94djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 12/04/2026 16:00 | U20 Thái Lan vs U20 Hàn Quốc Giải Vô địch U20 Nữ Châu Á 2026
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/15/59/96/68/81/1b/15968-lu20thailanvsu20hanquoc1920e94djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 12/04/2026 16:00 | U20 Thái Lan vs U20 Hàn Quốc Giải Vô địch U20 Nữ Châu Á 2026
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/345x194/68/8f/f8/8a/a5/5d/68f8a-limg0568405ejpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 17:00 | Quảng Ninh vs Bắc Ninh Vòng 14 Hạng Nhất QG 2025/26
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/68/8f/f8/8a/a5/5d/68f8a-limg0568405ejpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 12/04/2026 17:00 | Quảng Ninh vs Bắc Ninh Vòng 14 Hạng Nhất QG 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=267
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/52/2e/ea/ad/d5/55/52ead-l01pacific952bjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 12/04/2026 20:00 | PACIFIC RIM
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/52/2e/ea/ad/d5/55/52ead-l01pacific952bjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 12/04/2026 20:00 | PACIFIC RIM
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/2e/ef/f6/6a/a3/3a/2ef6a-l01tamgioikyduyenaa90jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 13/04/2026 11:00 | Tam Giới Kỳ Duyên
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/2e/ef/f6/6a/a3/3a/2ef6a-l01tamgioikyduyenaa90jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 13/04/2026 11:00 | Tam Giới Kỳ Duyên
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/dd/d8/81/11/10/03/dd811-l01nuthanconglyb43cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 13/04/2026 19:30 | Nữ Thần Công Lý
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/dd/d8/81/11/10/03/dd811-l01nuthanconglyb43cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 13/04/2026 19:30 | Nữ Thần Công Lý
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/e8/8f/fd/d6/65/5e/e8fd6-l01vongxoaytinhthu2ff4jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/04/2026 18:45 | Vòng Xoáy Tình Thù
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/e8/8f/fd/d6/65/5e/e8fd6-l01vongxoaytinhthu2ff4jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/04/2026 18:45 | Vòng Xoáy Tình Thù
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/3e/e4/4c/c4/47/7b/3e4c4-ledgetomorrow10fcfjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 15/04/2026 20:00 | Edge Tomorrow
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/3e/e4/4c/c4/47/7b/3e4c4-ledgetomorrow10fcfjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 15/04/2026 20:00 | Edge Tomorrow
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/11/13/36/61/1b/bd/11361-lmoulinrouge98310jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 15/04/2026 20:00 | Cối Xay Gió Đỏ - Moulin Rouge 
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/11/13/36/61/1b/bd/11361-lmoulinrouge98310jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 15/04/2026 20:00 | Cối Xay Gió Đỏ - Moulin Rouge 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/7a/ac/c4/48/8f/f3/7ac48-lblackbagc718jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 16/04/2026 20:00 | Black Bag 
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/7a/ac/c4/48/8f/f3/7ac48-lblackbagc718jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 16/04/2026 20:00 | Black Bag 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
-#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/345x194/15/52/29/96/62/22/15296-llondoncallingbe8ajpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 18/04/2026 20:00 | London Calling 
+#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/15/52/29/96/62/22/15296-llondoncallingbe8ajpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 18/04/2026 20:00 | London Calling 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=35
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=115
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV Channel", 📺 HTV Thể thao
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV Channel", 📺 HTV Thể thao
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV Channel", 📺 ON Football (HD)
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV Channel", 📺 ON Football (HD)
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV - Phim Tổng hợp
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV - Phim Tổng hợp
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV 22 - SSportT1
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV 22 - SSportT1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=829
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV1
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=769
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV15 - SSportT2
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV15 - SSportT2
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=823
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV17 - Ssport
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV17 - Ssport
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=826
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV2
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV2
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV3
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV3
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=775
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV4
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV4
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=778
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV6
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV6
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=781
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV7
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV7
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=784
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV1 HD
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/c7/77/77/76/6b/b9/c7776-pvtv10hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV10 (HD)
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/c7/77/77/76/6b/b9/c7776-pvtv10hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV10 (HD)
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=212
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 1 HD
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=421
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 2 HD
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 2 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=423
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 3 HD
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 3 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=425
-#EXTINF:-1 tvg-logo="https://s12919.cdn.mytvnet.vn/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
+#EXTINF:-1 tvg-logo="https://s72135.cdn.mytvnet.vn/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-10/04: FC Goa - Odisha FC (IND SL) - LÃO LÂM
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:30-11/04: Loudoun United - Louisville City FC (USLC) - BLV CHIVAS
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/485739.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:30-11/04: Loudoun United - Louisville City FC (USLC) - CHANH MUỐI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/598549.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-11/04: Cerro Largo - Cerro Montevideo (URU D1) - GOAT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/585206.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-11/04: Cerro Largo - Cerro Montevideo (URU D1) - BLV NIBO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/372746.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:00-11/04: Cerro Largo - Cerro Montevideo (URU D1) - BLV LIO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/564362.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:25-11/04: Atlanta Hawks - Cleveland Cavaliers (NBA) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/428392.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:25-11/04: Charlotte Hornets - Detroit Pistons (NBA) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/515530.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 06:30-11/04: Criciuma - Botafogo SP (BRA D2) - BLV GÔN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/445260.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:55-11/04: Boston Celtics - New Orleans Pelicans (NBA) - HUNTER
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/558264.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:00-11/04: Belgrano - Aldosivi Mar del Plata (ARG D1) - BLV LUCAS
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/304148.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:00-11/04: Belgrano - Aldosivi Mar del Plata (ARG D1) - XUÂN SON
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/501412.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:00-11/04: Belgrano - Aldosivi Mar del Plata (ARG D1) - BLV ANH TÀI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/406865.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:00-11/04: O.Higgins - Huachipato (CHI D1) - VỊT BẠC
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/474421.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:00-11/04: O.Higgins - Huachipato (CHI D1) - RABBIT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/596191.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-11/04: San Antonio Spurs - Dallas Mavericks (NBA) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/356042.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-11/04: San Antonio Spurs - Dallas Mavericks (NBA) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/122591.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Puebla - Club Leon (MEX D1) - LÃO LÂM
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/527384.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-10/04: FC Goa - Odisha FC (IND SL) - BLV ĐỐM
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Puebla - Club Leon (MEX D1) - BLV ALEX
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/434982.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-10/04: FC Goa - Odisha FC (IND SL) - BLV VOI
+https://vietanhtv.id.vn/socolive/532081.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Puebla - Club Leon (MEX D1) - BLV COCA
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/552716.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-10/04: FC Goa - Odisha FC (IND SL) - TẠ BIÊN GIỚI
+https://vietanhtv.id.vn/socolive/327159.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Puebla - Club Leon (MEX D1) - BLV CÒ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/118206.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-10/04: FC Goa - Odisha FC (IND SL) - BLV RÔSI
+https://vietanhtv.id.vn/socolive/582342.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Puebla - Club Leon (MEX D1) - GOAT
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/139384.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-10/04: FC Goa - Odisha FC (IND SL) - SAO LA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/462413.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: TPS Turku - Lahti (FIN D1) - DECO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/168740.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: TPS Turku - Lahti (FIN D1) - VENDETTA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/170430.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: TPS Turku - Lahti (FIN D1) - BLV Củ Cải
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/360663.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: TPS Turku - Lahti (FIN D1) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/534219.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: TPS Turku - Lahti (FIN D1) - TAM MAO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/113906.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: TPS Turku - Lahti (FIN D1) - LOGAN
+https://vietanhtv.id.vn/socolive/585206.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Puebla - Club Leon (MEX D1) - LOGAN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/552832.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: Slavia Sofia - Septemvri Sofia (BUL D1) - NGƯỜI THÉP
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Alebrijes de Oaxaca - Club Jaiba Brava (MEX D2) - BLV CHIVAS
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/568233.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-10/04: Slavia Sofia - Septemvri Sofia (BUL D1) - BLV LONG
+https://vietanhtv.id.vn/socolive/485739.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-11/04: Alebrijes de Oaxaca - Club Jaiba Brava (MEX D2) - CHANH MUỐI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/598549.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:05-11/04: Deportivo Pasto - Deportes Tolima (COL D1) - BLV NIBO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/372746.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:05-11/04: Deportivo Pasto - Deportes Tolima (COL D1) - BLV LIO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/564362.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-11/04: Houston Rockets - Minnesota Timberwolves (NBA) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/428392.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-11/04: Sacramento Kings - Golden State Warriors (NBA) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/515530.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-11/04: Sacramento Kings - Golden State Warriors (NBA) - HUNTER
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/558264.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:30-11/04: Los Angeles Lakers - Phoenix Suns (NBA) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/356042.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:30-11/04: Los Angeles Lakers - Phoenix Suns (NBA) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/122591.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:00-11/04: Club Atletico La Paz - Tepatitlan FC (MEX D2) - VỊT BẠC
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/474421.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:00-11/04: Club Atletico La Paz - Tepatitlan FC (MEX D2) - BLV GÔN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/445260.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:06-11/04: FC Juarez - Club Tijuana (MEX D1) - HỘI GYM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/484845.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:06-11/04: FC Juarez - Club Tijuana (MEX D1) - BLV Củ Cải
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/360663.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:06-11/04: FC Juarez - Club Tijuana (MEX D1) - TẠ BIÊN GIỚI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/118206.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:06-11/04: FC Juarez - Club Tijuana (MEX D1) - BLV TOMMY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/414317.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:06-11/04: FC Juarez - Club Tijuana (MEX D1) - BLV TAP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/147801.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 10:06-11/04: FC Juarez - Club Tijuana (MEX D1) - DECO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/168740.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-11/04: JEF United Ichihara Chiba - Mito Hollyhock (JPN D1) - BLV VOI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/552716.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-11/04: JEF United Ichihara Chiba - Mito Hollyhock (JPN D1) - BLV CÒ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/582342.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-11/04: JEF United Ichihara Chiba - Mito Hollyhock (JPN D1) - BLV ROBBEN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/527383.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 11:00-11/04: JEF United Ichihara Chiba - Mito Hollyhock (JPN D1) - BLV ALEX
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/532081.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-11/04: Bay Hawks - Tauranga Whai (NZBL) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/428392.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Machida Zelvia - Kashiwa Reysol (JPN D1) - BLV RÔSI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/139384.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Machida Zelvia - Kashiwa Reysol (JPN D1) - RABBIT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/596191.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Avispa Fukuoka - V-Varen Nagasaki (JPN D1) - XUÂN SON
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/501412.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Avispa Fukuoka - V-Varen Nagasaki (JPN D1) - Giàng A Thổ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/592799.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Sanfrecce Hiroshima - Shimizu S-Pulse (JPN D1) - BLV ANH TÀI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/406865.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Sanfrecce Hiroshima - Shimizu S-Pulse (JPN D1) - BLV VIP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/491873.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Pohang Steelers - Jeju SK FC (KOR D1) - BLV KAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/283501.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: FC Seoul - Jeonbuk Hyundai Motors (KOR D1) - BLV WUKONG
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/511367.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Auckland FC - Melbourne Victory (AUS D1) - BLV COCA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/327159.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Auckland FC - Melbourne Victory (AUS D1) - TẠ BIÊN GIỚI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/118206.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Auckland FC - Melbourne Victory (AUS D1) - THẠCH TÚ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/344370.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Auckland FC - Melbourne Victory (AUS D1) - SAO LA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/462413.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Auckland FC - Melbourne Victory (AUS D1) - BLV PIRLO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/351530.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 12:00-11/04: Auckland FC - Melbourne Victory (AUS D1) - BLV ĐỐM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/434982.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 12:00-11/04: Chunghua Telecom W - Taipower W (WSBL) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/515530.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 12:00-11/04: Chunghua Telecom W - Taipower W (WSBL) - KING
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/168964.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 12:05-11/04: Chiba - Shiga (JB1) - HUNTER
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/558264.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:00-11/04: Yokohama F. Marinos - FC Tokyo (JPN D1) - BLV COZY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/531989.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:00-11/04: Yokohama F. Marinos - FC Tokyo (JPN D1) - Đình Bắc
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/579144.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:00-11/04: Yokohama F. Marinos - FC Tokyo (JPN D1) - BLV VITAMIN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/400722.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:00-11/04: Vissel Kobe - Nagoya Grampus (JPN D1) - BLV MIXI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/290928.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:00-11/04: Vissel Kobe - Nagoya Grampus (JPN D1) - BLV PEWPEW
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/109053.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 13:00-11/04: Vissel Kobe - Nagoya Grampus (JPN D1) - CÔNG CHẤT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/291277.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Gamba Osaka - Cerezo Osaka (JPN D1) - BLV A TÚ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/557845.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Gamba Osaka - Cerezo Osaka (JPN D1) - BLV CÁO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/597929.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Gamba Osaka - Cerezo Osaka (JPN D1) - BLV SATIVA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/321443.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Kyoto Sanga - Fagiano Okayama (JPN D1) - BLV FIREMAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/250874.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Kyoto Sanga - Fagiano Okayama (JPN D1) - BON BON
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/597924.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Kyoto Sanga - Fagiano Okayama (JPN D1) - BLV LION
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/603255.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Newcastle Jets - Adelaide United (AUS D1) - VƯƠNG ANH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/548860.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Newcastle Jets - Adelaide United (AUS D1) - TAM MAO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/113906.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Newcastle Jets - Adelaide United (AUS D1) - BLV TAP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/147801.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Newcastle Jets - Adelaide United (AUS D1) - LÃO LÂM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/527384.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Newcastle Jets - Adelaide United (AUS D1) - VENDETTA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/170430.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-11/04: Newcastle Jets - Adelaide United (AUS D1) - BLV BÉO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/459401.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-11/04: Hana Bank W - Samsung Blue Minx W (WKBL) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/515530.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-11/04: Hana Bank W - Samsung Blue Minx W (WKBL) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/122591.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-11/04: Taiyuan W - Cathay Life W (WSBL) - KING
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/168964.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:30-11/04: Gwangju FC - Bucheon FC 1995 (KOR D1) - QUỐC KHÁNH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/602153.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:30-11/04: Gwangju FC - Bucheon FC 1995 (KOR D1) - BLV A TINH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/598119.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:30-11/04: Incheon United Club - Ulsan HD FC (KOR D1) - BLV RYO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/602019.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:30-11/04: Incheon United Club - Ulsan HD FC (KOR D1) - BLV VIP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/491873.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-11/04: Auckland Tuatara - Franklin Bulls (NZBL) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/356042.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-11/04: Auckland Tuatara - Franklin Bulls (NZBL) - HUNTER
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/558264.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-11/04: Auckland Tuatara - Franklin Bulls (NZBL) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/428392.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-11/04: Borneo FC - PSBS Biak Numfor (IDN D1) - PINKMAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/595715.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-11/04: Borneo FC - PSBS Biak Numfor (IDN D1) - Đình Bắc
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/579144.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-11/04: Borneo FC - PSBS Biak Numfor (IDN D1) - HẢI THANH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/599634.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-11/04: Australia U17 - Brunei U17 (AFF U17) - BLV RAMBO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/534055.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-11/04: Australia U17 - Brunei U17 (AFF U17) - BLV KAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/283501.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 16:00-11/04: Yulon Luxgen Dinos - Taiwan Beer (TPBL) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/122591.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 16:00-11/04: Yulon Luxgen Dinos - Taiwan Beer (TPBL) - KING
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/168964.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-11/04: Johor Darul Ta'zim FC - Terengganu FC (MAS SL) - NGƯỜI CÁ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/595335.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-11/04: Johor Darul Ta'zim FC - Terengganu FC (MAS SL) - LOKA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/589848.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-11/04: Johor Darul Ta'zim FC - Terengganu FC (MAS SL) - BLV LION
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/603255.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-11/04: Western Sydney - Sydney FC (AUS D1) - BLV RÔSI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/139384.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-11/04: Western Sydney - Sydney FC (AUS D1) - CR Bưởi
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/387694.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-11/04: Western Sydney - Sydney FC (AUS D1) - BLV MESSI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/494201.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-11/04: Western Sydney - Sydney FC (AUS D1) - HỘI GYM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/484845.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-11/04: Western Sydney - Sydney FC (AUS D1) - BLV KEM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/513394.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-11/04: Western Sydney - Sydney FC (AUS D1) - BLV ENZO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/380460.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Chongqing Tonglianglong - Wuhan Three Towns (CHA SL) - BLV CÁO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/597929.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Chongqing Tonglianglong - Wuhan Three Towns (CHA SL) - BLV CÒ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/582342.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Qingdao West Coast - Liaoning Tieren (CHA SL) - BLV RYO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/602019.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Qingdao West Coast - Liaoning Tieren (CHA SL) - BLV A TÚ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/557845.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: XM Hai Phong FC - Cong An Ho Chi Minh City (VIE D1) - GOAT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/585206.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: XM Hai Phong FC - Cong An Ho Chi Minh City (VIE D1) - THE KOP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/581585.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: XM Hai Phong FC - Cong An Ho Chi Minh City (VIE D1) - TRÀ ĐÁ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/603914.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Thep Xanh Nam Dinh FC - Hoang Anh Gia Lai (VIE D1) - A PÁO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/235232.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Thep Xanh Nam Dinh FC - Hoang Anh Gia Lai (VIE D1) - BLV ALEX
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/532081.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Thep Xanh Nam Dinh FC - Hoang Anh Gia Lai (VIE D1) - BLV XO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/472241.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Thep Xanh Nam Dinh FC - Hoang Anh Gia Lai (VIE D1) - BLV SATIVA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/321443.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Thep Xanh Nam Dinh FC - Hoang Anh Gia Lai (VIE D1) - BLV MIXI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/290928.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Thep Xanh Nam Dinh FC - Hoang Anh Gia Lai (VIE D1) - BLV PEWPEW
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/109053.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Song Lam Nghe An - SHB Da Nang (VIE D1) - KÉP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/560690.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Song Lam Nghe An - SHB Da Nang (VIE D1) - Đình Bắc
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/579144.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-11/04: Song Lam Nghe An - SHB Da Nang (VIE D1) - BLV A TINH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/598119.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - BLV Củ Cải
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/360663.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - BLV 7UP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/534219.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - BLV TOMMY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/414317.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - BLV TAP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/147801.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - DECO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/168740.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - BLV ĐỐM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/434982.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - BLV COCA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/327159.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - VƯƠNG ANH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/548860.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - THẠCH TÚ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/344370.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - SAO LA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/462413.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - BLV PIRLO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/351530.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Arsenal - Bournemouth AFC (ENG PR) - RICKHANTER
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/123226.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Norwich City - Ipswich Town (ENG LCH) - BLV FIREMAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/250874.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-11/04: Norwich City - Ipswich Town (ENG LCH) - BON BON
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/597924.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-11/04: Henan FC - Shandong Taishan (CHA SL) - BLV NIBO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/372746.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-11/04: Henan FC - Shandong Taishan (CHA SL) - BLV LIO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/564362.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-11/04: Shanghai Shenhua - Shanghai Port (CHA SL) - HẢI THANH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/599634.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-11/04: Shanghai Shenhua - Shanghai Port (CHA SL) - VỊT BẠC
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/474421.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-11/04: Shanghai Shenhua - Shanghai Port (CHA SL) - BLV KAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/283501.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-11/04: Shanghai Shenhua - Shanghai Port (CHA SL) - BLV CHIVAS
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/485739.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 18:35-11/04: Zhejiang Chouzhou - Shandong (CBA) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/356042.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-11/04: Real Sociedad - Deportivo Alavés (SPA D1) - BLV ROBBEN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/527383.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-11/04: Real Sociedad - Deportivo Alavés (SPA D1) - HỘI GYM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/484845.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-11/04: Real Sociedad - Deportivo Alavés (SPA D1) - BLV VOI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/552716.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-11/04: Real Sociedad - Deportivo Alavés (SPA D1) - BLV VITAMIN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/400722.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-11/04: Real Sociedad - Deportivo Alavés (SPA D1) - TAM MAO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/113906.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-11/04: Real Sociedad - Deportivo Alavés (SPA D1) - RABBIT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/596191.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Cagliari - Cremonese (ITA D1) - BLV ANH TÀI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/406865.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Cagliari - Cremonese (ITA D1) - BLV VIP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/491873.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Cagliari - Cremonese (ITA D1) - XUÂN SON
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/501412.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Cagliari - Cremonese (ITA D1) - BLV SATIVA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/321443.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Torino - Hellas Verona (ITA D1) - LOKA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/589848.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Torino - Hellas Verona (ITA D1) - BLV RYO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/602019.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Torino - Hellas Verona (ITA D1) - BLV A TÚ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/557845.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-11/04: Torino - Hellas Verona (ITA D1) - GOAT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/585206.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: Borussia Dortmund - Bayer 04 Leverkusen (GER D1) - VENDETTA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/170430.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: Borussia Dortmund - Bayer 04 Leverkusen (GER D1) - BLV KEM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/513394.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: Borussia Dortmund - Bayer 04 Leverkusen (GER D1) - BLV CÒ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/582342.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: Borussia Dortmund - Bayer 04 Leverkusen (GER D1) - BLV RÔSI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/139384.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: Borussia Dortmund - Bayer 04 Leverkusen (GER D1) - BLV PEWPEW
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/109053.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: Borussia Dortmund - Bayer 04 Leverkusen (GER D1) - CÔNG CHẤT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/291277.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: 1. FC Heidenheim 1846 - 1. FC Union Berlin (GER D1) - PINKMAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/595715.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: 1. FC Heidenheim 1846 - 1. FC Union Berlin (GER D1) - QUỐC KHÁNH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/602153.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: 1. FC Heidenheim 1846 - 1. FC Union Berlin (GER D1) - BLV LONG
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/132343.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: RB Leipzig - Borussia Monchengladbach (GER D1) - BLV RAMBO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/534055.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: RB Leipzig - Borussia Monchengladbach (GER D1) - LOGAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/552832.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: RB Leipzig - Borussia Monchengladbach (GER D1) - NGƯỜI THÉP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/568233.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: RB Leipzig - Borussia Monchengladbach (GER D1) - BLV ENZO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/380460.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: VfL Wolfsburg - Eintracht Frankfurt (GER D1) - BLV WUKONG
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/511367.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: VfL Wolfsburg - Eintracht Frankfurt (GER D1) - THE KOP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/581585.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:30-11/04: VfL Wolfsburg - Eintracht Frankfurt (GER D1) - A PÁO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/235232.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Brentford - Everton (ENG PR) - BLV Củ Cải
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/360663.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Brentford - Everton (ENG PR) - TẠ BIÊN GIỚI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/118206.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Brentford - Everton (ENG PR) - BLV TOMMY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/414317.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Brentford - Everton (ENG PR) - BLV TAP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/147801.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Brentford - Everton (ENG PR) - DECO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/168740.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Brentford - Everton (ENG PR) - BLV ĐỐM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/434982.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Burnley - Brighton Hove Albion (ENG PR) - VƯƠNG ANH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/548860.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Burnley - Brighton Hove Albion (ENG PR) - THẠCH TÚ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/344370.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Burnley - Brighton Hove Albion (ENG PR) - SAO LA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/462413.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Burnley - Brighton Hove Albion (ENG PR) - BLV PIRLO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/351530.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Burnley - Brighton Hove Albion (ENG PR) - RICKHANTER
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/123226.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-11/04: Burnley - Brighton Hove Albion (ENG PR) - BLV COCA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/327159.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:15-11/04: Elche - Valencia CF (SPA D1) - KÉP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/560690.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:15-11/04: Elche - Valencia CF (SPA D1) - NGƯỜI CÁ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/595335.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:15-11/04: Elche - Valencia CF (SPA D1) - MR BÍCH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/285067.m3u8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:15-11/04: Elche - Valencia CF (SPA D1) - TRÀ ĐÁ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vietanhtv.id.vn/socolive/603914.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-11/04: AC Milan - Udinese (ITA D1) - BLV MIXI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/290928.m3u8
