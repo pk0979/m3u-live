@@ -969,9 +969,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/bang-cho-24_1776737265045.jpg" group-title="⭐Sự kiện FPT OTT",21/04 - 11:30 - Bản tin Thể thao 24+ ngày 21/4
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-01
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/21_1776738146909.jpg" group-title="⭐Sự kiện FPT OTT",21/04 - 13:00 - Đấu Trường Danh Vọng Mùa Xuân 2026 - Ngày 21/04
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-06
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/slider_1776740585658.jpg" group-title="⭐Sự kiện FPT OTT",21/04 - 20:30 - Everton - Liverpool: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/69e6eb15ae0133de8ebba36c
 
@@ -1513,8 +1510,40 @@ https://google.com
 
 
 
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://png.pngtree.com/png-vector/20221222/ourmid/pngtree-trendy-geometric-elements-with-upcoming-events-text-png-image_6533184.png", Không có sự kiện
-http://pk79.io.vn/tv360/
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/18/1776685639984/f609f47821d7_640_360.jpg", 21/04-20:30 | WORLD SNOOKER CHAMPIONSHIP 2026 NGÀY 4 _PHẦN 2 ON SPORTS
+http://pk79.io.vn/tv360/play360.php?id=onsports1
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/14/1776671733137/5bb887f4625b_640_360.jpg", 21/04-23:10 | Machida Zelvia vs Shabab Al Ahli TV360+5 21.4
+http://pk79.io.vn/tv360/play360.php?id=sk5
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/11/1776746305193/19a531ed0337_640_360.jpg", 22/04-00:00 | MALLORCA VS VALENCIA ON SPORTS
+http://pk79.io.vn/tv360/play360.php?id=onsports1
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/11/1776746127928/01a7bd3a9d52_640_360.jpg", 22/04-00:00 | ATHLETIC BILBAO VS OSASUNA ON FOOTBALL
+http://pk79.io.vn/tv360/play360.php?id=onsports
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/11/1776746437389/6b1caf04ade4_640_360.jpg", 22/04-02:30 | REAL MADRID VS ALAVES ON FOOTBALL
+http://pk79.io.vn/tv360/play360.php?id=onsports
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/11/1776746762242/819d1903571e_640_360.jpg", 22/04-02:30 | GIRONA VS REAL BETIS ON SPORTS
+http://pk79.io.vn/tv360/play360.php?id=onsports1
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/18/1776682931220/c0b349a9581a_640_360.jpg", 22/04-07:00 | Phường Phan Thiết (Lâm Đồng) – Phường Vũng Tàu (Thành phố Hồ Chí Minh) HTV9
+http://pk79.io.vn/tv360/play.php?id=194
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/09/1776651993197/dbb4e0bf38b6_640_360.jpg", 22/04-15:25 | Lào vs Malaysia
+http://pk79.io.vn/tv360/play360.php?id=sk11
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/18/177668590458/e398cd590942_640_360.jpg", 22/04-16:00 | WORLD SNOOKER CHAMPIONSHIP 202 NGÀY 5 _PHẦN 1
+http://pk79.io.vn/tv360/play360.php?id=onsports1
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/18/1776684639200/48f99df80e62_640_360.jpg", 22/04-16:00 | ATP TOUR 1000 MADRID OPEN 2026 NGÀY 1
+http://pk79.io.vn/tv360/play360.php?id=onsportnews
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/09/177665247592/92fa3d8ecc90_640_360.jpg", 22/04-19:25 | Việt Nam vs Australia
+http://pk79.io.vn/tv360/play360.php?id=sk11
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/20/18/1776684929120/1c983f9923b8_640_360.jpg", 22/04-20:30 | WORLD SNOOKER CHAMPIONSHIP 2026 NGÀY 5 PHẦN 2 ON SPORTS
+http://pk79.io.vn/tv360/play360.php?id=onsports1
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/09/1776738856528/9c64e722cba0_640_360.png", 22/04-22:55 | Al Nassr vs Al Ahli SC TV360+6 22.4
+http://pk79.io.vn/tv360/play360.php?id=sk6
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/16/1776765389540/66adea4f0e98_640_360.jpg", 23/04-11:25 | Volvo China Open 2026 _DP World Tour Ngày 1_23.4 TV360+ 8
+http://pk79.io.vn/tv360/play360.php?id=sk8
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/17/1776765745374/429a9a8e88bd_640_360.jpg", 24/04-11:25 | Volvo China Open 2026 _DP World Tour Ngày 2_24.4 TV360+ 8
+http://pk79.io.vn/tv360/play360.php?id=sk8
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/17/1776765806525/9a908d537142_640_360.jpg", 25/04-11:25 | Volvo China Open 2026 _DP World Tour Ngày 3_25.4 TV360+ 8
+http://pk79.io.vn/tv360/play360.php?id=sk8
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/21/17/1776765856881/0b7bdac02039_640_360.jpg", 26/04-11:25 | Volvo China Open 2026 _DP World Tour Ngày 4_26.4 TV360+ 8
+http://pk79.io.vn/tv360/play360.php?id=sk8
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-21/04: Famalicao U23 - Torreense U23 (POR LRU23) - BLV RAMBO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
