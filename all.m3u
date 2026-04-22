@@ -2255,8 +2255,6 @@ https://vietanhtv.id.vn/socolive/109053.m3u8
 
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="", 🔴 22/04-19:30 | U17 Đông Nam Á |  U17 Việt Nam  vs U17 Australia | BLV Thần Thông
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1e/AFC_Challenge_League_logo.svg/1269px-AFC_Challenge_League_logo.svg.png", 🔴 22/04-21:00 | AFC Challenge League | Muras United vs Al Kuwait | BLV Táo Mèo
-https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/278.png", 🟢 22/04-22:15 | Super League | Buxoro vs Pakhtakor | BLV Táo Tàu
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png", 🟢 22/04-23:45 | Premier League | Lokomotiv vs Zenit | BLV Táo Thiên Vương
@@ -3160,6 +3158,54 @@ http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg", Thái Nguyên
 http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png!w80" group-title="ColaTV",[21:00 22/04] Câu lạc bộ Muras United vs Al Kuwait - BLV BLV REVIVE (L1) Giải :AFC Giải thách Liên đoàn
+https://live5.msrktz.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d09477b5ca8fcc88dc8d7d5249d08983.png!w80" group-title="ColaTV",[21:00 22/04] Câu lạc bộ Muras United vs Al Kuwait - BLV BLV REVIVE (L2) Giải :AFC Giải thách Liên đoàn
+https://live5.msrktz.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 23/04] Bournemouth vs Leeds - BLV BLV 247 (L1) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/90865415.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 23/04] Bournemouth vs Leeds - BLV BLV 247 (L2) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 23/04] Bournemouth vs Leeds - BLV BLV HỔ VẰN (L1) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/07428422.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 23/04] Bournemouth vs Leeds - BLV BLV HỔ VẰN (L2) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/07428422.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 23/04] Bournemouth vs Leeds - BLV BLV  KHÔNG ĐỘ (L1) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/41943555.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[02:00 23/04] Bournemouth vs Leeds - BLV BLV  KHÔNG ĐỘ (L2) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/41943555.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV",[08:30 23/04] Oklahoma City Thunder vs Phoenix suns - BLV BLV ROCKSTAR (L1) Giải :Hiệp hội Bóng rổ Quốc gia
+https://live5.msrktz.app/live/82054853.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png!w80" group-title="ColaTV",[08:30 23/04] Oklahoma City Thunder vs Phoenix suns - BLV BLV ROCKSTAR (L2) Giải :Hiệp hội Bóng rổ Quốc gia
+https://live5.msrktz.app/live/82054853.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80" group-title="ColaTV",[09:30 23/04] San Jose Earthquakes vs Austin FC - BLV BLV AQUA (L1) Giải :Major League Soccer
+https://live5.msrktz.app/live/18812304.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80" group-title="ColaTV",[09:30 23/04] San Jose Earthquakes vs Austin FC - BLV BLV AQUA (L2) Giải :Major League Soccer
+https://live5.msrktz.app/live/18812304.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df788219029240c7d067b3e9c69cc56e.png!w80" group-title="ColaTV",[22:45 23/04] Samsunspor vs Trabzonspor - BLV BLV STING (L1) Giải :Cúp Thổ Nhĩ Kỳ
+https://live5.msrktz.app/live/14707124.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/df788219029240c7d067b3e9c69cc56e.png!w80" group-title="ColaTV",[22:45 23/04] Samsunspor vs Trabzonspor - BLV BLV STING (L2) Giải :Cúp Thổ Nhĩ Kỳ
+https://live5.msrktz.app/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/1027723af57b4762a68aa269dc07b86b.png!w80" group-title="ColaTV",[09:00 24/04] Alajuelense vs Puntarenas - BLV BLV DR THANH (L1) Giải :Giải vô địch Costa Rica
+https://live5.msrktz.app/live/79665343.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/1027723af57b4762a68aa269dc07b86b.png!w80" group-title="ColaTV",[09:00 24/04] Alajuelense vs Puntarenas - BLV BLV DR THANH (L2) Giải :Giải vô địch Costa Rica
+https://live5.msrktz.app/live/79665343.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/76722a157176d354a952c671bb46cc7e.png!w80" group-title="ColaTV",[16:35 24/04] Macarthur vs Wellington Phoenix - BLV BLV DR THANH (L1) Giải :Giải vô địch quốc gia Úc
+https://live5.msrktz.app/live/79665343.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/76722a157176d354a952c671bb46cc7e.png!w80" group-title="ColaTV",[16:35 24/04] Macarthur vs Wellington Phoenix - BLV BLV DR THANH (L2) Giải :Giải vô địch quốc gia Úc
+https://live5.msrktz.app/live/79665343.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/76722a157176d354a952c671bb46cc7e.png!w80" group-title="ColaTV",[16:35 24/04] Macarthur vs Wellington Phoenix - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch quốc gia Úc
+https://live5.msrktz.app/live/14830711.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/76722a157176d354a952c671bb46cc7e.png!w80" group-title="ColaTV",[16:35 24/04] Macarthur vs Wellington Phoenix - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch quốc gia Úc
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png!w80" group-title="ColaTV",[18:30 24/04] North East Utd vs Goa - BLV BLV STING (L1) Giải :Vô địch bóng đá Ấn Độ
+https://live5.msrktz.app/live/14707124.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png!w80" group-title="ColaTV",[18:30 24/04] North East Utd vs Goa - BLV BLV STING (L2) Giải :Vô địch bóng đá Ấn Độ
+https://live5.msrktz.app/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/568f4b544f3d286be88ecffebb132726.png!w80" group-title="ColaTV",[19:00 24/04] Sukhothai vs Ratchaburi - BLV BLV REDBULL (L1) Giải :Thái League 1
+https://live5.msrktz.app/live/68848594.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/568f4b544f3d286be88ecffebb132726.png!w80" group-title="ColaTV",[19:00 24/04] Sukhothai vs Ratchaburi - BLV BLV REDBULL (L2) Giải :Thái League 1
+https://live5.msrktz.app/live/68848594.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
