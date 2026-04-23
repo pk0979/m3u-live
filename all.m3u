@@ -401,7 +401,7 @@ https://live5.msrktz.app/live/08552895.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w80", 🕒 25/04-20:30 | Giải bóng đá vô địch quốc gia Đức | FC Augsburg vs Eintracht Frankfurt | BLV RỒNG ĐỎ
 https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Malut_United_Football_Club.png", 23/04/2026 19:00 | Liga 1 | Malut United vs Persebaya Surabaya | BLV PHAN LÂM
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Malut_United_Football_Club.png", 🔴 23/04/2026 19:00 | Liga 1 | Malut United vs Persebaya Surabaya | BLV PHAN LÂM
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/599.png", 23/04/2026 19:30 | VĐQG Ukraine | Zorya Luhansk vs Shakhtar Donetsk | BLV CỦ HÀNH
 https://google.com.vn
@@ -1027,6 +1027,12 @@ http://phuockhai.giize.com:1979/fpt_replay/69e98111888d0d9f9e1f82d7
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/23/live-nba-regular-season-2025-26-slide-thumb_1776910181359.jpg" group-title="⭐Sự kiện FPT OTT",23/04 - 18:00 - Orlando Magic - Detroit Pistons: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/69e9f05cf83cdf5cb5f0ef95
 
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/23/slider-live_1776926083604.jpg" group-title="⭐Sự kiện FPT OTT",23/04 - 19:30 - Thế giới Ngoại hạng ngày 23/4
+http://phuockhai.giize.com:1979/fpt_replay/69ea01fe4b2f5c2962fb5d54
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/23/live-nba-regular-season-2025-26-slide-thumb_1776910215631.jpg" group-title="⭐Sự kiện FPT OTT",23/04 - 20:00 - Phoenix Suns - Oklahoma City Thunder: Phát lại
+http://phuockhai.giize.com:1979/fpt_replay/69e9f332b71b0e0590ef83e9
+
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/23/slider_1776910100716.jpg" group-title="⭐Sự kiện FPT OTT",23/04 - 20:30 - Burnley - Manchester City: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/69e98116aa0b3c1fbae3a013
 
@@ -1119,9 +1125,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=event-10
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/26_1776753754086.jpg" group-title="⭐Sự kiện FPT OTT",26/04 - 16:00 - LCP 2026 Split 2 - Ngày 26/04
 http://phuockhai.giize.com:1979/fpt/play1.php?id=event-01
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/21/bc26_1776787159552.jpg" group-title="⭐Sự kiện FPT OTT",26/04 - 16:00 - LPL 2026 Split 2 - Ngày 26/04
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-06
 
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1695973_small.png",16:30 - 23.04 | Bangladesh Champions League | Dhaka Wanderers vs MSPCC City Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
