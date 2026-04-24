@@ -1381,11 +1381,11 @@ https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8350_small.png",🔴 23:30 - 24.04 | Hạng 2 Đức | Kaiserslautern vs Eintracht Braunschweig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1933_small.png",00:00 - 25.04 | VĐQG  Thổ Nhĩ Kỳ | Başakşehir vs Kasımpaşa
+https://edgemaxcdn-1.bongco50.xyz/live/oppo-hd/playlist.m3u8
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1933_small.png",🔴 00:00 - 25.04 | VĐQG  Thổ Nhĩ Kỳ | Başakşehir vs Kasımpaşa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/hanh-hd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",01:30 - 25.04 | Bundesliga | RB Leipzig vs Union Berlin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -3811,6 +3811,10 @@ https://live5.msrktz.app/live/79665343.m3u8
 https://live5.msrktz.app/live/08552895.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 26/04] Hồng Lĩnh Hà Tĩnh vs Thành phố Hồ Chí Minh - BLV BLV C2 (L2) Giải :Giải vô địch quốc gia Việt Nam
 https://live5.msrktz.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 26/04] SHB Đà Nẵng vs Thể Công - Viettel - BLV BLV SPRITE (L1) Giải :Giải vô địch quốc gia Việt Nam
+https://live5.msrktz.app/live/90725470.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png!w80" group-title="ColaTV",[18:00 26/04] SHB Đà Nẵng vs Thể Công - Viettel - BLV BLV SPRITE (L2) Giải :Giải vô địch quốc gia Việt Nam
+https://live5.msrktz.app/live/90725470.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
