@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Logo_PSBS_Biak_baru.png", 🔴 28/04-19:00 | psbs-biak-numfor-vs-malut-united._Xbk1ntJYi | BLV Chiến Ca
-https://xclive.zlylive.com/live/xctv_blv_chienca/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/21038.png", 🔴 28/04-20:00 | melaka-vs-johor-darul-takzim-fc.Jh4booULlM | BLV Thợ Lặn
 https://xclive.zlylive.com/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/68403.png?lm=1534340702", 🔴 28/04-21:00 | estoril-u23-vs-gil-vicente-u23.pF0osi5Dhm | BLV Văn Tích
@@ -499,9 +497,6 @@ https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2977.png", 30/04/2026 23:00 | Pro League | Al Okhdood vs Al-Ettifaq | BLV LƯƠNG BỔNG
 https://google.com.vn
 
-#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/2fef1c9b780115b42caf9130b6a79083/image/small?v=1768601124", 🔴 ⭐ BLV NÚI | 28/04-19:00 | Indonesian Super League | PSBS Biak Numfor - Malut United
-#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
-https://pull-kda.fastestcdn-global.com/live/95429ff470424fc9bfdb3491331edb95/index.m3u8
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/f61a8bc60030a0c74f449dfc3d107f1e/image/small?v=1768601124", 🔴 ⭐ BLV BỆU | 28/04-20:00 | Malaysian Super League | Melaka FC - Johor Darul Ta'zim FC
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/3cb1870f4af14c44bc46ec747be14644/index.m3u8
@@ -568,6 +563,15 @@ https://pull-kda.fastestcdn-global.com/live/1c0b1b79d89f4ecca54ab7c5e0b8f45f/ind
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/a107a6e9814c176aa23f06faf6e72808/image/small?v=1768601124", ⭐ BLV SIÊU GÁY | 30/04-19:00 | Indonesian Super League | Bhayangkara Presisi Indonesia FC - Persib Bandung
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/5cc0486a592f488c8557a9e0978fa652/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/4a88903ab27f7e3740d6805e0c3d2825/image/small?v=1768601124", ⭐ BLV MÂY | 30/04-20:00 | Uzbekistan Pro League | Metallurg Bekobod - Olympic MobiUz
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/807ce16d044043c8b6e158e8b165b2f3/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/a7f97d8f9ad2be9d97c000923f56c7e2/image/small?v=1768601124", ⭐ BLV SIÊU PHÀM | 30/04-22:00 | Kazakhstan Cup | FK Aktobe Lento - FK Yelimay Semey
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/a3dd9c2abbaf4bd685d1c7b3e8f65762/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/546db0bbb7d0fea00c5b83b89b9f56d1/image/small?v=1768601124", ⭐ BLV BỆU | 30/04-23:00 | Saudi Professional League | Al Okhdood - Al Ettifaq FC
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/73337dad47914c68a33ea860791fb660/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
@@ -731,7 +735,78 @@ http://pk79.io.vn/luongson/play.php?id=467367920
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F246_164871185439.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F80_1jp21wwwae1x.png", 29/04-02:00 | Bayern Munchen vs Paris Saint Germain (PSG) | BLV LEO
 http://pk79.io.vn/luongson/play.php?id=fb30b993-4524-4d9f-adfd-3190f712c300
 
-
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano không lời cho những đêm an nhiên
+http://pk79.io.vn/myclip/play.php?id=12244153
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | An Phận - Dương Hồng Loan
+http://pk79.io.vn/myclip/play.php?id=11984854
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bốn Mùa Cha Mẹ_Sơn Hạ.
+http://pk79.io.vn/myclip/play.php?id=12043222
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano nhẹ nhàng cho khoảnh khắc tĩnh tâm
+http://pk79.io.vn/myclip/play.php?id=12241651
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Biết Em Đã Thất Vọng Ra Sao (Beat)_Ki An
+http://pk79.io.vn/myclip/play.php?id=11874161
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhìn Thấy Gió - Trương Mộng Quỳnh.
+http://pk79.io.vn/myclip/play.php?id=11689622
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn piano sâu lắng cho phút giây tĩnh tâm
+http://pk79.io.vn/myclip/play.php?id=12246718
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Kém Trí Nhớ - Hamlet Trương
+http://pk79.io.vn/myclip/play.php?id=11674562
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hương Tình Phai - Nhật Phong Lãng
+http://pk79.io.vn/myclip/play.php?id=11674550
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời từ phím đàn piano cho không gian yên bình
+http://pk79.io.vn/myclip/play.php?id=12241630
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tình Cũ Tình Mới (Remix) - Cao Sỹ Hùng
+http://pk79.io.vn/myclip/play.php?id=11984929
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chót Lưỡi Đầu Môi_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11930887
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn nhạc dương cầm không lời cho không gian chill
+http://pk79.io.vn/myclip/play.php?id=12244219
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Phố Đêm - Nguyễn Hiền.
+http://pk79.io.vn/myclip/play.php?id=11689688
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Út_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930893
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn dương cầm mang đến cảm giác bình yên
+http://pk79.io.vn/myclip/play.php?id=12241696
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhìn Người Đi (Lofi Ver)_Quốc Cường
+http://pk79.io.vn/myclip/play.php?id=11755979
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Calorie_Trương Mộng Quỳnh
+http://pk79.io.vn/myclip/play.php?id=11755988
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano không lời cho buổi tối bình lặng
+http://pk79.io.vn/myclip/play.php?id=12241642
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Cô Vợ Đa Nghi_Yến Ly
+http://pk79.io.vn/myclip/play.php?id=11930944
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tôi Chưa Vợ_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930965
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn chậm rãi cho tâm trạng thư thái
+http://pk79.io.vn/myclip/play.php?id=12244204
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bông Ô Môi - Dương Hồng Loan Ft Dương Ngọc Thái
+http://pk79.io.vn/myclip/play.php?id=11984866
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Chị Hai Lúa_Hiền Ngân ft Văn Hương
+http://pk79.io.vn/myclip/play.php?id=11815208
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm nhẹ nhàng cho buổi tối cuối tuần
+http://pk79.io.vn/myclip/play.php?id=12241678
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mình sinh ra đâu phải để buồn_Hamlet Trương
+http://pk79.io.vn/myclip/play.php?id=11815175
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Đường Mang Tên Em_Mai Tuấn - Đoàn Minh
+http://pk79.io.vn/myclip/play.php?id=11874185
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano không lời cho buổi tối dịu nhẹ
+http://pk79.io.vn/myclip/play.php?id=12246766
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Để Mất Đi Mới Hối Tiếc_Dương Nhất Linh
+http://pk79.io.vn/myclip/play.php?id=12081328
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Căn Phòng Nước Mắt_Hamlet Trương
+http://pk79.io.vn/myclip/play.php?id=11815139
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano không lời cho buổi tối bình lặng
+http://pk79.io.vn/myclip/play.php?id=12241642
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ván Đã Đóng Thuyền_Đình Nguyễn
+http://pk79.io.vn/myclip/play.php?id=11815196
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hành Trình Trên Đất Phù Sa - Văn Hương
+http://pk79.io.vn/myclip/play.php?id=11674538
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc piano dịu dàng cho những phút tĩnh tâm
+http://pk79.io.vn/myclip/play.php?id=12241714
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Càng Đau Càng Trưởng Thành_Thiên Trường
+http://pk79.io.vn/myclip/play.php?id=12081406
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Duyên Trời Phận Ta_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11755925
 
 #EXTINF:0 group-title="plus1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1 HD
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=210
@@ -1466,87 +1541,87 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/33/35/5f/f2/22/2c/335f2-lrobinhoodba102jpg-content-mytv.JPG" group-title="MyTV Event", 🔴 28/04/2026 20:00 | Robin Hood
+#EXTINF:-1 tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/33/35/5f/f2/22/2c/335f2-lrobinhoodba102jpg-content-mytv.JPG" group-title="MyTV Event", 🔴 28/04/2026 20:00 | Robin Hood
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
-#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/4f/fa/aa/a5/5b/bc/4faa5-l01giotnuocmathanthue23ajpg-content-mytv.jpg" group-title="MyTV Event", 🔴 28/04/2026 21:00 | Giọt Nước Mắt Hận Thù               
+#EXTINF:-1 tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/4f/fa/aa/a5/5b/bc/4faa5-l01giotnuocmathanthue23ajpg-content-mytv.jpg" group-title="MyTV Event", 🔴 28/04/2026 21:00 | Giọt Nước Mắt Hận Thù               
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=198
-#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/7f/fe/ec/c5/5b/b4/7fec5-lconduongrucluace10cjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 28/04/2026 21:00 | Con Đường Rực Lửa     
+#EXTINF:-1 tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/7f/fe/ec/c5/5b/b4/7fec5-lconduongrucluace10cjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 28/04/2026 21:00 | Con Đường Rực Lửa     
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=197
-#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/7c/cc/c7/77/76/6e/7cc77-l01chungtuthamlang5c75jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 28/04/2026 22:00 | Chứng Từ Thầm Lặng               
+#EXTINF:-1 tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/7c/cc/c7/77/76/6e/7cc77-l01chungtuthamlang5c75jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 28/04/2026 22:00 | Chứng Từ Thầm Lặng               
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=201
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/4d/d2/25/55/58/8c/4d255-lsaudialhilalvsdamac19200e67jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 29/04/2026 00:45 | Al Hilal vs Damac ROSHN Saudi League 2025/26 Tuần 30
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/4d/d2/25/55/58/8c/4d255-lsaudialhilalvsdamac19200e67jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 29/04/2026 00:45 | Al Hilal vs Damac ROSHN Saudi League 2025/26 Tuần 30
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=632
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/a9/9e/e8/8a/a5/55/a9e8a-limg068051f3jpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 29/04/2026 01:55 | PSG vs Bayern Munich Bán kết lượt đi UEFA Champions League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/a9/9e/e8/8a/a5/55/a9e8a-limg068051f3jpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 29/04/2026 01:55 | PSG vs Bayern Munich Bán kết lượt đi UEFA Champions League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
-#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/b3/36/69/9e/ee/ed/b369e-ldeepimpact7117jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 29/04/2026 11:40 | Deep Impact 
+#EXTINF:-1 tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/b3/36/69/9e/ee/ed/b369e-ldeepimpact7117jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 29/04/2026 11:40 | Deep Impact 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
-#EXTINF:-1 tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/345x194/d5/5c/cb/be/e6/62/d5cbe-ltheshawshankredemptionnewas111bjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 29/04/2026 20:00 | The Shawshank Redemption
+#EXTINF:-1 tvg-logo="https://s12920.cdn.mytvnet.vn/vimages/345x194/d5/5c/cb/be/e6/62/d5cbe-ltheshawshankredemptionnewas111bjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 29/04/2026 20:00 | The Shawshank Redemption
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/21/13/31/1d/da/ac/2131d-lsaudialtaawounvsalittihad1920fe04jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 29/04/2026 22:55 | Al Taawoun vs Al Ittihad ROSHN Saudi League 2025/26 Tuần 30
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/21/13/31/1d/da/ac/2131d-lsaudialtaawounvsalittihad1920fe04jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 29/04/2026 22:55 | Al Taawoun vs Al Ittihad ROSHN Saudi League 2025/26 Tuần 30
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=633
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/fb/b9/9a/a0/08/8a/fb9a0-lsaudialnassrvsalahli1920e939jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 30/04/2026 00:45 | Al Nassr vs Al Ahli ROSHN Saudi League 2025/26 Tuần 30
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/fb/b9/9a/a0/08/8a/fb9a0-lsaudialnassrvsalahli1920e939jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 30/04/2026 00:45 | Al Nassr vs Al Ahli ROSHN Saudi League 2025/26 Tuần 30
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=632
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/a4/45/52/2f/f4/43/a452f-limg06794958jpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 30/04/2026 01:55 | Atl. Madrid vs Arsenal Bán kết lượt đi UEFA Champions League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/a4/45/52/2f/f4/43/a452f-limg06794958jpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 30/04/2026 01:55 | Atl. Madrid vs Arsenal Bán kết lượt đi UEFA Champions League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/e3/34/47/72/27/7b/e3472-lconferenceleaguevallecanovsstrasbourg1920b10a9jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Rayo Vallecano vs Strasbourg Bán kết lượt đi UEFA Conference League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/e3/34/47/72/27/7b/e3472-lconferenceleaguevallecanovsstrasbourg1920b10a9jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Rayo Vallecano vs Strasbourg Bán kết lượt đi UEFA Conference League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=203
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/0b/b7/7c/c4/4c/c9/0b7c4-lcupc2bragavsfreiburg1920473djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Braga vs Freiburg Bán kết lượt đi UEFA Europa League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/0b/b7/7c/c4/4c/c9/0b7c4-lcupc2bragavsfreiburg1920473djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Braga vs Freiburg Bán kết lượt đi UEFA Europa League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=441
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/5a/a7/7f/f8/87/7c/5a7f8-lconferenceleaguedonetskvscrystalpalace1920dc1djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Shakhtar Donetsk vs Crystal Palace Bán kết lượt đi UEFA Conference League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/5a/a7/7f/f8/87/7c/5a7f8-lconferenceleaguedonetskvscrystalpalace1920dc1djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Shakhtar Donetsk vs Crystal Palace Bán kết lượt đi UEFA Conference League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=200
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/0a/a3/35/59/92/26/0a359-lcupc2nottinghamvsastonvilla19206dc3jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Nottingham vs Aston Villa Bán kết lượt đi UEFA Europa League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/0a/a3/35/59/92/26/0a359-lcupc2nottinghamvsastonvilla19206dc3jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 01:55 | Nottingham vs Aston Villa Bán kết lượt đi UEFA Europa League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/e8/80/0c/c6/62/2d/e80c6-lvleaguethepxanhnamdinhvscongantphochiminh192089107-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 18:00 | Thép Xanh Nam Định vs Công an TP. Hồ Chí Minh Vòng 20 V.League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/e8/80/0c/c6/62/2d/e80c6-lvleaguethepxanhnamdinhvscongantphochiminh192089107-content-mytv.jpg" group-title="MyTV Event", ⏰ 01/05/2026 18:00 | Thép Xanh Nam Định vs Công an TP. Hồ Chí Minh Vòng 20 V.League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=615
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/29/9b/b5/54/46/6a/29b54-lbongbantrungquocvsrumani192019f3jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 16:00 | Giải bóng bàn đồng đội VĐTG 2026 Trung Quốc vs Rumani_ Đồng đội nữ
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/29/9b/b5/54/46/6a/29b54-lbongbantrungquocvsrumani192019f3jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 16:00 | Giải bóng bàn đồng đội VĐTG 2026 Trung Quốc vs Rumani_ Đồng đội nữ
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=633
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/27/7b/b9/94/4f/ff/27b94-lvleaguehaiphongvscahanoi192049c8jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:00 | Hải Phòng vs Công an Hà Nội Vòng 20 V.League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/27/7b/b9/94/4f/ff/27b94-lvleaguehaiphongvscahanoi192049c8jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:00 | Hải Phòng vs Công an Hà Nội Vòng 20 V.League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=267
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/26/68/84/4d/da/af/2684d-lvleaguepvfcandvshonglinhhatinh19208bb6jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:00 | PVF-CAND vs Hồng Lĩnh Hà Tĩnh Vòng 20 V.League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/26/68/84/4d/da/af/2684d-lvleaguepvfcandvshonglinhhatinh19208bb6jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:00 | PVF-CAND vs Hồng Lĩnh Hà Tĩnh Vòng 20 V.League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=459
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/de/ec/cf/f2/2d/d3/decf2-lvleaguebecamextphochiminhvsdongathanhhoa1920b0e9jp-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:00 | Becamex TP. Hồ Chí Minh vs Đông Á Thanh Hóa Vòng 20 V.League 2025/26
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/de/ec/cf/f2/2d/d3/decf2-lvleaguebecamextphochiminhvsdongathanhhoa1920b0e9jp-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:00 | Becamex TP. Hồ Chí Minh vs Đông Á Thanh Hóa Vòng 20 V.League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/345x194/2e/ee/ea/aa/ab/b0/2eeaa-lbongbantrungquocvsanh19207670jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:30 | Giải bóng bàn đồng đội VĐTG 2026 Trung Quốc vs Anh _Đồng đội nam
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/345x194/2e/ee/ea/aa/ab/b0/2eeaa-lbongbantrungquocvsanh19207670jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 02/05/2026 18:30 | Giải bóng bàn đồng đội VĐTG 2026 Trung Quốc vs Anh _Đồng đội nam
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=633
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=35
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=115
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV Channel", 📺 HTV Thể thao
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV Channel", 📺 HTV Thể thao
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV Channel", 📺 ON Football (HD)
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV Channel", 📺 ON Football (HD)
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV - Phim Tổng hợp
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV - Phim Tổng hợp
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV 22 - SSportT1
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV 22 - SSportT1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=829
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV1
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/52/20/05/5a/aa/ad/5205a-psctv1knhhi-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=769
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV15 - SSportT2
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV15 - SSportT2
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=823
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV17 - Ssport
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV17 - Ssport
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=826
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV2
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/28/84/49/9f/f6/68/2849f-psctv2amc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV2
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV3
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/28/86/68/8c/c8/8d/2868c-psctv3seetv-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV3
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=775
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV4
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/d5/53/34/4b/b2/2a/d534b-psctv4tnghplestviet-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV4
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=778
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV6
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/32/27/7b/b4/41/12/327b4-psctv6sngnhc-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV6
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=781
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV7
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV7
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=784
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV1 HD
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/c7/77/77/76/6b/b9/c7776-pvtv10hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV10 (HD)
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/c7/77/77/76/6b/b9/c7776-pvtv10hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV10 (HD)
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=212
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 1 HD
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=421
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 2 HD
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 2 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=423
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 3 HD
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 3 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=425
-#EXTINF:-1 tvg-logo="https://s129144.cdn.mytvnet.vn/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
+#EXTINF:-1 tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/24/19/1777033084649/2ac7892e8ff1_640_360.jpg", 28/04-16:00 | ATP TOUR 1000 MADRID OPEN 2026 NGÀY 7 - PHẦN 1 ON SPORTS 28.4
@@ -2821,11 +2896,7 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/4232.png", 🏁 28/04-19:00 | Liga 1 | PSBS Biak Numfor vs Malut United | tieuhac
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/21038.png", 🔴 28/04-20:00 | Super League | Melaka vs Johor Darul Takzim FC | blvtieubao
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/21038.png", 🏁 28/04-20:00 | Super League | Melaka vs Johor Darul Takzim FC | blvtieubao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.zlylive.com/live/bgtv_blv_tieubao/playlist.m3u8
