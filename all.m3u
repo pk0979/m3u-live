@@ -1103,11 +1103,17 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/live-nba-regular-season-2025-26-slide-thumb_1777436088804.jpg" group-title="⭐Sự kiện FPT OTT",30/04 - 09:00 - Houston Rockets - Los Angeles Lakers
+http://phuockhai.giize.com:1979/fpt/play1.php?id=nba-hn-01
+
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/live-maekyung-open-2026---asian-tour-2026-slider-thumb_1777450032494.jpg" group-title="⭐Sự kiện FPT OTT",30/04 - 11:00 - Maekyung Open 2026 - Vòng 1
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-29
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/30/slider_1777504479050.jpg" group-title="⭐Sự kiện FPT OTT",30/04 - 11:00 - Đông Á Thanh Hóa - PVF-CAND: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/69f29393b5f493bf9ec6ac8d
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/30/12222-42_1777515948498.jpg" group-title="⭐Sự kiện FPT OTT",30/04 - 11:30 - Bản tin Thể thao 24+ ngày 30/4
+http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-01
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/27/live-volvo-china-open-2026---dp-world-tour-2026-slider-thumb_1777256928126.jpg" group-title="⭐Sự kiện FPT OTT",30/04 - 15:00 - China Open 2026 vòng 4: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/69eecacff83cdf5cb5f0f4ef
@@ -1216,12 +1222,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-38
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/slider_1777451026463.jpg" group-title="⭐Sự kiện FPT OTT",03/05 - 20:50 - Manchester United - Liverpool
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-09-bk
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/slider_1777451330238.jpg" group-title="⭐Sự kiện FPT OTT",03/05 - 21:10 - Manchester United - Liverpool: Fan cứng The Kop
-http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-05-4k-bk
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/slider_1777451473093.jpg" group-title="⭐Sự kiện FPT OTT",03/05 - 21:10 - Manchester United - Liverpool: Fan cứng Red Devils
-http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hcm-05-4k-bk
 
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/585850_small.png",15:30 - 30.04 | VĐQG Indonesia | PSIM Yogyakarta vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
