@@ -522,9 +522,9 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg", 03/05/2026 19:15 | V.League 1 | Viettel vs Phu Dong | BLV PHAN TỪ
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg", 03/05/2026 20:00 | Serie A | Sassuolo vs AC Milan | BLV PHAN MÃO
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png", 03/05/2026 20:00 | Premier League | Bournemouth vs Crystal Palace | BLV LƯƠNG BỔNG
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg", 03/05/2026 20:00 | Serie A | Sassuolo vs AC Milan | BLV PHAN MÃO
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/33.png", 03/05/2026 21:30 | Premier League | Manchester United vs Liverpool | BLV PHAN HÀ LINH
 https://google.com.vn
@@ -535,6 +535,8 @@ https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png", 03/05/2026 23:00 | Serie A | Juventus vs Hellas Verona | BLV PHAN TÔ
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg", 03/05/2026 23:30 | La Liga | Real Betis vs Oviedo | BLV PHAN MÃ
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png", 04/05/2026 00:30 | Bundesliga | SC Freiburg vs VfL Wolfsburg | BLV PHAN MÃO
 https://google.com.vn
 
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/c387e355b89e7909ea112e18ce22f2d2/image/small?v=1768601124", 🔴 ⭐ BLV BỆU | 02/05-21:00 | English Premier League | Brentford - West Ham United
@@ -1439,7 +1441,7 @@ https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/my-hd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",23:00 - 02.05 | Serie A | Como vs Napoli
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10171_small.png",🔴 23:00 - 02.05 | Serie A | Como vs Napoli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/oppo-hd/playlist.m3u8
@@ -2231,9 +2233,6 @@ https://vietanhtv.id.vn/socolive/557845.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:15-02/05: Valencia CF - Atletico Madrid (SPA D1) - BLV KEM
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/513394.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-02/05: Paris Saint Germain - Lorient (FRA D1) - QUỐC KHÁNH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/602153.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-02/05: Paris Saint Germain - Lorient (FRA D1) - BLV ENZO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/380460.m3u8
