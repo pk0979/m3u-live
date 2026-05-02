@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png", 🔴 03/05-01:45 | atalanta-vs-genoa.l8mQMxSUlc | BLV H+
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Ca_osasuna.png", 🔴 03/05-02:00 | osasuna-vs-barcelona.sDyHh77U8u | BLV H+
 https://xclive.zlylive.com/live/xctv_blv_hatplus/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Ca_osasuna.png", 🔴 03/05-02:00 | osasuna-vs-barcelona.SnXMGipsfu | BLV Xây Con
-https://xclive.zlylive.com/live/xctv_blv_xaycon/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg", 🔴 03/05-02:05 | nice-vs-lens.hIRHnH4Sxp | BLV Thợ Lặn
-https://xclive.zlylive.com/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Chicago_Fire_logo%2C_2021.svg", 🟡 03/05-07:30 | chicago-fire-vs-fc-cincinnati.XWQbF2sIXd | BLV Hàn Tín
 https://xclive.zlylive.com/live/xctv_blv_hantin/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1605.png", 🟡 03/05-09:30 | los-angeles-galaxy-vs-vancouver-whitecaps.PZahUcLrhU | BLV Hàn Tín
@@ -49,6 +45,8 @@ https://xclive.zlylive.com/live/xctv_blv_bipcon/playlist.m3u8
 https://xclive.zlylive.com/live/xctv_blv_hatplus/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/174.png", 🔴 03/05-01:30 | fc-schalke-04-vs-fortuna-dusseldorf.yD7Os-jKiZ | BLV Bịp Con
 https://xclive.zlylive.com/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg", 🔴 03/05-02:05 | nice-vs-lens.8W2me4iIMn | BLV Thợ Lặn
+https://xclive.zlylive.com/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -116,13 +114,13 @@ https://live5.msrktz.app/live/75915087.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/187929503752357480bce47813a9741f.png!w80", 🔴 03/05-01:00 | Giải Bóng đá Vô địch Quốc gia Hà Lan | AFC Ajax vs PSV Eindhoven | BLV REDBULL
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80", 🕒 03/05-01:45 | Giải bóng đá Serie A Italia | Atalanta B.C. vs Genoa | BLV MOUNTAIN DEW
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80", 🔴 03/05-01:45 | Giải bóng đá Serie A Italia | Atalanta B.C. vs Genoa | BLV MOUNTAIN DEW
 https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/c2050b940076df70b2ad0a6103c50df4.png!w80", 🕒 03/05-02:00 | Giải Bóng đá Vô địch Quốc gia Tây Ban Nha | Osasuna vs FC Barcelona | BLV COCA
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/c2050b940076df70b2ad0a6103c50df4.png!w80", 🔴 03/05-02:00 | Giải Bóng đá Vô địch Quốc gia Tây Ban Nha | Osasuna vs FC Barcelona | BLV COCA
 https://live5.msrktz.app/live/24561735.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/c2050b940076df70b2ad0a6103c50df4.png!w80", 🕒 03/05-02:00 | Giải Bóng đá Vô địch Quốc gia Tây Ban Nha | Osasuna vs FC Barcelona | BLV DR THANH
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/c2050b940076df70b2ad0a6103c50df4.png!w80", 🔴 03/05-02:00 | Giải Bóng đá Vô địch Quốc gia Tây Ban Nha | Osasuna vs FC Barcelona | BLV DR THANH
 https://live5.msrktz.app/live/79665343.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80", 🕒 03/05-02:05 | Ligue 1 | OGC Nice vs RC Lens | BLV SAMURAI
@@ -1279,14 +1277,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hcm-01-bk
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/04/29/slider_1777452235927.jpg" group-title="⭐Sự kiện FPT OTT",05/05 - 01:50 - Everton - Manchester City
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-08-4k-bk
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",🔴 23:30 - 02.05 | Ngoại Hạng Anh | Arsenal vs Fulham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/pho-hd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",🔴 23:30 - 02.05 | Bundesliga | Leverkusen vs RB Leipzig
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/bonbon-hd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png",🔴 00:00 - 03.05 | VĐQG  Thổ Nhĩ Kỳ | Fenerbahçe vs Başakşehir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1303,18 +1293,18 @@ https://edgemaxcdn-1.bongco50.xyz/live/xiaomi-hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/my-hd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",01:45 - 03.05 | Serie A | Atalanta vs Genoa
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",🔴 01:45 - 03.05 | Serie A | Atalanta vs Genoa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/iphone-hd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",02:00 - 03.05 | LaLiga | Osasuna vs Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/bim-hd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",02:05 - 03.05 | Ligue 1 | Nice vs Lens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/oppo-hd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",06:15 - 03.05 | Major League Soccer | Inter Miami CF vs Orlando
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1955,12 +1945,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=425
 #EXTINF:-1 tvg-logo="https://s12936.cdn.mytvnet.vn/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/13/1777445036385/d2c5c1eba98e_640_360.jpg", 02/05-23:25 | Bayer Leverkusen vs RB Leipzig Luồng truyền thống TV360+ 4 _ 2.5
-http://pk79.io.vn/tv360/play360.php?id=sk4
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/13/1777445093505/b17f3fafc219_640_360.jpg", 02/05-23:25 | Bayer Leverkusen vs RB Leipzig Luồng Chiến Thuật TV360+ 5_ 2.5
-http://pk79.io.vn/tv360/play360.php?id=sk5
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/15/1777449806374/cc03210737af_640_360.jpg", 02/05-23:30 | ALAVES VS ATHLETIC BILBAO ON FOOTBALL_ 2.5
-http://pk79.io.vn/tv360/play360.php?id=onsports
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/16/1777453929189/df0806fcff07_640_360.jpg", 03/05-00:00 | METZ VS AS MONACO ON SPORTS 3.5
 http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/19/1777465273196/f6259c7f5a4d_640_360.jpg", 03/05-01:00 | WORLD SNOOKER CHAMPIONSHIP 2026 NGÀY 15_ BÁN KẾT - PHẦN 3 ON SPORTS NEWS _3.5
@@ -2001,6 +1985,12 @@ http://pk79.io.vn/tv360/play360.php?id=onsports1
 http://pk79.io.vn/tv360/play360.php?id=onsportplus
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/15/1777451155406/de99088704d3_640_360.jpg", 03/05-22:25 | Monchengladbach vs Borussia Dortmund TV360+ 4 _ 3.5
 http://pk79.io.vn/tv360/play360.php?id=sk4
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/19/1777466884296/f57559120abb_640_360.jpg", 03/05-23:00 | BWF THOMAS & UBER CUP FINALS 2026 THOMAS CUP - CHUNG KẾT ON SPORTS NEWS _ 3.5
+http://pk79.io.vn/tv360/play360.php?id=onsportnews
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/15/1777451701973/84090b5a1af8_640_360.jpg", 03/05-23:30 | Betis vs Oviedo ON FOOTBALL_ 3.5
+http://pk79.io.vn/tv360/play360.php?id=onsports
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/29/17/1777457330612/8604888f1402_640_360.jpg", 04/05-00:25 | Freiburg vs Wolfsburg TV360+ 5 _4.5
+http://pk79.io.vn/tv360/play360.php?id=sk5
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-02/05: Brentford - West Ham United (ENG PR) - DECO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
