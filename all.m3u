@@ -1166,6 +1166,9 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/05/slider_1777943500723.jpg" group-title="⭐Sự kiện FPT OTT",05/05 - 20:30 - Everton - Manchester City: Phát lại
+http://phuockhai.giize.com:1979/fpt_replay/69f9467ef5099bbedc1fd124
+
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/05/slider_1777943545140.jpg" group-title="⭐Sự kiện FPT OTT",05/05 - 22:00 - Bournemouth - Crystal Palace: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/69f946843c79d21770d49d68
 
@@ -1541,7 +1544,7 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="https://s12936.cdn.mytvnet.vn/vimages/345x194/7c/cc/c7/77/76/6e/7cc77-l01chungtuthamlang5c75jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 05/05/2026 22:00 | Chứng Từ Thầm Lặng   
+#EXTINF:-1 tvg-logo="https://s7777.cdn.mytvnet.vn/vimages/345x194/7c/cc/c7/77/76/6e/7cc77-l01chungtuthamlang5c75jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 05/05/2026 22:00 | Chứng Từ Thầm Lặng   
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=201
 #EXTINF:-1 tvg-logo="https://s12937.cdn.mytvnet.vn/vimages/345x194/67/74/44/41/1f/f9/67441-lbongbandongdoinamvong321920ngay4luot2547cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/05/2026 23:00 | Giải bóng bàn đồng đội VĐTG London 2026  Đồng đội nam_Vòng 32_ngày 4_lượt 2
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=633
@@ -1573,15 +1576,15 @@ http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=9
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=349
 #EXTINF:-1 tvg-logo="https://s12937.cdn.mytvnet.vn/vimages/345x194/6f/f7/79/9a/a6/6d/6f79a-lvleague202526danangvsbecamextphochiminh1920e8d9jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 08/05/2026 18:00 | SHB Đà Nẵng vs Becamex TP. Hồ Chí Minh Vòng 22 V.League 2025/26
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=18
-#EXTINF:-1 tvg-logo="https://s12936.cdn.mytvnet.vn/vimages/345x194/17/71/14/4c/cf/f8/1714c-lthelostcity5e63jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 08/05/2026 20:00 | The Lost City
+#EXTINF:-1 tvg-logo="https://s7777.cdn.mytvnet.vn/vimages/345x194/17/71/14/4c/cf/f8/1714c-lthelostcity5e63jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 08/05/2026 20:00 | The Lost City
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=105
-#EXTINF:-1 tvg-logo="https://s12936.cdn.mytvnet.vn/vimages/345x194/14/43/39/94/46/6c/14394-lcode384aejpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 09/05/2026 20:00 | Code 3
+#EXTINF:-1 tvg-logo="https://s7777.cdn.mytvnet.vn/vimages/345x194/14/43/39/94/46/6c/14394-lcode384aejpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 09/05/2026 20:00 | Code 3
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=105
-#EXTINF:-1 tvg-logo="https://s12936.cdn.mytvnet.vn/vimages/345x194/11/1f/f4/40/01/10/11f40-lworldwar9843jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | World War Z 
+#EXTINF:-1 tvg-logo="https://s7777.cdn.mytvnet.vn/vimages/345x194/11/1f/f4/40/01/10/11f40-lworldwar9843jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | World War Z 
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=105
-#EXTINF:-1 tvg-logo="https://s12936.cdn.mytvnet.vn/vimages/345x194/0b/b2/29/9d/d1/16/0b29d-lbadboysdedbjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | Bad Boys 
+#EXTINF:-1 tvg-logo="https://s7777.cdn.mytvnet.vn/vimages/345x194/0b/b2/29/9d/d1/16/0b29d-lbadboysdedbjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | Bad Boys 
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=866
-#EXTINF:-1 tvg-logo="https://s12936.cdn.mytvnet.vn/vimages/345x194/79/96/68/8f/fc/c0/7968f-lshotcaller741fjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 21:50 | SHOT CALLER
+#EXTINF:-1 tvg-logo="https://s7777.cdn.mytvnet.vn/vimages/345x194/79/96/68/8f/fc/c0/7968f-lshotcaller741fjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 21:50 | SHOT CALLER
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=105
 #EXTINF:-1 tvg-logo="https://s12937.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=35
