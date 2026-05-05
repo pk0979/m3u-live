@@ -437,9 +437,6 @@ https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/4532.png", 07/05/2026 23:00 | League | Al Hussein vs Al Faisaly | BLV PHAN TÔ
 https://google.com.vn
 
-#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/6451242cbf03b2bd7433a18797c82d7a/image/small?v=1768601124", 🔴 ⭐ BLV NÚI | 06/05-01:00 | Saudi Professional League | Al Khaleej Club - Al Hilal
-#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
-https://pull-kda.fastestcdn-global.com/live/34a5f448545d4afeac99359a9c0575c5/index.m3u8
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/42b8a7886e54d35cf818dd6c497a8b2f/image/small?v=1768601124", 🔴 ⭐ BLV SIÊU GÁY | 06/05-02:00 | UEFA Champions League | Arsenal - Atletico Madrid
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/9bb50494875749d08ee1fe47899edf54/index.m3u8
@@ -2237,7 +2234,7 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/2928.png", 🔴 06/05-01:00 | Pro League | Al Khaleej Saihat vs Al-Hilal Saudi FC | tieuhac
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/2928.png", 🏁 06/05-01:00 | Pro League | Al Khaleej Saihat vs Al-Hilal Saudi FC | tieuhac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8
