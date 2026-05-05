@@ -425,9 +425,6 @@ https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/4532.png", 07/05/2026 23:00 | League | Al Hussein vs Al Faisaly | BLV PHAN TÔ
 https://google.com.vn
 
-#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/23f70a198b9a348840ea40939cd87281/image/small?v=1768601124", 🔴 ⭐ BLV TIỂU MÂN | 05/05-17:00 | Korean K League 1 | Football Club Seoul - FC Anyang
-#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
-https://pull-kda.fastestcdn-global.com/live/0415e5130bd7456282415c07b0e6407a/index.m3u8
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/518b76921f31b07167c84812341565ef/image/small?v=1768601124", 🔴 ⭐ BLV SIÊU GÁY | 05/05-18:35 | Chinese Football Super League | Shandong Taishan - Shanghai Shenhua
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/73f54c91fa8b441287c54e51a9ff4199/index.m3u8
@@ -1511,27 +1508,6 @@ http://pk79.io.vn/tv360/play360.php?id=sk11
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/05/09/1777948164672/f547c2819b88_640_360.jpg", 07/05-02:00 | Bayern Munich vs Paris SG On Football 7.5
 http://pk79.io.vn/tv360/play360.php?id=onsports
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-05/05: FC Seoul - FC Anyang (KOR D1) - BLV VIP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/491873.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-05/05: FC Seoul - FC Anyang (KOR D1) - BLV BÉO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/459401.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-05/05: FC Seoul - FC Anyang (KOR D1) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/534219.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-05/05: FC Seoul - FC Anyang (KOR D1) - BLV CUỘI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/256080.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-05/05: FC Seoul - FC Anyang (KOR D1) - LOGAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/552832.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-05/05: FC Seoul - FC Anyang (KOR D1) - A PÁO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/235232.m3u8
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:00-05/05: Zamboanga Sikat - Ilagan Isabela Cowboys (MPBL) - HUNTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vietanhtv.id.vn/socolive/558264.m3u8
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-05/05: Qingdao West Coast - Tianjin Jinmen Tiger (CHA SL) - BLV MESSI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vietanhtv.id.vn/socolive/494201.m3u8
