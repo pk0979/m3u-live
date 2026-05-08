@@ -652,6 +652,15 @@ https://pull-kda.fastestcdn-global.com/live/f973b11c1fbd4799aa3d81d7c822d512/ind
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/df0a03caca12ab56fb72e47a6501409c/image/small?v=1768601124", ⭐ BLV BỆU | 09/05-23:30 | Spanish La Liga | Atletico Madrid - RC Celta
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/fce021b49f174e019adb0469b4a304ff/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/dd34ac34f35e1d61053901692ae88766/image/small?v=1768601124", ⭐ BLV NÚI | 10/05-00:00 | United States Major League Soccer | Toronto FC - Inter Miami CF
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/29d5f342f1a545b1b77b85f66f7ec200/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/9e6026dac8d9292baead0f9dd996fb47/image/small?v=1768601124", ⭐ BLV SIÊU PHÀM | 10/05-01:45 | Italian Serie A | Lecce - Juventus
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/e39380a3df33471fb6ee469fb283d5ce/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/19a601fec78700106d11024a37c97f16/image/small?v=1768601124", ⭐ BLV MÂY | 10/05-02:00 | Spanish La Liga | Real Sociedad - Real Betis
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/60a90e7b1b6f45ed8cdbcaaeee19af70/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
@@ -1280,14 +1289,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-32
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/06/slider_1778056379039.jpg" group-title="⭐Sự kiện FPT OTT",12/05 - 01:50 - Tottenham Hotspur - Leeds United
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-05-bk
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165235_small.png",🔴 20:00 - 08.05 | VĐQG Malaysia | PDRM vs Penang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/hanh-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/165229_small.png",🔴 20:00 - 08.05 | VĐQG Malaysia | Terengganu vs Imigresen FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/pho-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6633_small.png",🔴 22:00 - 08.05 | Veikkausliiga | TPS vs HJK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1647,19 +1648,19 @@ http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=267
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=447
 #EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/3e/e6/65/51/19/9e/3e651-lbong7hieuhoaquahacovsjmbmedia1920b7e6jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/05/2026 19:00 | Hiếu Hoa Quahaco vs JMB Media Vòng 1 HPL-S13 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=349
-#EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/48/80/07/77/73/3d/48077-lchidep5ccomaythoigian19207b45jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/05/2026 19:00 | Chị Đẹp Đạp Gió 2026 Tập 5C- Cỗ Máy Thời Gian Của Chị Đẹp.03
+#EXTINF:-1 tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/48/80/07/77/73/3d/48077-lchidep5ccomaythoigian19207b45jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/05/2026 19:00 | Chị Đẹp Đạp Gió 2026 Tập 5C- Cỗ Máy Thời Gian Của Chị Đẹp.03
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=449
-#EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/14/43/39/94/46/6c/14394-lcode384aejpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 09/05/2026 20:00 | Code 3
+#EXTINF:-1 tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/14/43/39/94/46/6c/14394-lcode384aejpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 09/05/2026 20:00 | Code 3
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=105
-#EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/73/3f/f3/37/73/3e/73f37-ldoidieutraso7d49fjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/05/2026 21:45 | Đội Điều Tra Số 7
+#EXTINF:-1 tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/73/3f/f3/37/73/3e/73f37-ldoidieutraso7d49fjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/05/2026 21:45 | Đội Điều Tra Số 7
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=802
-#EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/11/1f/f4/40/01/10/11f40-lworldwar9843jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | World War Z 
+#EXTINF:-1 tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/11/1f/f4/40/01/10/11f40-lworldwar9843jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | World War Z 
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=105
-#EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/0b/b2/29/9d/d1/16/0b29d-lbadboysdedbjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | Bad Boys 
+#EXTINF:-1 tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/0b/b2/29/9d/d1/16/0b29d-lbadboysdedbjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 20:00 | Bad Boys 
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=866
-#EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/13/3a/a4/4b/bc/c1/13a4b-lgiaydoa8a7jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 10/05/2026 21:00 | Giày Đỏ 
+#EXTINF:-1 tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/13/3a/a4/4b/bc/c1/13a4b-lgiaydoa8a7jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 10/05/2026 21:00 | Giày Đỏ 
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=766
-#EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/345x194/79/96/68/8f/fc/c0/7968f-lshotcaller741fjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 21:50 | SHOT CALLER
+#EXTINF:-1 tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/79/96/68/8f/fc/c0/7968f-lshotcaller741fjpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 10/05/2026 21:50 | SHOT CALLER
 http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=105
 #EXTINF:-1 tvg-logo="https://s128199.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=35
