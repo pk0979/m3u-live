@@ -5,7 +5,7 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b3/SC_Paderborn_07_logo.svg/1280px-SC_Paderborn_07_logo.svg.png", 🔴 08/05-23:30 | sc-paderborn-07-vs-karlsruher-sc.8YZSPV2gD5 | BLV Xây Con
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/745.png", 🟡 08/05-23:30 | 1-fc-kaiserslautern-vs-arminia-bielefeld.--ASjS-g-q | BLV Thợ Lặn
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/745.png", 🔴 08/05-23:30 | 1-fc-kaiserslautern-vs-arminia-bielefeld.--ASjS-g-q | BLV Thợ Lặn
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/KuPS_logo.svg", 🟡 09/05-00:00 | kups-vs-sjk.XR7K9YQzMq | BLV A Cỏ
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
@@ -312,11 +312,11 @@ https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png!w80", 🕒 09/05 - 21:15 | Giải Bóng đá Vô địch Quốc gia Tây Ban Nha  | Sevilla FC vs CLB Espanyol | BLV SAMURAI
 https://live5.msrktz.app/live/07808742.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80", 🕒 09/05 - 23:00 | Giải bóng đá Serie A Italia | S.S. Lazio vs Inter Milan | BLV SPRITE
-https://live5.msrktz.app/live/90725470.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80", 🕒 09/05 - 23:00 | Giải bóng đá Serie A Italia | S.S. Lazio vs Inter Milan | BLV ROCKSTAR
 https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80", 🕒 09/05 - 23:00 | Giải bóng đá Serie A Italia | S.S. Lazio vs Inter Milan | BLV SPRITE
+https://live5.msrktz.app/live/90725470.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80", 🕒 09/05 - 23:30 | Giải bóng đá vô địch quốc gia Đức | VfL Wolfsburg vs FC Bayern München | BLV REDBULL
 https://live5.msrktz.app/live/68848594.m3u8
@@ -1263,7 +1263,7 @@ https://edgemaxcdn-1.bongco50.xyz/live/hanh-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/568590_small.png",🔴 23:00 - 08.05 | Qatar Stars League Qualification | Al Shahaniya vs Al-Kharaitiyat SC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/rang-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8350_small.png",23:30 - 08.05 | Hạng 2 Đức | Kaiserslautern vs Arminia Bielefeld
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1271,7 +1271,7 @@ https://google.com
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8460_small.png",23:30 - 08.05 | Hạng 2 Đức | Paderborn vs Karlsruher SC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/bonbon-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9939_small.png",00:00 - 09.05 | Superligaen Championship Playoff | Viborg vs Sønderjyske
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
