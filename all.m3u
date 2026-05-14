@@ -390,8 +390,6 @@ https://live5.msrktz.app/live/07808742.m3u8
 
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/FjlPNK4kZUDzQp5-E3PAJg_96x96.png", 🔴 14/05/2026 22:00 | DBU Pokalen | FC Copenhagen vs FC Midtjylland | BLV CỦ HÀNH
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/7191.png", 🔴 14/05/2026 22:00 | Premier League 2 Division One | Brighton U21 vs Manchester United U21 | BLV PHAN MÃ
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/03/Al-Fateh_FC_logo.jpg?20210201090010", 14/05/2026 22:55 | Pro League | Al-Fateh vs Al Najma | BLV PHAN CHỚP
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png", 15/05/2026 00:00 | La Liga | Valencia vs Rayo Vallecano | BLV PHAN TÔ
@@ -988,9 +986,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/bc14_1778605674140.jpg" group-title="⭐Sự kiện FPT OTT",14/05 - 16:00 - LPL 2026 Split 2 - Ngày 14/05
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-05
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/slider_1778662053142.jpg" group-title="⭐Sự kiện FPT OTT",14/05 - 20:30 - Manchester City - Crystal Palace: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a052dc3d8a122e2e2e88338
 
@@ -1107,6 +1102,9 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hcm-04-bk
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/slider_1778645740597.jpg" group-title="⭐Sự kiện FPT OTT",17/05 - 23:10 - Newcastle United - West Ham United
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-bk
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/slider_1778646257686.jpg" group-title="⭐Sự kiện FPT OTT",19/05 - 01:40 - Arsenal - Burnley: Fan cứng
+http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-4k-bk
 
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/UDosEKYg-UqisNSFP.png",🔴 20:00 - 14.05 | Ngoại Hạng Ethiopia | Welayta Dicha vs St. George
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
