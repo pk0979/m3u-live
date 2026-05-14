@@ -121,7 +121,7 @@ https://live5.msrktz.app/live/07808742.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/2160cff8b0067605adb4e2d1ff213f3d.png!w80", 🔴 14/05 - 21:45 | Giải vô địch quốc gia Bulgaria | Botev Vratsa vs Montana | BLV MONSTER
 https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/629b6f983d0ca3c33f2c4b50b3449314.png!w80", 🕒 14/05 - 22:00 | Cúp Bóng đá Đan Mạch | FC Copenhagen vs Midtjylland | BLV REVIVE
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/629b6f983d0ca3c33f2c4b50b3449314.png!w80", 🔴 14/05 - 22:00 | Cúp Bóng đá Đan Mạch | FC Copenhagen vs Midtjylland | BLV REVIVE
 https://live5.msrktz.app/live/33982309.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80", 🕒 14/05 - 22:55 | Giải Vô địch quốc gia Ả-rập Xê-út | Al Fateh vs Al Najma | BLV COCA
@@ -495,6 +495,15 @@ https://pull-kda.fastestcdn-global.com/live/94d9b60f06aa4986a6e326b5240098e8/ind
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/0437356503a22e50b9e8aa76145c7f71.png!w80", ⭐ BLV TIỂU MÂN | 15/05-23:00 | AFC U17 Asian Cup | Japan U17 - Tajikistan U17
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/40ddb90926d6452fb8b1cf44bf5268b5/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80", ⭐ BLV MÂY | 16/05-00:00 | AFC U17 Asian Cup | U17 Saudi Arabia - U17 Trung Quốc
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/2ad40bfbb6fe40989dfb23d5813de90d/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80", ⭐ BLV SIÊU GÁY | 16/05-02:00 | English Premier League | Aston Villa - Liverpool
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/8914c4f7f204410291f9e2fa67a4ebc5/index.m3u8
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80", ⭐ BLV MÂY | 16/05-02:00 | English Premier League | Aston Villa  - Liverpool
+#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
+https://pull-kda.fastestcdn-global.com/live/384ae3b6d3fd41fc84f718016b7334d0/index.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 https://sgclient.duckdns.org/source/tv360.m3u8?id=2554
@@ -1431,12 +1440,12 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="/vimages/345x194/d6/69/95/5f/ff/fd/d695f-lduongveconhau2f03jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/05/2026 21:00 | Đường Về Có Nhau      
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=202
 #EXTINF:-1 tvg-logo="/vimages/345x194/13/3a/a4/4b/bc/c1/13a4b-lgiaydoa8a7jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/05/2026 21:00 | Giày Đỏ     
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
 #EXTINF:-1 tvg-logo="/vimages/345x194/60/04/4e/e0/01/12/604e0-lgiuaconbaotuyet105104jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/05/2026 21:00 | Giữa Cơn Bão Tuyết  
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=197
+#EXTINF:-1 tvg-logo="/vimages/345x194/d6/69/95/5f/ff/fd/d695f-lduongveconhau2f03jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/05/2026 21:00 | Đường Về Có Nhau      
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=202
 #EXTINF:-1 tvg-logo="/vimages/345x194/2d/dd/d9/95/59/9a/2dd95-lrobinhood26c59jpg-content-mytv.JPG" group-title="MyTV Event", 🔴 14/05/2026 21:45 | Robin Hood 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
 #EXTINF:-1 tvg-logo="/vimages/345x194/73/3f/f3/37/73/3e/73f37-ldoidieutraso7d49fjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/05/2026 21:45 | Đội Điều Tra Số 7    
@@ -2251,7 +2260,7 @@ http://is.am/62sv
 
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/199.png", 🔴 14/05-20:00 | Cup | Union St. Gilloise vs Anderlecht | BLV Táo Tỉnh Táo
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/121.png", 🟢 14/05-22:00 | DBU Pokalen | FC Copenhagen vs FC Midtjylland | BLV Táo Mèo
+#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/121.png", 🔴 14/05-22:00 | DBU Pokalen | FC Copenhagen vs FC Midtjylland | BLV Táo Mèo
 https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/307.png", 🟢 14/05-22:55 | Pro League | Al-Fateh vs Al Najma | BLV Táo Kinh Tế(A Tích)
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
