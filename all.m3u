@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/FjlPNK4kZUDzQp5-E3PAJg_96x96.png", 🔴 14/05-22:00 | fc-copenhagen-vs-fc-midtjylland.qCzVNq_zk3 | BLV Thợ Lặn
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/03/Al-Fateh_FC_logo.jpg?20210201090010", 🔴 14/05-22:55 | al-fateh-vs-al-najma.ZMKbjnKPYP | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png", 🔴 15/05-00:00 | valencia-vs-rayo-vallecano.0Uy-Vn7Z3z | BLV Xây Con
@@ -444,9 +442,6 @@ https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2932.png", 16/05/2026 23:05 | Pro League | Al-Hilal Saudi FC vs NEOM | BLV PHAN HÀ LINH
 https://google.com.vn
 
-#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.rapid-api.icu/football/team/76f3f91ee26df2695071a1e2ed7246c5/image/small?v=1768601124", 🔴 ⭐ BLV NÚI | 14/05-22:00 | Danish Cup | FC Copenhagen - Midtjylland
-#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
-https://pull-kda.fastestcdn-global.com/live/b3563fa9839947b9a3233f44ba4bb324/index.m3u8
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/3b54543c1a584e2e9948d655142996d3.png!w80", 🔴 ⭐ BLV SIÊU GÁY | 15/05-00:00 | Spanish La Liga | Valencia CF - Rayo Vallecan
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/4c1e0dfc9dcd4598957448984ca96648/index.m3u8
@@ -556,58 +551,54 @@ https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/bc14_1778605674140.jpg", Event 5
 https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F203_1gtqm082h92c.png&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1764870352.png", 🔴 14/05-22:00 | Midtjylland vs FC Copenhagen | BLV MÃ SIÊU
-http://pk79.io.vn/luongson/play.php?id=e66721d1-ee0d-4a4c-95a7-86c88b28cb87
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F203_1gtqm082h92c.png&m2=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1764870352.png", 🔴 14/05-22:00 | Midtjylland vs FC Copenhagen | BLV LỮ BỐ
-http://pk79.io.vn/luongson/play.php?id=473785921
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1767017994.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7269_1jrrycdx5p1r.png", 🔴 14/05-22:55 | Al Najma(KSA) vs Al-Fateh | BLV KAKA
-http://pk79.io.vn/luongson/play.php?id=254325829
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1767017994.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7269_1jrrycdx5p1r.png", 🔴 14/05-22:55 | Al Najma(KSA) vs Al-Fateh | BLV VƯƠNG LUÂN
+http://pk79.io.vn/luongson/play.php?id=254325829
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1767017994.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7269_1jrrycdx5p1r.png", 🔴 14/05-22:55 | Al Najma(KSA) vs Al-Fateh | BLV KAKA
 http://pk79.io.vn/luongson/play.php?id=a4dec263-7a0e-4890-a275-9380eda68124
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3139_1gqk9hqcjy1g.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3136_1grwgajhccw.png", 🔴 14/05-23:35 | Al-Seeb vs Al-Nahda Muscat | BLV MAYBACH
 http://pk79.io.vn/luongson/play.php?id=377608929
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F83_164871269140.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F858_164871283245.png", 15/05-00:00 | Rayo Vallecano vs Valencia | BLV NHỊ KA
-http://pk79.io.vn/luongson/play.php?id=9de2f176-53e2-4a6f-9d3b-afc986aeb9f1
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F83_164871269140.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F858_164871283245.png", 15/05-00:00 | Rayo Vallecano vs Valencia | BLV KEVILL
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F83_164871269140.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F858_164871283245.png", 🔴 15/05-00:00 | Rayo Vallecano vs Valencia | BLV KEVILL
 http://pk79.io.vn/luongson/play.php?id=225640827
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F83_164871269140.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F858_164871283245.png", 🔴 15/05-00:00 | Rayo Vallecano vs Valencia | BLV LEO
+http://pk79.io.vn/luongson/play.php?id=7100d585-b268-488c-9fa8-4a79d45c26b3
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1703_1heh22as0j1c.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F42101_1hpqr1be931p.png", 🔴 15/05-00:00 | Al Qasim Sport Club vs Al Zawraa | BLV URA
 http://pk79.io.vn/luongson/play.php?id=370827925
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F83_164871269140.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F858_164871283245.png", 15/05-00:00 | Rayo Vallecano vs Valencia | BLV LEO
-http://pk79.io.vn/luongson/play.php?id=7100d585-b268-488c-9fa8-4a79d45c26b3
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F83_164871269140.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F858_164871283245.png", 🔴 15/05-00:00 | Rayo Vallecano vs Valencia | BLV NHỊ KA
+http://pk79.io.vn/luongson/play.php?id=9de2f176-53e2-4a6f-9d3b-afc986aeb9f1
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F986_1grcyc2fjr0.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F985_1hfze5bfw71m.png", 15/05-00:15 | Beroe Stara Zagora vs Lokomotiv Sofia | BLV PELE
 http://pk79.io.vn/luongson/play.php?id=446577920
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2847_1gqbqe8n3b7.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1603_1gq6k5acwa2a.png", 15/05-01:00 | Al-Ittihad vs Al-Ettifaq | BLV TÔN LẬP
-http://pk79.io.vn/luongson/play.php?id=244325828
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4141_167332279466.png", 15/05-01:00 | Manchester United U18 vs Manchester City U18 | BLV TÂY MÔN KHÁNH
-http://pk79.io.vn/luongson/play.php?id=499738927
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1833_1jr1rs6ee41k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2849_1gq1dn26c021.png", 15/05-01:00 | Al-Hazm vs Al Qadsiah | BLV NGƯỜI THÉP
+http://pk79.io.vn/luongson/play.php?id=384325822
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F66952_1j9z92z59qs.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F19792_1jrvehwvqsr.png", 15/05-01:00 | Al-Zlfe vs Al Ula FC | BLV HÀN TÍN
+http://pk79.io.vn/luongson/play.php?id=380632920
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1601_1gq1dn25w32k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6175_1j48j7zkt61s.png", 15/05-01:00 | Al-Baten vs Al-Faisaly Harmah | BLV A TỦA
 http://pk79.io.vn/luongson/play.php?id=240632926
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6172_1gqv2b0vse1s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37644_1j8gt87kca2c.png", 15/05-01:00 | Al Bukayriyah vs Al-Draih | BLV FERNANDO
 http://pk79.io.vn/luongson/play.php?id=230632925
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F66952_1j9z92z59qs.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F19792_1jrvehwvqsr.png", 15/05-01:00 | Al-Zlfe vs Al Ula FC | BLV HÀN TÍN
-http://pk79.io.vn/luongson/play.php?id=380632920
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1833_1jr1rs6ee41k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2849_1gq1dn26c021.png", 15/05-01:00 | Al-Hazm vs Al Qadsiah | BLV TRIỆU TỬ LONG
-http://pk79.io.vn/luongson/play.php?id=9b81d594-f914-40a4-ac34-d600bd64ccec
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F849_1hke8brgq5m.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F96_164871271877.png", 15/05-01:00 | Real Sociedad vs Girona | BLV LÝ ỨNG
-http://pk79.io.vn/luongson/play.php?id=394640823
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F849_1hke8brgq5m.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F96_164871271877.png", 15/05-01:00 | Real Sociedad vs Girona | BLV PHI HỔ
 http://pk79.io.vn/luongson/play.php?id=dcb2e7af-daaa-4572-8556-894fb3a627f9
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1833_1jr1rs6ee41k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2849_1gq1dn26c021.png", 15/05-01:00 | Al-Hazm vs Al Qadsiah | BLV TRIỆU TỬ LONG
+http://pk79.io.vn/luongson/play.php?id=9b81d594-f914-40a4-ac34-d600bd64ccec
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2847_1gqbqe8n3b7.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1603_1gq6k5acwa2a.png", 15/05-01:00 | Al-Ittihad vs Al-Ettifaq | BLV TÔN LẬP
+http://pk79.io.vn/luongson/play.php?id=244325828
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F849_1hke8brgq5m.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F96_164871271877.png", 15/05-01:00 | Real Sociedad vs Girona | BLV MÃ SIÊU
 http://pk79.io.vn/luongson/play.php?id=a00ea8a4-c866-4a94-b78e-fe8a83e2ce80
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1833_1jr1rs6ee41k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2849_1gq1dn26c021.png", 15/05-01:00 | Al-Hazm vs Al Qadsiah | BLV NGƯỜI THÉP
-http://pk79.io.vn/luongson/play.php?id=384325822
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F304_164940956464.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16_1gz3j4ekt5h.png", 15/05-02:00 | Bolton Wanderers vs Bradford City | BLV LỮ BỐ
-http://pk79.io.vn/luongson/play.php?id=318438925
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F849_1hke8brgq5m.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F96_164871271877.png", 15/05-01:00 | Real Sociedad vs Girona | BLV LÝ ỨNG
+http://pk79.io.vn/luongson/play.php?id=394640823
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4141_167332279466.png", 15/05-01:00 | Manchester United U18 vs Manchester City U18 | BLV TÂY MÔN KHÁNH
+http://pk79.io.vn/luongson/play.php?id=499738927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12722_1htrhw3w5f28.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9377_1k584b30wya.png", 15/05-02:00 | Mayfield United vs Midleton FC | BLV LÃO HẠC
 http://pk79.io.vn/luongson/play.php?id=471687920
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3998_1j3s1rtr5j2f.png", 15/05-02:30 | Real Oviedo vs Real Madrid | BLV KEVILL
-http://pk79.io.vn/luongson/play.php?id=215640826
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3998_1j3s1rtr5j2f.png", 15/05-02:30 | Real Oviedo vs Real Madrid | BLV LƯU BỊ
-http://pk79.io.vn/luongson/play.php?id=e5120f43-5a71-4945-82ae-d7b54a44ed72
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F304_164940956464.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16_1gz3j4ekt5h.png", 15/05-02:00 | Bolton Wanderers vs Bradford City | BLV LỮ BỐ
+http://pk79.io.vn/luongson/play.php?id=318438925
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3998_1j3s1rtr5j2f.png", 15/05-02:30 | Real Oviedo vs Real Madrid | BLV LEO
 http://pk79.io.vn/luongson/play.php?id=ff72f37e-9ad6-4035-9709-cbaf2eec21d5
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3998_1j3s1rtr5j2f.png", 15/05-02:30 | Real Oviedo vs Real Madrid | BLV NHỊ KA
 http://pk79.io.vn/luongson/play.php?id=1d8ea6da-7996-45f9-8f7d-dacd0c6a253b
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3998_1j3s1rtr5j2f.png", 15/05-02:30 | Real Oviedo vs Real Madrid | BLV KEVILL
+http://pk79.io.vn/luongson/play.php?id=215640826
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3998_1j3s1rtr5j2f.png", 15/05-02:30 | Real Oviedo vs Real Madrid | BLV LƯU BỊ
+http://pk79.io.vn/luongson/play.php?id=e5120f43-5a71-4945-82ae-d7b54a44ed72
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21673_1gt31t5xqg20.png", 15/05-03:00 | Guayaquil City vs Astillero FC | BLV MAYBACH
 http://pk79.io.vn/luongson/play.php?id=341918924
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3340_1gtn82r1dm2a.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1673_1gqxnqd00y2y.png", 15/05-06:00 | Fortaleza vs CRB AL | BLV LÝ QUỲ
@@ -622,78 +613,82 @@ http://pk79.io.vn/luongson/play.php?id=380368926
 http://pk79.io.vn/luongson/play.php?id=b04c6a7b-735f-43a4-9508-cea0277794ec
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1151_1gv1ymnzhj3.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1153_1j25bvh4yk2a.png", 15/05-08:00 | Pumas U.N.A.M. vs Pachuca | BLV KAKA
 http://pk79.io.vn/luongson/play.php?id=762ab711-1ecc-47c8-922c-df7e1f9c67d5
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F33398_1k0388twhs2n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30984_1gpyw71xdy1g.png", 15/05-10:10 | Club America (W) vs Monterrey (W) | BLV LÝ QUỲ
-http://pk79.io.vn/luongson/play.php?id=499468927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F33398_1k0388twhs2n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30984_1gpyw71xdy1g.png", 15/05-10:10 | Club America (W) vs Monterrey (W) | BLV KHỔNG MINH
 http://pk79.io.vn/luongson/play.php?id=e56ce5db-fff3-4795-a66b-510c25288bb8
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F33398_1k0388twhs2n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30984_1gpyw71xdy1g.png", 15/05-10:10 | Club America (W) vs Monterrey (W) | BLV LÝ QUỲ
+http://pk79.io.vn/luongson/play.php?id=499468927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4768_1jy82bp5p12p.png&m2=", 15/05-13:00 | Melbourne City Youth(W) vs Box Hill (W) | BLV TIỂU LANG
 http://pk79.io.vn/luongson/play.php?id=477718921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68941_1jrj4svr4m0.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3213_1h56j01yr42s.png", 15/05-14:00 | Auckland City vs Auckland FC Reserves | BLV KEVILL
 http://pk79.io.vn/luongson/play.php?id=242228929
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4113_166261443276.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F59180_1h132hd7yc1b.png", 15/05-14:30 | Turkmenistan U20 vs Kyrgyzstan U20 | BLV KHỔNG MINH
 http://pk79.io.vn/luongson/play.php?id=350358922
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4113_166261443276.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F59180_1h132hd7yc1b.png", 15/05-14:30 | Turkmenistan U20 vs Kyrgyzstan U20 | BLV VƯƠNG LUÂN
-http://pk79.io.vn/luongson/play.php?id=8eeaa163-ca03-4d6f-9e86-7a8cf3e353fb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4113_166261443276.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F59180_1h132hd7yc1b.png", 15/05-14:30 | Turkmenistan U20 vs Kyrgyzstan U20 | BLV TÔN LẬP
 http://pk79.io.vn/luongson/play.php?id=c4e05d2b-4f8e-404d-b05b-09a388f419b9
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4113_166261443276.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F59180_1h132hd7yc1b.png", 15/05-14:30 | Turkmenistan U20 vs Kyrgyzstan U20 | BLV VƯƠNG LUÂN
+http://pk79.io.vn/luongson/play.php?id=8eeaa163-ca03-4d6f-9e86-7a8cf3e353fb
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F65765_1hzc1j8zxb26.PNG&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64649_1hwesavgb82t.png", 15/05-15:00 | ShanXi Union vs Shenzhen 2028 | BLV PELE
 http://pk79.io.vn/luongson/play.php?id=308187925
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F69497_1jx3zzzqx6x.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23804_1j0q19bhzc14.png", 15/05-15:30 | Nantong Zhiyun vs Dalian Kewei | BLV URA
 http://pk79.io.vn/luongson/play.php?id=366187929
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14957_164941031654.png", 15/05-15:30 | Persebaya Surabaya vs Semen Padang | BLV LỮ BỐ
-http://pk79.io.vn/luongson/play.php?id=18110193-8e49-42ec-90ec-72490239536b
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14957_164941031654.png", 15/05-15:30 | Persebaya Surabaya vs Semen Padang | BLV TỐNG GIANG
-http://pk79.io.vn/luongson/play.php?id=353462820
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14957_164941031654.png", 15/05-15:30 | Persebaya Surabaya vs Semen Padang | BLV LƯU BỊ
 http://pk79.io.vn/luongson/play.php?id=8d466264-9851-426b-8c01-a252e300cca0
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14957_164941031654.png", 15/05-15:30 | Persebaya Surabaya vs Semen Padang | BLV LEO
 http://pk79.io.vn/luongson/play.php?id=c27382e3-d477-4d5e-bfa0-e8fb0a6630f0
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14957_164941031654.png", 15/05-15:30 | Persebaya Surabaya vs Semen Padang | BLV TỐNG GIANG
+http://pk79.io.vn/luongson/play.php?id=353462820
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14957_164941031654.png", 15/05-15:30 | Persebaya Surabaya vs Semen Padang | BLV LỮ BỐ
+http://pk79.io.vn/luongson/play.php?id=18110193-8e49-42ec-90ec-72490239536b
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F65757_1j127tcfxx11.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8275_1gzq8khsy42n.png", 15/05-15:45 | Malaysia Universiteti vs Bunga Raya | BLV DƯƠNG CHÍ
 http://pk79.io.vn/luongson/play.php?id=371458926
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3038_1gtzdegdpa23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3415_1hwks8yz6r23.png", 15/05-16:00 | DPMM FC vs Penang | BLV FERNANDO
-http://pk79.io.vn/luongson/play.php?id=224422824
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3038_1gtzdegdpa23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3415_1hwks8yz6r23.png", 15/05-16:00 | DPMM FC vs Penang | BLV NHỊ KA
-http://pk79.io.vn/luongson/play.php?id=e995325e-5f46-4f12-9d4e-a6841354f892
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1508_1h4079d6gt0.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4063_1h43847sqf10.png", 15/05-16:00 | San Marino U19 vs Slovakia U19 | BLV TRIỆU TỬ LONG
 http://pk79.io.vn/luongson/play.php?id=475846921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4064_1gs1rvsv5h2c.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3585_1hzvcwpyd51n.png", 15/05-16:00 | Belarus U19 vs Latvia U19 | BLV TIỂU LANG
 http://pk79.io.vn/luongson/play.php?id=465846920
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3038_1gtzdegdpa23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3415_1hwks8yz6r23.png", 15/05-16:00 | DPMM FC vs Penang | BLV NHỊ KA
+http://pk79.io.vn/luongson/play.php?id=e995325e-5f46-4f12-9d4e-a6841354f892
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3038_1gtzdegdpa23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3415_1hwks8yz6r23.png", 15/05-16:00 | DPMM FC vs Penang | BLV FERNANDO
+http://pk79.io.vn/luongson/play.php?id=224422824
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10101_1gt31y56wx2x.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11673_1gryyqvhkg2.png", 15/05-16:15 | Queensland Lions SC vs Brisbane Roar (Youth) | BLV MỘT CHÂN
 http://pk79.io.vn/luongson/play.php?id=218430927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8797_1grzww51z62n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4994_1gt31y56whz.png", 15/05-16:30 | Eastern Suburbs Brisbane vs Wynnum Wolves | BLV NGƯỜI THÉP
 http://pk79.io.vn/luongson/play.php?id=367430921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8806_1grzybp3442f.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29208_1gryyqvj2y1r.png", 15/05-16:30 | Gold Coast Knights vs Peninsula Power | BLV A TỦA
 http://pk79.io.vn/luongson/play.php?id=377430922
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2429_1hd5avvjts1y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F66170_1jaekvhmhj27.png", 15/05-16:35 | Auckland FC vs Adelaide United | BLV KEVILL
+http://pk79.io.vn/luongson/play.php?id=348438928
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2429_1hd5avvjts1y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F66170_1jaekvhmhj27.png", 15/05-16:35 | Auckland FC vs Adelaide United | BLV MÃ SIÊU
 http://pk79.io.vn/luongson/play.php?id=1805922e-2813-4d9d-98d9-c2580dab22cf
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2429_1hd5avvjts1y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F66170_1jaekvhmhj27.png", 15/05-16:35 | Auckland FC vs Adelaide United | BLV SHIN
 http://pk79.io.vn/luongson/play.php?id=3820040f-7bd6-4090-acb5-2a9f45fbd462
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2429_1hd5avvjts1y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F66170_1jaekvhmhj27.png", 15/05-16:35 | Auckland FC vs Adelaide United | BLV KEVILL
-http://pk79.io.vn/luongson/play.php?id=348438928
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3398_1hg20ff0484.png", 15/05-18:00 | Da Nang vs Cong An TP Ho Chi Minh | BLV LÝ QUỲ
 http://pk79.io.vn/luongson/play.php?id=327784929
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62261_1hyse2yvqp11.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F50185_1hrgcs0ft7a.png", 15/05-18:30 | Foshan Nanshi vs Hangzhou Linping Wuyue | BLV FERNANDO
+http://pk79.io.vn/luongson/play.php?id=496187922
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1700_1jn2f3qv5c1n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2149_1hrgc5s98c2x.png", 15/05-18:30 | Balestier Khalsa FC vs Geylang International | BLV LỮ BỐ
+http://pk79.io.vn/luongson/play.php?id=376515824
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3053_1gt31s213y1s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3042_1gr5bw7g4f2n.png", 15/05-18:30 | Terengganu vs Sabah | BLV KAKA
 http://pk79.io.vn/luongson/play.php?id=234422825
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3053_1gt31s213y1s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3042_1gr5bw7g4f2n.png", 15/05-18:30 | Terengganu vs Sabah | BLV TÂY MÔN KHÁNH
 http://pk79.io.vn/luongson/play.php?id=c4bf92d2-e751-4bae-84b3-5a1947e18cb8
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1700_1jn2f3qv5c1n.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2149_1hrgc5s98c2x.png", 15/05-18:30 | Balestier Khalsa FC vs Geylang International | BLV LỮ BỐ
-http://pk79.io.vn/luongson/play.php?id=376515824
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62261_1hyse2yvqp11.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F50185_1hrgcs0ft7a.png", 15/05-18:30 | Foshan Nanshi vs Hangzhou Linping Wuyue | BLV FERNANDO
-http://pk79.io.vn/luongson/play.php?id=496187922
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6673_1h8n2nv7tw23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F496_1h8qpaemwc10.png", 15/05-18:35 | Zhejiang Professional FC vs Shanghai Port | BLV DƯƠNG CHÍ
 http://pk79.io.vn/luongson/play.php?id=3ecacd5f-f70f-4ad8-b9ce-c721c31259ee
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6673_1h8n2nv7tw23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F496_1h8qpaemwc10.png", 15/05-18:35 | Zhejiang Professional FC vs Shanghai Port | BLV NHỊ KA
-http://pk79.io.vn/luongson/play.php?id=359644929
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6673_1h8n2nv7tw23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F496_1h8qpaemwc10.png", 15/05-18:35 | Zhejiang Professional FC vs Shanghai Port | BLV TÔN LẬP
-http://pk79.io.vn/luongson/play.php?id=754b06cc-82c7-43d6-8fa0-f800640f87d7
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F495_1j39p5ccv415.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34003_1j0ytnk9yw25.png", 15/05-18:35 | Shenzhen Xinpengcheng vs Henan Football Club | BLV MAYBACH
-http://pk79.io.vn/luongson/play.php?id=6044deb2-4f00-4e7d-b5d5-943fe518b2ce
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F495_1j39p5ccv415.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34003_1j0ytnk9yw25.png", 15/05-18:35 | Shenzhen Xinpengcheng vs Henan Football Club | BLV TỐNG GIANG
 http://pk79.io.vn/luongson/play.php?id=469644920
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F495_1j39p5ccv415.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34003_1j0ytnk9yw25.png", 15/05-18:35 | Shenzhen Xinpengcheng vs Henan Football Club | BLV MAYBACH
+http://pk79.io.vn/luongson/play.php?id=6044deb2-4f00-4e7d-b5d5-943fe518b2ce
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6673_1h8n2nv7tw23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F496_1h8qpaemwc10.png", 15/05-18:35 | Zhejiang Professional FC vs Shanghai Port | BLV TÔN LẬP
+http://pk79.io.vn/luongson/play.php?id=754b06cc-82c7-43d6-8fa0-f800640f87d7
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6673_1h8n2nv7tw23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F496_1h8qpaemwc10.png", 15/05-18:35 | Zhejiang Professional FC vs Shanghai Port | BLV NHỊ KA
+http://pk79.io.vn/luongson/play.php?id=359644929
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F81_1gy3vkgfwn2t.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36861_1gy3vkgfwve.PNG", 15/05-18:35 | Chengdu Rongcheng FC vs Tianjin Tigers | BLV PHI HỔ
 http://pk79.io.vn/luongson/play.php?id=479644921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F81_1gy3vkgfwn2t.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36861_1gy3vkgfwve.PNG", 15/05-18:35 | Chengdu Rongcheng FC vs Tianjin Tigers | BLV TRIỆU TỬ LONG
 http://pk79.io.vn/luongson/play.php?id=5ad1a493-8537-4cd2-96f1-1a2c381304e1
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36_1jr565tbs5z.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37_1gy3vkgfwg2p.png", 15/05-19:00 | Qingdao Manatee vs Beijing Guoan | BLV LƯU BỊ
+http://pk79.io.vn/luongson/play.php?id=609bfa97-2aa6-4c08-a032-a3ec5c960291
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F36_1jr565tbs5z.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37_1gy3vkgfwg2p.png", 15/05-19:00 | Qingdao Manatee vs Beijing Guoan | BLV URA
+http://pk79.io.vn/luongson/play.php?id=489644922
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F20319_1jr56cj6pv19.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41556_1h1n1m7x0f8.png", 15/05-19:00 | Qingdao West Coast vs Dalian Zhixing | BLV VÕ TÒNG
 http://pk79.io.vn/luongson/play.php?id=499644923
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17200_1k2be3xn312r.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3401_164941022544.png", 15/05-19:00 | Arema FC vs PSBS Biak | BLV LÝ ỨNG
@@ -701,7 +696,246 @@ http://pk79.io.vn/luongson/play.php?id=363462821
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17200_1k2be3xn312r.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3401_164941022544.png", 15/05-19:00 | Arema FC vs PSBS Biak | BLV QUAN VŨ
 http://pk79.io.vn/luongson/play.php?id=ea93ee29-1ba7-473d-a0fd-f4cecb505091
 
-
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn không lời từ dương cầm cho không gian yên ắng
+http://pk79.io.vn/myclip/play.php?id=12241672
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Anh Xin Nhận Hết - Quách Thành Danh
+http://pk79.io.vn/myclip/play.php?id=11984851
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hứa Với Em - Nguyễn Huy
+http://pk79.io.vn/myclip/play.php?id=11674541
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn nhẹ nhàng cho buổi chiều thư giãn
+http://pk79.io.vn/myclip/play.php?id=12246754
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đêm Nằm Nhớ Mẹ - Lê Huy
+http://pk79.io.vn/myclip/play.php?id=11984881
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | An Phận - Dương Hồng Loan
+http://pk79.io.vn/myclip/play.php?id=11984854
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano không lời cho những đêm an nhiên
+http://pk79.io.vn/myclip/play.php?id=12244153
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ước Chi Em Sẽ (Remix)_Thanh Goll
+http://pk79.io.vn/myclip/play.php?id=11874227
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Anh Rất Khó_Trương Ỹ Vân
+http://pk79.io.vn/myclip/play.php?id=11755928
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano không lời cho buổi sáng trong lành
+http://pk79.io.vn/myclip/play.php?id=12244234
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Út_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930893
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xa Nhà_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11815202
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh piano ấm áp cho những ngày bình yên
+http://pk79.io.vn/myclip/play.php?id=12244180
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bốn Mùa Cha Mẹ_Sơn Hạ.
+http://pk79.io.vn/myclip/play.php?id=12043222
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hương Tình Phai - Nhật Phong Lãng
+http://pk79.io.vn/myclip/play.php?id=11674550
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano thư giãn cho những ngày nhiều suy nghĩ
+http://pk79.io.vn/myclip/play.php?id=12241636
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tấm Áo Không Lành - Phi Bằng.
+http://pk79.io.vn/myclip/play.php?id=11689679
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đính Ước_Yến Ly - Lâm Hùng
+http://pk79.io.vn/myclip/play.php?id=11874197
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm êm đềm cho những phút giây thư giãn
+http://pk79.io.vn/myclip/play.php?id=12241609
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Về miền Tây_Yến Ly
+http://pk79.io.vn/myclip/play.php?id=11874233
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Dẫu Con Nơi Xa_Băng Tình
+http://pk79.io.vn/myclip/play.php?id=12081352
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn dương cầm không lời cho buổi sáng cuối tuần
+http://pk79.io.vn/myclip/play.php?id=12241711
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chôn Vùi Tình Đầu_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11930932
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | An Phận - Dương Hồng Loan
+http://pk79.io.vn/myclip/play.php?id=11984854
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn nhạc piano không lời cho không gian yên ả
+http://pk79.io.vn/myclip/play.php?id=12244192
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Phụ Tình Nhau_Diễm Thùy
+http://pk79.io.vn/myclip/play.php?id=12038614
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Để Mất Đi Mới Hối Tiếc_Dương Nhất Linh
+http://pk79.io.vn/myclip/play.php?id=12081328
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano ấm áp cho khoảnh khắc nghỉ ngơi
+http://pk79.io.vn/myclip/play.php?id=12241705
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đã Mất (Ballad Ver)_Quốc Cường
+http://pk79.io.vn/myclip/play.php?id=11874188
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Anh Rất Khó_Trương Ỹ Vân
+http://pk79.io.vn/myclip/play.php?id=11755928
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn sâu lắng cho buổi chiều lặng lẽ
+http://pk79.io.vn/myclip/play.php?id=12241744
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức Họa Làng Quê_Trang Anh Thơ
+http://pk79.io.vn/myclip/play.php?id=12038590
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Làm Theo Di Chúc Thiêng Liêng - Nguyễn Duyên Quỳnh
+http://pk79.io.vn/myclip/play.php?id=11674574
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano thanh thoát cho buổi chiều tĩnh lặng
+http://pk79.io.vn/myclip/play.php?id=12244207
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Một Người Yêu Một Người Duy Nhất_Quốc Cường
+http://pk79.io.vn/myclip/play.php?id=11930956
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Liêu Xiêu Đường Tình - Như Hoa - Bảo Hưng
+http://pk79.io.vn/myclip/play.php?id=11984905
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm êm ái cho tâm trạng nhẹ nhàng
+http://pk79.io.vn/myclip/play.php?id=12241741
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Rồi Mọi Thứ Sẽ Trở Lại Bình Thường - Hamlet Trương.
+http://pk79.io.vn/myclip/play.php?id=11689655
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chôn Vùi Tình Đầu_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11930932
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm tinh tế cho tâm hồn thư giãn
+http://pk79.io.vn/myclip/play.php?id=12241702
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đàn Bà Bạc Tiền Lợi Danh_Bảo Hưng
+http://pk79.io.vn/myclip/play.php?id=12038569
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Luật Cho Người Thay Thế (Lofi Ver)_Hamlet Trương
+http://pk79.io.vn/myclip/play.php?id=12081385
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời tinh tế cho giờ nghỉ trưa
+http://pk79.io.vn/myclip/play.php?id=12244186
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tết Nghèo - Nhật Phong Lãng.
+http://pk79.io.vn/myclip/play.php?id=11689700
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Gieo Chữ Đắng_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11755982
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm thanh thoát cho buổi sáng dịu dàng
+http://pk79.io.vn/myclip/play.php?id=12241624
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Không Suy Tư (Remix)_Peto
+http://pk79.io.vn/myclip/play.php?id=12038566
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Sài Gòn Không Em - Đức Tuấn.
+http://pk79.io.vn/myclip/play.php?id=11689661
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm trầm lắng cho buổi tối nhiều cảm xúc
+http://pk79.io.vn/myclip/play.php?id=12241666
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Yêu Em Hơn_Yuki Huy Nam
+http://pk79.io.vn/myclip/play.php?id=12038584
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Thằng Em Tôi_Phi Bằng Ft Thiên Quang
+http://pk79.io.vn/myclip/play.php?id=11930902
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn không lời từ dương cầm cho không gian yên ắng
+http://pk79.io.vn/myclip/play.php?id=12241672
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Buồn Bên Song Cửa_Huy Thái
+http://pk79.io.vn/myclip/play.php?id=12038593
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Duyên Trời Phận Ta_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11755925
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời nhẹ nhàng cho tâm hồn an yên
+http://pk79.io.vn/myclip/play.php?id=12244156
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lòng Người Thay Đổi - Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11674583
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bao Lần Em Khóc Remix_Kim Ny Ngọc
+http://pk79.io.vn/myclip/play.php?id=12081394
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano không lời cho buổi tối dịu nhẹ
+http://pk79.io.vn/myclip/play.php?id=12246766
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chắp Tay Lạy Người_Diễm Thùy
+http://pk79.io.vn/myclip/play.php?id=12038602
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bốn Mùa Cha Mẹ_Sơn Hạ.
+http://pk79.io.vn/myclip/play.php?id=12043222
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những thanh âm dương cầm giúp tâm trí lắng lại
+http://pk79.io.vn/myclip/play.php?id=12244189
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tấm Áo Không Lành - Phi Bằng.
+http://pk79.io.vn/myclip/play.php?id=11689679
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xin Trả Cho Anh_Bella Phương Phạm
+http://pk79.io.vn/myclip/play.php?id=11930908
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm dịu nhẹ cho không gian thư thái
+http://pk79.io.vn/myclip/play.php?id=12244231
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Thương Khổ Qua Đèo - Thiên Trường
+http://pk79.io.vn/myclip/play.php?id=11984926
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Gieo Chữ Đắng_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11755982
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm êm ái cho tâm trạng nhẹ nhàng
+http://pk79.io.vn/myclip/play.php?id=12241741
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Công Ơn Của Mẹ_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930896
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xa Nhà_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11815202
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm êm đềm cho những phút giây thư giãn
+http://pk79.io.vn/myclip/play.php?id=12241609
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đêm Tâm Sự_Duy Khương
+http://pk79.io.vn/myclip/play.php?id=12081412
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Duyên Trời Phận Ta_Duy Minh
+http://pk79.io.vn/myclip/play.php?id=11755925
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập nhạc không lời từ piano cho lúc làm việc nhẹ nhàng
+http://pk79.io.vn/myclip/play.php?id=12244210
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Sự Thật Em Không Muốn - Trương Ỹ Vân.
+http://pk79.io.vn/myclip/play.php?id=11689676
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nụ Cười Là Phép Màu _ Hamlet Trương.
+http://pk79.io.vn/myclip/play.php?id=11689634
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh piano sâu lắng cho khoảnh khắc nghỉ ngơi
+http://pk79.io.vn/myclip/play.php?id=12241618
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nửa Đêm Ngoài Phố_Dương Hồng Loan
+http://pk79.io.vn/myclip/play.php?id=12081388
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hương Tình Phai - Nhật Phong Lãng
+http://pk79.io.vn/myclip/play.php?id=11674550
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano không lời dành cho không gian yên tĩnh
+http://pk79.io.vn/myclip/play.php?id=12241747
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đàn Bà Bạc Tiền Lợi Danh_Bảo Hưng
+http://pk79.io.vn/myclip/play.php?id=12038569
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đính Ước_Yến Ly - Lâm Hùng
+http://pk79.io.vn/myclip/play.php?id=11874197
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn dịu êm cho khoảnh khắc tĩnh tâm
+http://pk79.io.vn/myclip/play.php?id=12244159
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Vũ Khúc Đam Mê_Sơn Hạ
+http://pk79.io.vn/myclip/play.php?id=11874236
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Út_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930893
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập tiếng dương cầm thư giãn cho tinh thần cân bằng
+http://pk79.io.vn/myclip/play.php?id=12241684
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Em vẫn còn đau_Võ Kiều Vân
+http://pk79.io.vn/myclip/play.php?id=12038665
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mùa Thu Năm Ấy_Hồ Trung Dũng
+http://pk79.io.vn/myclip/play.php?id=11815184
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh không lời dịu nhẹ cho tâm trạng thư thái
+http://pk79.io.vn/myclip/play.php?id=12241645
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bông Ô Môi - Dương Hồng Loan Ft Dương Ngọc Thái
+http://pk79.io.vn/myclip/play.php?id=11984866
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Để Mất Đi Mới Hối Tiếc_Dương Nhất Linh
+http://pk79.io.vn/myclip/play.php?id=12081328
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc piano trong trẻo cho buổi sáng nhẹ nhàng
+http://pk79.io.vn/myclip/play.php?id=12246715
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/s2-image3/2019/07/27/1564229446177/8b3a930fc21b_180_180.jpg", G5R Squad | Giá Như : Jombie ft Bean || Prod. SinKra (Audio Lyrics)
+http://pk79.io.vn/myclip/play.php?id=11760794
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tâm Sự Người Say_Quách Thành Danh
+http://pk79.io.vn/myclip/play.php?id=12081391
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano không lời cho không gian làm việc yên bình
+http://pk79.io.vn/myclip/play.php?id=12246760
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tân Cổ Xuân Xa Xứ - Sơn Hạ.
+http://pk79.io.vn/myclip/play.php?id=11689691
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Vó Ngựa Trên Đồi Cỏ Non (Remix)_Kim Ny Ngọc Ft Lương Gia Huy
+http://pk79.io.vn/myclip/play.php?id=11930968
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh piano ấm áp cho những ngày bình yên
+http://pk79.io.vn/myclip/play.php?id=12244180
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Công Ơn Của Mẹ_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930896
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hai Lối Mộng (Liveshow Thương Quá Việt Nam)_Lưu Ánh Loan - Lâm Huỳnh
+http://pk79.io.vn/myclip/play.php?id=11756003
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano không lời cho buổi tối bình lặng
+http://pk79.io.vn/myclip/play.php?id=12241642
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đã Mất (Ballad Ver)_Quốc Cường
+http://pk79.io.vn/myclip/play.php?id=11874188
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Cung Đàn Có Em_Lê Sang
+http://pk79.io.vn/myclip/play.php?id=12038608
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn chậm rãi cho tâm trạng thư thái
+http://pk79.io.vn/myclip/play.php?id=12244204
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Biết Em Đã Thất Vọng Ra Sao (Beat)_Ki An
+http://pk79.io.vn/myclip/play.php?id=11874161
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Buồn Bên Song Cửa_Huy Thái
+http://pk79.io.vn/myclip/play.php?id=12038593
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn không lời mang lại cảm giác dễ chịu
+http://pk79.io.vn/myclip/play.php?id=12241615
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hai Chữ Giàu Sang_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11815163
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chị Hai_Hamlet Trương
+http://pk79.io.vn/myclip/play.php?id=12038563
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập nhạc piano không lời cho không gian làm việc yên tĩnh
+http://pk79.io.vn/myclip/play.php?id=12241612
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Thà Chưa Từng Quen (Liveshow Thương Quá Việt Nam 1) - Mai Tuấn Ft Trịnh Tuyết Hương
+http://pk79.io.vn/myclip/play.php?id=11984923
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Cành phi yến trong mưa_ Khởi My
+http://pk79.io.vn/myclip/play.php?id=12038596
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano không lời nhẹ nhàng cho buổi chiều yên ả
+http://pk79.io.vn/myclip/play.php?id=12241606
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Dẫu Con Nơi Xa_Băng Tình
+http://pk79.io.vn/myclip/play.php?id=12081352
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hình Bóng Quê Nhà (Remix)_Quách Thành Danh Ft Saka Trương Tuyền
+http://pk79.io.vn/myclip/play.php?id=12038581
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm êm đềm cho những phút giây thư giãn
+http://pk79.io.vn/myclip/play.php?id=12241609
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hương Quê (Liveshow Thương Quá Việt Nam 2) - Hồ Quang Lộc
+http://pk79.io.vn/myclip/play.php?id=11674544
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lỡ Làng Duyên Em (Thành Đạt)
+http://pk79.io.vn/myclip/play.php?id=11757173
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời từ phím đàn piano cho không gian yên bình
+http://pk79.io.vn/myclip/play.php?id=12241630
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Phố Đêm - Nguyễn Hiền.
+http://pk79.io.vn/myclip/play.php?id=11689688
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Càng Đau Càng Trưởng Thành_Thiên Trường
+http://pk79.io.vn/myclip/play.php?id=12081406
 
 #EXTINF:0 group-title="plus1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
@@ -1163,11 +1397,11 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-bk
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/slider_1778646257686.jpg" group-title="⭐Sự kiện FPT OTT",19/05 - 01:40 - Arsenal - Burnley: Fan cứng
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-4k-bk
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://img0.aiscore.com/football/team/1a8f6804d270ebaae547b3b00638db68.png!w60",🔴 22:00 - 14.05 | Ngoại Hạng Ethiopia | Mechal FC  vs Negele Arsi Ketema
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://img0.aiscore.com/football/team/1a8f6804d270ebaae547b3b00638db68.png!w60",22:00 - 14.05 | Ngoại Hạng Ethiopia | Mechal FC  vs Negele Arsi Ketema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/map-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",🔴 22:00 - 14.05 | Cúp Đan Mạch | FC København vs FC Midtjylland
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",22:00 - 14.05 | Cúp Đan Mạch | FC København vs FC Midtjylland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/my-sd/playlist.m3u8
@@ -1179,7 +1413,7 @@ https://edgemaxcdn-1.bongco50.xyz/live/teppy-sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/rang-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",00:00 - 15.05 | LaLiga | Valencia vs Rayo Vallecano
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",🔴 00:00 - 15.05 | LaLiga | Valencia vs Rayo Vallecano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
@@ -1468,9 +1702,9 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="/vimages/345x194/4e/ec/c9/98/88/84/4ec98-llivelaligavalenciavsrayovallecano1920bafejpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 15/05/2026 00:00 | Valencia vs Rayo Vallecano Vòng 36 Laliga 2025/26 
+#EXTINF:-1 tvg-logo="/vimages/345x194/4e/ec/c9/98/88/84/4ec98-llivelaligavalenciavsrayovallecano1920bafejpg-content-mytv.jpg" group-title="MyTV Event", 🔴 15/05/2026 00:00 | Valencia vs Rayo Vallecano Vòng 36 Laliga 2025/26 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=823
-#EXTINF:-1 tvg-logo="/vimages/345x194/cf/fb/b1/17/73/3e/cfb17-lgolfpga1920round1ebf5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 15/05/2026 00:00 | PGA Championship 2026   Round 1
+#EXTINF:-1 tvg-logo="/vimages/345x194/cf/fb/b1/17/73/3e/cfb17-lgolfpga1920round1ebf5jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 15/05/2026 00:00 | PGA Championship 2026   Round 1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=632
 #EXTINF:-1 tvg-logo="/vimages/345x194/a2/20/02/2e/ea/a9/a202e-llivelaligagironavsrealsociedad1920687ajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 15/05/2026 01:00 | Girona vs Real Sociedad Vòng 36 Laliga 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=829
@@ -1616,30 +1850,6 @@ http://pk79.io.vn/tv360/play360.php?id=sk7
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/14/09/1778726993154/eaaca43c48a1_640_360.jpg", 17/05-18:00 | PVF-CAND vs Hà Nội TV360+ 10 17.5
 http://pk79.io.vn/tv360/play360.php?id=sk10
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV A WIN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV A TÚ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV VOI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV A TINH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV WUKONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - CR Bưởi
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: Ljungskile - GIF Sundsvall (SWE D2) - A PÁO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: Ljungskile - GIF Sundsvall (SWE D2) - BLV LUCAS
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:55-14/05: Al Fateh SC - Al Najma(KSA) (KSA PR) - BLV ALEX
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
@@ -2156,546 +2366,123 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=595715
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-15/05: FK Riteriai - FK Panevezys (LIT D1) - BLV ANH TÀI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV A WIN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV A TÚ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV VOI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV A TINH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - BLV WUKONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: FC Copenhagen - Midtjylland (DEN CUP) - CR Bưởi
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: Ljungskile - GIF Sundsvall (SWE D2) - A PÁO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-14/05: Ljungskile - GIF Sundsvall (SWE D2) - BLV LUCAS
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:55-14/05: Al Fateh SC - Al Najma(KSA) (KSA PR) - BLV ALEX
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:55-14/05: Al Fateh SC - Al Najma(KSA) (KSA PR) - QUỐC KHÁNH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:55-14/05: Al Fateh SC - Al Najma(KSA) (KSA PR) - BLV LONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:55-14/05: Al Fateh SC - Al Najma(KSA) (KSA PR) - BLV MIXI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=290928
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:55-14/05: Al Fateh SC - Al Najma(KSA) (KSA PR) - BLV PEWPEW
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=109053
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:55-14/05: Al Fateh SC - Al Najma(KSA) (KSA PR) - BLV ROBBEN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 23:30-14/05: CSKA Moscow - Lokomotiv Kuban (VTBUL) - KING
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-15/05: Valencia CF - Rayo Vallecano (SPA D1) - DECO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-15/05: Valencia CF - Rayo Vallecano (SPA D1) - A BỆU
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-15/05: Valencia CF - Rayo Vallecano (SPA D1) - BLV Củ Cải
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-15/05: Valencia CF - Rayo Vallecano (SPA D1) - BLV ENZO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-15/05: Valencia CF - Rayo Vallecano (SPA D1) - BLV TOMMY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-15/05: Valencia CF - Rayo Vallecano (SPA D1) - CR Bưởi
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 00:00-15/05: Bilbao - Real Madrid (ACB) - HUNTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 00:00-15/05: Bilbao - Real Madrid (ACB) - A CHÈ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:15-15/05: Lokomotiv Sofia - Beroe Stara Zagora (BUL D1) - BLV LION
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:15-15/05: Lokomotiv Sofia - Beroe Stara Zagora (BUL D1) - PINKMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=595715
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:15-15/05: Lokomotiv Sofia - Beroe Stara Zagora (BUL D1) - NGƯỜI CÁ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Girona FC - Real Sociedad (SPA D1) - CÔNG CHẤT
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Girona FC - Real Sociedad (SPA D1) - BLV COZY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=531989
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Girona FC - Real Sociedad (SPA D1) - BLV COCA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Girona FC - Real Sociedad (SPA D1) - BLV VITAMIN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=400722
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Girona FC - Real Sociedad (SPA D1) - THẠCH TÚ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Girona FC - Real Sociedad (SPA D1) - BLV KAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=283501
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Ettifaq FC - Al Ittihad Club (KSA PR) - BLV A WIN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Ettifaq FC - Al Ittihad Club (KSA PR) - BLV A TÚ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Ettifaq FC - Al Ittihad Club (KSA PR) - BLV CÁO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Ettifaq FC - Al Ittihad Club (KSA PR) - CHANH MUỐI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598549
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Qadsiah - Al Hazem (KSA PR) - BLV VOI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Qadsiah - Al Hazem (KSA PR) - BLV A TINH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Qadsiah - Al Hazem (KSA PR) - BLV WUKONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-15/05: Al Qadsiah - Al Hazem (KSA PR) - LOKA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-15/05: Real Madrid - Real Oviedo (SPA D1) - BLV ALEX
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-15/05: Real Madrid - Real Oviedo (SPA D1) - QUỐC KHÁNH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-15/05: Real Madrid - Real Oviedo (SPA D1) - BLV LONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-15/05: Real Madrid - Real Oviedo (SPA D1) - BLV TOMMY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-15/05: Real Madrid - Real Oviedo (SPA D1) - BLV PEWPEW
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=109053
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:30-15/05: Real Madrid - Real Oviedo (SPA D1) - BLV ROBBEN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 04:00-15/05: Chapecoense - SC - Botafogo - RJ (BRA Cup) - BLV ANH TÀI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 04:00-15/05: Chapecoense - SC - Botafogo - RJ (BRA Cup) - BLV LUCAS
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: Atletico Clube Goianiense - Athletico Paranaense - PR (BRA Cup) - BLV THÓC
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=606448
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: Atletico Clube Goianiense - Athletico Paranaense - PR (BRA Cup) - ĐỖ TÚ TÀI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: AD Confiança - Grêmio - RS (BRA Cup) - BLV CHIVAS
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: AD Confiança - Grêmio - RS (BRA Cup) - BLV SATIVA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: Real Potosi - Academia del Balompié Boliviano (BOL D1) - MONEY MAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=605412
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: Real Potosi - Academia del Balompié Boliviano (BOL D1) - BLV YONE
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=372746
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: Tigres Zipaquira - Envigado FC (COL D2) - VỊT BẠC
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=474421
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-15/05: Tigres Zipaquira - Envigado FC (COL D2) - BLV GÔN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=445260
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:30-15/05: Corinthians - SP - Barra FC (BRA Cup) - XUÂN SON
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:30-15/05: Corinthians - SP - Barra FC (BRA Cup) - BLV NẤM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=608899
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:00-15/05: Oriente Petrolero - Club Guabira (BOL D1) - BLV RYO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602019
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:00-15/05: Oriente Petrolero - Club Guabira (BOL D1) - TYPN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=170430
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-15/05: Dallas Wings W - Minnesota Lynx W (WNBA) - BLV HENRY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-15/05: Dallas Wings W - Minnesota Lynx W (WNBA) - KING
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-15/05: Dallas Wings W - Minnesota Lynx W (WNBA) - CHAN SENA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:00-15/05: Reales de la Vega - Marineros (DLNB) - BRIAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-15/05: CRB AL - Fortaleza (BRA Cup) - BLV THÓC
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=606448
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-15/05: CRB AL - Fortaleza (BRA Cup) - ĐỖ TÚ TÀI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-15/05: Vitória - BA - Flamengo - RJ (BRA Cup) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534219
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-15/05: Vitória - BA - Flamengo - RJ (BRA Cup) - BLV CUỘI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-15/05: Vitória - BA - Flamengo - RJ (BRA Cup) - LOGAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552832
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-15/05: Vitória - BA - Flamengo - RJ (BRA Cup) - BLV TOMIA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:45-15/05: Quindio - Inter Palmira (COL D2) - BLV ĐỐM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:45-15/05: Quindio - Inter Palmira (COL D2) - BLV CHIVAS
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:45-15/05: Quindio - Inter Palmira (COL D2) - BLV SATIVA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:45-15/05: Quindio - Inter Palmira (COL D2) - LÃO LÂM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-15/05: Pachuca - Pumas U.N.A.M. (MEX D1) - BLV COCA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-15/05: Pachuca - Pumas U.N.A.M. (MEX D1) - TẠ BIÊN GIỚI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-15/05: Pachuca - Pumas U.N.A.M. (MEX D1) - TAM MAO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=113906
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-15/05: Pachuca - Pumas U.N.A.M. (MEX D1) - BLV TAP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-15/05: Pachuca - Pumas U.N.A.M. (MEX D1) - BLV PIRLO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:00-15/05: Pachuca - Pumas U.N.A.M. (MEX D1) - RICKHANTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-15/05: Portland Fire W - New York Liberty W (WNBA) - BLV HENRY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-15/05: Portland Fire W - New York Liberty W (WNBA) - KING
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-15/05: Portland Fire W - New York Liberty W (WNBA) - CHAN SENA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-15/05: Portland Fire W - New York Liberty W (WNBA) - BRIAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-15/05: Portland Fire W - New York Liberty W (WNBA) - HUNTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-15/05: Portland Fire W - New York Liberty W (WNBA) - A CHÈ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-15/05: Tauranga Whai - Manawatu Jets (NZBL) - BLV HENRY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-15/05: Tauranga Whai - Manawatu Jets (NZBL) - CHAN SENA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-15/05: Tauranga Whai - Manawatu Jets (NZBL) - BRIAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-15/05: Tauranga Whai - Manawatu Jets (NZBL) - HUNTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-15/05: Tauranga Whai - Manawatu Jets (NZBL) - A CHÈ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-15/05: Semen Padang - Persebaya Surabaya (IDN D1) - TẠ BIÊN GIỚI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-15/05: Semen Padang - Persebaya Surabaya (IDN D1) - BLV TOMMY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-15/05: Semen Padang - Persebaya Surabaya (IDN D1) - CR Bưởi
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-15/05: Semen Padang - Persebaya Surabaya (IDN D1) - BLV PIRLO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-15/05: Semen Padang - Persebaya Surabaya (IDN D1) - BLV ĐỐM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:30-15/05: Semen Padang - Persebaya Surabaya (IDN D1) - BLV COCA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:00-15/05: Penang FC - DPMM FC (MAS SL) - BLV FIREMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:00-15/05: Penang FC - DPMM FC (MAS SL) - TYPN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=170430
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:15-15/05: Brisbane Roar Youth - Queensland Lions SC (AUS NPLQ) - BLV GÔN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=445260
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:15-15/05: Brisbane Roar Youth - Queensland Lions SC (AUS NPLQ) - BLV RYO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602019
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Green Gully Cavaliers - Melbourne City NPL (Aus VPL) - BLV CÁO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Green Gully Cavaliers - Melbourne City NPL (Aus VPL) - BLV NẤM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=608899
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Sydney FC Youth - Sydney Olympic (AUS NSW) - BLV RAMBO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Sydney FC Youth - Sydney Olympic (AUS NSW) - SAO LA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=462413
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Brisbane Wolves - Eastern Suburbs Brisbane (AUS NPLQ) - TRÀ ĐÁ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Brisbane Wolves - Eastern Suburbs Brisbane (AUS NPLQ) - BLV VIP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Peninsula Power - Gold Coast Knights (AUS NPLQ) - Đình Bắc
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=579144
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-15/05: Peninsula Power - Gold Coast Knights (AUS NPLQ) - BLV CÒ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-15/05: Adelaide United - Auckland FC (AUS D1) - BLV RÔSI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-15/05: Adelaide United - Auckland FC (AUS D1) - LOGAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552832
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-15/05: Adelaide United - Auckland FC (AUS D1) - DECO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-15/05: Adelaide United - Auckland FC (AUS D1) - RICKHANTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-15/05: Adelaide United - Auckland FC (AUS D1) - BLV Củ Cải
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:35-15/05: Adelaide United - Auckland FC (AUS D1) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534219
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:45-15/05: Dandenong City SC - Oakleigh Cannons (Aus VPL) - NGƯỜI CÁ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:45-15/05: Dandenong City SC - Oakleigh Cannons (Aus VPL) - CHÈ XANH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=605223
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-15/05: Maitland - Cooks Hill United (AUS NNSW) - BLV LION
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-15/05: Maitland - Cooks Hill United (AUS NNSW) - PINKMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=595715
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:00-15/05: Nagasaki - Chiba (JB1) - BLV HENRY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:00-15/05: Nagasaki - Chiba (JB1) - A CHÈ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:00-15/05: Ryukyu - Diamond Dolphins (JB1) - BRIAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-15/05: Bentleigh greens - Heidelberg United (Aus VPL) - BLV XO
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Kolding FC - Lyngby (DEN D1) - BLV XO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:30-15/05: Bentleigh greens - Heidelberg United (Aus VPL) - BLV A TINH
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Kolding FC - Lyngby (DEN D1) - CHANH MUỐI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-15/05: Cong An Ho Chi Minh City - SHB Da Nang (VIE D1) - LOKA
+https://vpsttt.vietanhtv.top/socolive/get.php?id=598549
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: HNK Vukovar 1991 - NK Varteks Varazdin (CRO D1) - BLV RAMBO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-15/05: Cong An Ho Chi Minh City - SHB Da Nang (VIE D1) - CÔNG CHẤT
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-15/05: Cong An Ho Chi Minh City - SHB Da Nang (VIE D1) - BLV COZY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=531989
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-15/05: Cong An Ho Chi Minh City - SHB Da Nang (VIE D1) - BLV BÉO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-15/05: Cong An Ho Chi Minh City - SHB Da Nang (VIE D1) - BLV VITAMIN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=400722
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-15/05: Cong An Ho Chi Minh City - SHB Da Nang (VIE D1) - BLV MIXI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=290928
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-15/05: PVF-CAND B - Ho Chi Minh City (VIE D2) - BLV WUKONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-15/05: Sabah FC - Terengganu FC (MAS SL) - ĐỖ TÚ TÀI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Shanghai Port - Zhejiang Professional FC (CHA SL) - BLV PIRLO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Shanghai Port - Zhejiang Professional FC (CHA SL) - TYPN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=170430
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Shanghai Port - Zhejiang Professional FC (CHA SL) - QUỐC KHÁNH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Shanghai Port - Zhejiang Professional FC (CHA SL) - BLV ENZO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Shanghai Port - Zhejiang Professional FC (CHA SL) - BLV CUỘI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Shanghai Port - Zhejiang Professional FC (CHA SL) - SAO LA
+https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: HNK Vukovar 1991 - NK Varteks Varazdin (CRO D1) - SAO LA
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=462413
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Henan FC - Shenzhen Peng City (CHA SL) - A PÁO
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Zaglebie Lubin - Pogon Szczecin (POL D1) - BLV A WIN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=235232
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Henan FC - Shenzhen Peng City (CHA SL) - MONEY MAN
+https://vpsttt.vietanhtv.top/socolive/get.php?id=536185
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Zaglebie Lubin - Pogon Szczecin (POL D1) - BLV A TÚ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=605412
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Henan FC - Shenzhen Peng City (CHA SL) - XUÂN SON
+https://vpsttt.vietanhtv.top/socolive/get.php?id=557845
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Torpedo Kutaisi - Dila Gori (GEO D1) - Đình Bắc
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Henan FC - Shenzhen Peng City (CHA SL) - HẢI THANH
+https://vpsttt.vietanhtv.top/socolive/get.php?id=579144
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Torpedo Kutaisi - Dila Gori (GEO D1) - HẢI THANH
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=599634
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Tianjin Jinmen Tiger - Chengdu Rongcheng (CHA SL) - A BỆU
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Tianjin Jinmen Tiger - Chengdu Rongcheng (CHA SL) - BLV TOMIA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Tianjin Jinmen Tiger - Chengdu Rongcheng (CHA SL) - VƯƠNG ANH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=548860
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Tianjin Jinmen Tiger - Chengdu Rongcheng (CHA SL) - TAM MAO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=113906
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Tianjin Jinmen Tiger - Chengdu Rongcheng (CHA SL) - BLV KAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=283501
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:35-15/05: Tianjin Jinmen Tiger - Chengdu Rongcheng (CHA SL) - BLV MESSI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 18:35-15/05: Shanghai - Beijing (CBA) - CHAN SENA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Beijing Guoan - Qingdao Hainiu (CHA SL) - BLV KEM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=513394
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Beijing Guoan - Qingdao Hainiu (CHA SL) - BLV LONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Beijing Guoan - Qingdao Hainiu (CHA SL) - THẠCH TÚ
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Japan U17 - Tajikistan U17 (AFC U17) - THẠCH TÚ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Beijing Guoan - Qingdao Hainiu (CHA SL) - CR Bưởi
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Japan U17 - Tajikistan U17 (AFC U17) - LOGAN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Beijing Guoan - Qingdao Hainiu (CHA SL) - LÃO LÂM
+https://vpsttt.vietanhtv.top/socolive/get.php?id=552832
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Japan U17 - Tajikistan U17 (AFC U17) - BLV ROBBEN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Beijing Guoan - Qingdao Hainiu (CHA SL) - BLV ĐỐM
+https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Japan U17 - Tajikistan U17 (AFC U17) - BLV COZY
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Dalian Yingbo - Qingdao West Coast (CHA SL) - VỊT BẠC
+https://vpsttt.vietanhtv.top/socolive/get.php?id=531989
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Japan U17 - Tajikistan U17 (AFC U17) - BLV BÉO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=474421
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Dalian Yingbo - Qingdao West Coast (CHA SL) - BLV GÔN
+https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-15/05: Japan U17 - Tajikistan U17 (AFC U17) - BLV ENZO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=445260
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: Dalian Yingbo - Qingdao West Coast (CHA SL) - BLV LUCAS
+https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:15-15/05: Damac - Al Fayha (KSA PR) - LOKA
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: PSBS Biak Numfor - Arema FC (IDN D1) - CHÈ XANH
+https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:15-15/05: Damac - Al Fayha (KSA PR) - DECO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=605223
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: PSBS Biak Numfor - Arema FC (IDN D1) - BLV VOI
+https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:15-15/05: Damac - Al Fayha (KSA PR) - BLV ALEX
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: PSBS Biak Numfor - Arema FC (IDN D1) - BLV CÒ
+https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:15-15/05: Damac - Al Fayha (KSA PR) - BLV Củ Cải
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-15/05: PSBS Biak Numfor - Arema FC (IDN D1) - BLV FIREMAN
+https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:15-15/05: Damac - Al Fayha (KSA PR) - TẠ BIÊN GIỚI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 19:00-15/05: Bulacan Kuyas - Manila Batang Quiapo (MPBL) - HUNTER
+https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:15-15/05: Damac - Al Fayha (KSA PR) - BLV MIXI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=290928
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:00-16/05: Cleveland Cavaliers - Detroit Pistons (NBA) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:00-16/05: Cleveland Cavaliers - Detroit Pistons (NBA) - KING
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:00-16/05: Cleveland Cavaliers - Detroit Pistons (NBA) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:00-16/05: Cleveland Cavaliers - Detroit Pistons (NBA) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 06:00-16/05: Cleveland Cavaliers - Detroit Pistons (NBA) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-16/05: Minnesota Timberwolves - San Antonio Spurs (NBA) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-16/05: Minnesota Timberwolves - San Antonio Spurs (NBA) - KING
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-16/05: Minnesota Timberwolves - San Antonio Spurs (NBA) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-16/05: Minnesota Timberwolves - San Antonio Spurs (NBA) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-16/05: Minnesota Timberwolves - San Antonio Spurs (NBA) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-16/05: Taranaki Airs - Wellington Saints (NZBL) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 11:00-16/05: Taranaki Airs - Wellington Saints (NZBL) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-16/05: Otago Nuggets - Auckland Tuatara (NZBL) - BLV HENRY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-16/05: Otago Nuggets - Auckland Tuatara (NZBL) - CHAN SENA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:30-16/05: Otago Nuggets - Auckland Tuatara (NZBL) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 15:05-16/05: Ryukyu - Diamond Dolphins (JB1) - KING
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 15:05-16/05: Ryukyu - Diamond Dolphins (JB1) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 17:00-16/05: Bacolod Masskara - San Juan Knights (MPBL) - BRIAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 19:00-16/05: Bataan Risers - Binan Tatak Gel (MPBL) - HUNTER
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-15/05: Shillong Lajong FC - Rajasthan United FC (IND D1) - BLV VIP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-15/05: Shillong Lajong FC - Rajasthan United FC (IND D1) - TRÀ ĐÁ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:45-15/05: Union Saint-Gilloise - Anderlecht (BEL Cup) - BLV FIREMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:45-15/05: Union Saint-Gilloise - Anderlecht (BEL Cup) - BLV TAP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:45-15/05: Union Saint-Gilloise - Anderlecht (BEL Cup) - BLV SATIVA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-15/05: Mohammedan SC - Mumbai City FC (IND SL) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534219
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-15/05: Mohammedan SC - Mumbai City FC (IND SL) - BLV CUỘI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-15/05: Mohammedan SC - Mumbai City FC (IND SL) - CR Bưởi
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-15/05: Mohammedan SC - Mumbai City FC (IND SL) - BLV MESSI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=494201
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-15/05: Mohammedan SC - Mumbai City FC (IND SL) - RICKHANTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-15/05: Mohammedan SC - Mumbai City FC (IND SL) - BLV TOMIA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-15/05: Grobina - Tukums-2000 (LAT D1) - BLV KEM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=513394
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-15/05: Grobina - Tukums-2000 (LAT D1) - VƯƠNG ANH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=548860
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-15/05: Grobina - Tukums-2000 (LAT D1) - BLV RÔSI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-15/05: Grobina - Tukums-2000 (LAT D1) - BLV PEWPEW
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=109053
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-15/05: FK Riteriai - FK Panevezys (LIT D1) - PINKMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=595715
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-15/05: FK Riteriai - FK Panevezys (LIT D1) - BLV ANH TÀI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
 
 #EXTINF:-1 tvg-id="Now Sport EPL 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_1920_1080" group-title="Sports-NHA",Now Sport EPL 1
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
@@ -3237,7 +3024,7 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/400.png", 🔴 14/05-22:00 | DBU Pokalen | FC Copenhagen vs FC Midtjylland | blvtieubao
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/400.png", 🏁 14/05-22:00 | DBU Pokalen | FC Copenhagen vs FC Midtjylland | blvtieubao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
@@ -3245,7 +3032,7 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_tieubaxa/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/532.png", ⚪ 15/05-00:00 | La Liga | Valencia vs Rayo Vallecano | blvdelua
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/532.png", 🔴 15/05-00:00 | La Liga | Valencia vs Rayo Vallecano | blvdelua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
