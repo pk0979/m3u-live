@@ -1313,15 +1313,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",06:30 - 17.05 | Major League Soccer | Philadelphia vs Columbus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10283_small.png",07:00 - 17.05 | VĐQG Brazil | Palmeiras vs Cruzeiro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8259_small.png",07:30 - 17.05 | Major League Soccer | Houston vs Vancouver
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
@@ -1330,6 +1322,10 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6603_small.png",09:30 - 17.05 | Major League Soccer | San Jose vs Dallas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://google.com
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162253_small.png",10:00 - 17.05 | NPL Men's NSW | Broadmeadow Magic vs Edgeworth Eagles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
@@ -1344,7 +1340,7 @@ https://google.com
 
 #EXTINF:-1 tvg-logo="/vimages/345x194/5b/b2/2f/fc/c4/4c/5b2fc-lgolfpga1920round20f49jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 16/05/2026 00:00 | PGA Championship 2026   Round 2
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=632
-#EXTINF:-1 tvg-logo="/vimages/345x194/30/09/91/16/63/38/30916-llivesaudialhilalvsneom192086b6jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 16/05/2026 00:45 | Al Hilal vs Neom ROSHN Saudi League 2025/26 Tuần 33
+#EXTINF:-1 tvg-logo="/vimages/345x194/30/09/91/16/63/38/30916-llivesaudialhilalvsneom192086b6jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 16/05/2026 00:45 | Al Hilal vs Neom ROSHN Saudi League 2025/26 Tuần 33
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=633
 #EXTINF:-1 tvg-logo="/vimages/345x194/2f/f6/67/70/05/5b/2f670-lduongtoi1563fajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 16/05/2026 10:55 | Đường Tới Wembley - Đại Chiến Màu Xanh
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=670
@@ -1618,12 +1614,12 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-16/05: Aston Villa - Liverpool (ENG PR) - BLV Củ Cải
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-16/05: Aston Villa - Liverpool (ENG PR) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534219
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-16/05: Aston Villa - Liverpool (ENG PR) - THẠCH TÚ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-16/05: Aston Villa - Liverpool (ENG PR) - BLV LONG
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-16/05: Cordoba - Albacete Balompié SAD (SPA D2) - XUÂN SON
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
