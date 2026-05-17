@@ -21,6 +21,8 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg", 🟡 18/05-02:00 | lille-vs-auxerre.8EUycuHTlM | BLV A Cỏ
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/33.png", 🟡 17/05-18:30 | manchester-united-vs-nottingham-forest.5t8T6lbEuc | BLV Thợ Lặn
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -356,10 +358,10 @@ http://pk79.io.vn/hoiquanlive/play.php?id=1378226
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png", 🔴 17/05/2026 17:00 | Serie A | Pisa vs Napoli | BLV CỦ HÀNH
 http://pk79.io.vn/hoiquanlive/play.php?id=1378230
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3674.png", 🔴 17/05/2026 18:00 | V.League 1 | Nam Dinh vs Viettel | BLV PHAN TỪ
+http://pk79.io.vn/hoiquanlive/play.php?id=1518086
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/33.png", 🔴 17/05/2026 18:30 | Premier League | Manchester United vs Nottingham Forest | BLV PHAN MÃ
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/33.png", 17/05/2026 18:30 | Premier League | Manchester United vs Nottingham Forest | BLV PHAN MÃ
-https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/33.png", 17/05/2026 18:30 | Premier League | Manchester United vs Nottingham Forest | BLV PHAN HÀ LINH
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/33.png", 🔴 17/05/2026 18:30 | Premier League | Manchester United vs Nottingham Forest | BLV PHAN HÀ LINH
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png", 17/05/2026 19:15 | V.League 1 | CAHN vs Thanh Hóa | BLV PHAN TÔ
 https://google.com.vn
@@ -421,7 +423,7 @@ https://pull-kda.fastestcdn-global.com/live/0585c9f069e44795bceeb421b791d03c/ind
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://media.api-sports.io/football/teams/3674.png", 🔴 ⭐ BLV SIÊU PHÀM | 17/05-18:00 | V-League  | Thep Xanh Nam Dinh FC - Viettel 
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/421ad77ed75542c3bb7c30eb3b1e7d83/index.m3u8
-#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80", ⭐ BLV SIÊU GÁY | 17/05-18:30 | English Premier League | Manchester United - Nottingham Forest 
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80", 🔴 ⭐ BLV SIÊU GÁY | 17/05-18:30 | English Premier League | Manchester United - Nottingham Forest 
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/250bf2cf025f4e8f9e808f1a238c3ac0/index.m3u8
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img0.aiscore.com/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80", ⭐ BLV MÂY | 17/05-18:30 | English Premier League | Manchester United - Nottingham Forest
@@ -520,48 +522,46 @@ https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/bc17_1778606154211.jpg", Event 5
 live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8877_1hr8p7294322.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8869_1hw70fez853.png", 🔴 17/05-16:00 | Gainare Tottori vs FC Ryukyu | BLV HÀN TÍN
-http://pk79.io.vn/luongson/play.php?id=234263929
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F506_164869068648.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F138_164868995643.png", 🔴 17/05-17:00 | AC Milan vs Genoa | BLV LÃO HẠC
 http://pk79.io.vn/luongson/play.php?id=364848729
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1689_1jqjeqygbn1b.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23896_1h5e4e370r1y.png", 🔴 17/05-17:00 | Hong Linh Ha Tinh vs Hoang Anh Gia Lai | BLV TÂY MÔN KHÁNH
 http://pk79.io.vn/luongson/play.php?id=457784922
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1206_1j523sx6wr2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1231_1j9ah1053g16.png", 🔴 17/05-17:00 | Napoli vs Pisa | BLV MAYBACH
-http://pk79.io.vn/luongson/play.php?id=494848722
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6806_1ht90z022j0.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F437_1h1jgrf3gp0.png", 🔴 17/05-17:00 | Pohang Steelers vs Bucheon FC 1995 | BLV PHI HỔ
-http://pk79.io.vn/luongson/play.php?id=334692925
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1209_1gq91tkggc2h.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F176_1j5f7yeztc1g.png", 🔴 17/05-17:00 | Parma vs Como | BLV LÝ ỨNG
-http://pk79.io.vn/luongson/play.php?id=354848728
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1209_1gq91tkggc2h.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F176_1j5f7yeztc1g.png", 🔴 17/05-17:00 | Parma vs Como | BLV VÕ TÒNG
-http://pk79.io.vn/luongson/play.php?id=9fcae7c3-68f3-4c8d-a504-0b95a9e90d37
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1206_1j523sx6wr2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1231_1j9ah1053g16.png", 🔴 17/05-17:00 | Napoli vs Pisa | BLV QUAN VŨ
+http://pk79.io.vn/luongson/play.php?id=cb05e20c-8302-4f4d-b668-08180b363ff4
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1661_1gtzcts26x2r.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8880_1h53w49pp22e.png", 🔴 17/05-17:00 | Machida Zelvia vs Kawasaki Frontale | BLV LỮ BỐ
 http://pk79.io.vn/luongson/play.php?id=469951921
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1209_1gq91tkggc2h.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F176_1j5f7yeztc1g.png", 🔴 17/05-17:00 | Parma vs Como | BLV VÕ TÒNG
+http://pk79.io.vn/luongson/play.php?id=9fcae7c3-68f3-4c8d-a504-0b95a9e90d37
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1209_1gq91tkggc2h.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F176_1j5f7yeztc1g.png", 🔴 17/05-17:00 | Parma vs Como | BLV LÝ ỨNG
+http://pk79.io.vn/luongson/play.php?id=354848728
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8792_1gxsf6qkdd19.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F436_1jr576ev8wv.png", 🔴 17/05-17:00 | Ulsan HD FC vs Gangwon FC | BLV FERNANDO
 http://pk79.io.vn/luongson/play.php?id=344692926
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6806_1ht90z022j0.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F437_1h1jgrf3gp0.png", 🔴 17/05-17:00 | Pohang Steelers vs Bucheon FC 1995 | BLV PHI HỔ
+http://pk79.io.vn/luongson/play.php?id=334692925
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F161_164869002671.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F169_164869050583.png", 🔴 17/05-17:00 | Lazio vs AS Roma | BLV KHỔNG MINH
 http://pk79.io.vn/luongson/play.php?id=305848724
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F161_164869002671.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F169_164869050583.png", 🔴 17/05-17:00 | Lazio vs AS Roma | BLV MÃ SIÊU
 http://pk79.io.vn/luongson/play.php?id=94cd788f-254b-4756-b0fb-22a229679711
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F153_1grmmxq1wa2k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png", 🔴 17/05-17:00 | Fiorentina vs Juventus | BLV TRIỆU TỬ LONG
-http://pk79.io.vn/luongson/play.php?id=007fe66a-7251-4d31-ad9c-a97f0bd82672
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F153_1grmmxq1wa2k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png", 🔴 17/05-17:00 | Fiorentina vs Juventus | BLV YẾN THANH
 http://pk79.io.vn/luongson/play.php?id=484848721
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1206_1j523sx6wr2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1231_1j9ah1053g16.png", 🔴 17/05-17:00 | Napoli vs Pisa | BLV QUAN VŨ
-http://pk79.io.vn/luongson/play.php?id=cb05e20c-8302-4f4d-b668-08180b363ff4
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22214_1grfnycz2q32.png", 17/05-18:00 | Viettel FC vs Nam Dinh FC | BLV DƯƠNG CHÍ
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F153_1grmmxq1wa2k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png", 🔴 17/05-17:00 | Fiorentina vs Juventus | BLV TRIỆU TỬ LONG
+http://pk79.io.vn/luongson/play.php?id=007fe66a-7251-4d31-ad9c-a97f0bd82672
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1206_1j523sx6wr2.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1231_1j9ah1053g16.png", 🔴 17/05-17:00 | Napoli vs Pisa | BLV MAYBACH
+http://pk79.io.vn/luongson/play.php?id=494848722
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22214_1grfnycz2q32.png", 🔴 17/05-18:00 | Viettel FC vs Nam Dinh FC | BLV DƯƠNG CHÍ
 http://pk79.io.vn/luongson/play.php?id=e38877a2-c39e-46ab-8741-eff44cb286cd
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22214_1grfnycz2q32.png", 17/05-18:00 | Viettel FC vs Nam Dinh FC | BLV A TỦA
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22214_1grfnycz2q32.png", 🔴 17/05-18:00 | Viettel FC vs Nam Dinh FC | BLV A TỦA
 http://pk79.io.vn/luongson/play.php?id=477784924
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34477_1hrr4bsqf92k.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11726_1grfnycz2t19.png", 17/05-18:00 | Hanoi FC vs PVF-CAND | BLV NGƯỜI THÉP
 http://pk79.io.vn/luongson/play.php?id=467784923
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21_164577479190.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41_164869100556.png", 17/05-18:30 | Nottingham Forest vs Manchester United | BLV LƯU BỊ
+http://pk79.io.vn/luongson/play.php?id=66132c2c-c04e-43ad-b5e1-8d9f70c63025
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21_164577479190.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41_164869100556.png", 17/05-18:30 | Nottingham Forest vs Manchester United | BLV NHỊ KA
 http://pk79.io.vn/luongson/play.php?id=3f575e24-1cb4-4e17-af80-10fa99753ae9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21_164577479190.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41_164869100556.png", 17/05-18:30 | Nottingham Forest vs Manchester United | BLV KEVILL
 http://pk79.io.vn/luongson/play.php?id=469498725
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21_164577479190.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41_164869100556.png", 17/05-18:30 | Nottingham Forest vs Manchester United | BLV TÔN LẬP
 http://pk79.io.vn/luongson/play.php?id=ce6cb824-78ce-48a7-beda-4e91f52739ee
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21_164577479190.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41_164869100556.png", 17/05-18:30 | Nottingham Forest vs Manchester United | BLV LƯU BỊ
-http://pk79.io.vn/luongson/play.php?id=66132c2c-c04e-43ad-b5e1-8d9f70c63025
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21_164577479190.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F41_164869100556.png", 17/05-18:30 | Nottingham Forest vs Manchester United | BLV KAKA
 http://pk79.io.vn/luongson/play.php?id=ea3622af-f11e-4fe2-b826-5cbc184a63a7
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21854_1hgvtfy5jt15.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8676_1h5e4e370y1r.png", 17/05-19:15 | Thanh Hoa vs Cong An Ha Noi | BLV HÀN TÍN
@@ -578,54 +578,54 @@ http://pk79.io.vn/luongson/play.php?id=474848720
 http://pk79.io.vn/luongson/play.php?id=141000825
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F930_1jpxzyrmc3e.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1459_1jpxzg2bmq1d.png", 17/05-20:30 | SC Paderborn 07 vs Darmstadt | BLV A TỦA
 http://pk79.io.vn/luongson/play.php?id=111000822
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44_164577451783.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23_16486909637.png", 17/05-21:00 | Fulham vs Wolves | BLV FERNANDO
-http://pk79.io.vn/luongson/play.php?id=489498727
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F474_1gxmbmj5kyj.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F636_1j3kr48429s.png", 17/05-21:00 | Konyaspor vs Kayserispor | BLV NHỊ KA
-http://pk79.io.vn/luongson/play.php?id=264131825
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV TRIỆU TỬ LONG
-http://pk79.io.vn/luongson/play.php?id=6806e81e-d958-4d02-8991-98d0fbc60b4b
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV VƯƠNG LUÂN
-http://pk79.io.vn/luongson/play.php?id=41201e5a-977d-498b-bbf4-0a24a7e02fba
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV TÂY MÔN KHÁNH
-http://pk79.io.vn/luongson/play.php?id=5609c06d-e24d-4e06-aea3-7b33ee763316
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44_164577451783.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23_16486909637.png", 17/05-21:00 | Fulham vs Wolves | BLV QUAN VŨ
-http://pk79.io.vn/luongson/play.php?id=a0e1ca0f-f268-4cc0-a875-ea2f701ddefa
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44_164577451783.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23_16486909637.png", 17/05-21:00 | Fulham vs Wolves | BLV MAYBACH
-http://pk79.io.vn/luongson/play.php?id=876d3ca0-d718-4c78-a518-7e50de79a1ca
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV YẾN THANH
-http://pk79.io.vn/luongson/play.php?id=459498724
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44_164577451783.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23_16486909637.png", 17/05-21:00 | Fulham vs Wolves | BLV LỮ BỐ
 http://pk79.io.vn/luongson/play.php?id=38be3c96-20fa-4b2d-8655-423f8d03a1f3
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F331_164601812119.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29_164577426766.png", 17/05-21:00 | Crystal Palace vs Brentford | BLV KEVILL
-http://pk79.io.vn/luongson/play.php?id=429498721
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F331_164601812119.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29_164577426766.png", 17/05-21:00 | Crystal Palace vs Brentford | BLV TÔN LẬP
-http://pk79.io.vn/luongson/play.php?id=1e6ff14e-be6a-44a1-919e-890e0316a4f4
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F474_1gxmbmj5kyj.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F636_1j3kr48429s.png", 17/05-21:00 | Konyaspor vs Kayserispor | BLV NHỊ KA
+http://pk79.io.vn/luongson/play.php?id=264131825
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV VƯƠNG LUÂN
+http://pk79.io.vn/luongson/play.php?id=41201e5a-977d-498b-bbf4-0a24a7e02fba
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV YẾN THANH
+http://pk79.io.vn/luongson/play.php?id=459498724
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV TÂY MÔN KHÁNH
+http://pk79.io.vn/luongson/play.php?id=5609c06d-e24d-4e06-aea3-7b33ee763316
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44_164577451783.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23_16486909637.png", 17/05-21:00 | Fulham vs Wolves | BLV MAYBACH
+http://pk79.io.vn/luongson/play.php?id=876d3ca0-d718-4c78-a518-7e50de79a1ca
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44_164577451783.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23_16486909637.png", 17/05-21:00 | Fulham vs Wolves | BLV QUAN VŨ
+http://pk79.io.vn/luongson/play.php?id=a0e1ca0f-f268-4cc0-a875-ea2f701ddefa
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F48_164577434254.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52_164577420829.png", 17/05-21:00 | Brighton Hove Albion vs Leeds United | BLV TRIỆU TỬ LONG
+http://pk79.io.vn/luongson/play.php?id=6806e81e-d958-4d02-8991-98d0fbc60b4b
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44_164577451783.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23_16486909637.png", 17/05-21:00 | Fulham vs Wolves | BLV FERNANDO
+http://pk79.io.vn/luongson/play.php?id=489498727
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F331_164601812119.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29_164577426766.png", 17/05-21:00 | Crystal Palace vs Brentford | BLV DƯƠNG CHÍ
 http://pk79.io.vn/luongson/play.php?id=fa64ca2b-aa4c-4a63-a688-2466d7d96715
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F331_164601812119.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29_164577426766.png", 17/05-21:00 | Crystal Palace vs Brentford | BLV TÔN LẬP
+http://pk79.io.vn/luongson/play.php?id=1e6ff14e-be6a-44a1-919e-890e0316a4f4
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F331_164601812119.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29_164577426766.png", 17/05-21:00 | Crystal Palace vs Brentford | BLV KAKA
 http://pk79.io.vn/luongson/play.php?id=fd6de573-28ae-4489-8c0f-fa7e0f8151fe
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25_164577449385.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57_165900273323.png", 17/05-21:00 | Sunderland A.F.C vs Everton | BLV KHỔNG MINH
-http://pk79.io.vn/luongson/play.php?id=449498723
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25_164577449385.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57_165900273323.png", 17/05-21:00 | Sunderland A.F.C vs Everton | BLV SHIN
-http://pk79.io.vn/luongson/play.php?id=696d980b-acdd-4c98-99c0-7585b2354d5c
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25_164577449385.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57_165900273323.png", 17/05-21:00 | Sunderland A.F.C vs Everton | BLV MÃ SIÊU
-http://pk79.io.vn/luongson/play.php?id=99a0fbf2-84b4-4ac3-a55e-2b8976053c21
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F331_164601812119.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F29_164577426766.png", 17/05-21:00 | Crystal Palace vs Brentford | BLV KEVILL
+http://pk79.io.vn/luongson/play.php?id=429498721
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25_164577449385.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57_165900273323.png", 17/05-21:00 | Sunderland A.F.C vs Everton | BLV LƯU BỊ
 http://pk79.io.vn/luongson/play.php?id=2c04bead-ca40-4ded-8475-4107fc917412
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25_164577449385.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57_165900273323.png", 17/05-21:00 | Sunderland A.F.C vs Everton | BLV MÃ SIÊU
+http://pk79.io.vn/luongson/play.php?id=99a0fbf2-84b4-4ac3-a55e-2b8976053c21
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25_164577449385.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57_165900273323.png", 17/05-21:00 | Sunderland A.F.C vs Everton | BLV SHIN
+http://pk79.io.vn/luongson/play.php?id=696d980b-acdd-4c98-99c0-7585b2354d5c
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25_164577449385.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57_165900273323.png", 17/05-21:00 | Sunderland A.F.C vs Everton | BLV KHỔNG MINH
+http://pk79.io.vn/luongson/play.php?id=449498723
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8957_1gtqm0cjha2q.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4939_1k0n8370bw1h.png", 17/05-22:00 | Gazovik Orenburg vs FC Krasnodar | BLV PHI HỔ
 http://pk79.io.vn/luongson/play.php?id=251452827
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F393_165095539431.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F359_1hnyhx549p2m.png", 17/05-22:00 | Zenit St. Petersburg vs Rostov FK | BLV LÃO HẠC
 http://pk79.io.vn/luongson/play.php?id=352539723
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F142_164868998143.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F172_16486905420.png", 17/05-23:00 | Bologna vs Atalanta | BLV LÝ ỨNG
 http://pk79.io.vn/luongson/play.php?id=334848726
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22_164577474623.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54_164577453830.png", 17/05-23:30 | West Ham United vs Newcastle United | BLV KEVILL
-http://pk79.io.vn/luongson/play.php?id=01c8f521-bce4-4d7b-a768-0284258fb018
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22_164577474623.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54_164577453830.png", 17/05-23:30 | West Ham United vs Newcastle United | BLV TÔN LẬP
-http://pk79.io.vn/luongson/play.php?id=e3ab2f42-eb0d-4e78-bcbe-af43b58be202
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22_164577474623.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54_164577453830.png", 17/05-23:30 | West Ham United vs Newcastle United | BLV LEO
-http://pk79.io.vn/luongson/play.php?id=21ebfd72-0a85-4ee2-b8eb-b2ef98c26f0f
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22_164577474623.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54_164577453830.png", 17/05-23:30 | West Ham United vs Newcastle United | BLV NHỊ KA
 http://pk79.io.vn/luongson/play.php?id=479498726
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22_164577474623.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54_164577453830.png", 17/05-23:30 | West Ham United vs Newcastle United | BLV LEO
+http://pk79.io.vn/luongson/play.php?id=21ebfd72-0a85-4ee2-b8eb-b2ef98c26f0f
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22_164577474623.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54_164577453830.png", 17/05-23:30 | West Ham United vs Newcastle United | BLV TÔN LẬP
+http://pk79.io.vn/luongson/play.php?id=e3ab2f42-eb0d-4e78-bcbe-af43b58be202
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F22_164577474623.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54_164577453830.png", 17/05-23:30 | West Ham United vs Newcastle United | BLV KEVILL
+http://pk79.io.vn/luongson/play.php?id=01c8f521-bce4-4d7b-a768-0284258fb018
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F136_1hxqrpwvs12q.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1141_1hxqrpwvsyx.png", 17/05-23:30 | Saint Gilloise vs Club Brugge | BLV NGƯỜI THÉP
 http://pk79.io.vn/luongson/play.php?id=487496925
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3998_1j3s1rtr5j2f.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F126_164871280016.png", 18/05-00:00 | Alaves vs Real Oviedo | BLV A TỦA
@@ -636,16 +636,16 @@ http://pk79.io.vn/luongson/play.php?id=245640829
 http://pk79.io.vn/luongson/play.php?id=355640820
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F96_164871271877.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F83_164871269140.png", 18/05-00:00 | Valencia vs Real Sociedad | BLV TRIỆU TỬ LONG
 http://pk79.io.vn/luongson/play.php?id=216640827
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV SHIN
-http://pk79.io.vn/luongson/play.php?id=63ede197-8840-4ce9-b639-30cd118e78da
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV LƯU BỊ
-http://pk79.io.vn/luongson/play.php?id=0188599d-2c3f-4429-a2ea-cac65933ba4d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV KAKA
-http://pk79.io.vn/luongson/play.php?id=d27b638a-3d7d-4383-88b4-d18f9b89d847
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV DƯƠNG CHÍ
-http://pk79.io.vn/luongson/play.php?id=cce05ac6-9be2-42a3-9b39-8a5d87e2e62d
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV FERNANDO
 http://pk79.io.vn/luongson/play.php?id=236640829
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV DƯƠNG CHÍ
+http://pk79.io.vn/luongson/play.php?id=cce05ac6-9be2-42a3-9b39-8a5d87e2e62d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV KAKA
+http://pk79.io.vn/luongson/play.php?id=d27b638a-3d7d-4383-88b4-d18f9b89d847
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV LƯU BỊ
+http://pk79.io.vn/luongson/play.php?id=0188599d-2c3f-4429-a2ea-cac65933ba4d
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F78_164871255158.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F74_164871252161.png", 18/05-00:00 | Real Madrid vs Sevilla | BLV SHIN
+http://pk79.io.vn/luongson/play.php?id=63ede197-8840-4ce9-b639-30cd118e78da
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F858_164871283245.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F97_164871273527.png", 18/05-00:00 | Villarreal vs Rayo Vallecano | BLV LỮ BỐ
 http://pk79.io.vn/luongson/play.php?id=206640826
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F94_164871559313.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F92_164871266038.png", 18/05-00:00 | Mallorca vs Levante | BLV TÂY MÔN KHÁNH
@@ -654,10 +654,10 @@ http://pk79.io.vn/luongson/play.php?id=385640823
 http://pk79.io.vn/luongson/play.php?id=395640824
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F115_164871278741.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F89_164871263258.png", 18/05-00:00 | Getafe vs Elche | BLV TIỂU LANG
 http://pk79.io.vn/luongson/play.php?id=375640822
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1500_1h56c0xwvqd.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F246_164871185439.png", 18/05-02:00 | Paris Saint Germain (PSG) vs Paris FC | BLV QUAN VŨ
-http://pk79.io.vn/luongson/play.php?id=f61a86b3-82ce-4d55-ae9d-740133e650dc
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1500_1h56c0xwvqd.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F246_164871185439.png", 18/05-02:00 | Paris Saint Germain (PSG) vs Paris FC | BLV LÝ ỨNG
 http://pk79.io.vn/luongson/play.php?id=132300828
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1500_1h56c0xwvqd.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F246_164871185439.png", 18/05-02:00 | Paris Saint Germain (PSG) vs Paris FC | BLV QUAN VŨ
+http://pk79.io.vn/luongson/play.php?id=f61a86b3-82ce-4d55-ae9d-740133e650dc
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F197_164871172839.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F227_164871175839.png", 18/05-02:00 | Rennes vs Marseille | BLV LÃO HẠC
 http://pk79.io.vn/luongson/play.php?id=102300825
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F239_1h5bjb8w5p2j.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F200_1j5hgyxgzaq.png", 18/05-02:00 | Toulouse vs Nantes | BLV DƯƠNG CHÍ
@@ -687,30 +687,7 @@ http://pk79.io.vn/luongson/play.php?id=a2ee10a8-a7b4-4401-9d18-5ea3f5a590a9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F607_164940928886.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3760_1h6wfbyh4f3.png", 18/05-03:00 | Belgrano vs Argentinos Juniors | BLV FERNANDO
 http://pk79.io.vn/luongson/play.php?id=344178925
 
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc piano nhẹ nhàng cho giờ đọc sách
-http://pk79.io.vn/myclip/play.php?id=12244222
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xuân Đến_Trương Mộng Quỳnh
-http://pk79.io.vn/myclip/play.php?id=11874245
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Luật Cho Người Thay Thế (Lofi Ver)_Hamlet Trương
-http://pk79.io.vn/myclip/play.php?id=12081385
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano êm đềm cho khoảnh khắc nghỉ ngơi
-http://pk79.io.vn/myclip/play.php?id=12246724
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Nơi Làng Quê_Hiền Ngân Ft Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11930935
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Anh Xin Nhận Hết - Quách Thành Danh
-http://pk79.io.vn/myclip/play.php?id=11984851
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu nhạc không lời giúp tâm trí thả lỏng
-http://pk79.io.vn/myclip/play.php?id=12244225
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Kiếp Nhân Sinh - Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=11674568
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mãi Tìm Nhau_Hồng Quyên Ft Thanh Vinh
-http://pk79.io.vn/myclip/play.php?id=12081346
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh piano sâu lắng cho khoảnh khắc nghỉ ngơi
-http://pk79.io.vn/myclip/play.php?id=12241618
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Quán Bên Hồ - Như Hoa
-http://pk79.io.vn/myclip/play.php?id=11984878
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Làm Theo Di Chúc Thiêng Liêng - Nguyễn Duyên Quỳnh
-http://pk79.io.vn/myclip/play.php?id=11674574
+
 
 #EXTINF:0 group-title="plus1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
@@ -1136,11 +1113,11 @@ https://edgemaxcdn-1.bongco50.xyz/live/teppy-sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/hanh-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109375_small.png",18:00 - 17.05 | V-League | Nam Dinh vs Viettel
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/109375_small.png",🔴 18:00 - 17.05 | V-League | Nam Dinh vs Viettel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1105640_small.png",18:00 - 17.05 | V-League | PVF-CAND vs Ha Noi FC
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1105640_small.png",🔴 18:00 - 17.05 | V-League | PVF-CAND vs Ha Noi FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
