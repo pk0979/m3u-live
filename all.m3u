@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/364.png", 🔴 19/05-00:00 | djurgardens-if-vs-sirius.tgXyI4Yrvh | BLV Thợ Lặn
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", 🔴 19/05-02:00 | arsenal-vs-burnley.pyI5anafV8 | BLV Xây Con
 https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/5686.png", 🟡 19/05-18:35 | sichuan-jiuniu-vs-dalian-zhixing.9QNVHJccCj | BLV A Cỏ
@@ -102,14 +100,14 @@ https://live5.msrktz.app/live/33982309.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/b6728832f1504989e57f8a43479429ec.png!w80", 🔴 19/05 - 01:30 | Giải bóng đá Hạng nhì Tây Ban Nha | Leganes vs Huesca | BLV C2
 https://live5.msrktz.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80", 🔴 19/05 - 02:00 | Giải bóng đá Ngoại hạng Anh | Arsenal vs Burnley | BLV ÔLONG
-https://live5.msrktz.app/live/97312754.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80", 🔴 19/05 - 02:00 | Giải bóng đá Ngoại hạng Anh | Arsenal vs Burnley | BLV GIÀ LÀNG
 https://live5.msrktz.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80", 🔴 19/05 - 02:00 | Giải bóng đá Ngoại hạng Anh | Arsenal vs Burnley | BLV COCA
 https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80", 🔴 19/05 - 02:00 | Giải bóng đá Ngoại hạng Anh | Arsenal vs Burnley | BLV ÔLONG
+https://live5.msrktz.app/live/97312754.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80", 🔴 19/05 - 02:00 | Giải bóng đá Ngoại hạng Anh | Arsenal vs Burnley | BLV PEPSI
 https://live5.msrktz.app/live/43612277.m3u8
@@ -413,6 +411,38 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV FERNANDO m3u
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV FERNANDO flv
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV NHỊ KA m3u
+https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV NHỊ KA flv
+https://flv.cdnfaster-a.live/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV KEVILL flv
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV KAKA flv
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png",02h00 ngày 19/05 Arsenal vs Burnley (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13215_1grwfg41cv1q.png",00h30 ngày 19/05 FC Unirea 2004 Slobozia vs UTA Arad (Lương Sơn) BLV VƯƠNG LUÂN m3u
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13215_1grwfg41cv1q.png",00h30 ngày 19/05 FC Unirea 2004 Slobozia vs UTA Arad (Lương Sơn) BLV VƯƠNG LUÂN flv
@@ -421,30 +451,6 @@ https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463e
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13215_1grwfg41cv1q.png",00h30 ngày 19/05 FC Unirea 2004 Slobozia vs UTA Arad (Lương Sơn) BLV TRIỆU TỬ LONG flv
 https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV FERNANDO m3u
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV FERNANDO flv
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/856_1h5bja70zq1p.png",01h30 ngày 19/05 Leganes vs SD Huesca (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1596_1jnsqav99j2x.png",00h00 ngày 19/05 Ghazl El Mahallah vs Al-Ittihad Alexandria (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1596_1jnsqav99j2x.png",00h00 ngày 19/05 Ghazl El Mahallah vs Al-Ittihad Alexandria (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png",00h00 ngày 19/05 El Mokawloon El Arab vs Wadi Degla SC (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png",00h00 ngày 19/05 El Mokawloon El Arab vs Wadi Degla SC (Lương Sơn) BLV PELE flv
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/385_1gv1yreqw82.png",00h00 ngày 19/05 Djurgardens vs IK Sirius FK (Lương Sơn) BLV QUAN VŨ m3u
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/385_1gv1yreqw82.png",00h00 ngày 19/05 Djurgardens vs IK Sirius FK (Lương Sơn) BLV QUAN VŨ flv
-https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2123_1j3c1pnq08b.png",00h00 ngày 19/05 Arka Gdynia vs LKS Nieciecza (Lương Sơn) BLV MAYBACH m3u
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2123_1j3c1pnq08b.png",00h00 ngày 19/05 Arka Gdynia vs LKS Nieciecza (Lương Sơn) BLV MAYBACH flv
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
 
 
@@ -818,11 +824,11 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-bk
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/15/live-hero-indian-open-2026---dp-world-tour-2026-slider-thumb_1778827956474.jpg" group-title="⭐Sự kiện FPT OTT",20/05 - 15:00 - Hero Indian Open 2026 vòng 4: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a06c2ea2d975b968253ebf6
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/210132_small.png",🔴 00:30 - 19.05 | Superliga Relegation Group | FCV Farul Constanta vs FC Metaloglobus Bucuresti
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/210132_small.png",00:30 - 19.05 | Superliga Relegation Group | FCV Farul Constanta vs FC Metaloglobus Bucuresti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/oppo-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188187_small.png",🔴 00:30 - 19.05 | Superliga Relegation Group | Petrolul Ploiesti vs Otelul Galati
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/188187_small.png",00:30 - 19.05 | Superliga Relegation Group | Petrolul Ploiesti vs Otelul Galati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/rang-sd/playlist.m3u8
