@@ -9,8 +9,6 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1166.png", 🟡 18/05-22:00 | lahti-vs-vps.ilRkdVwEH3 | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1416.png", 🟡 18/05-23:30 | lokomotiv-sofia-vs-slavia-sofia.wJLFO4rgqm | BLV Xây Con
-https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/364.png", 🟡 19/05-00:00 | djurgardens-if-vs-sirius.tgXyI4Yrvh | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", 🟡 19/05-02:00 | arsenal-vs-burnley.pyI5anafV8 | BLV Xây Con
@@ -42,6 +40,8 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png", 🟡 20/05-02:15 | chelsea-vs-tottenham.JdS63U5FN6 | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/4195.png", 🟡 20/05-00:30 | maccabi-haifa-vs-hapoel-tel-aviv.ZOk22WOfZ2 | BLV A Cỏ
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1416.png", 🟡 18/05-23:30 | lokomotiv-sofia-vs-slavia-sofia.7pVEgKfzWz | BLV A Cỏ
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
@@ -352,17 +352,17 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1159.png", 19/05/2026 07:00 | Liga Pro | Guayaquil City FC vs Orense SC | BLV PHAN ANH
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/837.png", 19/05/2026 18:35 | Super League | Tianjin Teda vs Henan Jianye | BLV CỦ HÀNH
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/5686.png", 19/05/2026 18:35 | Super League | Sichuan Jiuniu vs Dalian Zhixing | BLV PHAN CA
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/17265.png", 19/05/2026 19:00 | Super League | Qingdao Youth Island vs Beijing Guoan | BLV PHAN TỪ
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/837.png", 19/05/2026 18:35 | Super League | Tianjin Teda vs Henan Jianye | BLV CỦ HÀNH
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/5648.png", 19/05/2026 19:00 | Super League | Chengdu Better City vs SHANGHAI SIPG | BLV PHAN HÀ LINH
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/12511.png", 19/05/2026 22:00 | AFC U17 Asian Cup | Japan U17 vs Uzbekistan U17 | BLV PHAN CHỚP
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/17265.png", 19/05/2026 19:00 | Super League | Qingdao Youth Island vs Beijing Guoan | BLV PHAN TỪ
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc", 19/05/2026 22:00 | Premier League | FC Noah vs Ararat | BLV CỦ HÀNH
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/12511.png", 19/05/2026 22:00 | AFC U17 Asian Cup | Japan U17 vs Uzbekistan U17 | BLV PHAN CHỚP
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png", 20/05/2026 01:30 | Premier League | Bournemouth vs Manchester City | BLV PHAN CHỚP
 https://google.com.vn
@@ -373,7 +373,7 @@ https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png", 20/05/2026 02:15 | Premier League | Chelsea vs Tottenham | BLV PHAN MÃ
 https://google.com.vn
 
-#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.sports-data.online/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png", ⭐ BLV MÂY | 18/05-18:30 | Singapore Premier League | Tanjong Pagar Utd - Hougang United FC
+#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.sports-data.online/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png", 🔴 ⭐ BLV MÂY | 18/05-18:30 | Singapore Premier League | Tanjong Pagar Utd - Hougang United FC
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/c6b091e98644489faaeb9902030f0f52/index.m3u8
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.sports-data.online/football/team/b3aa22f8a2dec46b030d43c4df1b255a.png", ⭐ BLV TIỂU MÂN | 18/05-21:00 | Indian Super League | Kerala Blasters FC - FC Goa
@@ -444,18 +444,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4486_1gxpydyxb71z.png",16h30 ngày 18/05 South Melbourne vs Caroline Springs George Cross (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4486_1gxpydyxb71z.png",16h30 ngày 18/05 South Melbourne vs Caroline Springs George Cross (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4486_1gxpydyxb71z.png",16h30 ngày 18/05 South Melbourne vs Caroline Springs George Cross (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4486_1gxpydyxb71z.png",16h30 ngày 18/05 South Melbourne vs Caroline Springs George Cross (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4486_1gxpydyxb71z.png",16h30 ngày 18/05 South Melbourne vs Caroline Springs George Cross (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4486_1gxpydyxb71z.png",16h30 ngày 18/05 South Melbourne vs Caroline Springs George Cross (Lương Sơn) BLV TÔN LẬP flv
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3711_1gtqm46sjc2b.png",17h00 ngày 18/05 Zorya vs Polissya Zhytomyr (Lương Sơn) BLV LƯU BỊ m3u
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3711_1gtqm46sjc2b.png",17h00 ngày 18/05 Zorya vs Polissya Zhytomyr (Lương Sơn) BLV LƯU BỊ flv
@@ -476,31 +464,12 @@ https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3711_1gtqm46sjc2b.png",17h00 ngày 18/05 Zorya vs Polissya Zhytomyr (Lương Sơn) BLV KEVILL flv
 https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048421.png",18h35 ngày 18/05 Shenzhen Xinpengcheng vs Dalian Yingbo (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048421.png",18h35 ngày 18/05 Shenzhen Xinpengcheng vs Dalian Yingbo (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh dương cầm dịu nhẹ cho không gian thư thái
-http://pk79.io.vn/myclip/play.php?id=12244231
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lỡ Làng Duyên Em (Thành Đạt)
-http://pk79.io.vn/myclip/play.php?id=11757173
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Thằng Em Tôi_Phi Bằng Ft Thiên Quang
-http://pk79.io.vn/myclip/play.php?id=11930902
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu dương cầm sâu trầm cho buổi tối yên ắng
-http://pk79.io.vn/myclip/play.php?id=12241723
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Anh Rất Khó_Trương Ỹ Vân
-http://pk79.io.vn/myclip/play.php?id=11755928
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hình Bóng Quê Nhà (Remix)_Quách Thành Danh Ft Saka Trương Tuyền
-http://pk79.io.vn/myclip/play.php?id=12038581
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những phím đàn không lời mang lại cảm giác thư thái
-http://pk79.io.vn/myclip/play.php?id=12241717
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hành Trình Trên Đất Phù Sa - Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11674538
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chắp Tay Lạy Người_Diễm Thùy
-http://pk79.io.vn/myclip/play.php?id=12038602
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm sắc dương cầm dịu dàng cho không gian tối muộn
-http://pk79.io.vn/myclip/play.php?id=12244174
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Có Lầm Thì Đừng Trách Than_Lương Gia Huy Ft Helen Trần
-http://pk79.io.vn/myclip/play.php?id=12043219
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bao Lần Em Khóc Remix_Kim Ny Ngọc
-http://pk79.io.vn/myclip/play.php?id=12081394
+
 
 #EXTINF:0 group-title="plus1" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1 HD
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
@@ -902,10 +871,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-bk
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/15/live-hero-indian-open-2026---dp-world-tour-2026-slider-thumb_1778827956474.jpg" group-title="⭐Sự kiện FPT OTT",20/05 - 15:00 - Hero Indian Open 2026 vòng 4: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a06c2ea2d975b968253ebf6
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162314_small.png",🔴 16:30 - 18.05 | NPL Victoria | South Melbourne vs George Cross
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/pho-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7770_small.png",🔴 17:00 - 18.05 | Ngoại hạng Ukraina | Zorya vs Polissya Zhytomyr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -913,7 +878,7 @@ https://edgemaxcdn-1.bongco50.xyz/live/iphone-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/243800_small.png",🔴 18:30 - 18.05 | VĐQG Singapore | Tanjong Pagar United FC vs Hougang United FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/oppo-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2211_small.png",20:00 - 18.05 | Ngoại hạng Armenia | Shirak vs Urartu FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1322,8 +1287,6 @@ http://pk79.io.vn/tv360/play.php?id=181
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779069836130/b7a6de938641_640_360.jpg", 18/05-18:00 | Nữ_ ĐẮK LẮK VS HẢI PHÒNG ON SPORTS 18.5
 http://pk79.io.vn/tv360/play360.php?id=onsports1
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/10/1779074333365/29744bacd0ed_640_360.jpg", 18/05-17:00 | GUNMA VS SUWON vtv Tay nguyen 18.5
-http://pk79.io.vn/tv360/play.php?id=207
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779069906492/17589e207d49_640_360.jpg", 18/05-20:00 | NAM_ TRẺ BIÊN PHÒNG VS TT TDTT QUÂN ĐỘI ON SPORTS 18.5
 http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/14/1779088811629/43af65aef68b_640_360.jpg", 18/05-20:00 | Đồng Nai
@@ -1355,24 +1318,6 @@ http://pk79.io.vn/tv360/play360.php?id=sk4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/13/15/1778662568274/4e8d2a788643_640_360.png", 30/05-23:00 | PSG vs Arsenal TV360+ 1 30.5
 http://pk79.io.vn/tv360/play360.php?id=sk1
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-18/05: South Melbourne - Caroline Springs George Cross (Aus VPL) - BLV CUỘI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-18/05: South Melbourne - Caroline Springs George Cross (Aus VPL) - BLV TAP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-18/05: South Melbourne - Caroline Springs George Cross (Aus VPL) - DECO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-18/05: South Melbourne - Caroline Springs George Cross (Aus VPL) - BLV ĐỐM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-18/05: South Melbourne - Caroline Springs George Cross (Aus VPL) - BLV COCA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-18/05: South Melbourne - Caroline Springs George Cross (Aus VPL) - TẠ BIÊN GIỚI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-18/05: Zorya - Polissya Zhytomyr (UKR D1) - CR Bưởi
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
@@ -3106,8 +3051,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc" group-title="Hội Quán TV",[22:00 19/05] FC Noah  vs Ararat - BLV CỦ HÀNH (SD)
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cS73cD5Bq_Zse5RpXo_speC3fE8OJly8zw&s" group-title="Hội Quán TV",[17:00 18/05] Arthur Rinderknech vs Thiago Agustin Tirante - BLV PHAN TỪ (FHD)
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg" group-title="Hội Quán TV",[20:00 18/05] Ben Shelton vs Marcos Giron - BLV PHAN BÁCH (FHD)
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg" group-title="Hội Quán TV",[20:00 18/05] Ben Shelton vs Marcos Giron - BLV PHAN BÁCH (HD)
