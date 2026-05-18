@@ -315,10 +315,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5307_1h5btqv04g1q.png",08h00 ngày 18/05 CD FAS vs Municipal Limeno (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5307_1h5btqv04g1q.png",08h00 ngày 18/05 CD FAS vs Municipal Limeno (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2220_1hrb7xjnt8w.png",07h30 ngày 18/05 Independiente Yumbo vs Aguilas Doradas (Lương Sơn) BLV KHỔNG MINH m3u
 https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2220_1hrb7xjnt8w.png",07h30 ngày 18/05 Independiente Yumbo vs Aguilas Doradas (Lương Sơn) BLV KHỔNG MINH flv
@@ -335,6 +331,10 @@ https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779044936.png",07h00 ngày 18/05 Detroit Pistons vs Cleveland Cavaliers (Lương Sơn) BLV YẾN THANH flv
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5307_1h5btqv04g1q.png",08h00 ngày 18/05 CD FAS vs Municipal Limeno (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5307_1h5btqv04g1q.png",08h00 ngày 18/05 CD FAS vs Municipal Limeno (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 
 
@@ -714,10 +714,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-bk
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/15/live-hero-indian-open-2026---dp-world-tour-2026-slider-thumb_1778827956474.jpg" group-title="⭐Sự kiện FPT OTT",20/05 - 15:00 - Hero Indian Open 2026 vòng 4: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a06c2ea2d975b968253ebf6
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/915807_small.png",07:10 - 18.05 | Major League Soccer | Nashville SC vs Los Angeles FC II
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/pho-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",16:00 - 18.05 | Euro U19 - Qualification | Belarus vs San Marino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1134,13 +1130,19 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779069777218/24894297fd56_640_360.jpg", 19/05-22:00 | U17 Nhật Bản vs U17 Uzbekistan TV360+ 9 19.5
 http://pk79.io.vn/tv360/play360.php?id=sk9
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779070387522/406a43664528_640_360.jpg", 20/05-01:30 | U17 Trung Quốc vs U17 Australia TV360+ 9 20.5
+http://pk79.io.vn/tv360/play360.php?id=sk9
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893218113/fc915179ef69_640_360.jpg", 18/05-18:00 | Xổ Số Miền Bắc
 http://pk79.io.vn/tv360/play.php?id=181
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/17/1778842738623/394c7cac8f6a_640_360.jpg", 18/05-14:00 | JIANGSU VS VIETINBANK ON SPORTS NEWS 18.5
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779069755971/9b2e9f51536b_640_360.jpg", 18/05-16:00 | NAM_ TRẺ ĐÀ NẴNG VS TÂY NINH ON SPORTS 18.5
+http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/15/18/17788431307/a348fc723060_640_360.png", 18/05-17:00 | ATP TOUR 500 HAMBURG EUROPEAN 2026_ NGÀY 2 ON SPORTS NEWS 18.5
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779069906492/17589e207d49_640_360.jpg", 18/05-20:00 | NAM_ TRẺ BIÊN PHÒNG VS TT TDTT QUÂN ĐỘI ON SPORTS 17.5
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779069836130/b7a6de938641_640_360.jpg", 18/05-18:00 | Nữ_ ĐẮK LẮK VS HẢI PHÒNG ON SPORTS 18.5
+http://pk79.io.vn/tv360/play360.php?id=onsports1
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/09/1779069906492/17589e207d49_640_360.jpg", 18/05-20:00 | NAM_ TRẺ BIÊN PHÒNG VS TT TDTT QUÂN ĐỘI ON SPORTS 18.5
 http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/13/15/1778662185820/829fcd80c9f7_640_360.png", 21/05-02:00 | Freiburg vs Aston Villa TV360+ 4 21.5
 http://pk79.io.vn/tv360/play360.php?id=sk4
