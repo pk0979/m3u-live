@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/South_Melbourne_FC_logo.svg", 🔴 18/05-16:30 | south-melbourne-vs-sunshine-georgies.-wTWgsjX3- | BLV Văn Tích
-https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/599.png", 🔴 18/05-17:00 | zorya-luhansk-vs-polessya.5Vehl-_TFn | BLV A Cỏ
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/10077.png", 🔴 18/05-18:30 | tanjong-pagar-vs-hougang-united.tjAwSYbs7z | BLV Bịp Con
@@ -105,9 +103,6 @@ http://pk79.io.vn/daily/play.php?id=x8yptsc
 
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/VXzO21eowYYsiS3rI/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tân Tinh Võ Môn 1 (1991) Lồng Tiếng
 http://pk79.io.vn/daily/play.php?id=x8qy7sy
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80", 🔴 18/05 - 16:30 | Giải bóng đá Hạng nhất Victoria của Úc | South Melbourne vs Caroline Springs George Cross | BLV RỒNG ĐỎ
-https://live5.msrktz.app/live/88508431.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/af3ce39628baa47fdcac155123ed60e5.png!w80", 🔴 18/05 - 17:00 | Giải Ngoại hạng Ukraina | FK Zorya Luhansk vs Polissya Zhytomyr | BLV SODA
 https://live5.msrktz.app/live/02456966.m3u8
@@ -223,11 +218,11 @@ https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/0437356503a22e50b9e8aa76145c7f71.png!w80", 🕒 19/05 - 22:00 | AFC Championship U16 | Nhật Bản U17 vs Uzbekistan U17 | BLV C2
 https://live5.msrktz.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/caa01de7548dfa61189f87f5f516bffd.webp!w80", 🕒 19/05 - 22:00 | Cúp Lithuania | FM Klaipeda vs Alytis Alytus Dainava | BLV STING
-https://live5.msrktz.app/live/14707124.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5ef6703cd46b664af49e25a398161d6a.png!w80", 🕒 19/05 - 22:00 | Giải Bóng đá Ngoại hạng Armenia | Noah vs Ararat Yerevan | BLV SPRITE
 https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/caa01de7548dfa61189f87f5f516bffd.webp!w80", 🕒 19/05 - 22:00 | Cúp Lithuania | FM Klaipeda vs Alytis Alytus Dainava | BLV STING
+https://live5.msrktz.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/2512cac4057872ddc42780619b3408d1.png!w80", 🕒 19/05 - 23:30 | Giao hữu các CLB quốc tế | Rot-Weiss Frankfurt vs Eintracht Frankfurt | BLV REDBULL
 https://live5.msrktz.app/live/68848594.m3u8
@@ -1244,7 +1239,7 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="/vimages/345x194/8e/e9/95/56/64/49/8e956-lmechongkhotinh1034djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 18/05/2026 18:30 | Mẹ Chồng Khó Tính   
+#EXTINF:-1 tvg-logo="/vimages/345x194/8e/e9/95/56/64/49/8e956-lmechongkhotinh1034djpg-content-mytv.jpg" group-title="MyTV Event", 🔴 18/05/2026 18:30 | Mẹ Chồng Khó Tính   
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
 #EXTINF:-1 tvg-logo="/vimages/345x194/f6/6c/c5/53/38/89/f6c53-lchidep6a19203d37jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 18/05/2026 19:00 | Chị Đẹp Đạp Gió 2026 - Tập 6A - Mini Test Đặc Biệt
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=449
