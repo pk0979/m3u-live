@@ -354,10 +354,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779044936.png",07h00 ngày 18/05 Detroit Pistons vs Cleveland Cavaliers (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779044936.png",07h00 ngày 18/05 Detroit Pistons vs Cleveland Cavaliers (Lương Sơn) BLV YẾN THANH flv
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5307_1h5btqv04g1q.png",08h00 ngày 18/05 CD FAS vs Municipal Limeno (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/5307_1h5btqv04g1q.png",08h00 ngày 18/05 CD FAS vs Municipal Limeno (Lương Sơn) BLV TÂY MÔN KHÁNH flv
@@ -370,6 +366,10 @@ https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1153_1j25bvh4yk2a.png",08h00 ngày 18/05 Pumas U.N.A.M. vs Pachuca (Lương Sơn) BLV KAKA flv
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779044936.png",07h00 ngày 18/05 Detroit Pistons vs Cleveland Cavaliers (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779044936.png",07h00 ngày 18/05 Detroit Pistons vs Cleveland Cavaliers (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu không lời sâu lắng cho không gian nghỉ ngơi
 http://pk79.io.vn/myclip/play.php?id=12241690
@@ -951,9 +951,6 @@ http://example.com/update.m3u8
 
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/17/live-nba-regular-season-2025-26-slide-thumb_1779011230826.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 07:00 - Cleveland Cavaliers - Detroit Pistons
-http://phuockhai.giize.com:1979/fpt/play1.php?id=nba-hn-01
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/17/live-giai-bong-chuyen-nu-quoc-te-cup-vtv9---binh-dien-2026-slide-thumb_1779025188701.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 14:00 - Jiangsu (Trung Quốc) - VietinBank
 http://phuockhai.giize.com:1979/fpt/play1.php?id=vtv9-hd
@@ -3045,24 +3042,18 @@ https://live5.msrktz.app/live/02456966.m3u8
 https://live5.msrktz.app/live/08552895.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/8ef356643795845570e77cca1269ade4.png!w80" group-title="ColaTV",[22:00 19/05] FM Klaipeda vs Alytis Alytus Dainava - BLV BLV C2 (L2) Giải :Cúp Lithuania
 https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV GIÀ LÀNG (L1) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/14830711.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV GIÀ LÀNG (L2) Giải :Giải bóng đá Ngoại hạng Anh
-https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV COCA (L1) Giải :Giải bóng đá Ngoại hạng Anh
 https://live5.msrktz.app/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV COCA (L2) Giải :Giải bóng đá Ngoại hạng Anh
 https://live5.msrktz.app/live/24561735.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV GIÀ LÀNG (L1) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/14830711.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV GIÀ LÀNG (L2) Giải :Giải bóng đá Ngoại hạng Anh
+https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV 247 (L1) Giải :Giải bóng đá Ngoại hạng Anh
 https://live5.msrktz.app/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png" group-title="ColaTV",[01:30 20/05] Câu lạc bộ bóng đá Bournemouth vs Câu lạc bộ bóng đá thành phố Manchester  - BLV BLV 247 (L2) Giải :Giải bóng đá Ngoại hạng Anh
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png/250px-Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png" group-title="Hội Quán TV",[07:00 18/05] Detroit Pistons vs Cleveland Cavaliers  - BLV PHAN MÃO (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png/250px-Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png" group-title="Hội Quán TV",[07:00 18/05] Detroit Pistons vs Cleveland Cavaliers  - BLV PHAN MÃO (HD)
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png/250px-Logo_of_the_Detroit_Pistons_%282017%E2%80%93present%29.png" group-title="Hội Quán TV",[07:00 18/05] Detroit Pistons vs Cleveland Cavaliers  - BLV PHAN MÃO (SD)
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="Hội Quán TV",[19:00 19/05] Qingdao Youth Island vs Beijing Guoan - BLV PHAN TỪ (FHD)
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072024/noa_erevan_armeniya.jpg?uY.4iyP71.IUrYKW4zofa.9TrGE4PAdC&itok=2IIKrnfc" group-title="Hội Quán TV",[22:00 19/05] FC Noah  vs Ararat - BLV CỦ HÀNH (FHD)
