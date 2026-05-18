@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/3686.png", 🔴 18/05-20:00 | shirak-vs-fc-urartu.FzTbHM9sI_ | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/3477.png", 🟡 18/05-21:00 | kerala-blasters-vs-goa.9yu6pGy30f | BLV A Cỏ
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/3477.png", 🔴 18/05-21:00 | kerala-blasters-vs-goa.9yu6pGy30f | BLV A Cỏ
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1166.png", 🟡 18/05-22:00 | lahti-vs-vps.ilRkdVwEH3 | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
@@ -329,7 +329,7 @@ https://live5.msrktz.app/live/33982309.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/ee17e7b8f55f0f6ffb1f766bc565f9a5.png!w80", 🕒 20/05 - 23:00 | Giải vô địch quốc gia Na Uy | IK Start vs Bodo Glimt | BLV MONSTER
 https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3477.png", 18/05/2026 21:00 | Indian Super League | Kerala Blasters vs Goa | BLV PHAN CA
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3477.png", 🔴 18/05/2026 21:00 | Indian Super League | Kerala Blasters vs Goa | BLV PHAN CA
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1166.png", 18/05/2026 22:00 | Veikkausliiga | Lahti vs VPS | BLV PHAN BÁCH
 https://google.com.vn
@@ -430,10 +430,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779103946.png",18h35 ngày 18/05 Zhejiang Guangsha vs Shenzhen (Lương Sơn) BLV YẾN THANH m3u
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779103946.png",18h35 ngày 18/05 Zhejiang Guangsha vs Shenzhen (Lương Sơn) BLV YẾN THANH flv
@@ -454,14 +450,6 @@ https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779106934.png",20h00 ngày 18/05 Yaypan FK vs Kattaqurgon (Lương Sơn) BLV FERNANDO flv
 https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14674_1hy78x3exjt.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14674_1hy78x3exjt.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14674_1hy78x3exjt.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14674_1hy78x3exjt.png",18h30 ngày 18/05 Tanjong Pagar Utd vs Hougang United FC (Lương Sơn) BLV DƯƠNG CHÍ flv
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1774670419.avif",20h00 ngày 18/05 Qoraqalpog FA vs Fergana University (Lương Sơn) BLV MÃ SIÊU m3u
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1774670419.avif",20h00 ngày 18/05 Qoraqalpog FA vs Fergana University (Lương Sơn) BLV MÃ SIÊU flv
@@ -470,6 +458,10 @@ https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe7
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779106883.png",20h00 ngày 18/05 Qoraqalpog FA vs Fergana University (Lương Sơn) BLV LÃO HẠC flv
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779048479.png",19h00 ngày 18/05 Imus Braderhood vs Pasig City (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 
 
@@ -813,20 +805,14 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/18/live-thu-2-ngoai-hang-slider-thumb_1779098016126.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 20:00 - Thứ Hai Ngoại hạng vòng 37
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-30
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/18/live-giai-bong-chuyen-nu-quoc-te-cup-vtv9---binh-dien-2026-slide-thumb_1779061405209.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 20:00 - LPBank Ninh Bình - Hà Nội Tasco Auto
 http://phuockhai.giize.com:1979/fpt/play1.php?id=vtv9-hd
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/18/v23slide_1779094706007.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 20:00 - Tổng hợp sau vòng 23 LPBank V.League 1 - 2025/26
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-05
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/18/live-tn-lpbank-vleague-1---202526-slide-thumb_1779098430151.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 21:00 - Đội hình tiêu biểu - Vòng 23
+http://phuockhai.giize.com:1979/fpt/play1.php?id=event-02
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/18/tn-vba-2026-slide-thumb_1779096429358.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 21:00 - Pre-season VBA: Nguyễn Thế Đăng
 http://phuockhai.giize.com:1979/fpt/play1.php?id=event-03
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/18/live-tn-lpbank-vleague-1---202526-slide-thumb_1779098430151.jpg" group-title="⭐Sự kiện FPT OTT",18/05 - 21:00 - Đội hình tiêu biểu - Vòng 23
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-02
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/13/slider_1778646257686.jpg" group-title="⭐Sự kiện FPT OTT",19/05 - 01:40 - Arsenal - Burnley: Fan cứng
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-04-4k-bk
@@ -858,10 +844,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-03-bk
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/15/live-hero-indian-open-2026---dp-world-tour-2026-slider-thumb_1778827956474.jpg" group-title="⭐Sự kiện FPT OTT",20/05 - 15:00 - Hero Indian Open 2026 vòng 4: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a06c2ea2d975b968253ebf6
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/243800_small.png",🔴 18:30 - 18.05 | VĐQG Singapore | Tanjong Pagar United FC vs Hougang United FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/oppo-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2211_small.png",🔴 20:00 - 18.05 | Ngoại hạng Armenia | Shirak vs Urartu FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1289,9 +1271,6 @@ http://pk79.io.vn/tv360/play360.php?id=sk4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/13/15/1778662568274/4e8d2a788643_640_360.png", 30/05-23:00 | PSG vs Arsenal TV360+ 1 30.5
 http://pk79.io.vn/tv360/play360.php?id=sk1
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 18:35-18/05: Zhejiang Guangsha - Shenzhen (CBA) - BLV HENRY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-18/05: Thimphu City - Drukpa FC (BTN PL) - XUÂN SON
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
@@ -1890,8 +1869,6 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Italy (720p)
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tổng hợp sau vòng 23 LPBank V.League 1 - 2025/26" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/18/v23slide_1779094706007.jpg" group-title="⭐ Sự kiện FPT", 🔴 18/05 20:00 | Tổng hợp sau vòng 23 LPBank V.League 1 - 2025/26
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-name="Than Khoáng sản Việt Nam - TP. Hồ Chí Minh" tvg-logo="https://images.fptplay53.net/media/home_event/OTT/2026/05/14/slider_1778724975852.jpg" group-title="⭐ Sự kiện FPT", 🕒 19/05 15:50 | Than Khoáng sản Việt Nam - TP. Hồ Chí Minh [BACKUP]
 http://is.am/62sv
 
