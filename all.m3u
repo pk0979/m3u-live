@@ -1059,6 +1059,16 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
+#EXTINF:-1 tvg-logo="/vimages/345x194/8e/e9/95/56/64/49/8e956-lmechongkhotinh1034djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 19/05/2026 18:30 | Mẹ Chồng Khó Tính    
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
+#EXTINF:-1 tvg-logo="/vimages/345x194/85/5a/a9/9f/f3/3f/85a9f-ltrachquanky8ed5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 19/05/2026 19:00 |  Trạch Quân Ký 
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
+#EXTINF:-1 tvg-logo="/vimages/345x194/69/92/2b/b6/61/19/692b6-lvaidiendinhmenhbb7939jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 19/05/2026 20:00 | Vai Diễn Định Mệnh        
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
+#EXTINF:-1 tvg-logo="/vimages/345x194/e4/44/4b/b6/66/66/e44b6-l01comaythoigiand343jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 19/05/2026 20:30 | Cỗ Máy Thời Gian            
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
+#EXTINF:-1 tvg-logo="/vimages/345x194/13/3a/a4/4b/bc/c1/13a4b-lgiaydoa8a7jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 19/05/2026 21:00 | Giày Đỏ         
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
 #EXTINF:-1 tvg-logo="/vimages/345x194/95/5b/b9/92/25/58/95b92-lmattroikhuyet89dajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 19/05/2026 21:45 | Mặt Trời Khuyết
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
 #EXTINF:-1 tvg-logo="/vimages/345x194/b5/54/4b/ba/ae/e9/b54ba-lvongtrontoiaceca8jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 19/05/2026 22:45 | Vòng Tròn Tội Ác  
