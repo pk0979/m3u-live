@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png", 🟡 21/05-07:00 | gremio-vs-palestino.PIDC6vMSNq | BLV Văn Tích
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png", 🔴 21/05-07:00 | gremio-vs-palestino.PIDC6vMSNq | BLV Văn Tích
 https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/10013.png", 🟡 21/05-09:00 | cusco-vs-independiente-medellin.cu5vtW8Njy | BLV Văn Tích
 https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
@@ -438,10 +438,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3501_1gzczbcwxc1x.png",05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama (Lương Sơn) BLV URA m3u
-https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3501_1gzczbcwxc1x.png",05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama (Lương Sơn) BLV URA flv
-https://flv.cdnfaster-a.live/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2353_1gzsy54rhb1g.png",05h00 ngày 21/05 Nacional Montevideo vs Universitario De Deportes (Lương Sơn) BLV LƯU BỊ m3u
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2353_1gzsy54rhb1g.png",05h00 ngày 21/05 Nacional Montevideo vs Universitario De Deportes (Lương Sơn) BLV LƯU BỊ flv
@@ -458,6 +454,10 @@ https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3
 https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/303_1gv1yhgq3n2e.png",05h00 ngày 21/05 Santos vs San Lorenzo (Lương Sơn) BLV KHỔNG MINH flv
 https://flv.cdnfaster-a.live/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3501_1gzczbcwxc1x.png",05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama (Lương Sơn) BLV URA m3u
+https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3501_1gzczbcwxc1x.png",05h00 ngày 21/05 Olimpia Asuncion vs Vasco da Gama (Lương Sơn) BLV URA flv
+https://flv.cdnfaster-a.live/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano êm đềm cho khoảnh khắc nghỉ ngơi
 http://pk79.io.vn/myclip/play.php?id=12246724
