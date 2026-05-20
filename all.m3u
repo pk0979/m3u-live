@@ -267,7 +267,7 @@ https://live5.msrktz.app/live/75915087.m3u8
 https://live5.msrktz.app/live/08552895.m3u8
 
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg", 🔴 20/05/2026 07:30 | CONMEBOL Libertadores | Boca Juniors vs Cruzeiro | BLV PHAN CA
-https://google.com.vn
+http://pk79.io.vn/hoiquanlive/play.php?id=1535299
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/dd/Shanghai_Shenhua_F.C.svg.png", 20/05/2026 18:35 | Super League | Shanghai Shenhua vs Wuhan Three Towns | BLV CỦ HÀNH
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/848.png", 20/05/2026 19:00 | Super League | Hangzhou Greentown vs Shandong Luneng | BLV PHAN BÁCH
@@ -371,6 +371,10 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28078_1gskkd501f1d.png",07h00 ngày 20/05 Always Ready vs Mirassol (Lương Sơn) BLV URA m3u
+https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28078_1gskkd501f1d.png",07h00 ngày 20/05 Always Ready vs Mirassol (Lương Sơn) BLV URA flv
+https://flv.cdnfaster-a.live/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779223701.png",07h00 ngày 20/05 New York Knicks vs Cleveland Cavaliers (Lương Sơn) BLV YẾN THANH m3u
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779223701.png",07h00 ngày 20/05 New York Knicks vs Cleveland Cavaliers (Lương Sơn) BLV YẾN THANH flv
@@ -379,10 +383,6 @@ https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d99
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2216_1gtzd4kn692b.png",07h00 ngày 20/05 Independiente Santa Fe vs CA Platense (Lương Sơn) BLV VÕ TÒNG flv
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28078_1gskkd501f1d.png",07h00 ngày 20/05 Always Ready vs Mirassol (Lương Sơn) BLV URA m3u
-https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/28078_1gskkd501f1d.png",07h00 ngày 20/05 Always Ready vs Mirassol (Lương Sơn) BLV URA flv
-https://flv.cdnfaster-a.live/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 
 
 
@@ -1875,6 +1875,9 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=290928
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:00-21/05: Pyramids FC - Smouha SC (EGY D1) - BLV RAMBO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 00:00-21/05: Lokomotiv Kuban - CSKA Moscow (VTBUL) - A CHÈ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-21/05: Palermo - Catanzaro (ITA D2) - QUỐC KHÁNH
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
