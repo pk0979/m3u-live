@@ -425,9 +425,6 @@ https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg", 23/05/2026 23:00 | Serie A | Bologna vs Inter | BLV CỦ HÀNH
 https://google.com.vn
 
-#EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.sports-data.online/football/team/f6526b5434c06d7a6da4a9193fdac95e.png", 🔴 ⭐ BLV MÂY | 20/05-22:00 | Finnish Veikkausliiga | Ilves Tampere - Inter Turku
-#EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
-https://pull-kda.fastestcdn-global.com/live/8144311131ce48599836d43384907c5d/index.m3u8
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.sports-data.online/football/team/940bb92f83d40985137748d0d3aeb213.png", 🔴 ⭐ BLV TIỂU MÂN | 20/05-23:00 | Bulgarian Cup | Lokomotiv Plovdiv - CSKA Sofia
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/eb06acb97b43455ca932601735f6f0f7/index.m3u8
@@ -891,11 +888,14 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/slider_1779240912715.jpg" group-title="⭐Sự kiện FPT OTT",20/05 - 22:00 - Brentford - Crystal Palace: Phát lại
-http://phuockhai.giize.com:1979/fpt_replay/6a0d104d7517ab50a5c475bf
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/live-nba-regular-season-2025-26-slide-thumb_1779262501688.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 07:30 - San Antonio Spurs - Oklahoma City Thunder
+http://phuockhai.giize.com:1979/fpt/play1.php?id=nba-hn-01
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/19/live-giai-bong-chuyen-nu-quoc-te-cup-vtv9---binh-dien-2026-slide-thumb_1779166266381.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 17:00 - Gunma (Nhật Bản) - VietinBank
 http://phuockhai.giize.com:1979/fpt/play1.php?id=vtv5-tay-nguyen
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/live-soudal-open-2026---dp-world-tour-2026-slider-thumb_1779262041899.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 18:00 - Soudal Open 2026 - Vòng 1
+http://phuockhai.giize.com:1979/fpt/play1.php?id=event-20
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/live-vba-2026-slide-thumb_1779268608029.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 18:50 - [4K Upscale] Hanoi Buffaloes - Nha Trang Dolphins
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-01-4k
@@ -1509,30 +1509,6 @@ http://pk79.io.vn/tv360/play360.php?id=sk4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/13/15/1778662568274/4e8d2a788643_640_360.png", 30/05-23:00 | PSG vs Arsenal TV360+ 1 30.5
 http://pk79.io.vn/tv360/play360.php?id=sk1
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Ilves Tampere - Inter Turku (FIN D1) - BLV TOMMY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Ilves Tampere - Inter Turku (FIN D1) - SAO LA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=462413
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Ilves Tampere - Inter Turku (FIN D1) - BLV PIRLO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=351530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Ilves Tampere - Inter Turku (FIN D1) - TYPN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=170430
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Ilves Tampere - Inter Turku (FIN D1) - BLV Củ Cải
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Ilves Tampere - Inter Turku (FIN D1) - BLV 7UP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=534219
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Tukums-2000 - Riga FC (LAT D1) - BLV VOI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=552716
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-20/05: Tukums-2000 - Riga FC (LAT D1) - CHANH MUỐI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598549
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:20-20/05: FC Chernigiv - Dynamo Kyiv (UKR Cup) - KÉP
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=560690
@@ -2248,8 +2224,6 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-name="Hanoi Buffaloes - Nha Trang Dolphins" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/live-vba-2026-slide-thumb_1779268608029.jpg" group-title="⭐ Sự kiện FPT", 🕒 21/05 18:50 | Hanoi Buffaloes - Nha Trang Dolphins [BACKUP]
 http://is.am/62sv
 
-#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/244.png", 🔴 20/05-22:00 | Veikkausliiga | Ilves vs Inter Turku | BLV Táo Mèo
-https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/103.png", 🔴 20/05-23:00 | Eliteserien | Start vs Bodo/Glimt | BLV Táo Thiên Vương
 https://tdlive.yarncdn.live/live/tdtv_blv_taothienvuong/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/113.png", 🔴 21/05-00:00 | Allsvenskan | Gais vs Hammarby FF | BLV Thần Thông
