@@ -516,10 +516,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/1920x1080-2_1779339636582.jpg", Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4915_1htrj5rvv227.png",17h00 ngày 21/05 Ekibastuzets vs Akademiya Ontustik (Lương Sơn) BLV TIỂU LANG m3u
-https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4915_1htrj5rvv227.png",17h00 ngày 21/05 Ekibastuzets vs Akademiya Ontustik (Lương Sơn) BLV TIỂU LANG flv
-https://flv.cdnfaster-a.live/live/AJUN.flv?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/70265_1k5wkt3ys614.png",17h00 ngày 21/05 Ulaangom City FC vs Khovd (Lương Sơn) BLV KHỔNG MINH m3u
 https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/70265_1k5wkt3ys614.png",17h00 ngày 21/05 Ulaangom City FC vs Khovd (Lương Sơn) BLV KHỔNG MINH flv
@@ -532,6 +528,10 @@ https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe7
 https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4915_1htrj5rvv227.png",17h00 ngày 21/05 Ekibastuzets vs Akademiya Ontustik (Lương Sơn) BLV NHỊ KA flv
 https://flv.cdnfaster-a.live/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4915_1htrj5rvv227.png",17h00 ngày 21/05 Ekibastuzets vs Akademiya Ontustik (Lương Sơn) BLV TIỂU LANG m3u
+https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4915_1htrj5rvv227.png",17h00 ngày 21/05 Ekibastuzets vs Akademiya Ontustik (Lương Sơn) BLV TIỂU LANG flv
+https://flv.cdnfaster-a.live/live/AJUN.flv?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
 
 
 
@@ -1734,8 +1734,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/11/17790774085/325a3e318a41_640_360.jpg", 21/05-18:00 | Soudal Open 2026 TV360+6 Ngày 1 - 21.5
 http://pk79.io.vn/tv360/play360.php?id=sk6
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/20/10/177924680998/b2bb6ac0793c_640_360.png", 21/05-16:00 | CA PHÚ THỌ VS HÀ TĨNH ON SPORTS 21.5
-http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/21/09/1779331712530/551820b5faf9_640_360.png", 21/05-17:00 | Gunma - VietinBank vtv5 Tây Nguyên 21.5
 http://pk79.io.vn/tv360/play.php?id=207
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/20/10/177924908080/780f0d80dfd4_640_360.png", 21/05-17:00 | ATP TOUR 500 HAMBURG EUROPEAN 2026_ TỨ KẾT ON SPORTS NEWS 21.5
@@ -1752,6 +1750,8 @@ http://pk79.io.vn/tv360/play.php?id=207
 http://pk79.io.vn/tv360/play360.php?id=sk12
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/11/1779077499125/3bd57b96b623_640_360.jpg", 22/05-18:00 | Soudal Open 2026 TV360+6 Ngày 2 - 22.5
 http://pk79.io.vn/tv360/play360.php?id=sk6
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/21/12/1779341318501/992340e21886_640_360.png", 22/05-16:00 | QUÂN KHU 3 VS TRẺ BIÊN PHÒNG ON SPORTS 22.5
+http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/21/12/1779341423896/bfacd1f3214c_640_360.png", 22/05-18:00 | TRẺ NINH BÌNH VS ĐẮK LẮK ON SPORTS 22.5
 http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/20/11/1779252014333/d93819da4708_640_360.jpg", 22/05-01:30 | Wolfsburg vs Paderborn Play-off dự Bundesliga TV360+ 4 22.5
@@ -2584,8 +2584,8 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-name="Hanoi Buffaloes - Nha Trang Dolphins" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/live-vba-2026-slide-thumb_1779324476520.jpg" group-title="⭐ Sự kiện FPT", 🕒 21/05 18:50 | Hanoi Buffaloes - Nha Trang Dolphins [BACKUP]
 http://is.am/62sv
-#EXTINF:-1 tvg-name="Hà Nội 2 - Than Khoáng sản Việt Nam" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/slider_1779334232117.jpg" group-title="⭐ Sự kiện FPT", 🕒 22/05 15:50 | Hà Nội 2 - Than Khoáng sản Việt Nam [BACKUP]
-http://is.am/62sv
+#EXTINF:-1 tvg-name="Hà Nội 2 - Than Khoáng sản Việt Nam" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/slider_1779334232117.jpg" group-title="⭐ Sự kiện FPT", 🕒 22/05 15:50 | Hà Nội 2 - Than Khoáng sản Việt Nam
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png", 🔴 21/05-17:00 | Premier League | Ugyen Academy vs Tsirang | BLV Thần Thông
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
