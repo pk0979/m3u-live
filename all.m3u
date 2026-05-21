@@ -414,10 +414,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2211_1h8ass4kvfq.png",07h40 ngày 21/05 Deportivo Cali vs Alianza Petrolera (Lương Sơn) BLV URA m3u
-https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2211_1h8ass4kvfq.png",07h40 ngày 21/05 Deportivo Cali vs Alianza Petrolera (Lương Sơn) BLV URA flv
-https://flv.cdnfaster-a.live/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png",09h00 ngày 21/05 Atletico Junior Barranquilla vs Sporting Cristal (Lương Sơn) BLV TỐNG GIANG m3u
 https://hls.cdnfaster-a.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png",09h00 ngày 21/05 Atletico Junior Barranquilla vs Sporting Cristal (Lương Sơn) BLV TỐNG GIANG flv
@@ -442,6 +438,10 @@ https://flv.cdnfaster-a.live/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/322_1j9d3cawp41r.png",07h30 ngày 21/05 Flamengo vs Estudiantes La Plata (Lương Sơn) BLV LƯU BỊ flv
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2211_1h8ass4kvfq.png",07h40 ngày 21/05 Deportivo Cali vs Alianza Petrolera (Lương Sơn) BLV URA m3u
+https://hls.cdnfaster-a.live/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2211_1h8ass4kvfq.png",07h40 ngày 21/05 Deportivo Cali vs Alianza Petrolera (Lương Sơn) BLV URA flv
+https://flv.cdnfaster-a.live/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 
 
 
@@ -788,8 +788,11 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/live-nba-regular-season-2025-26-slide-thumb_1779262501688.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 07:30 - San Antonio Spurs - Oklahoma City Thunder
 http://phuockhai.giize.com:1979/fpt/play1.php?id=nba-hn-01
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/slider_1779328362721.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 09:00 - Than Khoáng sản Việt Nam - TP. Hồ Chí Minh: Phát lại
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/slider_1779328362721.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 09:10 - Than Khoáng sản Việt Nam - TP. Hồ Chí Minh: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a0e658cf9c98eca3b0be03d
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/bang-cho-24_1779329925135.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 11:30 - Bản tin Thể thao 24+ ngày 21/5
+http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-01
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/19/live-giai-bong-chuyen-nu-quoc-te-cup-vtv9---binh-dien-2026-slide-thumb_1779166266381.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 17:00 - Gunma (Nhật Bản) - VietinBank
 http://phuockhai.giize.com:1979/fpt/play1.php?id=vtv5-tay-nguyen
@@ -2534,6 +2537,8 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Italy (720p)
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Bản tin Thể thao 24+ ngày 21/5" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/bang-cho-24_1779329925135.jpg" group-title="⭐ Sự kiện FPT", 🕒 21/05 11:30 | Bản tin Thể thao 24+ ngày 21/5 [BACKUP]
+http://is.am/62sv
 #EXTINF:-1 tvg-name="Hanoi Buffaloes - Nha Trang Dolphins" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/live-vba-2026-slide-thumb_1779324476520.jpg" group-title="⭐ Sự kiện FPT", 🕒 21/05 18:50 | Hanoi Buffaloes - Nha Trang Dolphins [BACKUP]
 http://is.am/62sv
 
