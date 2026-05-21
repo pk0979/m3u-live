@@ -404,13 +404,13 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/194.png", 21/05/2026 23:45 | Eredivisie | Ajax vs Groningen | BLV PHAN CHỚP
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2939.png", 22/05/2026 01:00 | Saudi Pro League ( Đầu Cầu Anti CR7 ) | Al-Nassr vs Damac | BLV LƯƠNG BỔNG
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2939.png", 22/05/2026 01:00 | Saudi Pro League ( Đầu Cầu Fan CR7 ) | Al-Nassr vs Damac | BLV PHAN MÃ
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2938.png", 22/05/2026 01:00 | Pro League | Al-Ittihad FC vs Al-Qadisiyah FC | BLV PHAN MÃO
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2939.png", 22/05/2026 01:00 | Saudi Pro League ( Đầu Cầu Anti CR7 ) | Al-Nassr vs Damac | BLV LƯƠNG BỔNG
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2944.png", 22/05/2026 01:00 | Pro League | Al-Fayha vs Al-Hilal Saudi FC | BLV CỦ HÀNH
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2938.png", 22/05/2026 01:00 | Pro League | Al-Ittihad FC vs Al-Qadisiyah FC | BLV PHAN MÃO
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2348.png", 22/05/2026 07:30 | CONMEBOL Libertadores | Penarol vs Corinthians | BLV PHAN ANH
 https://google.com.vn
@@ -866,9 +866,6 @@ http://example.com/update.m3u8
 
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/slider_1779329427605.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 11:00 - Công An Hà Nội - Đông Á Thanh Hóa: Phát lại
-http://phuockhai.giize.com:1979/fpt_replay/6a0e6ca4e30f205a34af592f
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/slider_1779329388026.jpg" group-title="⭐Sự kiện FPT OTT",21/05 - 13:00 - Phong Phú Hà Nam - Thái Nguyên T&T: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a0e6ca9a22ea5fcb9d2632f
