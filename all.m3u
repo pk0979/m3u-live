@@ -1899,6 +1899,12 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=447
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=449
 #EXTINF:-1 tvg-logo="/vimages/345x194/66/62/20/0a/a8/81/6620a-lvleagueninhbinhvscongantphochiminh19205c69jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 23/05/2026 18:00 | Ninh Bình vs Công an TP. Hồ Chí Minh Vòng 24 V.League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=459
+#EXTINF:-1 tvg-logo="/vimages/345x194/e2/2d/d6/62/26/63/e2d62-lchidep6ccomaythoigian1920e34cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 23/05/2026 19:00 | Chị Đẹp Đạp Gió 2026 - Tập 6C - Cỗ Máy Thời Gian Của Chị Đẹp 04
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=670
+#EXTINF:-1 tvg-logo="/vimages/345x194/80/0c/cc/cc/c7/7d/80ccc-lscoobydoo2f1e9jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 23/05/2026 20:00 | SCOOBY-DOO2
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=866
+#EXTINF:-1 tvg-logo="/vimages/345x194/9e/ee/eb/b4/4b/b3/9eeb4-lgunsup78610jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 23/05/2026 20:00 | GUNS UP
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
 #EXTINF:-1 tvg-logo="/vimages/345x194/f4/4d/df/ff/fb/b3/f4dff-lserieabolognavsinter1920f5a5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 23/05/2026 23:00 | Bologna vs Inter Vòng 38 Serie A 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
 #EXTINF:-1 tvg-logo="/vimages/345x194/22/29/96/6e/eb/b4/2296e-lligavalenciavsbarcelona19201016cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 24/05/2026 02:00 | Valencia vs Barcelona Vòng 38 Laliga 2025/26
@@ -1911,8 +1917,12 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=203
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=200
 #EXTINF:-1 tvg-logo="/vimages/345x194/90/0c/cd/d5/55/5b/90cd5-lvleaguehanoivsthepxanhnamdinh1920a0e1jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 24/05/2026 19:15 | Hà Nội vs Thép Xanh Nam Định Vòng 24 V.League 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=459
+#EXTINF:-1 tvg-logo="/vimages/345x194/71/14/41/1a/a2/20/7141a-loceans8f10b6jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 24/05/2026 20:00 | OCEAN'S8
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
 #EXTINF:-1 tvg-logo="/vimages/345x194/26/66/63/3b/ba/ae/2663b-lserieaparmavssassuolo1920da6bjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 24/05/2026 20:00 | Parma vs Sassuolo Vòng 38 Serie A 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
+#EXTINF:-1 tvg-logo="/vimages/345x194/fa/a2/2b/bd/da/a9/fa2bd-lsonic22899jpg-content-mytv.JPG" group-title="MyTV Event", ⏰ 24/05/2026 21:45 | SONIC2
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=69
 #EXTINF:-1 tvg-logo="/vimages/345x194/9f/fc/c4/43/3d/d9/9fc43-lserieanapolivsudinese19201b2djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 24/05/2026 23:00 | Napoli vs Udinese Vòng 38 Serie A 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
 #EXTINF:-1 tvg-logo="/vimages/345x194/6f/f4/47/7a/a3/31/6f47a-lligavillarrealvsatleticomadrid192096b2jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 25/05/2026 02:00 | Villarreal vs Atletico Madrid Vòng 38 Laliga 2025/26
@@ -1964,8 +1974,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/15/1779437764830/6e45b47ebb88_640_360.png", 23/05-23:00 | BOLOGNA VS INTER MILAN ON FOOTBALL 23.5
 http://pk79.io.vn/tv360/play360.php?id=onsports
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/19/11/1779163651306/bcf579428697_640_360.jpg", 23/05-03:30 | Phân hạng nước rút TV360+12 23.5
-http://pk79.io.vn/tv360/play360.php?id=sk12
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/19/11/1779163761565/c308dbf067b9_640_360.jpg", 23/05-23:00 | Đua nước rút TV360+12 23:00 ngày 23.5
 http://pk79.io.vn/tv360/play360.php?id=sk12
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/11/1779077580480/985f0dedac40_640_360.jpg", 23/05-18:30 | Soudal Open 2026 TV360+6 Ngày 3 - 23.5
@@ -2010,6 +2018,8 @@ http://pk79.io.vn/tv360/play360.php?id=onsportnews
 http://pk79.io.vn/tv360/play360.php?id=onsports
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/18/1779447603914/83309a34e9cb_640_360.png", 24/05-02:00 | Barca On Sport+ 24.5
 http://pk79.io.vn/tv360/play360.php?id=onsportplus
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/18/1779448601852/46387263cca1_640_360.png", 24/05-20:00 | Seria On Football 24.5
+http://pk79.io.vn/tv360/play360.php?id=onsports
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 05:00-23/05: Nautico (PE) - Cuiaba (BRA D2) - HÀ DUY KIÊN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
