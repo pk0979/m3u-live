@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Spartak_Varna.png", 🔴 22/05-22:00 | spartak-varna-vs-lokomotiv-sofia.LY19_fST2C | BLV Người Kiến
-https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/5503.png", 🔴 22/05-22:30 | sumqayit-vs-qarabag.rmU1SPcfIu | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/650.png", 🔴 22/05-23:00 | vps-vs-hjk-helsinki.nAPjq_D5aw | BLV Thợ Lặn
@@ -456,9 +454,9 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1280px-Gremio_logo.svg.png", 24/05/2026 05:00 | Serie A | Gremio vs Santos | BLV PHAN CA
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg", 24/05/2026 18:00 | V.League 1 | Hồng Lĩnh Hà Tĩnh vs CAHN | BLV PHAN MÃ
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png", 24/05/2026 18:00 | V.League 1 | Binh Duong vs Song Lam Nghe An | BLV PHAN CA
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg", 24/05/2026 18:00 | V.League 1 | Hồng Lĩnh Hà Tĩnh vs CAHN | BLV PHAN MÃ
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3670.png", 24/05/2026 19:15 | V.League 1 | Ha Noi vs Nam Dinh | BLV LƯƠNG BỔNG
 https://google.com.vn
@@ -474,9 +472,9 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png", 24/05/2026 22:00 | Premier League | Liverpool vs Brentford | BLV PHAN CA
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png", 24/05/2026 22:00 | Premier League | Crystal Palace vs Arsenal | BLV PHAN MÃ
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/51.png", 24/05/2026 22:00 | Premier League | Brighton vs Manchester United | BLV PHAN HÀ LINH
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png", 24/05/2026 22:00 | Premier League | Crystal Palace vs Arsenal | BLV PHAN MÃ
 https://google.com.vn
 
 #EXTINF:-1 group-title="⚽ Khán Đài A TV" tvg-logo="https://img.sports-data.online/football/team/9352b8e0b9515b84abf716a32c42777e.png", 🔴 ⭐ BLV MÂY | 22/05-22:40 | United Arab Emirates President Cup | Al-Jazira(UAE) - Al-Ain FC
@@ -561,6 +559,16 @@ https://pull-kda.fastestcdn-global.com/live/f38a21aeed884aa4ab10969c9a7d968a/ind
 #EXTVLCOPT:http-referrer=https://khandaia.to/truc-tiep/
 https://pull-kda.fastestcdn-global.com/live/0f158b9e55ff455da724a83e515d0c87/index.m3u8
 
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9957
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
+#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
+#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9888
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 11
 https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 12
@@ -580,39 +588,33 @@ https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện FPT PLAY" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/21/live-vba-2026-slide-thumb_1779339162318.jpg", Event 1 4K
 https://live.fptplay53.net/live/media/event-01-4k/hls_avc_v6/index.m3u8
 
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10705_1jmxac7h3g23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F985_1hfze5bfw71m.png", 🔴 22/05-22:00 | Beroe Stara Zagora vs Botev Vratsa | BLV NGƯỜI THÉP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=61f721fe-41db-43f4-adca-505978bbaf74
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10705_1jmxac7h3g23.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F985_1hfze5bfw71m.png", 🔴 22/05-22:00 | Beroe Stara Zagora vs Botev Vratsa | BLV LÃO HẠC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=317577928
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1439_1gtaqah5mb26.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F220_1gtg0npad1m.png", 🔴 22/05-23:00 | Aalborg vs Aarhus Fremad | BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=380096924
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1853_165724449442.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F347_1gtzct7tvc22.png", 🔴 22/05-23:00 | HJK Helsinki vs Vaasa VPS | BLV LƯU BỊ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=261631928
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1853_165724449442.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F347_1gtzct7tvc22.png", 🔴 22/05-23:00 | HJK Helsinki vs Vaasa VPS | BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=4d07bfc1-a26c-467e-809a-c9339054b791
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F565_1gtqm5gxd0f.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4088_1h5bjb8w5431.png", 🔴 22/05-23:15 | HNK Vukovar 91 vs Hajduk Split | BLV MAYBACH
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1853_165724449442.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F347_1gtzct7tvc22.png", 🔴 22/05-23:00 | HJK Helsinki vs Vaasa VPS | BLV LƯU BỊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=488259721
+https://khaitv.dpdns.org/luongson/list2.php?id=261631928
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F565_1gtqm5gxd0f.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4088_1h5bjb8w5431.png", 🔴 22/05-23:15 | HNK Vukovar 91 vs Hajduk Split | BLV TRIỆU TỬ LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=688782cc-ad82-4d98-9098-dc6ec36cc8a9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F565_1gtqm5gxd0f.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4088_1h5bjb8w5431.png", 🔴 22/05-23:15 | HNK Vukovar 91 vs Hajduk Split | BLV MÃ SIÊU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=10997c54-f90b-419b-81db-5864d14dba1a
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F565_1gtqm5gxd0f.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4088_1h5bjb8w5431.png", 🔴 22/05-23:15 | HNK Vukovar 91 vs Hajduk Split | BLV MAYBACH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=488259721
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2434_1h31g8yh782v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3908_1h1gddv8xc2a.png", 23/05-00:00 | Japan U17 vs China U17 | BLV LEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=0008864b-b5f0-4c24-a325-9389e4dbc84d
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2434_1h31g8yh782v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3908_1h1gddv8xc2a.png", 23/05-00:00 | Japan U17 vs China U17 | BLV TÔN LẬP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=ae9faf35-a7c6-4a74-b271-7735d128e761
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2434_1h31g8yh782v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3908_1h1gddv8xc2a.png", 23/05-00:00 | Japan U17 vs China U17 | BLV NHỊ KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=481788923
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2434_1h31g8yh782v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3908_1h1gddv8xc2a.png", 23/05-00:00 | Japan U17 vs China U17 | BLV TÔN LẬP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=ae9faf35-a7c6-4a74-b271-7735d128e761
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F385_1gv1yreqw82.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1314_1h8jkhmh491m.png", 23/05-00:00 | Brommapojkarna vs Djurgardens | BLV A TỦA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=217121923
@@ -625,12 +627,12 @@ https://khaitv.dpdns.org/luongson/list2.php?id=47b5d8af-12ad-44f3-80f4-8797a1d5f
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F923_165724148855.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6_165724143142.png", 23/05-00:30 | Rapid Wien vs SV Ried | BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=463788923
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F485_1j3kr8g95529.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F636_1j3kr48429s.png", 23/05-00:45 | Konyaspor vs Trabzonspor | BLV HÀN TÍN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=98f07e73-fb6d-437f-b166-4b4dd8af30de
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F485_1j3kr8g95529.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F636_1j3kr48429s.png", 23/05-00:45 | Konyaspor vs Trabzonspor | BLV PHI HỔ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=477278922
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F485_1j3kr8g95529.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F636_1j3kr48429s.png", 23/05-00:45 | Konyaspor vs Trabzonspor | BLV HÀN TÍN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=98f07e73-fb6d-437f-b166-4b4dd8af30de
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F533_1k30j6qnfp2d.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F805_1h71qv7kk223.png", 23/05-01:00 | OFK Beograd vs Crvena Zvezda | BLV PELE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=458847923
@@ -643,21 +645,21 @@ https://khaitv.dpdns.org/luongson/list2.php?id=345388929
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F142_164868998143.png", 23/05-01:45 | Atalanta vs Fiorentina | BLV TIỂU LANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=fcaa41ba-e875-46cf-a5cd-f2ac341f3c99
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F142_164868998143.png", 23/05-01:45 | Atalanta vs Fiorentina | BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=7dab2adf-106b-491f-8144-db336f004a57
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F142_164868998143.png", 23/05-01:45 | Atalanta vs Fiorentina | BLV YẾN THANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=355848729
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F142_164868998143.png", 23/05-01:45 | Atalanta vs Fiorentina | BLV TÂY MÔN KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=29876ef5-f6ef-484b-896b-89a85cde74d7
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F189_164871168519.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F235_164871179882.png", 23/05-02:00 | Nice vs Lens | BLV MÃ SIÊU
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F142_164868998143.png", 23/05-01:45 | Atalanta vs Fiorentina | BLV YẾN THANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=636ab1dc-0bf3-41f5-8e04-ce7d0b51ff7a
+https://khaitv.dpdns.org/luongson/list2.php?id=355848729
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F163_1hxqrpz41w1v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F142_164868998143.png", 23/05-01:45 | Atalanta vs Fiorentina | BLV TRIỆU TỬ LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=7dab2adf-106b-491f-8144-db336f004a57
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F189_164871168519.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F235_164871179882.png", 23/05-02:00 | Nice vs Lens | BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=464787923
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F189_164871168519.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F235_164871179882.png", 23/05-02:00 | Nice vs Lens | BLV MÃ SIÊU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=636ab1dc-0bf3-41f5-8e04-ce7d0b51ff7a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4071_1k5n6pv3zb1.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3118_1j77rv8hw7a.png", 23/05-03:00 | CODM Meknes vs Kawkab de Marrakech | BLV LEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=312788927
@@ -1809,9 +1811,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:40-22/05: Al-Jazira(UAE) - Al-Ain FC (UAE PC) - BLV COZY
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=531989
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-22/05: Cesena U20 - Inter Milan U20 (ITA YTHL) - QUỐC KHÁNH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-22/05: Vaasa VPS - HJK Helsinki (FIN D1) - BLV RÔSI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
@@ -2547,9 +2546,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:40-22/05: Al-Jazira(UAE) - Al-Ain FC (UAE PC) - BLV COZY
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=531989
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-22/05: Cesena U20 - Inter Milan U20 (ITA YTHL) - QUỐC KHÁNH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:00-22/05: Vaasa VPS - HJK Helsinki (FIN D1) - BLV RÔSI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
