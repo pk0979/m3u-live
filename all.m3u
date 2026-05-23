@@ -3,7 +3,7 @@
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/21263.png", 🔴 23/05-19:00 | dalian-zhixing-vs-chengdu-better-city.6tVzq1kcXI | BLV A Cỏ
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/6813.png", 🟡 23/05-20:00 | dinamo-makhachkala-vs-ural.EQAzHKxV0S | BLV Người Kiến
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/6813.png", 🔴 23/05-20:00 | dinamo-makhachkala-vs-ural.EQAzHKxV0S | BLV Người Kiến
 https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/960px-Hull_City_A.F.C._logo.svg.png", 🟡 23/05-21:30 | hull-city-vs-middlesbrough.72NGflDmCB | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
@@ -382,19 +382,19 @@ https://live5.msrktz.app/live/82054853.m3u8
 
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/3669.png", 🔴 23/05/2026 18:00 | V.League 1 | Da Nang vs Hai Phong | BLV PHAN CA
 http://pk79.io.vn/hoiquanlive/play.php?id=1518090
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png", 🔴 23/05/2026 18:00 | V.League 1 | Thanh Hóa vs Hoang Anh Gia Lai | BLV PHAN BÁCH
-http://pk79.io.vn/hoiquanlive/play.php?id=1518092
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png", 🔴 23/05/2026 18:00 | V.League 1 | Ninh Bình vs Ho Chi Minh | BLV LƯƠNG BỔNG
 http://pk79.io.vn/hoiquanlive/play.php?id=1518091
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png", 23/05/2026 22:30 | Championship | Hull City vs Southampton | BLV PHAN MÃ
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png", 🔴 23/05/2026 18:00 | V.League 1 | Thanh Hóa vs Hoang Anh Gia Lai | BLV PHAN BÁCH
+http://pk79.io.vn/hoiquanlive/play.php?id=1518092
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/36/Hull_City_AFC.png", 23/05/2026 21:30 | Championship | Hull City vs Middlesbrough | BLV PHAN MÃ
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg", 23/05/2026 23:00 | Serie A | Bologna vs Inter | BLV LƯƠNG BỔNG
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png", 24/05/2026 01:45 | Serie A | Lazio vs Pisa | BLV PHAN MÃO
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg", 24/05/2026 02:00 | La Liga | Real Betis vs Levante | BLV PHAN MÃO
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png", 24/05/2026 02:00 | La Liga | Valencia vs Barcelona | BLV LƯƠNG BỔNG
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg", 24/05/2026 02:00 | La Liga | Real Betis vs Levante | BLV PHAN MÃO
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png", 24/05/2026 02:00 | La Liga | Real Madrid vs Athletic Club | BLV PHAN MÃ
 https://google.com.vn
@@ -408,19 +408,19 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_Parma_Calcio_1913_%28adozione_2016%29.png", 24/05/2026 20:00 | Serie A | Parma vs Sassuolo | BLV PHAN CA
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg", 24/05/2026 22:00 | Premier League | Manchester City vs Aston Villa | BLV PHAN TỪ
-https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg", 24/05/2026 22:00 | Premier League | Sunderland vs Chelsea | BLV PHAN BÁCH
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/47.png", 24/05/2026 22:00 | Premier League | Tottenham vs Everton | BLV LƯƠNG BỔNG
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png", 24/05/2026 22:00 | Premier League | West Ham vs Leeds | BLV PHAN MÃO
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png", 24/05/2026 22:00 | Premier League | West Ham vs Leeds | BLV PHAN ANH
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg", 24/05/2026 22:00 | Premier League | Sunderland vs Chelsea | BLV PHAN BÁCH
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png", 24/05/2026 22:00 | Premier League | Liverpool vs Brentford | BLV PHAN CA
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png", 24/05/2026 22:00 | Premier League | Crystal Palace vs Arsenal | BLV PHAN MÃ
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/51.png", 24/05/2026 22:00 | Premier League | Brighton vs Manchester United | BLV PHAN HÀ LINH
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/51.png", 24/05/2026 22:00 | Premier League | Brighton vs Manchester United | BLV PHAN BÁCH
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg", 24/05/2026 22:00 | Premier League | Manchester City vs Aston Villa | BLV PHAN MÃO
 https://google.com.vn
 
 
@@ -2869,9 +2869,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=589848
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-24/05: Bodo Glimt - Brann (NOR D1) - NGƯỜI CÁ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=595335
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:00-24/05: Bodo Glimt - Brann (NOR D1) - DỨAAAAA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=612685
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-24/05: Brighton Hove Albion - Manchester United (ENG PR) - BLV ĐỐM
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
@@ -3063,7 +3060,7 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/244.png", 🟢 23/05-21:00 | Veikkausliiga | Ilves vs Gnistan | BLV Táo Mèo
 https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
-#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://i.imgur.com/9wsLS4z.png", 🟢 23/05-22:30 | Championship | Hull City vs Southampton | BLV Táo Kinh Tế(A Tích)
+#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://i.imgur.com/9wsLS4z.png", 🟢 23/05-21:30 | Championship | Hull City vs Southampton | BLV Táo Kinh Tế(A Tích)
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/966px-Serie_A.svg.png", 🟢 23/05-23:00 | Serie A | Bologna vs Inter | BLV Táo Tỉnh Táo
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -4052,12 +4049,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LOGO_BFC.png/960px-LOGO_BFC.png" group-title="Hội Quán TV",[18:00 24/05] Binh Duong vs Song Lam Nghe An - BLV PHAN CA (SD)
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Hội Quán TV",[22:00 24/05] West Ham vs Leeds - BLV PHAN MÃO (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Hội Quán TV",[22:00 24/05] West Ham vs Leeds - BLV PHAN MÃO (HD)
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Hội Quán TV",[22:00 24/05] West Ham vs Leeds - BLV PHAN MÃO (SD)
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Hội Quán TV",[22:00 24/05] West Ham vs Leeds - BLV PHAN ANH (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Hội Quán TV",[22:00 24/05] West Ham vs Leeds - BLV PHAN ANH (HD)
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Hội Quán TV",[22:00 24/05] West Ham vs Leeds - BLV PHAN ANH (SD)
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg/960px-Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg" group-title="Hội Quán TV",[20:00 23/05] Mariano Navone vs Learner Tien - BLV PHAN CA (FHD)
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg/960px-Road_2_Australia_-_Navone_V_Burruchaga_Final_-_BugWarp_206_%28cropped%29.jpg" group-title="Hội Quán TV",[20:00 23/05] Mariano Navone vs Learner Tien - BLV PHAN CA (HD)
