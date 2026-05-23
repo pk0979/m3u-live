@@ -1491,7 +1491,7 @@ https://google.com
 
 #EXTINF:-1 tvg-logo="/vimages/345x194/b5/54/4b/ba/ae/e9/b54ba-lvongtrontoiaceca8jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 23/05/2026 22:45 | Vòng Tròn Tội Ác     
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
-#EXTINF:-1 tvg-logo="/vimages/345x194/f4/4d/df/ff/fb/b3/f4dff-lserieabolognavsinter1920f5a5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 23/05/2026 23:00 | Bologna vs Inter Vòng 38 Serie A 2025/26
+#EXTINF:-1 tvg-logo="/vimages/345x194/f4/4d/df/ff/fb/b3/f4dff-lserieabolognavsinter1920f5a5jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 23/05/2026 23:00 | Bologna vs Inter Vòng 38 Serie A 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
 #EXTINF:-1 tvg-logo="/vimages/345x194/94/4a/ac/ca/ab/b2/94aca-llaligarealmadridvsathleticbilbao192092b2jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 24/05/2026 02:00 | Real Madrid vs Athletic Bilbao Vòng 38 Laliga 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=441
@@ -1598,6 +1598,8 @@ http://pk79.io.vn/tv360/play360.php?id=sk11
 http://pk79.io.vn/tv360/play.php?id=9
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/14/1779435661586/eedf9afe352d_640_360.jpg", 24/05-18:00 | Becamex TP.HCM vs Sông Lam Nghệ An TV360 + 10 23.05
 http://pk79.io.vn/tv360/play360.php?id=sk10
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/14/1779435957156/81a1b6fe33d6_640_360.jpg", 24/05-18:00 | Hồng Lĩnh Hà Tĩnh vs Công an Hà Nội TV360 + 9 24.05
+http://pk79.io.vn/tv360/play360.php?id=sk9
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/16/1779440507639/ead6b3965db0_640_360.png", 24/05-18:00 | QUẢNG NINH VS TRẺ NINH BÌNH ON SPORTS 24.5
 http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/16/1779440841942/82ed424bc06a_640_360.png", 24/05-20:00 | TRẺ TP HỒ CHÍ MINH VS ĐÀ NẴNG ON SPORTS 24.5
@@ -1612,8 +1614,6 @@ http://pk79.io.vn/tv360/play.php?id=169
 http://pk79.io.vn/tv360/play360.php?id=sk4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/13/15/1778662440110/b67c0ae33a3a_640_360.png", 28/05-02:00 | Crystal Palace vs Rayo Vallecano TV360+ 4 28.5
 http://pk79.io.vn/tv360/play360.php?id=sk4
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/12/1779427494762/daf9bd701841_640_360.jpg", 28/05-18:00 | Austrian Alpine Open presented by Kitzbuhel Tirol TV360+6 Ngày 1 - 28.5
-http://pk79.io.vn/tv360/play360.php?id=sk6
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 21:30-23/05: Hull City - Middlesbrough (ENG LCH) - BLV TAP
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
