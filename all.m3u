@@ -888,20 +888,20 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/live-soudal-open-2026---dp-world-tour-2026-slider-thumb_1779262204362.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 18:00 - Soudal Open 2026 - Vòng 4
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-21
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/slider_1779261166655.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:00 - Brighton & Hove Albion - Manchester United
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hcm-01-bk
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/22/slider_1779423213641.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:00 - Crystal Palace - Arsenal
-http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-01-4k-bk
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/22/slider_1779421608040.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:00 - Super Sunday vòng 38
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-01-4k-bk
 
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/22/slider_1779423213641.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:00 - Crystal Palace - Arsenal
+http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-01-4k-bk
+
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/22/slider_1779435882316.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:40 - Crystal Palace - Arsenal: Fan cứng
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-04-4k-bk
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/slider_1779262541484.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:50 - Nottingham Forest - Bournemouth
+http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-bk
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/22/slider_1779431863203.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:50 - Goal Rush - Ngoại hạng không giới hạn
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-05-bk
@@ -911,9 +911,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-06-bk
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/slider_1779262716036.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:50 - Tottenham Hotspur - Everton
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-08-bk
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/slider_1779262541484.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:50 - Nottingham Forest - Bournemouth
-http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-bk
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/20/slider_1779262416879.jpg" group-title="⭐Sự kiện FPT OTT",24/05 - 21:50 - Fulham - Newcastle United
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hcm-03-bk
@@ -1467,8 +1464,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=425
 #EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/18/11/1779077657801/b1ba4168d23c_640_360.jpg", 24/05-18:00 | Soudal Open 2026 TV360+6 Ngày 4 - 24.5
-http://pk79.io.vn/tv360/play360.php?id=sk6
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/18/1779447948984/3fd1fdf6b7f8_640_360.jpg", 24/05-16:00 | Tennis Roland Garros On Sportnews 24.5
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/22/18/1779448647418/2a840d350b2f_640_360.png", 24/05-23:00 | Seria On Football 24.5
