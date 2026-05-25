@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg", 🔴 25/05-18:30 | croatia-u17-vs-belgium-u17.6gyjz-ZxA4 | BLV Người Kiến
-https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2072.png", 🔴 25/05-20:00 | hvidovre-vs-esbjerg.wd09zTVKok | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/ENPPI_SC_Logo.svg/250px-ENPPI_SC_Logo.svg.png", 🟡 25/05-21:00 | enppi-vs-wadi-degla.MGYLeHPVxo | BLV A Cỏ
@@ -1072,6 +1070,9 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/22/live-ufc-fight-night-adesanya-vs-pyfer-slide-thumb-recovered_1779467073920.jpg" group-title="⭐Sự kiện FPT OTT",25/05 - 18:00 - UFC Fight Night: Adesanya vs Pyfer Loạt trận khởi động: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a1083ef168354cabdec2f54
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/25/live-vod-ban-tin-the-gioi-ngoai-hang-slider-thumb_1779687283006.jpg" group-title="⭐Sự kiện FPT OTT",25/05 - 19:30 - Thế giới Ngoại hạng ngày 25/5
+http://phuockhai.giize.com:1979/fpt_replay/6a13e0056dfa7be079b3e80d
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/25/live-thu-2-ngoai-hang-slider-thumb_1779686957123.jpg" group-title="⭐Sự kiện FPT OTT",25/05 - 20:00 - Thứ Hai Ngoại hạng vòng 38
 http://phuockhai.giize.com:1979/fpt_replay/6a1403ae3cf859ff91d4bceb
@@ -2218,8 +2219,6 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 
 
-#EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/886.png", 🔴 25/05-18:30 | UEFA U17 Championship - Qualification | Croatia U17 vs Belgium U17 | BLV Táo Tỉnh Táo
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/103.png", 🔴 25/05-19:30 | Eliteserien | Start vs Valerenga | BLV Thần Thông
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="⚽THIÊN ĐÌNH TV" tvg-logo="https://media.api-sports.io/football/leagues/103.png", 🟢 25/05-22:00 | Eliteserien | Tromso vs Aalesund | BLV Táo Mèo
@@ -2680,10 +2679,6 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/17945.png", 🔴 25/05-18:30 | UEFA U17 Championship - Qualification | Croatia U17 vs Belgium U17 | tieuhac
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/2159.png", ⚪ 25/05-22:00 | Eliteserien | Ham-Kam vs Lillestrom | blvlavie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
