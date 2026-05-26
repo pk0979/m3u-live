@@ -356,21 +356,21 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/1063.png", 27/05/2026 01:45 | Ligue 1 | Saint Etienne vs Nice | BLV THẦN THÔNG
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/128.png", 27/05/2026 07:30 | CONMEBOL Sudamericana | Santos vs Deportivo Cuenca | BLV PHAN ANH
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Flamengo-RJ_%28BRA%29.png", 27/05/2026 07:30 | CONMEBOL Libertadores | Flamengo vs Cusco | BLV TÁO GIÀ
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/128.png", 27/05/2026 07:30 | CONMEBOL Sudamericana | Santos vs Deportivo Cuenca | BLV PHAN ANH
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/4544.png", 27/05/2026 18:00 | Ngoại hạng Kazakhstan | Altay vs FC Astana | BLV TÁO KINH TẾ 
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png", 27/05/2026 19:00 | ASEAN Club Championship | Buriram United vs Selangor | BLV THẦN THÔNG
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2276.png", 27/05/2026 22:00 | VĐQG Armenia | FC Urartu vs FC Noah | BLV PHAN ANH
-https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kqWey0UfrC0EKfcwWbE__I45BpbqSL8o8Q&s", 27/05/2026 22:00 | VĐQG Armenia | Ararat-Armenia vs Gandzasar | BLV TÁO MÈO
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png", 28/05/2026 02:00 | UEFA Europa Conference League | Crystal Palace vs Rayo Vallecano | BLV TÁO MÈO
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2276.png", 27/05/2026 22:00 | VĐQG Armenia | FC Urartu vs FC Noah | BLV PHAN ANH
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png", 28/05/2026 02:00 | UEFA Europa Conference League | Crystal Palace vs Rayo Vallecano | BLV THẦN THÔNG
+https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png", 28/05/2026 02:00 | UEFA Europa Conference League | Crystal Palace vs Rayo Vallecano | BLV TÁO MÈO
 https://google.com.vn
 
 
@@ -2925,6 +2925,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png" group-title="Hội Quán TV",[09:00 27/05] Chen Y. F vs Karupathevan LETSHANAA - BLV PHAN BÁCH (HD)
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png" group-title="Hội Quán TV",[09:00 27/05] Chen Y. F vs Karupathevan LETSHANAA - BLV PHAN BÁCH (SD)
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg/250px-Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg" group-title="Hội Quán TV",[22:00 26/05] Alexander Bublik vs Jan-Lennard Struff - BLV PHAN BÁCH (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg/250px-Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg" group-title="Hội Quán TV",[22:00 26/05] Alexander Bublik vs Jan-Lennard Struff - BLV PHAN BÁCH (HD)
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg/250px-Sascha_Bublik_%282023_DC_Open%29_05_%28cropped%29.jpg" group-title="Hội Quán TV",[22:00 26/05] Alexander Bublik vs Jan-Lennard Struff - BLV PHAN BÁCH (SD)
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
