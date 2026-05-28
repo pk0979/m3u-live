@@ -17,6 +17,16 @@ https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://static.flashscore.com/res/image/data/CO69vZCr-4YulVRw4.png", 🟡 29/05-13:00 | nu-box-hill-bentleigh-greens-w.BjxLhr6Ul3 | BLV Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://img0.aiscore.com/football/team/9303ebf3fb4f726f3e1df962b6c5b762.png!w60", 🟡 29/05-16:00 | brondby-reserve-kobenhavn-reserve.62MBKVJk2G | BLV Thợ Lặn
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/27556.png", 🟡 29/05-18:00 | ningbo-professional-vs-nantong-zhiyun.Bt73U4grKr | BLV A Cỏ
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png", 🟡 29/05-18:30 | montenegro-u17-vs-italy-u17.yvGyTUPUNm | BLV Tam Mao
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/5684.png", 🟡 29/05-18:35 | shenyang-urban-vs-shanghai-sipg.bPyFdGVZYW | BLV Bịp Con
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/23394.png", 🟡 29/05-19:00 | qiziriq-vs-aral.cRZT4ZOJuK | BLV Quan Vũ
+https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -386,12 +396,12 @@ https://khaitv.dpdns.org/luongson/list2.php?id=355235921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1634_1gq1d0gs0v9.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F28481_1hz8rps9d91d.png", 🔴 28/05-21:00 | Pharco vs Ismaily | BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=202516925
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4917_1gs99xcwg62a.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61058_1gykhvdms22g.png", 🔴 28/05-21:00 | FK Yelimay Semey vs Kaisar Kyzylorda | BLV TÂY MÔN KHÁNH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=375235923
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3876_1jh72md74hz.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6379_1jkycxvp781x.png", 🔴 28/05-21:00 | El Gouna FC vs Petrojet | BLV PELE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=222516927
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4917_1gs99xcwg62a.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61058_1gykhvdms22g.png", 🔴 28/05-21:00 | FK Yelimay Semey vs Kaisar Kyzylorda | BLV TÂY MÔN KHÁNH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=375235923
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6640_1gz08hjvn81e.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F27529_1grqwttfhd1w.png", 28/05-21:30 | E Nel G Tick vs Qabala | BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=374609927
@@ -425,12 +435,12 @@ https://khaitv.dpdns.org/luongson/list2.php?id=cfa3b791-23b1-4e82-889a-e39b3ad36
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2108_1grmmxhtymq.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7808_1h71mssksj5.png", 28/05-23:00 | Gagra Tbilisi vs Torpedo Kutaisi | BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=228042927
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4054_1h434b2dfq8.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1835_165750041563.png", 28/05-23:00 | Croatia U17 vs Estonia U17 | BLV PHI HỔ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=395128926
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4054_1h434b2dfq8.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1835_165750041563.png", 28/05-23:00 | Croatia U17 vs Estonia U17 | BLV LEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=05280a69-a8ba-45db-a29a-82aebd838964
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4054_1h434b2dfq8.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1835_165750041563.png", 28/05-23:00 | Croatia U17 vs Estonia U17 | BLV PHI HỔ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=395128926
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13697_1h5hdcqbf81e.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18104_1h5vn2brcj14.png", 28/05-23:00 | Tanzania U17 vs Egypt U17 | BLV MAYBACH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=326709925
@@ -446,18 +456,18 @@ https://khaitv.dpdns.org/luongson/list2.php?id=934bbfeb-676a-4f3d-bc33-17228aa54
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F42101_1hpqr1be931p.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3228_1jzkqva5vgg.png", 29/05-00:30 | AL Najaf vs Al Qasim Sport Club | BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=391827928
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3244_1jn51py1vm18.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3236_1h6nn5z7q3z.png", 29/05-00:30 | Arbil vs Zakho | BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=362827926
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3244_1jn51py1vm18.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3236_1h6nn5z7q3z.png", 29/05-00:30 | Arbil vs Zakho | BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=627bd024-37ce-4f1b-8955-f231e9fec1b6
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F631_165018770975.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F640_164983778084.png", 29/05-01:00 | Russia vs Egypt | BLV KAKA
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3244_1jn51py1vm18.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3236_1h6nn5z7q3z.png", 29/05-00:30 | Arbil vs Zakho | BLV TRIỆU TỬ LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=495598927
+https://khaitv.dpdns.org/luongson/list2.php?id=362827926
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F631_165018770975.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F640_164983778084.png", 29/05-01:00 | Russia vs Egypt | BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=f373fe91-1ed7-4b86-80e9-413864967832
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F631_165018770975.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F640_164983778084.png", 29/05-01:00 | Russia vs Egypt | BLV KAKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=495598927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F631_165018770975.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F640_164983778084.png", 29/05-01:00 | Russia vs Egypt | BLV MỘT CHÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=ecdffc53-02ab-4e1e-935a-7fc51548540f
@@ -476,12 +486,12 @@ https://khaitv.dpdns.org/luongson/list2.php?id=334309920
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F543_164984027618.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F789_166968529845.png", 29/05-01:45 | Qatar vs Ireland | BLV LEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=b5807f50-a88c-4ff0-ba04-05e569bc5f66
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12000_1h5hcsxfy116.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13706_16571796891.png", 29/05-02:00 | Senegal U17 vs Morocco U17 | BLV LÝ ỨNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=b12fde54-5be4-4d38-82dd-02255eed41a5
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12000_1h5hcsxfy116.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13706_16571796891.png", 29/05-02:00 | Senegal U17 vs Morocco U17 | BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=336709926
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12000_1h5hcsxfy116.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13706_16571796891.png", 29/05-02:00 | Senegal U17 vs Morocco U17 | BLV LÝ ỨNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=b12fde54-5be4-4d38-82dd-02255eed41a5
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="http://phuockhai.giize.com:1979/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4208_1gpyrknv762x.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6050_1gqe6915as1w.png", 29/05-02:00 | SCU Torreense vs Casa Pia AC | BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=457188920
