@@ -15,6 +15,8 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg", 🟡 29/05-07:30 | boca-juniors-vs-u-catolica.NgRDFZ7DHt | BLV Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://static.flashscore.com/res/image/data/CO69vZCr-4YulVRw4.png", 🟡 29/05-13:00 | nu-box-hill-bentleigh-greens-w.BjxLhr6Ul3 | BLV Quan Vũ
+https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -826,9 +828,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/28/live-ufc---road-to-ufc-season-5-slide-thumb_1779958328303.jpg" group-title="⭐Sự kiện FPT OTT",28/05 - 16:50 - Road to UFC Mùa 5: Ngày 1
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-32
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/live-austrian-open-2026---dp-world-tour-2026-slider-thumb_1779871402042.jpg" group-title="⭐Sự kiện FPT OTT",28/05 - 18:00 - Austrian Alpine Open 2026 - Vòng 1
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-29
 
@@ -868,10 +867,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=event-03
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/31_1779900826357.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:00 - FC Pro Masters 2026 - Ngày 31/05
 http://phuockhai.giize.com:1979/fpt/play1.php?id=event-05
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://img0.aiscore.com/football/team/b1bffe8ccd68094d45efef840739b119.png!w60",19:00 - 28.05 | Ngoại Hạng Ethiopia | Dire Dawa vs St. George
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/teppy-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/2349_small.png",🔴 20:00 - 28.05 | Premier League | Atyrau vs Tobol Kostanay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -879,11 +874,11 @@ https://edgemaxcdn-1.bongco50.xyz/live/bim-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/103017_small.png",🔴 21:00 - 28.05 | Premier League Relegation Group | Petrojet vs El Gouna FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/95797_small.png",🔴 21:00 - 28.05 | SAFF Women's Championship | Bangladesh vs Maldives
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/hanh-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/312976_small.png",🔴 21:00 - 28.05 | First Professional League Qualification | Septemvri Sofia vs Yantra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
