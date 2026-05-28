@@ -27,6 +27,12 @@ https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/23394.png", 🟡 29/05-19:00 | qiziriq-vs-aral.cRZT4ZOJuK | BLV Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/ZED_FC_logo.png", 🟡 29/05-21:00 | zed-fc-kahraba-ismailia.gOEjXNhQZl | BLV A Cỏ
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1575.png", 🟡 29/05-21:00 | el-mokawloon-vs-future-fc.UCY4F4Cqma | BLV Tam Mao
+https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png", 🟡 29/05-23:00 | france-u17-vs-denmark-u17.166bRC4mwh | BLV Bịp Con
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -838,9 +844,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/28/live-ufc---road-to-ufc-season-5-slide-thumb_1779958328303.jpg" group-title="⭐Sự kiện FPT OTT",28/05 - 16:50 - Road to UFC Mùa 5: Ngày 1
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-32
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/live-austrian-open-2026---dp-world-tour-2026-slider-thumb_1779871402042.jpg" group-title="⭐Sự kiện FPT OTT",28/05 - 18:00 - Austrian Alpine Open 2026 - Vòng 1
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-29
 
@@ -1289,16 +1292,14 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="/vimages/345x194/e4/44/4b/b6/66/66/e44b6-l01comaythoigiand343jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 28/05/2026 20:30 | Cỗ Máy Thời Gian                   
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
 #EXTINF:-1 tvg-logo="/vimages/345x194/13/3a/a4/4b/bc/c1/13a4b-lgiaydoa8a7jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 28/05/2026 21:00 | Giày Đỏ                  
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
 #EXTINF:-1 tvg-logo="/vimages/345x194/95/5b/b9/92/25/58/95b92-lmattroikhuyet89dajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 28/05/2026 21:45 | Mặt Trời Khuyết        
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
-#EXTINF:-1 tvg-logo="/vimages/345x194/3a/a0/0d/de/e8/87/3a0de-lnhaco2banoia850jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 28/05/2026 22:00 | Nhà Có Hai Bà Nội
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
 #EXTINF:-1 tvg-logo="/vimages/345x194/ed/de/ea/a6/62/2a/edea6-lrolanv2sanlenglenngay51920f606jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 28/05/2026 22:00 | Vòng 2 đơn Nam & Nữ  Roland Garros 2026_sân Lenglen ngày 5
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=441
+#EXTINF:-1 tvg-logo="/vimages/345x194/3a/a0/0d/de/e8/87/3a0de-lnhaco2banoia850jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 28/05/2026 22:00 | Nhà Có Hai Bà Nội
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
 #EXTINF:-1 tvg-logo="/vimages/345x194/b5/54/4b/ba/ae/e9/b54ba-lvongtrontoiaceca8jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 28/05/2026 22:45 | Vòng Tròn Tội Ác        
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
 #EXTINF:-1 tvg-logo="/vimages/345x194/9f/f5/55/51/15/5a/9f551-lgiaohuuqtconghoairelandvsqatar19209963jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 29/05/2026 01:45 | Cộng hòa Ireland vs Qatar Giao Hữu Quốc Tế 2026
@@ -1378,8 +1379,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 http://pk79.io.vn/tv360/play360.php?id=sk6
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/26/16/1779788656508/9874c2f6d09c_640_360.jpg", 28/05-16:00 | ROLAND GARROS 2026, NGÀY 5, kênh On Sports
 http://pk79.io.vn/tv360/play360.php?id=onsports1
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/27/16/1779874164202/b4d82f9ea367_640_360.jpg", 28/05-20:00 | TRẺ TP HỒ CHÍ MINH VS QUÂN KHU 3, Kênh ON SPORTS NEWS
-http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/26/16/1779788949308/6aef7324e8a3_640_360.jpg", 28/05-22:00 | ROLAND GARROS 2026 - Ngày 5 ON SPORTS NEWS 28.5.2026
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/26/08/1779757283719/3caf1448ddbc_640_360.jpg", 29/05-18:00 | Austrian Alpine Open presented by Kitzbuhel Tirol, ngày 2, kênh TV360+6
@@ -1422,6 +1421,8 @@ http://pk79.io.vn/tv360/play360.php?id=sk10
 http://pk79.io.vn/tv360/play360.php?id=sk9
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/28/15/1779955429446/f6db23d31601_640_360.jpg", 30/05-16:00 | Đồng Tháp vs Đại học Văn Hiến, kênh TV360+ 8
 http://pk79.io.vn/tv360/play360.php?id=sk8
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/28/15/1779955691564/bc34e44b729a_640_360.jpg", 30/05-16:00 | Trường Tươi Đồng Nai vs Long An, kênh HTV Thể Thao
+http://pk79.io.vn/tv360/play.php?id=195
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 20:00-28/05: KS Perparimi Kukesi - Butrinti Sarande (ALB D2) - BLV LION
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
