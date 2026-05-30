@@ -878,6 +878,12 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/29/30-2_1779990144287.jpg" group-title="⭐Sự kiện FPT OTT",30/05 - 13:00 - LPL 2026 Split 2 - Ngày 30/05
+http://phuockhai.giize.com:1979/fpt/play1.php?id=event-05
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/28/live-ufc-fight-night---song-vs-figueiredo-slide-thumb_1779956575534.jpg" group-title="⭐Sự kiện FPT OTT",30/05 - 14:50 - UFC Fight Night: Song vs Figueiredo
+http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-30
+
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/28/live-austrian-open-2026---dp-world-tour-2026-slider-thumb_1779956719250.jpg" group-title="⭐Sự kiện FPT OTT",30/05 - 18:00 - Austrian Alpine Open 2026 - Vòng 3
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-35
 
@@ -914,8 +920,8 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=event-19
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/slider_1779852118382.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:45 - Đông Á Thanh Hóa - Ninh Bình
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-32
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/slider_1779852365166.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:45 - Hoàng Anh Gia Lai - Hà Nội
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-30
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/slider_1779852847007.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:45 - Hồng Lĩnh Hà Tĩnh - SHB Đà Nẵng
+http://phuockhai.giize.com:1979/fpt/play1.php?id=event-20
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/slider_1779852980383.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:45 - PVF-CAND - Hải Phòng
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-32
@@ -923,8 +929,8 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-32
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/29/slider_1780019485954.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:45 - Thép Xanh Nam Định - Sông Lam Nghệ An
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-31
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/slider_1779852847007.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:45 - Hồng Lĩnh Hà Tĩnh - SHB Đà Nẵng
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-20
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/27/slider_1779852365166.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 17:45 - Hoàng Anh Gia Lai - Hà Nội
+http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-30
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/30/live-vba-2026-slide-thumb_1780116310964.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 19:15 - Nha Trang Dolphins - Saigon Heat
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-03
@@ -941,18 +947,6 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=event-07
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/29/03_1779990662986.jpg" group-title="⭐Sự kiện FPT OTT",03/06 - 16:00 - LPL 2026 Split 2 - Ngày 03/06
 http://phuockhai.giize.com:1979/fpt/play1.php?id=event-08
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",19:00 - 30.05 | Friendlies | Scotland vs Curacao
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/bim-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/930027_small.png",19:00 - 30.05 | Super League | Shenzhen Peng City vs Qingdao Hainiu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1477050_small.png",19:00 - 30.05 | Super League | Chongqing Tongliang Long vs Beijing Guoan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/iphone-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10237_small.png",🔴 20:00 - 30.05 | VĐQG Thụy Điển | Malmö FF vs Halmstads BK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
