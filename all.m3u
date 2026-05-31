@@ -123,8 +123,8 @@ https://live05.msdht.app/live/68848594.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80", 🕒 01/06 - 01:45 | Giao hữu Quốc tế | Đức vs Phần Lan | BLV COCA
 https://live05.msdht.app/live/24561735.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80", 🕒 01/06 - 01:45 | Giao hữu Quốc tế | Đức vs Phần Lan | BLV GIÀ LÀNG
-https://live05.msdht.app/live/14830711.m3u8
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80", 🕒 01/06 - 01:45 | Giao hữu Quốc tế | Đức vs Phần Lan | BLV C2
+https://live05.msdht.app/live/08552895.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png!w80", 🕒 01/06 - 02:00 | Giải bóng đá Hạng nhì Tây Ban Nha | Cordoba vs Huesca | BLV BÍ ĐAO
 https://live05.msdht.app/live/99121525.m3u8
@@ -237,11 +237,11 @@ https://live05.msdht.app/live/87379114.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/78806733b03788c901fd2f2cda1f0bd2.png!w80", 🕒 02/06 - 07:00 | Giải bóng đá Hạng nhất Bolivia | Universitario de Vinto vs Aurora | BLV SODA
 https://live05.msdht.app/live/02456966.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a5c19caa8f0d2c476156ece6470b15a0.png!w80", 🕒 02/06 - 07:30 | Giải vô địch quốc gia Ecuador | Tecnico U vs Barcelona SC | BLV STING
-https://live05.msdht.app/live/14707124.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a5c19caa8f0d2c476156ece6470b15a0.png!w80", 🕒 02/06 - 07:30 | Giải vô địch quốc gia Ecuador | Tecnico U vs Barcelona SC | BLV BÍ ĐAO
 https://live05.msdht.app/live/99121525.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a5c19caa8f0d2c476156ece6470b15a0.png!w80", 🕒 02/06 - 07:30 | Giải vô địch quốc gia Ecuador | Tecnico U vs Barcelona SC | BLV STING
+https://live05.msdht.app/live/14707124.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80", 🕒 02/06 - 08:00 | Giao hữu Quốc tế | Canada vs Uzbekistan | BLV SPRITE
 https://live05.msdht.app/live/90725470.m3u8
@@ -1375,6 +1375,9 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:30-31/05: Castellon - Eibar (SPA D2) - BLV CÁO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=597929
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:30-31/05: Castellon - Eibar (SPA D2) - VƯƠNG ANH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=548860
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 23:30-31/05: Deportivo La Coruna - UD Las Palmas (SPA D2) - BLV WUKONG
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
@@ -2305,7 +2308,7 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/24.png", ⚪ 31/05-22:30 | Friendlies | Poland vs Ukraine | blvtrada
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/24.png", 🔴 31/05-22:30 | Friendlies | Poland vs Ukraine | blvtrada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
