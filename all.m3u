@@ -343,7 +343,7 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png", 01/06/2026 01:45 | Friendlies | Germany vs Finland | BLV PHAN MÃ
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png", 01/06/2026 01:45 | Friendlies | Germany vs Finland | BLV THẦN THÔNG
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png", 01/06/2026 01:45 | Friendlies | Germany vs Finland | BLV TÁO GIÀ
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2384.png", 01/06/2026 02:30 | Friendlies | USA vs Senegal | BLV TÁO KINH TẾ 
 https://google.com.vn
@@ -357,7 +357,7 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2318.png", 01/06/2026 07:00 | Primera División | Palestino vs A. Italiano | BLV TÁO GIÀ
 https://google.com.vn
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19157.png", 01/06/2026 16:00 | ASEAN Championship U19 | Vietnam U19 vs Timor Leste U19 | BLV THẦN THÔNG
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19157.png", 01/06/2026 16:00 | ASEAN Championship U19 | Vietnam U19 vs Timor Leste U19 | BLV TÁO KINH TẾ 
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/19157.png", 01/06/2026 16:00 | ASEAN Championship U19 | Vietnam U19 vs Timor Leste U19 | BLV PHAN MÃ
 https://google.com.vn
@@ -3219,12 +3219,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV",[01:45 01/06] Germany vs Finland - BLV PHAN MÃ (SD)
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV",[01:45 01/06] Germany vs Finland - BLV THẦN THÔNG (FHD)
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV",[01:45 01/06] Germany vs Finland - BLV THẦN THÔNG (HD)
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV",[01:45 01/06] Germany vs Finland - BLV THẦN THÔNG (SD)
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV",[01:45 01/06] Germany vs Finland - BLV TÁO GIÀ (FHD)
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV",[01:45 01/06] Germany vs Finland - BLV TÁO GIÀ (HD)
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Hội Quán TV",[01:45 01/06] Germany vs Finland - BLV TÁO GIÀ (SD)
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" group-title="Hội Quán TV",[04:30 01/06] Brazil vs Panama - BLV TÁO GIÀ (FHD)
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" group-title="Hội Quán TV",[04:30 01/06] Brazil vs Panama - BLV TÁO GIÀ (HD)
@@ -3237,12 +3237,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" group-title="Hội Quán TV",[04:30 01/06] Brazil vs Panama - BLV LƯƠNG BỔNG (SD)
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19157.png" group-title="Hội Quán TV",[16:00 01/06] Vietnam U19 vs Timor Leste U19 - BLV THẦN THÔNG (FHD)
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19157.png" group-title="Hội Quán TV",[16:00 01/06] Vietnam U19 vs Timor Leste U19 - BLV THẦN THÔNG (HD)
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19157.png" group-title="Hội Quán TV",[16:00 01/06] Vietnam U19 vs Timor Leste U19 - BLV THẦN THÔNG (SD)
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png" group-title="Hội Quán TV",[23:00 01/06] Slovakia vs Malta - BLV LƯƠNG BỔNG (FHD)
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/250px-Flag_of_Slovakia.svg.png" group-title="Hội Quán TV",[23:00 01/06] Slovakia vs Malta - BLV LƯƠNG BỔNG (HD)
