@@ -844,9 +844,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/30/live-vba-2026-slide-thumb_1780116310964.jpg" group-title="⭐Sự kiện FPT OTT",31/05 - 19:15 - Nha Trang Dolphins - Saigon Heat
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-03
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/05/29/live-qatar-masters-2026---dp-world-tour-2026-slider-thumb-recovered_1780010992312.jpg" group-title="⭐Sự kiện FPT OTT",01/06 - 15:00 - Qatar Masters 2026 vòng 4: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a18d04784d50b7f1a1cd166
 
@@ -1204,15 +1201,13 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="/vimages/345x194/ce/ed/d4/4e/e5/52/ced4e-lgiaohuuqtthuysivsjordan1920b810jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 31/05/2026 19:55 | Thụy Sĩ vs Jordan Giao Hữu Quốc Tế 2026
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=670
 #EXTINF:-1 tvg-logo="/vimages/345x194/55/52/26/67/70/0d/55267-lcasi2026tap21920b710fjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 31/05/2026 20:30 | Ca Sĩ 2026 - Tập 2
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=449
 #EXTINF:-1 tvg-logo="/vimages/345x194/50/03/34/4d/d3/36/5034d-lgiaohuuqtconghoasecvskosovo19201393jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 31/05/2026 20:55 | Cộng hòa Séc vs Kosovo Giao Hữu Quốc Tế 2026
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=447
 #EXTINF:-1 tvg-logo="/vimages/345x194/95/5b/b9/92/25/58/95b92-lmattroikhuyet89dajpg-content-mytv.jpg" group-title="MyTV Event", 🔴 31/05/2026 21:45 | Mặt Trời Khuyết           
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
-#EXTINF:-1 tvg-logo="/vimages/345x194/3a/a0/0d/de/e8/87/3a0de-lnhaco2banoia850jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 31/05/2026 22:00 | Nhà Có Hai Bà Nội  
+#EXTINF:-1 tvg-logo="/vimages/345x194/3a/a0/0d/de/e8/87/3a0de-lnhaco2banoia850jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 31/05/2026 22:00 | Nhà Có Hai Bà Nội  
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
 #EXTINF:-1 tvg-logo="/vimages/345x194/0d/db/b8/84/4b/b1/0db84-lgiaohuuqtbalanvsukraine192083b9jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 31/05/2026 22:25 | Ba Lan vs Ukraine Giao Hữu Quốc Tế 2026
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
@@ -2917,12 +2912,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" group-title="Hội Quán TV",[18:30 01/06]  France U17  vs Montenegro U17 - BLV PHAN QUẨY (SD)
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg/960px-Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg" group-title="Hội Quán TV",[16:00 01/06] Diana Shnaider vs Adrian Mannarino - BLV PHAN BÁCH (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg/960px-Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg" group-title="Hội Quán TV",[16:00 01/06] Diana Shnaider vs Adrian Mannarino - BLV PHAN BÁCH (HD)
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg/960px-Diana_Shnaider_%282023_US_Open%29_05_%28cropped%29.jpg" group-title="Hội Quán TV",[16:00 01/06] Diana Shnaider vs Adrian Mannarino - BLV PHAN BÁCH (SD)
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
