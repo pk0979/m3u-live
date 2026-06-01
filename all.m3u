@@ -942,10 +942,10 @@ https://edgemaxcdn-1.bongco50.xyz/live/map-sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/oppo-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Fcbl_logo_2012.png",17:30 - 01.06 | Australia Victoria Premier League 1 | Bulleen Lions vs Port Melbourne Sharks
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/E9bUgoXg-fyrc4GD2.png",🔴 17:10 - 01.06 | Giải hạng nhất Ukraine | Probiy Horodenka vs Prykarpattya Ivano Frankivsk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/74659_small.png",18:30 - 01.06 | EURO U17 Grp. B | France U17 vs Montenegro U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -3002,6 +3002,12 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/illustration-philippinesflag_53876-27126.jpg?semt=ais_hybrid&w=740&q=80" group-title="Hội Quán TV",[18:30 03/06] Philippines vs Guam - BLV THẦN THÔNG (SD)
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png" group-title="Hội Quán TV",[16:00 03/06] Portugal U19 vs Kazakhstan U19 - BLV PHAN MÃ (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png" group-title="Hội Quán TV",[16:00 03/06] Portugal U19 vs Kazakhstan U19 - BLV PHAN MÃ (HD)
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png" group-title="Hội Quán TV",[16:00 03/06] Portugal U19 vs Kazakhstan U19 - BLV PHAN MÃ (SD)
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
