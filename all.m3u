@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/767.png", 🔴 03/06-01:45 | wales-vs-ghana.kTmrRTiWQ5 | BLV Bịp Con
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s", 🟡 03/06-07:30 | junior-vs-atletico-nacional.Xu9SQWeFHR | BLV Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/960px-Flag_of_Portugal.svg.png", 🟡 03/06-16:00 | portugal-u19-vs-kazakhstan-u19.174QZHwhCw | BLV Quan Vũ
@@ -896,9 +894,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/01/live-fiba-3x3-world-cup-2026-slide-thumb_1780284470391.jpg" group-title="⭐Sự kiện FPT OTT",02/06 - 21:35 - FIBA 3x3 World Cup 2026 - Ngày 2/6 - Buổi Tối
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-29
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/01/slider_1780301431992.jpg" group-title="⭐Sự kiện FPT OTT",03/06 - 09:00 - Trẻ PVF-CAND - Xuân Thiện Phú Thọ: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a1e352ddf09244411b1418c
 
@@ -1506,24 +1501,6 @@ http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/02/10/1780370163691/b2b27be0d454_640_360.jpg", 06/06-18:00 | KLM Open, ngày 3, kênh TV360+8
 http://pk79.io.vn/tv360/play360.php?id=sk8
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:45-03/06: Wales - Ghana (INTERF) - PINKMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=595715
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:45-03/06: Wales - Ghana (INTERF) - BLV XO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:45-03/06: Wales - Ghana (INTERF) - BLV LONG
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:45-03/06: Wales - Ghana (INTERF) - THẠCH TÚ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:45-03/06: Wales - Ghana (INTERF) - ĐỖ TÚ TÀI
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=607552
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:45-03/06: Wales - Ghana (INTERF) - BLV ROBBEN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=527383
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 02:00-03/06: Tanzania U17 - Senegal U17 (CAN U17) - BLV ALEX
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
@@ -2418,10 +2395,6 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/767.png", 🏁 03/06-01:45 | Friendlies | Wales vs Ghana | blvkhomuc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/10343.png", ⚪ 03/06-16:00 | UEFA U19 Championship - Qualification | Portugal U19 vs Kazakhstan U19 | blvtrada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
