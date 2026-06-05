@@ -991,12 +991,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/04/slider_1780555186866.jpg" group-title="⭐Sự kiện FPT OTT",05/06 - 11:00 - Đại Học Văn Hiến - Khatoco Khánh Hòa: Phát lại
-http://phuockhai.giize.com:1979/fpt_replay/6a2222bf7511b7fabaa103ac
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/04/live-vba-2026-slide-thumb_1780555245316.jpg" group-title="⭐Sự kiện FPT OTT",05/06 - 11:00 - Cantho Catfish - Hanoi Buffaloes: Phát lại
-http://phuockhai.giize.com:1979/fpt_replay/6a2222f4b59fe0de0d98f59b
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/03/live-michelob-ultra-asia-open-pickleball-tournament-2026-slide-thumb_1780475306687.jpg" group-title="⭐Sự kiện FPT OTT",05/06 - 12:55 - Michelob Ultra Asia Open Pickleball Tournament 2026: Ngày 5/6
 http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-03
 
@@ -1030,17 +1024,17 @@ http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-02-4k&type=fhd
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/04/live-soudal-open-2026---dp-world-tour-2026-slider-thumb_1780555679300.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:00 - Soudal Open 2026 vòng 1: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a2222fa35d0b661fb797ce9
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780384944002.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:45 - Bắc Ninh - Trẻ PVF-CAND
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-28
-
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780385041007.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:45 - Quảng Ninh - Thanh Niên TP. Hồ Chí Minh
-http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-44
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780385264167.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:45 - TP. Hồ Chí Minh - Đồng Tháp
+http://phuockhai.giize.com:1979/fpt/play1.php?id=event-20
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780385108483.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:45 - Long An - Quy Nhơn United
 http://phuockhai.giize.com:1979/fpt/play1.php?id=event-19
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780385264167.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:45 - TP. Hồ Chí Minh - Đồng Tháp
-http://phuockhai.giize.com:1979/fpt/play1.php?id=event-20
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780385041007.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:45 - Quảng Ninh - Thanh Niên TP. Hồ Chí Minh
+http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-44
+
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/02/slider_1780384944002.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 15:45 - Bắc Ninh - Trẻ PVF-CAND
+http://phuockhai.giize.com:1979/fpt/play1.php?id=su-kien-28
 
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/05/6_1780637893104.jpg" group-title="⭐Sự kiện FPT OTT",06/06 - 16:00 - LPL 2026 Split 2 - Ngày 06/06
 http://phuockhai.giize.com:1979/fpt/play1.php?id=event-05
@@ -1375,14 +1369,14 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=201
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=757
 #EXTINF:-1 tvg-logo="/vimages/345x194/e9/97/79/91/17/77/e9791-ldoidualech27510jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 18:30 | Đôi Đũa Lệch 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=790
-#EXTINF:-1 tvg-logo="/vimages/345x194/c3/33/38/81/1f/f5/c3381-lcamtuanninh380ajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:00 | Cẩm Tú An Ninh 
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=201
-#EXTINF:-1 tvg-logo="/vimages/345x194/e1/14/47/79/92/2f/e1479-lchiecvongngochuyeta263jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:00 |  Chiếc Vòng Ngọc Huyết          
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=198
-#EXTINF:-1 tvg-logo="/vimages/345x194/09/9b/b6/61/1f/fa/09b61-lmattroimuadonga109cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:00 | Mặt Trời Mùa Đông 
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=197
 #EXTINF:-1 tvg-logo="/vimages/345x194/85/5a/a9/9f/f3/3f/85a9f-ltrachquanky8ed5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:00 |  Trạch Quân Ký              
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
+#EXTINF:-1 tvg-logo="/vimages/345x194/e1/14/47/79/92/2f/e1479-lchiecvongngochuyeta263jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:00 |  Chiếc Vòng Ngọc Huyết          
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=198
+#EXTINF:-1 tvg-logo="/vimages/345x194/c3/33/38/81/1f/f5/c3381-lcamtuanninh380ajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:00 | Cẩm Tú An Ninh 
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=201
+#EXTINF:-1 tvg-logo="/vimages/345x194/09/9b/b6/61/1f/fa/09b61-lmattroimuadonga109cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:00 | Mặt Trời Mùa Đông 
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=197
 #EXTINF:-1 tvg-logo="/vimages/345x194/42/2e/ee/ef/fc/c4/42eef-limg103529cajpeg-content-mytv.jpeg" group-title="MyTV Event", ⏰ 05/06/2026 19:25 | Bán kết đơn Nam Roland Garros 2026
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=200
 #EXTINF:-1 tvg-logo="/vimages/345x194/3e/ee/ea/a8/8f/f6/3eea8-lmywc516a8jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 05/06/2026 19:55 | Cơ Hội Cuối Của Ronaldo - My World Cup Số 5
@@ -1399,12 +1393,12 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
 #EXTINF:-1 tvg-logo="/vimages/345x194/8c/cc/c8/8a/a2/25/8cc8a-lusopen1920round212d7jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 06/06/2026 01:00 | U.S. Women's Open 2026 Round 2
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=632
+#EXTINF:-1 tvg-logo="/vimages/345x194/64/48/89/90/03/32/64890-lhangnhatqgquangninhvsthanhnientphcm19206f23jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 06/06/2026 16:00 | Quảng Ninh vs Thanh Niên TP. HCM Vòng 22 Hạng nhất QG 2025/26
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=447
 #EXTINF:-1 tvg-logo="/vimages/345x194/af/f4/49/96/60/09/af496-lhangnhatqgtp6cc2jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 06/06/2026 16:00 | TP. Hồ Chí Minh vs Đồng Tháp Hạng nhất QG 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=9
 #EXTINF:-1 tvg-logo="/vimages/345x194/61/1a/a7/74/49/9b/61a74-lhangnhatqgbacninhvstrepvfcand1920c10dfjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 06/06/2026 16:00 | Bắc Ninh vs Trẻ PVF-CAND Hạng nhất QG 2025/26
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
-#EXTINF:-1 tvg-logo="/vimages/345x194/64/48/89/90/03/32/64890-lhangnhatqgquangninhvsthanhnientphcm19206f23jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 06/06/2026 16:00 | Quảng Ninh vs Thanh Niên TP. HCM Vòng 22 Hạng nhất QG 2025/26
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=447
 #EXTINF:-1 tvg-logo="/vimages/345x194/92/2b/bf/fb/bc/cf/92bfb-lndaluciakvaddandaluciagovt1920round310d2djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 06/06/2026 18:00 | LIV Golf  Andalucia Round 3
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=757
 #EXTINF:-1 tvg-logo="/vimages/345x194/20/0f/f7/72/2b/b6/20f72-lthesixthsensef9a2jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 06/06/2026 18:15 | The Sixth Sense
@@ -1427,6 +1421,8 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=757
 #EXTINF:-1 tvg-logo="/vimages/345x194/bc/cd/d8/87/7c/c2/bcd87-lthanchuanhtrange071jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 19:00 | Thần Chú Ánh Trăng
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=435
+#EXTINF:-1 tvg-logo="/vimages/345x194/8f/f2/25/54/42/21/8f254-lsavingprivateryan3a1djpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 20:00 | Saving Private Ryan 
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
 #EXTINF:-1 tvg-logo="/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=35
 #EXTINF:-1 tvg-logo="/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
