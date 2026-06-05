@@ -1476,8 +1476,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/29/17/1780050443484/1af4beef4a2a_640_360.jpg", 05/06-20:00 | U19 Singapore vs U19 Thái Lan, kênh TV360+ 10
 http://pk79.io.vn/tv360/play360.php?id=sk10
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/05/29/17/1780050254370/80c382067cb5_640_360.jpg", 05/06-16:00 | U19 Brunei vs U19 Malaysia, kênh TV360+ 10
-http://pk79.io.vn/tv360/play360.php?id=sk10
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/02/08/1780365044492/e1a9ab673993_640_360.jpg", 05/06-09:00 | Indonesia Open, kênh On Sport News
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893218113/fc915179ef69_640_360.jpg", 05/06-18:00 | Xổ Số Miền Bắc, kênh On Movies
@@ -1522,6 +1520,8 @@ http://pk79.io.vn/tv360/play360.php?id=onsports1
 http://pk79.io.vn/tv360/play360.php?id=onsportplus
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/03/10/1780456258563/e8bfae1e0308_640_360.jpg", 06/06-20:00 | U19 Campuchia vs U19 Philippines, kênh TV360+10
 http://pk79.io.vn/tv360/play360.php?id=sk10
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/10/1780543622480/82c822d6ec3e_640_360.jpg", 06/06-21:00 | Formula 1 Louis Vuitton Grand Prix De Monaco 2026 - Đua phân hạng, kênh TV360+12
+http://pk79.io.vn/tv360/play360.php?id=sk12
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 16:30-05/06: Green Gully Cavaliers - Avondale FC (Aus VPL) - A PÁO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
@@ -2045,6 +2045,9 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=602019
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-06/06: Gimnasia y Tiro - Ferrocarril Midland (ARG D2) - PINKMAN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=595715
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-06/06: Gimnasia y Tiro - Ferrocarril Midland (ARG D2) - BLV FIREMAN
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 07:30-06/06: San Antonio Spurs - New York Knicks (NBA) - BRIAN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
