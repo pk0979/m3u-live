@@ -1479,14 +1479,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=267
 #EXTINF:-1 tvg-logo="/vimages/345x194/bc/cd/d8/87/7c/c2/bcd87-lthanchuanhtrange071jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 19:00 | Thần Chú Ánh Trăng
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=435
-#EXTINF:-1 tvg-logo="/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=35
-#EXTINF:-1 tvg-logo="/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=115
-#EXTINF:-1 tvg-logo="/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV Channel", 📺 HTV Thể thao
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
-#EXTINF:-1 tvg-logo="/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV Channel", 📺 ON Football (HD)
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
 #EXTINF:-1 tvg-logo="/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV - Phim Tổng hợp
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
 #EXTINF:-1 tvg-logo="/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV 22 - SSportT1
@@ -1507,18 +1499,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=778
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=781
 #EXTINF:-1 tvg-logo="/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV7
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=784
-#EXTINF:-1 tvg-logo="/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV1 HD
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
-#EXTINF:-1 tvg-logo="/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png" group-title="MyTV Channel", 📺 VTV10 (HD)
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=212
-#EXTINF:-1 tvg-logo="/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 1 HD
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=421
-#EXTINF:-1 tvg-logo="/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 2 HD
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=423
-#EXTINF:-1 tvg-logo="/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 3 HD
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=425
-#EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/02/10/1780370163691/b2b27be0d454_640_360.jpg", 06/06-18:00 | KLM Open, ngày 3, kênh TV360+8
 http://pk79.io.vn/tv360/play360.php?id=sk8
