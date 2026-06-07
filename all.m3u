@@ -119,9 +119,6 @@ https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png!w80", 🔴 07/06 - 20:00 | Giao hữu Quốc tế | Kenya vs Lesotho | BLV STING
 https://live05.msdht.app/live/14707124.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3090d2868936f0f73f36844a43d5ce8f.png!w80", 🔴 07/06 - 21:15 | La Liga Royal Spanish Football Federation | Celta Vigo B vs Europa | BLV BÍ ĐAO
-https://live05.msdht.app/live/99121525.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80", 🕒 07/06 - 23:30 | Giao hữu Quốc tế | Đan Mạch vs Ukraine | BLV 247
 https://live05.msdht.app/live/90865415.m3u8
 
@@ -1335,10 +1332,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/02/10/1780370258293/aae33e944757_640_360.jpg", 07/06-17:30 | KLM Open, ngày 4, kênh TV360+8
 http://pk79.io.vn/tv360/play360.php?id=sk8
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/11/1780548660532/288686c288b8_640_360.png", 07/06-18:00 | Ninh Bình vs Hồng Lĩnh Hà Tĩnh, kênh TV360+7
-http://pk79.io.vn/tv360/play360.php?id=sk7
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/10/1780542813390/7c87f9a0fa7f_640_360.png", 07/06-18:00 | Thể Công - Viettel vs Công an Hà Nội, kênh TV360+11
-http://pk79.io.vn/tv360/play360.php?id=sk11
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/04/10/178054363826/2ab9e970e092_640_360.jpg", 07/06-19:40 | Formula 1 Louis Vuitton Grand Prix De Monaco 2026, Đua chính, kênh TV360+12
 http://pk79.io.vn/tv360/play360.php?id=sk12
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/05/14/1780644818918/e9039af1ad37_640_360.jpg", 07/06-20:00 | ROLAND GARROS 2026, Ngày 15 CHUNG KẾT ĐƠN NAM, kênh ON SPORTS
@@ -2976,6 +2969,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[20:00 09/06] Kyrgyzstan vs Úc  - BLV PHAN HẢI (SD)
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Anyones_Legend_logo.png/250px-Anyones_Legend_logo.png" group-title="Hội Quán TV",[16:00 08/06] AL vs BLG - BLV PHAN CA (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Anyones_Legend_logo.png/250px-Anyones_Legend_logo.png" group-title="Hội Quán TV",[16:00 08/06] AL vs BLG - BLV PHAN CA (HD)
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Anyones_Legend_logo.png/250px-Anyones_Legend_logo.png" group-title="Hội Quán TV",[16:00 08/06] AL vs BLG - BLV PHAN CA (SD)
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
