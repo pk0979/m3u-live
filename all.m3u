@@ -100,21 +100,6 @@ http://pk79.io.vn/daily/play.php?id=x8yptsc
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/VXzO21eowYYsiS3rI/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tân Tinh Võ Môn 1 (1991) Lồng Tiếng
 http://pk79.io.vn/daily/play.php?id=x8qy7sy
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80", 🔴 07/06 - 20:00 | AFF Championship U19 | Indonesia U19 vs Việt Nam U19 | BLV COCA
-https://live05.msdht.app/live/24561735.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/e96eae9f2ad8460ef8a33f83f64d4466.png!w80", 🔴 07/06 - 20:00 | AFF Championship U19 | Indonesia U19 vs Việt Nam U19 | BLV Cozy
-https://live05.msdht.app/live/87379114.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a7ce4026f43a4491f1284bb38d96f440.png!w80", 🔴 07/06 - 20:00 | Giao hữu Quốc tế | Liechtenstein vs Đảo Síp | BLV PEPSI
-https://live05.msdht.app/live/43612277.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80", 🔴 07/06 - 20:00 | AFF Championship U19 | Đông Timor U19 vs Myanmar U19 | BLV SPRITE
-https://live05.msdht.app/live/90725470.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png!w80", 🔴 07/06 - 20:00 | Giao hữu Quốc tế | Kenya vs Lesotho | BLV STING
-https://live05.msdht.app/live/14707124.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80", 🕒 07/06 - 23:30 | Giao hữu Quốc tế | Đan Mạch vs Ukraine | BLV 247
 https://live05.msdht.app/live/90865415.m3u8
 
@@ -1240,7 +1225,7 @@ https://google.com
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=757
 #EXTINF:-1 tvg-logo="/vimages/345x194/95/5b/b9/92/25/58/95b92-lmattroikhuyet89dajpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 21:45 | Mặt Trời Khuyết                 
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
-#EXTINF:-1 tvg-logo="/vimages/345x194/3a/a0/0d/de/e8/87/3a0de-lnhaco2banoia850jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 22:00 | Nhà Có Hai Bà Nội        
+#EXTINF:-1 tvg-logo="/vimages/345x194/3a/a0/0d/de/e8/87/3a0de-lnhaco2banoia850jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 07/06/2026 22:00 | Nhà Có Hai Bà Nội        
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
 #EXTINF:-1 tvg-logo="/vimages/345x194/b5/54/4b/ba/ae/e9/b54ba-lvongtrontoiaceca8jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 07/06/2026 22:45 | Vòng Tròn Tội Ác               
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
@@ -1250,6 +1235,14 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=632
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
 #EXTINF:-1 tvg-logo="/vimages/345x194/f2/29/95/5e/e7/72/f295e-ldeathwish266cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/06/2026 20:00 | DEATH WISH  
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
+#EXTINF:-1 tvg-logo="/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=35
+#EXTINF:-1 tvg-logo="/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=115
+#EXTINF:-1 tvg-logo="/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV Channel", 📺 HTV Thể thao
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=18
+#EXTINF:-1 tvg-logo="/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV Channel", 📺 ON Football (HD)
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
 #EXTINF:-1 tvg-logo="/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV - Phim Tổng hợp
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=766
 #EXTINF:-1 tvg-logo="/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV 22 - SSportT1
@@ -1270,6 +1263,18 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=778
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=781
 #EXTINF:-1 tvg-logo="/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV7
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=784
+#EXTINF:-1 tvg-logo="/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV1 HD
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=210
+#EXTINF:-1 tvg-logo="/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png" group-title="MyTV Channel", 📺 VTV10 (HD)
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=212
+#EXTINF:-1 tvg-logo="/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 1 HD
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=421
+#EXTINF:-1 tvg-logo="/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 2 HD
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=423
+#EXTINF:-1 tvg-logo="/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 3 HD
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=425
+#EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/02/10/1780370258293/aae33e944757_640_360.jpg", 07/06-17:30 | KLM Open, ngày 4, kênh TV360+8
 http://pk79.io.vn/tv360/play360.php?id=sk8
@@ -2656,10 +2661,6 @@ http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg", Thái Nguyên
 http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[20:00 07/06] Kenya vs Lesotho - BLV BLV STING (L1) Giải :Giao hữu Quốc tế
-https://live05.msdht.app/live/14707124.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png!w80" group-title="ColaTV",[20:00 07/06] Kenya vs Lesotho - BLV BLV STING (L2) Giải :Giao hữu Quốc tế
-https://live05.msdht.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png!w80" group-title="ColaTV",[20:00 08/06] Thái Lan U19 vs Malaysia U19 - BLV BLV GIÀ LÀNG (L1) Giải :AFF Championship U19
 https://live05.msdht.app/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png!w80" group-title="ColaTV",[20:00 08/06] Thái Lan U19 vs Malaysia U19 - BLV BLV GIÀ LÀNG (L2) Giải :AFF Championship U19
