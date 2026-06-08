@@ -939,9 +939,6 @@ https://khaitv.dpdns.org/fpt_replay/6a266bf5bff10b4023d5bb32
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/08/live-klm-open-2026---dp-world-tour-2026-slider-thumb_1780901669554.jpg" group-title="⭐Sự kiện FPT OTT",11/06 - 15:00 - KLM Open 2026 vòng 3: Phát lại
 https://khaitv.dpdns.org/fpt_replay/6a26696602a779924bf6516d
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/08/live-klm-open-2026---dp-world-tour-2026-slider-thumb_1780901760559.jpg" group-title="⭐Sự kiện FPT OTT",12/06 - 15:00 - KLM Open 2026 vòng 4: Phát lại
-https://khaitv.dpdns.org/fpt_replay/6a26697051d7fbef169002c1
-
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",16:00 - 08.06 | Giao hữu U19 | Sweden vs Wales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1339,6 +1336,10 @@ http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=267
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=349
 #EXTINF:-1 tvg-logo="/vimages/345x194/f2/29/95/5e/e7/72/f295e-ldeathwish266cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/06/2026 20:00 | DEATH WISH  
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=105
+#EXTINF:-1 tvg-logo="/vimages/345x194/b6/6d/de/eb/bc/c6/b6deb-lgiaohuubodaonhavsnigeria1920c4c2jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/06/2026 02:40 | Bồ Đào Nha vs Nigeria Giao Hữu Quốc Tế 2026
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=349
+#EXTINF:-1 tvg-logo="/vimages/345x194/60/0b/be/eb/bb/b0/60beb-lgiaohuuanhvscostarica192010854jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/06/2026 02:55 | Anh vs Costa Rica Giao Hữu Quốc Tế 2026
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=267
 #EXTINF:-1 tvg-logo="/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=35
 #EXTINF:-1 tvg-logo="/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
