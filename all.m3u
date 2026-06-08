@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://tmssl.akamaized.net//images/wappen/head/78529.png?lm=1774689473", 🔴 08/06-17:00 | guangdong-chenxingjuli-taizhou-morning-tea-dark-horse.JKdI9BNFEV | BLV Quan Vũ
-https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/19155.png", 🟡 08/06-20:00 | thailand-u19-vs-malaysia-u19.nnPJuSWTRY | BLV Rồng Đất
 https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg", 🟡 08/06-20:00 | singapore-u19-vs-brunei-u19.0-tmioQxoP | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/7520.png", 🟡 08/06-21:00 | masr-vs-wadi-degla.Q4Y4GFWmNo | BLV Thợ Lặn
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/7520.png", 🟡 08/06-21:00 | masr-vs-wadi-degla.TlQJ3nu6b3 | BLV A Cỏ
+https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/18262.png", 🟡 08/06-22:00 | senegal-w-vs-nigeria-w.0IYFeJssYr | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/11069.png", 🟡 08/06-22:30 | baghdad-vs-karbala.e2ymhczrrJ | BLV Bịp Con
@@ -19,8 +17,8 @@ https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2.png", 🟡 09/06-02:10 | france-vs-northern-ireland.VaWfL2YuxK | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png", 🟡 08/06-18:30 | sri-lanka-vs-bhutan.2jS6L6XNjG | BLV A Cỏ
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1280px-Flag_of_Sri_Lanka.svg.png", 🟡 08/06-18:30 | sri-lanka-vs-bhutan.SrG3lcL4ZC | BLV Thợ Lặn
+https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ2_HyiVFjqHwJ5TedGTKgPWuVtoFD5ErQQ&s", 🟡 09/06-09:00 | peru-vs-spain.xEv31Kyt1h | BLV Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/5537.png", 🟡 09/06-16:00 | timor-leste-vs-brunei.O7t8WOgU6Z | BLV Quan Vũ
@@ -1357,6 +1355,8 @@ https://google.com
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=866
 #EXTINF:-1 tvg-logo="/vimages/345x194/e9/97/79/91/17/77/e9791-ldoidualech27510jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 08/06/2026 18:30 | Đôi Đũa Lệch    
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=790
+#EXTINF:-1 tvg-logo="/vimages/345x194/67/7a/ac/cd/d5/5d/67acd-lchidep9a19209bc7jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 08/06/2026 19:00 | Chị Đẹp Đạp Gió 2026 tập 9A - Công 4 Day 1
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=449
 #EXTINF:-1 tvg-logo="/vimages/345x194/e1/14/47/79/92/2f/e1479-lchiecvongngochuyeta263jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 08/06/2026 19:00 |  Chiếc Vòng Ngọc Huyết            
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=198
 #EXTINF:-1 tvg-logo="/vimages/345x194/85/5a/a9/9f/f3/3f/85a9f-ltrachquanky8ed5jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 08/06/2026 19:00 |  Trạch Quân Ký                 
@@ -2594,7 +2594,7 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png", ⚪ 08/06-17:00 | AVC Nations Cup 2026 | Việt Nam W  vs Indonesia W | blvcuccu
+#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png", 🔴 08/06-17:00 | AVC Nations Cup 2026 | Việt Nam W  vs Indonesia W | blvcuccu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
