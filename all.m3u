@@ -891,9 +891,6 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 http://phuockhai.giize.com:1979/fpt/play1.php?id=epl-hn-02-4k
 
-#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/05/slider_1780648719457.jpg" group-title="⭐Sự kiện FPT OTT",08/06 - 09:00 - Bắc Ninh - Trẻ PVF-CAND: Phát lại
-http://phuockhai.giize.com:1979/fpt_replay/6a254398d818a39931f15182
-
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/05/live-vba-2026-slide-thumb_1780648921365.jpg" group-title="⭐Sự kiện FPT OTT",08/06 - 11:00 - Danang Dragons - Saigon Heat: Phát lại
 http://phuockhai.giize.com:1979/fpt_replay/6a261b08b407c0d813d06f66
 
@@ -1310,6 +1307,10 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=772
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=802
 #EXTINF:-1 tvg-logo="/vimages/345x194/49/94/41/1c/c1/16/4941c-lgiaohuuhalanvsuzbekistan192010826jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/06/2026 01:40 | Hà Lan vs Uzbekistan Giao Hữu Quốc Tế 2026
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=447
+#EXTINF:-1 tvg-logo="/vimages/345x194/a4/44/42/25/52/25/a4425-lgiaohuuphapvsbacireland1920bb97jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/06/2026 02:05 | Pháp vs Bắc Ireland Giao Hữu Quốc Tế 2026
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=267
+#EXTINF:-1 tvg-logo="/vimages/345x194/32/25/5f/f9/97/7a/325f9-lgiaohuutaybannhavsperu1920bd27jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/06/2026 08:55 | Tây Ban Nha vs Peru Giao Hữu Quốc Tế 2026
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=349
 #EXTINF:-1 tvg-logo="/vimages/345x194/f2/29/95/5e/e7/72/f295e-ldeathwish266cjpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 09/06/2026 20:00 | DEATH WISH  
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=105
 #EXTINF:-1 tvg-logo="/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
@@ -1353,8 +1354,6 @@ http://hoangai.dpdns.org:8082/mytv/get1.php?id=425
 #EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=96
 
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/08/10/1780888491624/31d0d8b3ffe3_640_360.jpg", 13/06-17:00 | ATP TOUR 250 STUTTGART OPEN 2026 - Bán kết, kênh ON SPORTS
-http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/05/17/1780655077831/14967bb6b97b_640_360.jpg", 08/06-16:00 | ATP TOUR 250 STUTTGART OPEN 2026 - NGÀY 1, kênh ON SPORTS
 http://pk79.io.vn/tv360/play360.php?id=onsports1
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/05/17/1780654931389/48e5520f05b7_640_360.jpg", 08/06-16:00 | ATP TOUR 250 LIBEMA OPEN 2026 - NGÀY 1, kênh ON SPORTS NEWS
