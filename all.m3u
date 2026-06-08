@@ -1156,6 +1156,9 @@ http://example.com/update.m3u8
 #EXTINF:-1 tvg-logo="https://fpt24h.com/wp-content/uploads/2023/03/fpt-play.png" group-title="⭐Sự kiện FPT OTT",FPT1 4K UHD
 https://khaitv.dpdns.org/fpt/play1.php?id=epl-hn-02-4k
 
+#EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/08/live-tn-lpbank-vleague-1---202526-slide-thumb_1780916821953.jpg" group-title="⭐Sự kiện FPT OTT",08/06 - 20:00 - SHB Đà Nẵng áp đảo, Tiến Linh, Hoàng Đức rực sáng!
+https://khaitv.dpdns.org/fpt_replay/6a26a30b649a0b8906086044
+
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/06/live-nba-regular-season-2025-26-slide-thumb_1780710977880.jpg" group-title="⭐Sự kiện FPT OTT",09/06 - 07:25 - San Antonio Spurs - New York Knicks
 https://khaitv.dpdns.org/fpt/play1.php?id=nba-hn-01
 
@@ -1210,14 +1213,14 @@ https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/rot-sd/playlist.m3u8
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205190_small.png",21:00 - 08.06 | League Cup Final Stage | Wadi Degla FC vs ZED FC
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/205190_small.png",🔴 21:00 - 08.06 | League Cup Final Stage | Wadi Degla FC vs ZED FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://www.livesport.com/res/image/data/KbJebBf5-Yef7TokH.png",21:00 - 08.06 | Hạng Nhất Uzbekistan | Metallurg Bekabad vs FarDU
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://www.livesport.com/res/image/data/KbJebBf5-Yef7TokH.png",🔴 21:00 - 08.06 | Hạng Nhất Uzbekistan | Metallurg Bekabad vs FarDU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/baroi-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5835_small.png",22:00 - 08.06 | Friendlies U21 | Belarus U21 vs Kazakhstan U21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
