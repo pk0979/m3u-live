@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/5537.png", 🟡 09/06-16:00 | timor-leste-vs-brunei.V7OUloP4qG | BLV Thợ Lặn
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/5537.png", 🔴 09/06-16:00 | timor-leste-vs-brunei.V7OUloP4qG | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1566.png", 🟡 09/06-18:35 | china-vs-thailand.UvcovSbaho | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
@@ -82,17 +82,14 @@ http://pk79.io.vn/daily/play.php?id=x8yptsc
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/VXzO21eowYYsiS3rI/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tân Tinh Võ Môn 1 (1991) Lồng Tiếng
 http://pk79.io.vn/daily/play.php?id=x8qy7sy
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80", 🔴 09/06 - 13:30 | Giao hữu Quốc tế | Nhật Bản Nữ vs Nam Phi Nữ | BLV BÍ ĐAO
-https://live05.msdht.app/live/99121525.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80", 🔴 09/06 - 15:00 | Giải bóng đá nữ Châu Á Đông Nam | Hàn Quốc Nữ vs Đài Loan TQ Nữ | BLV MOUNTAIN DEW
 https://live05.msdht.app/live/87547578.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80", 🔴 09/06 - 16:00 | Giải bóng đá Đông Nam Á | Đông Timor vs Brunei | BLV 247
-https://live05.msdht.app/live/90865415.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/1321008697de305bc0135838af8d2670.png!w80", 🔴 09/06 - 16:00 | Giao hữu Quốc tế | Úc Nữ vs Mexico Nữ | BLV STING
 https://live05.msdht.app/live/14707124.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80", 🔴 09/06 - 16:00 | Giải bóng đá Đông Nam Á | Đông Timor vs Brunei | BLV 247
+https://live05.msdht.app/live/90865415.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/dd862973fbf229b051221b037f67a27c.png!w80", 🕒 09/06 - 16:30 | Giải bóng đá hạng nhất Queensland, Úc | Thành phố Ipswich vs Thành phố Robina xanh | BLV POCARI
 https://live05.msdht.app/live/19919577.m3u8
@@ -420,15 +417,15 @@ https://khaitv.dpdns.org/luongson/list2.php?id=359039927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5502_1gxw4q5pk72r.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F35358_1h3x7jkpqrx.png", 🔴 09/06-15:30 | Cambodia (W) vs Indonesia (W) | BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=8e13e1d3-73b5-4f6f-ae14-11eb614dc064
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1613_1h48anxenr32.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4465_165725229311.png", 09/06-16:00 | Mexico (W) vs Australia (W) | BLV KEVILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=467539921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1613_1h48anxenr32.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4465_165725229311.png", 09/06-16:00 | Mexico (W) vs Australia (W) | BLV VÕ TÒNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=ad9f34d7-7d96-4a0b-9861-c22aa5e04d28
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1613_1h48anxenr32.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4465_165725229311.png", 09/06-16:00 | Mexico (W) vs Australia (W) | BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=3fdbb2dc-121d-46ec-8ca9-c5b47f818911
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1613_1h48anxenr32.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4465_165725229311.png", 09/06-16:00 | Mexico (W) vs Australia (W) | BLV KEVILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=467539921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25770_1gsh0m063p2g.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64961_1htrsnsb1k1k.png", 09/06-16:00 | North Lakes United (W) vs Peninsula Power (W) | NHÀ ĐÀI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=310649921
@@ -456,21 +453,21 @@ https://khaitv.dpdns.org/luongson/list2.php?id=499039921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3709_1gzfp9hsge1h.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3708_165726896159.png", 09/06-17:30 | Thailand (W) vs Myanmar (W) | BLV TÔN LẬP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=eb2e3aee-b15d-4f8d-842e-769ade34b7c0
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1336_165018950152.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1337_16626212008.png", 09/06-18:30 | Myanmar vs Philippines | BLV YẾN THANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=200139924
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1336_165018950152.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1337_16626212008.png", 09/06-18:30 | Myanmar vs Philippines | BLV MAYBACH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=89512f4c-924d-4f50-8d9c-f98c73424be8
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1336_165018950152.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1337_16626212008.png", 09/06-18:30 | Myanmar vs Philippines | BLV MÃ SIÊU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=a8c35c1a-31f3-4184-8a47-4deda7da139f
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F781_164972748984.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png", 09/06-18:30 | Thailand vs China | BLV LỮ BỐ
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1336_165018950152.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1337_16626212008.png", 09/06-18:30 | Myanmar vs Philippines | BLV YẾN THANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=4a59cc77-2613-4756-99a8-d93a801815d0
+https://khaitv.dpdns.org/luongson/list2.php?id=200139924
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F781_164972748984.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png", 09/06-18:30 | Thailand vs China | BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=331778927
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F781_164972748984.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png", 09/06-18:30 | Thailand vs China | BLV LỮ BỐ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=4a59cc77-2613-4756-99a8-d93a801815d0
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F781_164972748984.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png", 09/06-18:30 | Thailand vs China | BLV LƯU BỊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=d2dcd9df-67aa-421d-ab5b-5e05a5b6d786
@@ -486,18 +483,18 @@ https://khaitv.dpdns.org/luongson/list2.php?id=a8a321b8-36c7-4afa-b3c2-c2fcefcb5
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F49289_1jr1s38mzm32.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F69012_1jqt0d61pyf.png", 09/06-19:30 | Kattaqurgon vs FC Lochin | BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=232017924
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52908_1h6czwq3aef.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9749_1heh20zrt51x.png", 09/06-19:30 | PFC Oleksandria vs FC Livyi Bereh | BLV VÕ TÒNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=4292dc88-54cf-482b-b826-4d6ad2883d40
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52908_1h6czwq3aef.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9749_1heh20zrt51x.png", 09/06-19:30 | PFC Oleksandria vs FC Livyi Bereh | BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=342829926
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F775_165018995394.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4509_165018839785.png", 09/06-20:00 | Mozambique vs Indonesia | BLV LÃO HẠC
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F52908_1h6czwq3aef.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9749_1heh20zrt51x.png", 09/06-19:30 | PFC Oleksandria vs FC Livyi Bereh | BLV VÕ TÒNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=230139927
+https://khaitv.dpdns.org/luongson/list2.php?id=4292dc88-54cf-482b-b826-4d6ad2883d40
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F775_165018995394.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4509_165018839785.png", 09/06-20:00 | Mozambique vs Indonesia | BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=6f6d111e-d634-4685-a49e-68c026bfe982
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F775_165018995394.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4509_165018839785.png", 09/06-20:00 | Mozambique vs Indonesia | BLV LÃO HẠC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=230139927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4114_1h48apy59p27.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F9745_1h59qgwbqk2a.png", 09/06-20:00 | Cambodia U19 vs Australia U19 | BLV KEVILL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=336809927
@@ -528,18 +525,18 @@ https://khaitv.dpdns.org/luongson/list2.php?id=336719927
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F642_164984174137.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F645_164983619631.png", 09/06-22:00 | Moldova vs Armenia | BLV TÔN LẬP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=458829923
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4075_1h4320ns6a2y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3586_165750151226.png", 09/06-22:00 | Portugal U19 vs Serbia U19 | BLV LỮ BỐ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=d8177b41-2699-41c3-a799-a7768465fbb6
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4075_1h4320ns6a2y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3586_165750151226.png", 09/06-22:00 | Portugal U19 vs Serbia U19 | BLV YẾN THANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=373846929
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1657_16572442265.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F347_1gtzct7tvc22.png", 09/06-22:30 | HJK Helsinki vs Honka Espoo | BLV DƯƠNG CHÍ
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4075_1h4320ns6a2y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3586_165750151226.png", 09/06-22:00 | Portugal U19 vs Serbia U19 | BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=d565b6e2-efda-445b-b498-ae5747e2f48a
+https://khaitv.dpdns.org/luongson/list2.php?id=d8177b41-2699-41c3-a799-a7768465fbb6
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1657_16572442265.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F347_1gtzct7tvc22.png", 09/06-22:30 | HJK Helsinki vs Honka Espoo | BLV KEVILL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=378139929
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1657_16572442265.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F347_1gtzct7tvc22.png", 09/06-22:30 | HJK Helsinki vs Honka Espoo | BLV DƯƠNG CHÍ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=d565b6e2-efda-445b-b498-ae5747e2f48a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F28709_1gqvn6qhmy29.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2017_1jrq1pcmd82z.png", 09/06-23:00 | JIPPO vs SJK Akatemia | BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=317812920
@@ -552,24 +549,24 @@ https://khaitv.dpdns.org/luongson/list2.php?id=2c7d06a1-e75b-46b0-a28b-f591321f3
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F702_1gpwrcjd1c7.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F674_165018933333.png", 09/06-23:00 | Chile vs Democratic Rep Congo | BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=240139928
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F644_164983503671.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F684_165018781734.png", 09/06-23:30 | Burkina Faso vs Belarus | BLV NGƯỜI THÉP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=438829921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F644_164983503671.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F684_165018781734.png", 09/06-23:30 | Burkina Faso vs Belarus | BLV MÃ SIÊU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=d8dc98a7-199d-44a4-b516-9c39d7b707d5
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F640_164983778084.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F794_165018921272.png", 10/06-00:00 | Trinidad and Tobago vs Russia | BLV HÀN TÍN
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F644_164983503671.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F684_165018781734.png", 09/06-23:30 | Burkina Faso vs Belarus | BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=3618673a-0bae-450e-a164-566e7d73005f
+https://khaitv.dpdns.org/luongson/list2.php?id=438829921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F640_164983778084.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F794_165018921272.png", 10/06-00:00 | Trinidad and Tobago vs Russia | BLV PELE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=448829922
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F639_16498375718.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F657_165018952324.png", 10/06-00:00 | Kazakhstan vs Hungary | BLV MAYBACH
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F640_164983778084.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F794_165018921272.png", 10/06-00:00 | Trinidad and Tobago vs Russia | BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=ca0fac3f-ca03-4148-b7d8-2642cc8abaad
+https://khaitv.dpdns.org/luongson/list2.php?id=3618673a-0bae-450e-a164-566e7d73005f
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F639_16498375718.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F657_165018952324.png", 10/06-00:00 | Kazakhstan vs Hungary | BLV FERNANDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=309829929
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F639_16498375718.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F657_165018952324.png", 10/06-00:00 | Kazakhstan vs Hungary | BLV MAYBACH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=ca0fac3f-ca03-4148-b7d8-2642cc8abaad
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1971_165727085283.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4399_16575015251.png", 10/06-00:00 | Portugal (W) vs Finland (W) | BLV PHI HỔ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=253210922
@@ -1359,14 +1356,6 @@ http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=105
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=349
 #EXTINF:-1 tvg-logo="/vimages/345x194/60/0b/be/eb/bb/b0/60beb-lgiaohuuanhvscostarica192010854jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 11/06/2026 02:55 | Anh vs Costa Rica Giao Hữu Quốc Tế 2026
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=267
-#EXTINF:-1 tvg-logo="/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png" group-title="MyTV Channel", 📺 ANTV
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=35
-#EXTINF:-1 tvg-logo="/vimages/cf/f0/0b/b7/75/51/cf0b7-pbtv6shopping24h-channel-unkn.png" group-title="MyTV Channel", 📺 BTV6 - Shopping 24h
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=115
-#EXTINF:-1 tvg-logo="/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" group-title="MyTV Channel", 📺 HTV Thể thao
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=18
-#EXTINF:-1 tvg-logo="/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png" group-title="MyTV Channel", 📺 ON Football (HD)
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=208
 #EXTINF:-1 tvg-logo="/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV - Phim Tổng hợp
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=766
 #EXTINF:-1 tvg-logo="/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV 22 - SSportT1
@@ -1387,18 +1376,6 @@ http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=778
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=781
 #EXTINF:-1 tvg-logo="/vimages/0b/b7/70/0a/a8/85/0b70a-psctv7snkhuvnnghtnghp-channel-unkn.png" group-title="MyTV Channel", 📺 SCTV7
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=784
-#EXTINF:-1 tvg-logo="/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png" group-title="MyTV Channel", 📺 VTV1 HD
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=210
-#EXTINF:-1 tvg-logo="/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png" group-title="MyTV Channel", 📺 VTV10 (HD)
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=212
-#EXTINF:-1 tvg-logo="/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 1 HD
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=421
-#EXTINF:-1 tvg-logo="/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 2 HD
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=423
-#EXTINF:-1 tvg-logo="/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png" group-title="MyTV Channel", 📺 Vĩnh Long 3 HD
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=425
-#EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/08/10/1780890513396/5c7799a392f5_640_360.jpg", 13/06-20:00 | ATP TOUR 250 LIBEMA OPEN 2026 - Bán kết, kênh On Sport News
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
@@ -3385,6 +3362,48 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Hội Quán TV",[02:30 11/06] Serbia vs Argentina - BLV TÁO GIÀ (HD)
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Hội Quán TV",[02:30 11/06] Serbia vs Argentina - BLV TÁO GIÀ (SD)
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png" group-title="Hội Quán TV",[03:00 11/06] Pháp vs Italy - BLV PHAN HẢI (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png" group-title="Hội Quán TV",[03:00 11/06] Pháp vs Italy - BLV PHAN HẢI (HD)
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png" group-title="Hội Quán TV",[03:00 11/06] Pháp vs Italy - BLV PHAN HẢI (SD)
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" group-title="Hội Quán TV",[06:00 11/06] Brazil  vs Iran  - BLV PHAN BÁCH (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" group-title="Hội Quán TV",[06:00 11/06] Brazil  vs Iran  - BLV PHAN BÁCH (HD)
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Brazil_%281968%E2%80%931992%29.svg/250px-Flag_of_Brazil_%281968%E2%80%931992%29.svg.png" group-title="Hội Quán TV",[06:00 11/06] Brazil  vs Iran  - BLV PHAN BÁCH (SD)
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[08:00 11/06] Việt Nam vs Iran  - BLV LƯƠNG BỔNG (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[08:00 11/06] Việt Nam vs Iran  - BLV LƯƠNG BỔNG (HD)
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png" group-title="Hội Quán TV",[08:00 11/06] Việt Nam vs Iran  - BLV LƯƠNG BỔNG (SD)
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png" group-title="Hội Quán TV",[11:00 11/06] Lebanon vs Kazakhstan - BLV PHAN CA (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png" group-title="Hội Quán TV",[11:00 11/06] Lebanon vs Kazakhstan - BLV PHAN CA (HD)
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png" group-title="Hội Quán TV",[11:00 11/06] Lebanon vs Kazakhstan - BLV PHAN CA (SD)
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[14:00 11/06] Philippin  vs Đài Loan - BLV TÁO GIÀ (FHD)
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[14:00 11/06] Philippin  vs Đài Loan - BLV TÁO GIÀ (HD)
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Hội Quán TV",[14:00 11/06] Philippin  vs Đài Loan - BLV TÁO GIÀ (SD)
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png" group-title="Hội Quán TV",[17:00 11/06] Hàn Quốc vs Úc  - BLV PHAN CA (FHD)
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png" group-title="Hội Quán TV",[17:00 11/06] Hàn Quốc vs Úc  - BLV PHAN CA (HD)
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png" group-title="Hội Quán TV",[17:00 11/06] Hàn Quốc vs Úc  - BLV PHAN CA (SD)
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[20:00 11/06] Kyrgyzstan vs Uzbekistan - BLV TÁO GIÀ (FHD)
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[20:00 11/06] Kyrgyzstan vs Uzbekistan - BLV TÁO GIÀ (HD)
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1280px-Flag_of_Kyrgyzstan.svg.png" group-title="Hội Quán TV",[20:00 11/06] Kyrgyzstan vs Uzbekistan - BLV TÁO GIÀ (SD)
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
