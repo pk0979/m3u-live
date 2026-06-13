@@ -1838,7 +1838,7 @@ https://google.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/U5NkeWCa-Mmm1EEVD.png",14:30 - 13.06 | NPL Western Australia | Armadale vs Bayswater City
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/162259_small.png",13:30 - 13.06 | Northern NSW State League | Edgeworth Eagles vs  Cooks Hill United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
@@ -2143,8 +2143,6 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 
-#EXTINF:-1 tvg-logo="/vimages/345x194/fe/ec/cf/f3/32/2b/fecf3-lmyvsparaguay1920946cjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 13/06/2026 07:20 | Mỹ vs Paraguay Bảng D FIFA World Cup 2026
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=211
 #EXTINF:-1 tvg-logo="/vimages/345x194/0b/b2/2c/ca/a6/6e/0b2ca-l113online10935jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 13/06/2026 11:30 | 113 Online      
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=35
 #EXTINF:-1 tvg-logo="/vimages/345x194/a9/9c/c5/57/76/6e/a9c57-ltramvunhuongphaice7ajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 13/06/2026 12:00 | Trầm Vụn Hương Phai        
@@ -2291,15 +2289,6 @@ http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/11/11/1781151588896/a4f348e57232_640_360.jpg", 15/06-09:00 | Thụy Điển vs Tunisia, kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-13/06: Nelson Giants - Southland Sharks (NZBL) - KING
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-13/06: Nelson Giants - Southland Sharks (NZBL) - CHAN SENA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 08:30-13/06: Nelson Giants - Southland Sharks (NZBL) - A CHÈ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 09:00-13/06: Seattle Storm W - Golden State Valkyries W (WNBA) - BRIAN
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
@@ -3524,6 +3513,8 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-name="Bản tin Thể thao 24+ ngày 13/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/13/12222_1781317833426.jpg" group-title="⭐ Sự kiện FPT", 🕒 13/06 11:30 | Bản tin Thể thao 24+ ngày 13/6
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-name="Nhật ký World Cup ngày 13/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/13/nhat-ky-fifa-world-cup-2026-slide-thumb_1781319142983.jpg" group-title="⭐ Sự kiện FPT", 🕒 13/06 12:30 | Nhật ký World Cup ngày 13/6
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-name="Trẻ Hà Nội - Trường Giang Gia Định" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/11/slider_1781144965584.jpg" group-title="⭐ Sự kiện FPT", 🕒 13/06 15:50 | Trẻ Hà Nội - Trường Giang Gia Định
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-name="Danang Dragons - Cantho Catfish" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/09/live-vba-2026-slide-thumb_1780976238761.jpg" group-title="⭐ Sự kiện FPT", 🕒 13/06 19:15 | Danang Dragons - Cantho Catfish
