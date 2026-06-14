@@ -96,9 +96,6 @@ http://pk79.io.vn/daily/play.php?id=x8yptsc
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/VXzO21eowYYsiS3rI/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tân Tinh Võ Môn 1 (1991) Lồng Tiếng
 http://pk79.io.vn/daily/play.php?id=x8qy7sy
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/1cc8fde7becd389f88e35e0b498202bd.png!w80", 🔴 14/06 - 07:00 | Giải vô địch quốc gia Chile | Nublense vs Huachipato | BLV BÍ ĐAO
-https://live05.msdht.app/live/99121525.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80", 🔴 14/06 - 07:00 | Hiệp hội bóng rổ quốc gia nữ | Las Vegas Aces vs Minnesota Lynx | BLV 247
 https://live05.msdht.app/live/90865415.m3u8
 
@@ -1811,6 +1808,8 @@ https://google.com
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=211
 #EXTINF:-1 tvg-logo="/vimages/345x194/aa/a9/95/50/03/3f/aa950-laustraliavsthonhiky1920de3ejpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 10:20 | Australia vs Thổ Nhĩ Kỳ Bảng D FIFA World Cup 2026
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=211
+#EXTINF:-1 tvg-logo="/vimages/345x194/a9/9c/c5/57/76/6e/a9c57-ltramvunhuongphaice7ajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 12:00 | Trầm Vụn Hương Phai         
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=201
 #EXTINF:-1 tvg-logo="/vimages/345x194/5e/e4/40/0e/ea/ab/5e40e-lphoenixvsdtss131920a148jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 15:00 | Phoenix vs DTS Vòng 6 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=349
 #EXTINF:-1 tvg-logo="/vimages/345x194/78/84/4e/ef/f0/0b/784ef-lhglagiangvssaos131920bed9jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 15:00 | HG La Giang vs Sao 7 ngVòng 6 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
@@ -1819,12 +1818,24 @@ http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=267
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=267
 #EXTINF:-1 tvg-logo="/vimages/345x194/5c/c3/3e/e0/0d/d3/5c3e0-lthienkhoifcvsjmbmedias131920b4e9jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 16:45 | Thiên Khôi FC vs JMB Media Vòng 6 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=349
+#EXTINF:-1 tvg-logo="/vimages/345x194/a8/80/0c/cf/fd/d9/a80cf-lbanantuquakhu78e4jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 17:00 | Bản Án Từ Quá Khứ     
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=201
 #EXTINF:-1 tvg-logo="/vimages/345x194/01/1d/d8/8a/af/fc/01d8a-lckcupquocgia1920cb75jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 17:55 | Ninh Bình vs Công an TPHCM Chung kết Cúp Quốc Gia 2026
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=459
 #EXTINF:-1 tvg-logo="/vimages/345x194/ab/b6/66/67/7d/d0/ab667-ltunganhvstigs1319200102ejpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 18:30 | Tùng Anh vs TIG Vòng 6 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=267
 #EXTINF:-1 tvg-logo="/vimages/345x194/d8/86/64/44/49/93/d8644-ldainamfcvsvietphuongdongs1319209499jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 18:30 | Đại Nam FC vs Việt Phương Đông Vòng 6 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=349
+#EXTINF:-1 tvg-logo="/vimages/345x194/e9/97/79/91/17/77/e9791-ldoidualech27510jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 18:30 | Đôi Đũa Lệch         
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=790
+#EXTINF:-1 tvg-logo="/vimages/345x194/bc/cd/d8/87/7c/c2/bcd87-lthanchuanhtrange071jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 19:00 | Thần Chú Ánh Trăng     
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=435
+#EXTINF:-1 tvg-logo="/vimages/345x194/9d/dc/c6/67/7c/cb/9dc67-lmattroimuadong9178jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 19:00 | Mặt Trời Mùa Đông    
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=197
+#EXTINF:-1 tvg-logo="/vimages/345x194/bf/f9/9d/da/a3/31/bf9da-lchuchothongminhff31jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 20:30 | Chú Chó Thông Minh        
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=790
+#EXTINF:-1 tvg-logo="/vimages/345x194/3a/a0/0d/de/e8/87/3a0de-lnhaco2banoia850jpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 22:00 | Nhà Có Hai Bà Nội            
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=772
 #EXTINF:-1 tvg-logo="/vimages/345x194/f8/86/60/06/6f/f2/f8606-lducvscuraao19202a2ajpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 14/06/2026 23:20 | Đức vs Curaçao Bảng E FIFA World Cup 2026
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=211
 #EXTINF:-1 tvg-logo="/vimages/345x194/e4/48/8e/e7/71/15/e48e7-lhalanvsnhatban19202069ejpg-content-mytv.jpg" group-title="MyTV Event", ⏰ 15/06/2026 02:20 | Hà Lan vs Nhật Bản Bảng F FIFA World Cup 2026
