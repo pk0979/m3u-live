@@ -234,11 +234,11 @@ https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV Cozy
 https://live05.msdht.app/live/87379114.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV MOUNTAIN DEW
-https://live05.msdht.app/live/87547578.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV POCARI
 https://live05.msdht.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV MOUNTAIN DEW
+https://live05.msdht.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80", 🕒 15/06 - 09:00 | Giải vô địch bóng đá thế giới | Thụy Điển vs Tunisia | BLV GIÀ LÀNG
 https://live05.msdht.app/live/14830711.m3u8
@@ -2131,7 +2131,7 @@ http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=96
 
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/10/12/17810677678/c4a6a7b3712f_640_360.jpg", 14/06-08:00 | Haiti vs Scotland, kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/11/18/1781176345745/47a58ea9ea1d_640_360.jpg", 14/06-10:00 | BWF WORLD TOUR S500 AUSTRALIAN OPEN 2026 - BÁN KẾT, kênh On Sport News
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/14/09/1781405684513/a150280f6ca3_640_360.jpeg", 14/06-10:00 | BWF WORLD TOUR S500 AUSTRALIAN OPEN 2026 - Chung kết, kênh On Sport News
 http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/10/13/1781073689762/340befcc2447_640_360.jpg", 14/06-11:00 | Australia vs Thổ Nhĩ Kỳ, kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
@@ -2178,6 +2178,42 @@ http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/12/18/1781263754764/89f02da6eba6_640_360.jpg", 18/06-09:00 | Uzbekistan vs Colombia, Kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
 
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - BLV TOMMY
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=414317
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - BLV TAP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - DECO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - BLV ĐỐM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=434982
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - BLV COCA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - TẠ BIÊN GIỚI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - BLV CUỘI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=256080
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - LÃO LÂM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - A BỆU
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - BLV Củ Cải
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=360663
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - BLV 7UP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=534219
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:10-14/06: Haiti - Scotland (WORLD CUP) - SAO LA
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=462413
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 08:30-14/06: New Mexico United - Orange County SC (USLC) - BLV ENZO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
@@ -3035,8 +3071,8 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-name="Nhật ký World Cup ngày 14/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/14/live-nhat-ky-fifa-world-cup-2026-slide-thumb_1781405257131.jpg" group-title="⭐ Sự kiện FPT", 🕒 14/06 12:30 | Nhật ký World Cup ngày 14/6
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-name="Hà Nội 1 - Thanh Hóa Vpbox" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/13/slider_1781360410889.jpg" group-title="⭐ Sự kiện FPT", 🕒 14/06 15:25 | Hà Nội 1 - Thanh Hóa Vpbox [BACKUP]
-http://is.am/62sv
+#EXTINF:-1 tvg-name="Hà Nội 1 - Thanh Hóa Vpbox" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/13/slider_1781360410889.jpg" group-title="⭐ Sự kiện FPT", 🕒 14/06 15:25 | Hà Nội 1 - Thanh Hóa Vpbox
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
 #EXTINF:-1 tvg-name="Bắc Ninh Pitbulls 1 - Thanh Hóa THBC" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/13/slider_1781360546233.jpg" group-title="⭐ Sự kiện FPT", 🕒 14/06 16:55 | Bắc Ninh Pitbulls 1 - Thanh Hóa THBC [BACKUP]
 http://is.am/62sv
 #EXTINF:-1 tvg-name="Lễ Khai Mạc & CAND New Sports - Đà Nẵng" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/13/slider_1781368265780.jpg" group-title="⭐ Sự kiện FPT", 🕒 14/06 18:55 | Lễ Khai Mạc & CAND New Sports - Đà Nẵng [BACKUP]
@@ -4085,14 +4121,14 @@ https://live05.msdht.app/live/02456966.m3u8
 https://live05.msdht.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV Cozy (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/19919577.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/19919577.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.msdht.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 15/06] Thụy Điển vs Tunisia - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 15/06] Thụy Điển vs Tunisia - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
