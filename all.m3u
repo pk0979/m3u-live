@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/9167.png", 🔴 14/06-18:00 | phu-dong-vs-ho-chi-minh.e0hBAGEklG | BLV A Cỏ
-https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/812.png", 🔴 14/06-20:00 | falkenbergs-ff-vs-orebro-sk.SupLf-3tJx | BLV Thợ Lặn
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2165.png", 🔴 14/06-20:00 | ljungskile-sk-vs-ostersunds-fk.vvxn0u5fpx | BLV Bịp Con
@@ -104,8 +102,8 @@ http://pk79.io.vn/daily/play.php?id=x8yptsc
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/VXzO21eowYYsiS3rI/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tân Tinh Võ Môn 1 (1991) Lồng Tiếng
 http://pk79.io.vn/daily/play.php?id=x8qy7sy
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80", 🔴 14/06 - 18:00 | Giải bóng đá Hạng nhất Trung Quốc | Shenzhen Juniors vs Guangxi Hengchen | BLV 7UP
-https://live05.msdht.app/live/78905744.m3u8
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80", 🔴 14/06 - 18:00 | Cúp Quốc gia | Phu Dong Ninh Binh vs Thành phố Hồ Chí Minh | BLV 247
+https://live05.msdht.app/live/90865415.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/a82e2bf321557e0dd1ab0c09df718a53.png!w80", 🔴 14/06 - 18:30 | Giải bóng đá Hạng nhất Trung Quốc | Nantong Zhiyun vs Yanbian Longding | BLV POCARI
 https://live05.msdht.app/live/19919577.m3u8
@@ -179,11 +177,11 @@ https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV Cozy
 https://live05.msdht.app/live/87379114.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV MOUNTAIN DEW
-https://live05.msdht.app/live/87547578.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV POCARI
 https://live05.msdht.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/4ceefb51ae9ec399a69540c895f4519f.png!w80", 🕒 15/06 - 06:00 | Giải vô địch bóng đá thế giới | Bờ Biển Ngà vs Ecuador | BLV MOUNTAIN DEW
+https://live05.msdht.app/live/87547578.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.colatv88xd.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80", 🕒 15/06 - 09:00 | Giải vô địch bóng đá thế giới | Thụy Điển vs Tunisia | BLV GIÀ LÀNG
 https://live05.msdht.app/live/14830711.m3u8
@@ -1800,14 +1798,6 @@ https://google.com
 
 #EXTINF:-1 tvg-logo="/vimages/345x194/01/1d/d8/8a/af/fc/01d8a-lckcupquocgia1920cb75jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/06/2026 17:55 | Ninh Bình vs Công an TPHCM Chung kết Cúp Quốc Gia 2026
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=459
-#EXTINF:-1 tvg-logo="/vimages/345x194/86/63/35/55/56/64/86355-lstpfoodfcvsnghiemphamholdingsv7s819201e7ejpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/06/2026 18:33 | STPFood FC vs Nghiêm Phạm Holdings Vòng 7 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=754
-#EXTINF:-1 tvg-logo="/vimages/345x194/ea/a8/8e/e0/02/2f/ea8e0-ldhnonglamtphcmvskubenv7s81920c0109jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/06/2026 18:33 | ĐH Nông Lâm TPHCM vs Ku Ben Vòng 7 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=447
-#EXTINF:-1 tvg-logo="/vimages/345x194/ab/b6/66/67/7d/d0/ab667-ltunganhvstigs1319200102ejpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/06/2026 18:35 | Tùng Anh vs TIG Vòng 6 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=267
-#EXTINF:-1 tvg-logo="/vimages/345x194/d8/86/64/44/49/93/d8644-ldainamfcvsvietphuongdongs1319209499jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/06/2026 18:35 | Đại Nam FC vs Việt Phương Đông Vòng 6 Giải Bóng đá 7 người VĐQG 2026 VPL-S7
-http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=349
 #EXTINF:-1 tvg-logo="/vimages/345x194/54/4f/f3/38/83/3b/54f38-lcasi2026tap41920df55jpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/06/2026 19:00 | Ca Sĩ 2026 - Tập 4 
 http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=449
 #EXTINF:-1 tvg-logo="/vimages/345x194/49/9b/b2/26/6a/a4/49b26-lmywc1410c2fjpg-content-mytv.jpg" group-title="MyTV Event", 🔴 14/06/2026 19:55 | Lịch Sử Được Thiết Lập - My World Cup Số 9
@@ -3551,6 +3541,10 @@ http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg", Thái Nguyên
 http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/66f314c41d4ac724515a03da0e70847e.png!w80" group-title="ColaTV",[18:00 14/06] Phu Dong Ninh Binh vs Thành phố Hồ Chí Minh - BLV BLV 247 (L1) Giải :Cúp Quốc gia
+https://live05.msdht.app/live/90865415.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/66f314c41d4ac724515a03da0e70847e.png!w80" group-title="ColaTV",[18:00 14/06] Phu Dong Ninh Binh vs Thành phố Hồ Chí Minh - BLV BLV 247 (L2) Giải :Cúp Quốc gia
+https://live05.msdht.app/live/90865415.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png!w80" group-title="ColaTV",[20:00 14/06] Ljungskile vs Ostersunds - BLV BLV SODA (L1) Giải :Giải hạng hai Thuỵ Điển
 https://live05.msdht.app/live/02456966.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png!w80" group-title="ColaTV",[20:00 14/06] Ljungskile vs Ostersunds - BLV BLV SODA (L2) Giải :Giải hạng hai Thuỵ Điển
@@ -3595,14 +3589,14 @@ https://live05.msdht.app/live/02456966.m3u8
 https://live05.msdht.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV Cozy (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/19919577.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/19919577.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.msdht.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 15/06] Bờ Biển Ngà vs Ecuador - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 15/06] Thụy Điển vs Tunisia - BLV BLV GIÀ LÀNG (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.msdht.app/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 15/06] Thụy Điển vs Tunisia - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
