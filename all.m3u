@@ -478,7 +478,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=72a9e1be1d94ad66207f1ac61bcf7681
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9904
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229355411/83a9c979634e_180_180.png", TV360 Livestream
@@ -585,8 +585,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv12
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png", SCTV13
 https://hoiquan.dpdns.org/VTVGo/?sctv13
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png", SCTV14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
+
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png", SCTV18
@@ -607,24 +606,24 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8573_1gragj29b02g.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F56667_1gqrk4a2nb2f.png", 🔴 16/06-18:00 | Perth RedStar vs Bayswater City | BLV LIO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=9296be19-29e3-4f5c-beaa-e21355c14566
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8573_1gragj29b02g.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F56667_1gqrk4a2nb2f.png", 🔴 16/06-18:00 | Perth RedStar vs Bayswater City | BLV GẤU KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=313949927
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8573_1gragj29b02g.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F56667_1gqrk4a2nb2f.png", 🔴 16/06-18:00 | Perth RedStar vs Bayswater City | BLV LIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=9296be19-29e3-4f5c-beaa-e21355c14566
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5066_1grwgcdw222y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16865_1hzxvn605es.png", 🔴 16/06-18:00 | Olympic Kingsway SC vs Fremantle City | BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=323949928
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5066_1grwgcdw222y.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16865_1hzxvn605es.png", 🔴 16/06-18:00 | Olympic Kingsway SC vs Fremantle City | BLV PELE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=87115889-8984-4430-b5ac-3bbdb996a390
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3100_20121220221843.gif&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3101_1gqc36amkr2t.png", 16/06-20:00 | Al-Mabarrah vs Tadamon Sour | BLV LEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=682d87f2-6f4e-4af0-a4be-36ae820750e9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3100_20121220221843.gif&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3101_1gqc36amkr2t.png", 16/06-20:00 | Al-Mabarrah vs Tadamon Sour | BLV FERNANDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=369832929
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3100_20121220221843.gif&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3101_1gqc36amkr2t.png", 16/06-20:00 | Al-Mabarrah vs Tadamon Sour | BLV LEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=682d87f2-6f4e-4af0-a4be-36ae820750e9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3102_1k62c88php10.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5800_1gq92pex2wr.png", 16/06-20:00 | Al-Hikma vs Al-Ahed | BLV TÔN LẬP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=349832927
@@ -646,63 +645,63 @@ https://khaitv.dpdns.org/luongson/list2.php?id=348313920
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3474_1jbqr7wgrk19.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2111_1jbqr7wg8e1j.png", 16/06-23:00 | FC Flora Tallinn vs Parnu JK Vaprus | BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=4b5908eb-46fb-468e-8f78-b4f5029903fc
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F823_1gt31t0a3yx.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F38515_1gytyf2rmj17.png", 16/06-23:00 | Spaeri FC vs Dila Gori | BLV LỮ BỐ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=388042923
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F823_1gt31t0a3yx.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F38515_1gytyf2rmj17.png", 16/06-23:00 | Spaeri FC vs Dila Gori | BLV LƯU BỊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=61453419-c262-4a15-9b68-0b86eb596c78
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15094_1ht90tbsec2s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F534_1h5e49xmg9e.png", 16/06-23:00 | FK Liepaja vs Grobina | BLV NGƯỜI THÉP
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F823_1gt31t0a3yx.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F38515_1gytyf2rmj17.png", 16/06-23:00 | Spaeri FC vs Dila Gori | BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=378604926
+https://khaitv.dpdns.org/luongson/list2.php?id=388042923
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15094_1ht90tbsec2s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F534_1h5e49xmg9e.png", 16/06-23:00 | FK Liepaja vs Grobina | BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=eb9df134-7663-45b1-8bf7-96a84b5e7023
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15094_1ht90tbsec2s.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F534_1h5e49xmg9e.png", 16/06-23:00 | FK Liepaja vs Grobina | BLV NGƯỜI THÉP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=378604926
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1991_1gqk9g9bnk27.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18873_1gq6j9e9y926.png", 16/06-23:30 | FK Panevezys vs FK Zalgiris Vilnius | BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=464849922
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1820_1h8t9wgp5f16.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F368_1h4yn3a5rr27.png", 17/06-00:00 | Helsingborg vs IFK Varnamo | BLV LIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=260641928
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F362_1h8fzp9swe28.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44315_1gqbph0sm313.png", 17/06-00:00 | Nordic United FC vs Landskrona BoIS | BLV DƯƠNG CHÍ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=200641922
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F362_1h8fzp9swe28.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44315_1gqbph0sm313.png", 17/06-00:00 | Nordic United FC vs Landskrona BoIS | BLV TÀO THÁO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=2c950390-fcca-4b7e-a4c2-e6c5d4022c48
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV KAKA
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F362_1h8fzp9swe28.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F44315_1gqbph0sm313.png", 17/06-00:00 | Nordic United FC vs Landskrona BoIS | BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=3846d8ed-59d7-4db4-938b-142a3a603e3a
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV LƯU BỊ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=3d4d5fb4-f1c0-4839-a1d4-85a7995072c5
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV LEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=c3674416-2f9a-410c-9b12-25de9fc62bbe
+https://khaitv.dpdns.org/luongson/list2.php?id=200641922
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV KEVILL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=372760923
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV LEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=c3674416-2f9a-410c-9b12-25de9fc62bbe
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV LƯU BỊ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=3d4d5fb4-f1c0-4839-a1d4-85a7995072c5
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV KAKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=3846d8ed-59d7-4db4-938b-142a3a603e3a
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV YẾN THANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=f6a787e5-2761-46e8-8644-0c71f3cf16e3
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F559_164983446440.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F706_165018850327.png", 17/06-02:00 | Senegal vs France | BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=1d658b7e-1b99-45df-9865-a284f534d76a
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3685_165363460165.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3422_165363440831.png", 17/06-02:15 | Breidablik vs Stjarnan Gardabaer | BLV HÀN TÍN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=327542921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3685_165363460165.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3422_165363440831.png", 17/06-02:15 | Breidablik vs Stjarnan Gardabaer | BLV QUAN VŨ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=c9c2b8a6-e36e-4e4b-8502-d27ce4749a00
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3685_165363460165.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3422_165363440831.png", 17/06-02:15 | Breidablik vs Stjarnan Gardabaer | BLV HÀN TÍN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=327542921
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1401_165363431223.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1932_165363454417.png", 17/06-02:15 | Valur Reykjavik vs IA Akranes | BLV PHI HỔ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=396542927
-#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1403_1k0jqr6cf82v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1402_165363447390.png", 17/06-02:15 | KR Reykjavik vs Vikingur Reykjavik | BLV LÃO HẠC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://khaitv.dpdns.org/luongson/list2.php?id=7536fcfc-42b1-4d73-8add-02189f9fc6c9
 #EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1403_1k0jqr6cf82v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1402_165363447390.png", 17/06-02:15 | KR Reykjavik vs Vikingur Reykjavik | BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://khaitv.dpdns.org/luongson/list2.php?id=347542923
+#EXTINF:-1 group-title="LSơn TV" tvg-logo="https://khaitv.dpdns.org/caheo/cover.php?m1=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1403_1k0jqr6cf82v.png&m2=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1402_165363447390.png", 17/06-02:15 | KR Reykjavik vs Vikingur Reykjavik | BLV LÃO HẠC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://khaitv.dpdns.org/luongson/list2.php?id=7536fcfc-42b1-4d73-8add-02189f9fc6c9
 
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển chọn dương cầm thư giãn cho ngày cuối tuần
 http://pk79.io.vn/myclip/play.php?id=12268714
@@ -1387,10 +1386,6 @@ https://khaitv.dpdns.org/fpt_cc/play1.php?id=vtv3-hd
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/09/slider-nam-bo_1780990648594.jpg" group-title="⭐Sự kiện FPT OTT",15/06 - 02:20 - Hà Lan - Nhật Bản: Bình luận giọng Nam Bộ
 https://khaitv.dpdns.org/fpt_cc/play1.php?id=vtv9-hd
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/EVfu2Rh5-lS2HNRv0.png",17:00 - 16.06 | Ngoại Hạng Ethiopia | Ethio Electric vs Mekelle 70 Enderta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/IgQUpfyB-EJJOKep2.png",19:30 - 16.06 | Ngoại Hạng Lebanon | Al-Ahed vs Al Hikma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1851,18 +1846,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=582342
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-16/06: BFC Daugavpils - Super Nova (LAT D1) - BLV RÔSI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=139384
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-16/06: Transinvest - FK Riteriai (LIT D1) - BLV LION
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-16/06: Transinvest - FK Riteriai (LIT D1) - KÉP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=560690
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-16/06: Transinvest - FK Riteriai (LIT D1) - BLV CHIVAS
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-16/06: Transinvest - FK Riteriai (LIT D1) - BLV PICK
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598549
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:30-16/06: Suduva - Siauliai (LIT D1) - XUÂN SON
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
