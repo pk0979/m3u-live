@@ -2797,10 +2797,6 @@ http://pk79.io.vn/thvli/play.php?id=thvl4
 #EXTINF:-1 tvg-id="THVL5HD" tvg-name="THVL5HD" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png" group-title="THVL",THVL5HD
 http://pk79.io.vn/thvli/play.php?id=thvl5
 
-#EXTINF:-1 group-title="Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/fb3dee9268781769314a3b8557b2da0f.png&m2=https://img.sports-data.online/football/team/cded7b7cce01069ad7d13ebf14a03723.png", 🔴 18/06-21:00 | Olympique Dcheira - AS FAR Rabat | The Botola Pro | BLV TRẠNG BÉO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/olympique-dcheira-vs-as-far-rabat-zp5rzghgewd1q82
-https://pk79.io.vn/tieulam/play.php?id=zp5rzghgewd1q82
 #EXTINF:-1 group-title="Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/UH0CqZdM-b1xaMyVe.png&m2=https://static.flashscore.com/res/image/data/Kfq8aDCr-xQxQqqtQ.png", 🔴 18/06-23:00 | Czechia - South Africa | FIFA World Cup | BLV TRẠNG TỒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/czechia-vs-south-africa-pxwrxlhy300xryk
@@ -2833,6 +2829,10 @@ https://pk79.io.vn/tieulam/play.php?id=y39mp1h60g0lmoj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/mexico-vs-south-korea-l5ergph48kj9r8k
 https://pk79.io.vn/tieulam/play.php?id=l5ergph48kj9r8k
+#EXTINF:-1 group-title="Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/Au0DMMCa-h2jzesb5.png&m2=https://static.flashscore.com/res/image/data/zTP55fFG-bL62vc24.png", 19/06-08:00 | Mexico - South Korea | FIFA World Cup | BLV TRẠNG TÈO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/mexico-vs-south-korea-0d3df5ca01074b21b28f2c4a731e1ef6
+https://pk79.io.vn/tieulam/play.php?id=0d3df5ca01074b21b28f2c4a731e1ef6
 
 
 
@@ -3356,7 +3356,7 @@ http://tpkhai.dpdns.org/skvtvprime/play.php?id=89c43288-fd89-49f6-bfc2-2d975489b
 http://tpkhai.dpdns.org/skvtvprime/play.php?id=254fa217-2825-4454-b390-2890948c4107
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/oTIdQkX-twHUNa76g911XXYcubG21i1DtDanrlf-ybg/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzBmNmRmZmVkLTQ2ZjAtNDU5OS05ZmY5LTEyMjA1NzM2ZjM3OC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",VTV9 50fps ▶️ LIVE 04:15 - CH Séc vs Nam Phi | Bình Luận Giọng Nam Bộ
 http://tpkhai.dpdns.org/skvtvprime/play.php?id=c49e0f1f-3b2d-42fd-bac1-93ecee8949e8
-#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/4n4NaHfo9SnQ8MTRx9Mv4Vb98XoaRDDIlFwZU_0uUxE/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzUxNzIwOGQ2LTVjYjYtNDRlMy05NzcyLTgyNmEyODlkZGI3OC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",KIX ⏰ 18/06-23:20 - Na Tra: Đường Đua Rực Lửa
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/4n4NaHfo9SnQ8MTRx9Mv4Vb98XoaRDDIlFwZU_0uUxE/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzUxNzIwOGQ2LTVjYjYtNDRlMy05NzcyLTgyNmEyODlkZGI3OC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",KIX ▶️ LIVE 01:10 - Na Tra: Đường Đua Rực Lửa
 http://tpkhai.dpdns.org/skvtvprime/play.php?id=532e9f9f-1e26-45ab-855f-23eb43ec0198
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/2dIyou2fuyQKvsLIMAhMa96xQNpK9QAj3e15CGpjONY/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzIzNzNlYzc2LWUzOWQtNGI5Ny1hMGMzLThjOGY4ZGQ5YTE1Zi5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",ON Football 50fps ⏰ 19/06-01:20 - Thuỵ Sĩ vs Bosnia & Herzegovina
 http://tpkhai.dpdns.org/skvtvprime/play.php?id=254fa217-2825-4454-b390-2890948c4107
