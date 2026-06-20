@@ -118,7 +118,7 @@ https://live05.apusport.com/live/90865415.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/56445b7fccea061fbee0ac71cbd53a83.png!w80", 🔴 20/06 - 22:00 | Giải Bóng đá Ngoại hạng Kazakhstan | Ordabasy vs Kaspij Aktau | BLV 7UP
 https://live05.apusport.com/live/78905744.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/8b355f026ef01a8bd444fc7148cce6ce.png!w80", 🔴 20/06 - 22:30 | Giải Bóng đá Ngoại hạng Belarus | FK Vitebsk vs Dinamo Brest | BLV MONSTER
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/8b355f026ef01a8bd444fc7148cce6ce.png!w80", 🕒 20/06 - 22:30 | Giải Bóng đá Ngoại hạng Belarus | FK Vitebsk vs Dinamo Brest | BLV MONSTER
 https://live05.apusport.com/live/75915087.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80", 🕒 21/06 - 00:00 | Giải vô địch bóng đá thế giới | Hà Lan vs Thụy Điển | BLV C2
@@ -241,11 +241,11 @@ https://live05.apusport.com/live/75915087.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80", 🕒 22/06 - 02:00 | Giải vô địch bóng đá thế giới | Bỉ vs Iran | BLV C2
 https://live05.apusport.com/live/08552895.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80", 🕒 22/06 - 02:00 | Giải vô địch bóng đá thế giới | Bỉ vs Iran | BLV 7UP
-https://live05.apusport.com/live/78905744.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80", 🕒 22/06 - 02:00 | Giải vô địch bóng đá thế giới | Bỉ vs Iran | BLV MOUNTAIN DEW
 https://live05.apusport.com/live/87547578.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80", 🕒 22/06 - 02:00 | Giải vô địch bóng đá thế giới | Bỉ vs Iran | BLV 7UP
+https://live05.apusport.com/live/78905744.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80", 🕒 22/06 - 02:00 | Giải vô địch bóng đá thế giới | Bỉ vs Iran | BLV COCA
 https://live05.apusport.com/live/24561735.m3u8
@@ -2314,6 +2314,15 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:30-21/06: Tartu JK Maag Tammeka - Trans Narva (EST D1) - TRÀ ĐÁ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-21/06: Okzhetpes - Tobol Kostanai (KAZ PR) - BLV LONG
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-21/06: Okzhetpes - Tobol Kostanai (KAZ PR) - CÔNG CHẤT
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-21/06: Okzhetpes - Tobol Kostanai (KAZ PR) - BLV KEM
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=513394
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-21/06: Slutsksakhar Slutsk - BATE-2 Borisov (BLR D1) - BLV THÓC
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=606448
