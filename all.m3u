@@ -17,6 +17,8 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/25.png", 🟡 21/06-03:00 | germany-vs-ivory-coast.zsxNxg5yN4 | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/392.png", 🟡 20/06-21:00 | shakhter-soligorsk-vs-ostrovets-fc.YcAK_z4YJh | BLV Bịp Con
+https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -1135,6 +1137,26 @@ https://pk79.io.vn/saoke/play.php?id=628aa8c898df1e7f664cc579
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://pk79.io.vn/saoke/play.php?id=6189746d36583012526ee1ed
+
+#EXTINF:-1 group-title="⚽ Sao Kê TV" tvg-logo="https://static-sk-vnd.mediastation.live/template/public/icon/favicon.png",🟢 | 21/06-18:00 | Suzhou Dongwu - Yunnan Yukun | FIFA World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://pk79.io.vn/saoke/play.php?id=6a368a389414fd2257a3387e
+
+#EXTINF:-1 group-title="⚽ Sao Kê TV" tvg-logo="https://static-sk-vnd.mediastation.live/template/public/icon/favicon.png",🟢 | 21/06-18:00 | SK Super Nova - Auda | FIFA World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://pk79.io.vn/saoke/play.php?id=6a368a629414fd2257a33880
+
+#EXTINF:-1 group-title="⚽ Sao Kê TV" tvg-logo="https://static-sk-vnd.mediastation.live/template/public/icon/favicon.png",🟢 | 21/06-20:00 | FC Minsk - Maxline Vitebsk | FIFA World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://pk79.io.vn/saoke/play.php?id=6a368a629414fd2257a33881
+
+#EXTINF:-1 group-title="⚽ Sao Kê TV" tvg-logo="https://static-sk-vnd.mediastation.live/template/public/icon/favicon.png",🟢 | 21/06-21:00 | Avai FC - Cuiaba | FIFA World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://pk79.io.vn/saoke/play.php?id=6a368a799414fd2257a33883
 
 #EXTINF:-1 group-title="⚽ Sao Kê TV" tvg-logo="https://static-sk-vnd.mediastation.live/template/public/icon/favicon.png",🟢 | 21/06-23:00 | Spain - Saudi Arabia | FIFA World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
