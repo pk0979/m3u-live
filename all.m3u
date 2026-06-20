@@ -3,10 +3,8 @@
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/25839.png", 🔴 20/06-19:00 | chengdu-rongcheng-ii-vs-yichun-grand-tiger.eRHoOp2G7S | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/4149.png", 🟡 20/06-20:00 | bfc-daugavpils-vs-grobina.sVGja622wd | BLV Thợ Lặn
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/692.png", 🟡 20/06-22:00 | ordabasy-vs-kaspiy.B7DROJ4JzM | BLV Bịp Con
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/692.png", 🟡 20/06-22:00 | ordabasy-vs-kaspiy.XmRoneR3oy | BLV Rồng Đất
+https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 🟡 21/06-00:00 | netherlands-vs-sweden.L8oZeI0WRb | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png", 🟡 21/06-00:00 | netherlands-vs-sweden.gsTBwOrEFG | BLV Bịp Con
@@ -1440,6 +1438,8 @@ http://pk79.io.vn/tv360/play.php?id=3
 
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260620/2026062018/0x0Gqej72a-jPRpOCJgg87.webp" group-title="⭐ Sự kiện WC VTVGo",[20:00-20/06] LIVESTREAM Tin tức 20h 20/6/2026
 https://pk79.io.vn/vtvgo/play.php?id=IAYNrqn0Jm
+#EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260620/2026062019/4EdJibupKP-caCxbwaxvgR.webp" group-title="⭐ Sự kiện WC VTVGo",[20:00-20/06] Chung kết Hoa hậu Di sản Áo dài Việt Nam toàn cầu 2026
+https://pk79.io.vn/vtvgo/play.php?id=j71K4texpw
 
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-20/06: Wuxi Wugo - Qingdao Hainiu (CHA FACup) - BLV ANH TÀI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
