@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png", 🟡 22/06-05:00 | uruguay-vs-cape-verde-islands.H4t7luY651 | BLV Rồng Đất
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png", 🔴 22/06-05:00 | uruguay-vs-cape-verde-islands.H4t7luY651 | BLV Rồng Đất
 https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png", 🟡 22/06-05:00 | uruguay-vs-cape-verde-islands.JWapRlHrRg | BLV Quan Vũ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
@@ -1322,8 +1322,6 @@ http://...../mytv/getabc.php?id=425
 #EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://...../mytv/getabc.php?id=96
 
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/16/17/1781604230846/f2110312bb20_640_360.jpg", 22/06-02:00 | Bỉ vs Iran, Kênh VTV3
-http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/16/17/178160475581/f63b08e959b4_640_360.jpg", 22/06-05:00 | Uruguay vs Cape Verde, Kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/16/17/178160496396/2d299e1186cd_640_360.jpg", 22/06-08:00 | New Zealand vs Ai Cập, Kênh VTV3
@@ -1370,6 +1368,8 @@ http://pk79.io.vn/tv360/play.php?id=3
 http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/19/09/1781835989325/c9dd4d99d476_640_360.jpg", 27/06-02:00 | Senegal vs Iraq, Kênh VTV2
 http://pk79.io.vn/tv360/play.php?id=3
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/19/09/1781836114374/2c4a49cfb8da_640_360.jpg", 27/06-02:00 | Na Uy vs Pháp, Kênh VTV3
+http://pk79.io.vn/tv360/play.php?id=4
 
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260621/2026062117/8CVPKlEsc4-LHddZOc-Aj4.webp" group-title="⭐ Sự kiện WC VTVGo",[03:57-22/06] Trực tiếp Uruguay vs Cape Verde | Bảng H FIFA World Cup 2026™ | Kênh chính thức
 https://pk79.io.vn/vtvgo/play.php?id=13_nb
@@ -2091,6 +2091,24 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=532081
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-23/06: KuPs - Ilves Tampere (FIN D1) - BLV BÉO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=459401
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-23/06: Lahti - TPS Turku (FIN D1) - BLV ANH TÀI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-23/06: Lahti - TPS Turku (FIN D1) - BLV LUCAS
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=304148
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-23/06: Lahti - TPS Turku (FIN D1) - BLV XO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=472241
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-23/06: Lahti - TPS Turku (FIN D1) - BLV A TINH
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=598119
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-23/06: Vaasa VPS - AC Oulu (FIN D1) - BLV THÓC
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=606448
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 22:00-23/06: Vaasa VPS - AC Oulu (FIN D1) - BLV CÁP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=610677
 
 #EXTINF:-1 tvg-id="Now Sport EPL 1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_1920_1080" group-title="Sports-NHA",Now Sport EPL 1
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
@@ -3135,6 +3153,10 @@ http://media.mediatech.vn:1935/tntvlive/tnra/chunklist.m3u8
 https://live05.apusport.com/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV BÍ ĐAO (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.apusport.com/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV PEPSI (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/43612277.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV PEPSI (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.apusport.com/live/43612277.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV SPRITE (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.apusport.com/live/90725470.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[05:00 22/06] Uruguay vs Cape Verde - BLV BLV SPRITE (L2) Giải :Giải vô địch bóng đá thế giới
