@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png", 🔴 23/06-00:00 | argentina-vs-austria.NxI1EheQb7 | BLV Tam Mao
-https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png", 🔴 23/06-00:00 | argentina-vs-austria.LxAEACZmqr | BLV Thợ Lặn
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png", 🔴 23/06-00:00 | argentina-vs-austria.wJUqqNgigP | BLV Bịp Con
-https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2.png", 🟡 23/06-04:00 | france-vs-iraq.YTHP8JMXyo | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2.png", 🟡 23/06-04:00 | france-vs-iraq.AYsxOpVcbY | BLV Thợ Lặn
@@ -306,12 +300,6 @@ https://live05.apusport.com/live/78905744.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/e450729cae3ba8210e9a08134b9258a1.png!w80", 🕒 24/06 - 23:00 | Giải Vô địch Quốc gia Georgia | Gagra vs Samgurali | BLV ROCKSTAR
 https://live05.apusport.com/live/82054853.m3u8
 
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png", 🔴 23/06/2026 00:00 | World Cup ( Râu Con )  | Argentina vs Austria | BLV LƯƠNG BỔNG
-http://pk79.io.vn/hoiquanlive/play.php?id=1489399
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png", 🔴 23/06/2026 00:00 | World Cup | Argentina vs Austria | BLV PHAN MÃ
-http://pk79.io.vn/hoiquanlive/play.php?id=1489399
-#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png", 🔴 23/06/2026 00:00 | World Cup | Argentina vs Austria | BLV PHAN CHỚP
-http://pk79.io.vn/hoiquanlive/play.php?id=1489399
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/652.png", 🔴 23/06/2026 02:00 | Premier Division | Shamrock Rovers vs Derry City | BLV TÁO GIÀ
 http://pk79.io.vn/hoiquanlive/play.php?id=1492737
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2.png", 23/06/2026 04:00 | World Cup | France vs Iraq | BLV PHAN MÃ
@@ -576,12 +564,12 @@ http://pk79.io.vn/luongson/play.php?id=447789926
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4221_1gq16mdyzsj.png", 🔴 23/06-00:45 | Al-Arabi Club (KUW) vs Al Kuwait SC | BLV BLV TRIỆU TỬ LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=512458ce-7106-46f3-98d9-b3d9c3f20578
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/281_1grd5f04es2w.png", 🔴 23/06-01:45 | Bohemians vs Shelbourne | BLV BLV LÝ ỨNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=8c940a5d-fc15-4f64-9398-51149658053f
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/281_1grd5f04es2w.png", 🔴 23/06-01:45 | Bohemians vs Shelbourne | BLV BLV FERNANDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=217341927
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/281_1grd5f04es2w.png", 🔴 23/06-01:45 | Bohemians vs Shelbourne | BLV BLV LÝ ỨNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=8c940a5d-fc15-4f64-9398-51149658053f
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/3087_1gqgp6phbs22.png", 🔴 23/06-01:45 | Kazma vs Al-Qadsia SC | BLV BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=457789927
@@ -594,72 +582,72 @@ http://pk79.io.vn/luongson/play.php?id=227341928
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/164_165958084230.png", 🔴 23/06-02:00 | Derry City vs Shamrock Rovers | BLV BLV MAYBACH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=8ac57a9b-9831-4cde-bf16-dc6a595244c5
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/11558_1gyxq7jtkt9.png", 23/06-02:15 | Fram Reykjavik  (W) vs Stjarnan Gardabaer (W) | BLV BLV TÀO THÁO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=319642923
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/11558_1gyxq7jtkt9.png", 23/06-02:15 | Fram Reykjavik  (W) vs Stjarnan Gardabaer (W) | BLV BLV HEINEKEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=22f6fad8-dbed-4f57-b3fb-45219d0db012
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/11558_1gyxq7jtkt9.png", 23/06-02:15 | Fram Reykjavik  (W) vs Stjarnan Gardabaer (W) | BLV BLV TÀO THÁO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=319642923
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15079_1jr9hz2gkyh.png", 23/06-03:15 | Molinos El Pirata vs Atletico Grau | BLV BLV PHI HỔ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=463869923
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15079_1jr9hz2gkyh.png", 23/06-03:15 | Molinos El Pirata vs Atletico Grau | BLV BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=1c61003d-a178-4c68-8c4e-71ffe0df97ce
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV LƯU BỊ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=4f84d666-9b96-4ce8-9c91-50c07d349f5a
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV KEVILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=395370925
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV MÃ SIÊU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=9bf25629-f9c3-4a30-8b7a-c806c4cf7139
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV TRIỆU TỬ LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=7cec173b-7f71-442d-8d1c-c8e3fb288c8a
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV KEVILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=395370925
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV LƯU BỊ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=4f84d666-9b96-4ce8-9c91-50c07d349f5a
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=a865da30-f9fb-49a4-9ad9-7ebf29c32a25
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=490fae25-24fa-4d40-a905-d70f655c6f1c
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 23/06-04:00 | Iraq vs France | BLV BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=7cec173b-7f71-442d-8d1c-c8e3fb288c8a
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=d9ea62bb-429f-4c17-bcc3-c7422011d339
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV TÂY MÔN KHÁNH
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV YẾN THANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=e8e42177-a45a-4f6d-ae91-d9727ab3f840
+http://pk79.io.vn/luongson/play.php?id=b3537fe9-5996-4502-b771-766ed54bb442
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV FERNANDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=376960929
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV VÕ TÒNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=d7a30557-4964-4f53-af8c-c4f3c1b40208
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV TRIỆU TỬ LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=dad4d737-128a-4840-aee8-4209cdf0e1e8
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV FERNANDO
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV TÂY MÔN KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=376960929
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/551_164983671192.png", 23/06-07:00 | Senegal vs Norway | BLV BLV YẾN THANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=b3537fe9-5996-4502-b771-766ed54bb442
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV LÝ ỨNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=68527473-3cf2-4cae-bb5c-38904b20eda0
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV VƯƠNG LUÂN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=383fda3f-c9c2-494d-bfad-d4ee917a54be
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV VÕ TÒNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=1b55b6dc-9207-43db-8aa8-8bb641882635
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV PELE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=307960923
+http://pk79.io.vn/luongson/play.php?id=e8e42177-a45a-4f6d-ae91-d9727ab3f840
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV TÂY MÔN KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=42a6ef43-80ba-46e7-9523-a1bf1094eb1e
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV FERNANDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=121b558d-b0fa-4349-a536-6c8dc1290a77
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV PELE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=307960923
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV LÝ ỨNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=68527473-3cf2-4cae-bb5c-38904b20eda0
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV VÕ TÒNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=1b55b6dc-9207-43db-8aa8-8bb641882635
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/766_165018997867.png", 23/06-10:00 | Algeria vs Jordan | BLV BLV VƯƠNG LUÂN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=383fda3f-c9c2-494d-bfad-d4ee917a54be
 
 
 
@@ -802,10 +790,6 @@ https://khaitv.dpdns.org/fpt_cc/play1.php?id=vtv3-hd
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/09/slider-nam-bo_1780990648594.jpg" group-title="⭐Sự kiện FPT OTT",15/06 - 02:20 - Hà Lan - Nhật Bản: Bình luận giọng Nam Bộ
 https://khaitv.dpdns.org/fpt_cc/play1.php?id=vtv9-hd
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",🔴 00:00 - 23.06 | World Cup Grp. J | Argentina vs Austria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://edgemaxcdn-1.bongco50.xyz/live/chi-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",04:00 - 23.06 | World Cup Grp. I | France vs Iraq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1264,12 +1248,8 @@ https://pk79.io.vn/vtvgo/play.php?id=13_nb
 https://pk79.io.vn/vtvgo/play.php?id=39_nb
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062218/cRHkTqyvJV-Phr5n3Pz75h.webp" group-title="⭐ Sự kiện WC VTVGo",[02:01-23/06] Trực tiếp Pháp vs Iraq | Bảng I FIFA World Cup 2026™ | Bình luận cảm xúc
 https://pk79.io.vn/vtvgo/play.php?id=wc-camxuc
-#EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062218/0B4LGDaERD-E2Y7nlTDYFX.webp" group-title="⭐ Sự kiện WC VTVGo",[02:01-23/06] Trực tiếp Pháp vs Iraq | Bảng I FIFA World Cup 2026™ | Tín hiệu nguyên bản
+#EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062218/SDbleGb3WU-021CuKaBDD-.webp" group-title="⭐ Sự kiện WC VTVGo",[02:02-23/06] Live France vs Iraq | Group I - FIFA World Cup 2026™ | English Commentary
 https://pk79.io.vn/vtvgo/play.php?id=wcfifa
-#EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062218/upKCIA6NTF-PVls36ELD3A.webp" group-title="⭐ Sự kiện WC VTVGo",[22:58-22/06] Live Argentina vs Austria | Group J - FIFA World Cup 2026™ | English Commentary
-https://pk79.io.vn/vtvgo/play.php?id=wcfifaen
-#EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062218/SDbleGb3WU-021CuKaBDD-.webp" group-title="⭐ Sự kiện WC VTVGo",[04:00-23/06] Live France vs Iraq | Group I - FIFA World Cup 2026™ | English Commentary
-https://pk79.io.vn/vtvgo/play.php?id=RrQxRXkmzq
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062219/eZSlXrXpUa-4iZ7p-s1qzS.webp" group-title="⭐ Sự kiện WC VTVGo",[07:00-23/06] Trực tiếp Na Uy vs Senegal | Bảng I FIFA World Cup 2026™ | Kênh chính thức
 https://pk79.io.vn/vtvgo/play.php?id=JPgszSuL4b
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062219/dRRyOlVkAA-op6ZoUOTA3L.webp" group-title="⭐ Sự kiện WC VTVGo",[07:00-23/06] Trực tiếp Na Uy vs Senegal | Bảng I FIFA World Cup 2026™ | Kênh giọng Nam Bộ
@@ -1291,12 +1271,6 @@ https://pk79.io.vn/vtvgo/play.php?id=PTC30fSYeU
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062219/iLWi1faZST-P_doAB6qVh8.webp" group-title="⭐ Sự kiện WC VTVGo",[10:00-23/06] Live Jordan vs Algeria | Group J - FIFA World Cup 2026™ | English Commentary
 https://pk79.io.vn/vtvgo/play.php?id=X6T6tLYGX9
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:05-23/06: Orebro - Sandvikens IF (SWE D2) - XUÂN SON
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:05-23/06: Orebro - Sandvikens IF (SWE D2) - BLV PICK
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=598549
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 00:45-23/06: Al Kuwait SC - Al-Arabi Club (KUW) (KUW D1) - BLV ANH TÀI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
@@ -3101,24 +3075,6 @@ https://live05.apusport.com/live/90865415.m3u8
 https://live05.apusport.com/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/b6025970c665a7640122d6b3d156b0b8.png!w80" group-title="ColaTV",[18:30 24/06] Yichun Grand Tiger vs Wuhan Three Towns B - BLV BLV 247 (L2) Giải :Giải bóng đá Hạng hai Trung Quốc
 https://live05.apusport.com/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV LƯƠNG BỔNG (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV LƯƠNG BỔNG (HD)
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV LƯƠNG BỔNG (SD)
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV PHAN MÃ (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV PHAN MÃ (HD)
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV PHAN MÃ (SD)
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV PHAN CHỚP (FHD)
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV PHAN CHỚP (HD)
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV",[00:00 23/06] Argentina vs Austria - BLV PHAN CHỚP (SD)
-https://alive.yarncdn.live/hqtv_blv_phanchoptracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" group-title="Hội Quán TV",[07:00 23/06]  Norway vs Senegal - BLV PHAN MÃ (FHD)
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" group-title="Hội Quán TV",[07:00 23/06]  Norway vs Senegal - BLV PHAN MÃ (HD)
