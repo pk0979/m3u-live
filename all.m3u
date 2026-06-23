@@ -149,11 +149,11 @@ https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80", 🕒 24/06 - 09:00 | Giải vô địch bóng đá thế giới | Colombia vs D.R. Congo | BLV Cozy
 https://live05.meung.app/live/87379114.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80", 🕒 24/06 - 09:00 | Giải vô địch bóng đá thế giới | Colombia vs D.R. Congo | BLV SPRITE
-https://live05.meung.app/live/75748097.m3u8
-
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80", 🕒 24/06 - 09:00 | Giải vô địch bóng đá thế giới | Colombia vs D.R. Congo | BLV POCARI
 https://live05.meung.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/13844d01d85a85bed47338e396b2aa3d.png!w80", 🕒 24/06 - 09:00 | Giải vô địch bóng đá thế giới | Colombia vs D.R. Congo | BLV SPRITE
+https://live05.meung.app/live/75748097.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80", 🕒 24/06 - 14:00 | Giải Quốc Gia Bóng Rổ New Zealand | Tauranga Whai vs Southland Sharks | BLV 247
 https://live05.meung.app/live/90865415.m3u8
@@ -311,7 +311,7 @@ http://pk79.io.vn/hoiquanlive/play.php?id=1489404
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/27.png", 🔴 24/06/2026 00:00 | World CupW ( FAN ANH BẢY ) | Portugal vs Uzbekistan | BLV PHAN QUẨY
 http://pk79.io.vn/hoiquanlive/play.php?id=1489404
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/2330.png", 🔴 24/06/2026 02:00 | Copa Chile | Coquimbo Unido vs Deportes Limache | BLV TÁO GIÀ
-https://google.com.vn
+http://pk79.io.vn/hoiquanlive/play.php?id=1544422
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/10.png", 24/06/2026 03:00 | World Cup | England vs Ghana | BLV THẦN THÔNG
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/10.png", 24/06/2026 03:00 | World Cup | England vs Ghana | BLV PHAN MÃ
@@ -1443,6 +1443,21 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=501412
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 07:30-24/06: Palestino - Audax Italiano (CHI Cup) - BLV RAMBO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=534055
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:00-24/06: Colombia - Democratic Republic of the Congo (WORLD CUP) - TẠ BIÊN GIỚI
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=118206
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:00-24/06: Colombia - Democratic Republic of the Congo (WORLD CUP) - THẠCH TÚ
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=344370
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:00-24/06: Colombia - Democratic Republic of the Congo (WORLD CUP) - BLV TAP
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=147801
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:00-24/06: Colombia - Democratic Republic of the Congo (WORLD CUP) - DECO
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=168740
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:00-24/06: Colombia - Democratic Republic of the Congo (WORLD CUP) - RICKHANTER
+#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
+https://vpsttt.vietanhtv.top/socolive/get.php?id=123226
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 09:00-24/06: Colombia - Democratic Republic of the Congo (WORLD CUP) - BLV COCA
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=327159
@@ -3093,14 +3108,14 @@ https://live05.meung.app/live/78905744.m3u8
 https://live05.meung.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 24/06] Colombia vs D.R. Congo - BLV BLV Cozy (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 24/06] Colombia vs D.R. Congo - BLV BLV SPRITE (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 24/06] Colombia vs D.R. Congo - BLV BLV SPRITE (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 24/06] Colombia vs D.R. Congo - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/19919577.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 24/06] Colombia vs D.R. Congo - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/19919577.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 24/06] Colombia vs D.R. Congo - BLV BLV SPRITE (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/75748097.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 24/06] Colombia vs D.R. Congo - BLV BLV SPRITE (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="ColaTV",[14:00 24/06] Tauranga Whai vs Southland Sharks - BLV BLV 247 (L1) Giải :Giải Quốc Gia Bóng Rổ New Zealand
 https://live05.meung.app/live/90865415.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png!w80" group-title="ColaTV",[14:00 24/06] Tauranga Whai vs Southland Sharks - BLV BLV 247 (L2) Giải :Giải Quốc Gia Bóng Rổ New Zealand
