@@ -21,6 +21,8 @@ https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://img0.aiscore.com/football/team/e4f191ddee95b37b08ab1fe9ac086ab3.png!w60", 🟡 25/06-16:00 | darwin-hearts-vs-port-darwin-fc.KHqGwv7ylE | BLV Hàn Tín
 https://xclive.yarncdn.live/live/xctv_blv_hantin/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png", 🟡 25/06-08:00 | south-africa-vs-south-korea.SS4Zp_sTqO | BLV Quan Vũ
+https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
 http://pk79.io.vn/daily/play.php?id=x8pd2nv
@@ -81,9 +83,6 @@ http://pk79.io.vn/daily/play.php?id=x8yptsc
 
 #EXTINF:-1 tvg-logo="https://s1.dmcdn.net/v/VXzO21eowYYsiS3rI/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tân Tinh Võ Môn 1 (1991) Lồng Tiếng
 http://pk79.io.vn/daily/play.php?id=x8qy7sy
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80", 🔴 24/06 - 14:00 | Giải bóng đá Hạng hai Trung Quốc | Shanxi Chongde Ronghai vs Taian Tiankuang | BLV POCARI
-https://live05.meung.app/live/19919577.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80", 🔴 24/06 - 14:00 | Giải Quốc Gia Bóng Rổ New Zealand | Tauranga Whai vs Southland Sharks | BLV 247
 https://live05.meung.app/live/90865415.m3u8
@@ -774,30 +773,7 @@ http://pk79.io.vn/luongson/play.php?id=875ff4e8-bd50-48f9-81c5-e2f5a430cb10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=ca2d857c-f757-4bcc-bcac-cb6282f33a8a
 
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Playlist nhạc piano không lời giúp tập trung làm việc
-http://pk79.io.vn/myclip/play.php?id=12276988
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nét Mực Màu Thời Gian_Sơn Hạ
-http://pk79.io.vn/myclip/play.php?id=11815190
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức thư anh chưa gửi_Quốc Cường ft The Men
-http://pk79.io.vn/myclip/play.php?id=11815133
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời nhẹ nhàng cho một ngày chậm lại
-http://pk79.io.vn/myclip/play.php?id=12277036
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xa Nhà_Duy Minh
-http://pk79.io.vn/myclip/play.php?id=11815202
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Kiếp Nhân Sinh - Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=11674568
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Playlist nhạc không lời khi bạn muốn ở một mình
-http://pk79.io.vn/myclip/play.php?id=12277129
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Thằng Em Tôi_Phi Bằng Ft Thiên Quang
-http://pk79.io.vn/myclip/play.php?id=11930902
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Vó Ngựa Trên Đồi Cỏ Non (Remix)_Kim Ny Ngọc Ft Lương Gia Huy
-http://pk79.io.vn/myclip/play.php?id=11930968
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu piano dịu mát cho buổi sáng trong veo
-http://pk79.io.vn/myclip/play.php?id=12273484
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đám Cưới Người Ta_Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=11874191
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Nơi Làng Quê_Hiền Ngân Ft Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11930935
+
 
 #EXTINF:-1 group-title="🎧  Nhạc" tvg-logo="https://s2.dmcdn.net/v/ZRS7S1f6TQDJUHCEQ/x180", Nhạc|(119) Rượu Quán Nghèo - NS Linh Trúc - Trường Sơn AT - YouTube
 http://pk79.io.vn/daily/play.php?id=x9tvyl8
@@ -938,14 +914,14 @@ https://khaitv.dpdns.org/fpt_cc/play1.php?id=vtv3-hd
 #EXTINF:-1 tvg-logo="https://images.fptplay53.net/media/home_event/OTT_BAK/2026/06/09/slider-nam-bo_1780990648594.jpg" group-title="⭐Sự kiện FPT OTT",15/06 - 02:20 - Hà Lan - Nhật Bản: Bình luận giọng Nam Bộ
 https://khaitv.dpdns.org/fpt_cc/play1.php?id=vtv9-hd
 
-#EXTINF:-1 group-title="Rung90" tvg-logo="https://img0.aiscore.com/football/team/6e3979c6bcb3fff8714f9d82fc822b91.png!w60",🔴 14:00 - 24.06 | China League Two | Xi'an Ronghai FC vs  Tai'an Tiankuang
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://img0.aiscore.com/football/team/6e3979c6bcb3fff8714f9d82fc822b91.png!w60",14:00 - 24.06 | China League Two | Xi'an Ronghai FC vs  Tai'an Tiankuang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://edgemaxcdn-1.bongco50.xyz/live/4lu-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://img0.aiscore.com/football/team/b196a9a7e627dc15cfa96268035c454e.png!w60",🔴 16:00 - 24.06 | Vietnam Women's National League | Hà Nội vs Ho Chi Minh City II
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://google.com
+https://edgemaxcdn-1.bongco50.xyz/live/than-sd/playlist.m3u8
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/jVL0AvXg-Y1FjmvEf.png",17:00 - 24.06 | NPL Men's NSW | Charlestown Azzurri vs  Cooks Hill United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1314,42 +1290,6 @@ http://pk79.io.vn/tv360/play360.php?id=onsportnews
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260622/2026062214/xbIzcltJgb-cuTp0XTyENb.webp" group-title="⭐ Sự kiện WC VTVGo",[11:30-24/06] LIVESTREAM: Vai trò thuốc thế hệ mới điều trị ung thư vú
 https://pk79.io.vn/vtvgo/play.php?id=WRHgSY2Fyh
 
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-24/06: Shanxi Chongde Ronghai - Tai'an Tiankuang (CHA D2) - SAO LA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=462413
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-24/06: Shanxi Chongde Ronghai - Tai'an Tiankuang (CHA D2) - LÃO LÂM
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=527384
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-24/06: Shanxi Chongde Ronghai - Tai'an Tiankuang (CHA D2) - A BỆU
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-24/06: Shanxi Chongde Ronghai - Tai'an Tiankuang (CHA D2) - BLV TOMIA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-24/06: Shanxi Chongde Ronghai - Tai'an Tiankuang (CHA D2) - VƯƠNG ANH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=548860
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 14:00-24/06: Shanxi Chongde Ronghai - Tai'an Tiankuang (CHA D2) - BLV FIREMAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=250874
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-24/06: Tauranga Whai - Southland Sharks (NZBL) - KING
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=168964
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-24/06: Tauranga Whai - Southland Sharks (NZBL) - BRIAN
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=122591
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-24/06: Tauranga Whai - Southland Sharks (NZBL) - CHAN SENA
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=515530
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-24/06: Tauranga Whai - Southland Sharks (NZBL) - BLV HENRY
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=428392
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-24/06: Tauranga Whai - Southland Sharks (NZBL) - A CHÈ
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=356042
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/default/202202/11/f3ca56f46baa72406815281470283bb8", 14:00-24/06: Tauranga Whai - Southland Sharks (NZBL) - HUNTER
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=558264
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 15:00-24/06: Deren FC - Central Stallions (MGL D1) - CHÍ PHÈO
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=273736
@@ -1404,9 +1344,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=291277
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-24/06: Charleston City Blues - Cooks Hill United (AUS NNSW) - TRÀ ĐÁ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603914
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-24/06: Charleston City Blues - Cooks Hill United (AUS NNSW) - A BỆU
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=484845
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 17:00-24/06: Charleston City Blues - Cooks Hill United (AUS NNSW) - BLV TOMIA
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=187579
@@ -2103,8 +2040,8 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-name="Arena of Valor Premier League 2026: Vòng Swiss - Ngày 24/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/24_1782144125660.jpg" group-title="⭐ Sự kiện FPT", 🔴 24/06 13:00 | Arena of Valor Premier League 2026: Vòng Swiss - Ngày 24/6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-name="Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/25_1782144295419.jpg" group-title="⭐ Sự kiện FPT", 🕒 25/06 13:00 | Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-name="Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/25_1782144295419.jpg" group-title="⭐ Sự kiện FPT", 🕒 25/06 13:00 | Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6 [BACKUP]
+http://is.am/62sv
 
 #EXTINF:-1 tvg-id="THVL1HD" tvg-name="THVL1HD" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/09/12/pbe9c6gh_button_thvl1.png" group-title="THVL",THVL1HD
 http://pk79.io.vn/thvli/play.php?id=thvl1
@@ -2720,7 +2657,7 @@ https://pk79.io.vn/vtvprime/play.php?id=onsportnews
 https://pk79.io.vn/vtvprime/play.php?id=vtv6pr
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/6IaQBwxz9TQBbPGQ814K3oOIFT3FwlnraEnWPkozs3s/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzAxNDM1OTNjLTQ5MmItNDM0Yi04OTkzLTk5YTI3NWQxOTdhMC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",Box Movie 1 HD ▶️ LIVE 16:42 - Ăn, Cầu Nguyện Và Yêu
 https://pk79.io.vn/vtvprime/play.php?id=boxmovie
-#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/yr0vCzO8L4W_xsfoYJGGP3XNBHgcPkcfPQXkJkpAZyw/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2M3MjkzYmVjLWJhMTQtNGRmYy1hOGMxLWM5NzgxNGVkYWVhNC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",ON Football 50fps ⏰ 24/06-15:55 - Hà Nội I vs TP. Hồ Chí Minh
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/yr0vCzO8L4W_xsfoYJGGP3XNBHgcPkcfPQXkJkpAZyw/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2M3MjkzYmVjLWJhMTQtNGRmYy1hOGMxLWM5NzgxNGVkYWVhNC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",ON Football 50fps ▶️ LIVE 18:07 - Hà Nội I vs TP. Hồ Chí Minh
 https://pk79.io.vn/vtvprime/play.php?id=onfootball
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/bIYZgY9z01FRExzLT8jc-7WKbrN9weQxv65HRb5zDIo/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2U2Njk2ZWFmLTRhZjEtNDlkNC1hOGEzLTMxMTMwM2I5MzFhYy5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",HTV7 ⏰ 24/06-16:45 - Lưu Thủy Điều Điều - Tập 8
 https://pk79.io.vn/vtvprime/play.php?id=htv7
@@ -3232,14 +3169,14 @@ https://live05.meung.app/live/87379114.m3u8
 https://live05.meung.app/live/24561735.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[03:00 26/06] Ecuador vs Đức - BLV BLV COCA (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[03:00 26/06] Ecuador vs Đức - BLV BLV 7UP (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[03:00 26/06] Ecuador vs Đức - BLV BLV 7UP (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[03:00 26/06] Ecuador vs Đức - BLV BLV C2 (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/08552895.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[03:00 26/06] Ecuador vs Đức - BLV BLV C2 (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[03:00 26/06] Ecuador vs Đức - BLV BLV 7UP (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/78905744.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[03:00 26/06] Ecuador vs Đức - BLV BLV 7UP (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 26/06] Tunisia vs ĐTQG Hà Lan - BLV BLV MOUNTAIN DEW (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[06:00 26/06] Tunisia vs ĐTQG Hà Lan - BLV BLV MOUNTAIN DEW (L2) Giải :Giải vô địch bóng đá thế giới
@@ -3280,14 +3217,14 @@ https://live05.meung.app/live/75748097.m3u8
 https://live05.meung.app/live/78905744.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 26/06] Paraguay vs ĐTQG Úc - BLV BLV 7UP (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 26/06] Paraguay vs ĐTQG Úc - BLV BLV BÍ ĐAO (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 26/06] Paraguay vs ĐTQG Úc - BLV BLV BÍ ĐAO (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 26/06] Paraguay vs ĐTQG Úc - BLV BLV POCARI (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/19919577.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 26/06] Paraguay vs ĐTQG Úc - BLV BLV POCARI (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/19919577.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 26/06] Paraguay vs ĐTQG Úc - BLV BLV BÍ ĐAO (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/99121525.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 26/06] Paraguay vs ĐTQG Úc - BLV BLV BÍ ĐAO (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/21df239119fe6638a523365947a2cfb2.png!w80" group-title="ColaTV",[16:30 26/06] CLB Sydney(Youth) vs Sydney Utd - BLV BLV SODA (L1) Giải :Giải bóng đá Hạng nhất New South Wales của Úc
 https://live05.meung.app/live/02456966.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/21df239119fe6638a523365947a2cfb2.png!w80" group-title="ColaTV",[16:30 26/06] CLB Sydney(Youth) vs Sydney Utd - BLV BLV SODA (L2) Giải :Giải bóng đá Hạng nhất New South Wales của Úc
