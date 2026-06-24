@@ -2336,12 +2336,12 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-name="Bản tin Thể thao 24+ ngày 24/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/24/12222-64_1782267902910.jpg" group-title="⭐ Sự kiện FPT", 🕒 24/06 11:30 | Bản tin Thể thao 24+ ngày 24/6
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 tvg-name="Nhật ký World Cup ngày 24/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/24/nhat-ky-fifa-world-cup-2026-slide-thumb_1782269159001.jpg" group-title="⭐ Sự kiện FPT", 🕒 24/06 12:30 | Nhật ký World Cup ngày 24/6 [BACKUP]
-http://is.am/62sv
-#EXTINF:-1 tvg-name="Arena of Valor Premier League 2026: Vòng Swiss - Ngày 24/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/24_1782144125660.jpg" group-title="⭐ Sự kiện FPT", 🕒 24/06 13:00 | Arena of Valor Premier League 2026: Vòng Swiss - Ngày 24/6 [BACKUP]
-http://is.am/62sv
-#EXTINF:-1 tvg-name="Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/25_1782144295419.jpg" group-title="⭐ Sự kiện FPT", 🕒 25/06 13:00 | Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6 [BACKUP]
-http://is.am/62sv
+#EXTINF:-1 tvg-name="Nhật ký World Cup ngày 24/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/24/nhat-ky-fifa-world-cup-2026-slide-thumb_1782269159001.jpg" group-title="⭐ Sự kiện FPT", 🕒 24/06 12:30 | Nhật ký World Cup ngày 24/6
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-name="Arena of Valor Premier League 2026: Vòng Swiss - Ngày 24/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/24_1782144125660.jpg" group-title="⭐ Sự kiện FPT", 🕒 24/06 13:00 | Arena of Valor Premier League 2026: Vòng Swiss - Ngày 24/6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 tvg-name="Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6" tvg-logo="https://images.fptplay53.net/media/home_event/OTT_ECS/2026/06/22/25_1782144295419.jpg" group-title="⭐ Sự kiện FPT", 🕒 25/06 13:00 | Arena of Valor Premier League 2026: Vòng Swiss - Ngày 25/6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 
 #EXTINF:-1 tvg-id="THVL1HD" tvg-name="THVL1HD" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/09/12/pbe9c6gh_button_thvl1.png" group-title="THVL",THVL1HD
 http://pk79.io.vn/thvli/play.php?id=thvl1
@@ -2358,14 +2358,6 @@ http://pk79.io.vn/thvli/play.php?id=thvl4
 #EXTINF:-1 tvg-id="THVL5HD" tvg-name="THVL5HD" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png" group-title="THVL",THVL5HD
 http://pk79.io.vn/thvli/play.php?id=thvl5
 
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/Ymt6NG9r-C6kVdO5F.png&m2=https://static.flashscore.com/res/image/data/8YIXSkBr-YFbDUeTh.png", 🔴 24/06-09:00 | Colombia - Democratic Republic of the Congo | FIFA World Cup | BLV TRẠNG QUỶ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/colombia-vs-democratic-republic-of-the-congo-23xmvkh60lzeqg8
-https://pk79.io.vn/tieulam/play.php?id=23xmvkh60lzeqg8
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/Ymt6NG9r-C6kVdO5F.png&m2=https://static.flashscore.com/res/image/data/8YIXSkBr-YFbDUeTh.png", 🔴 24/06-09:00 | Colombia - Democratic Republic of the Congo | FIFA World Cup | BLV TRẠNG TÈO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/colombia-vs-democratic-republic-of-the-congo-5c93398a19f942d5899be5564f64b963
-https://pk79.io.vn/tieulam/play.php?id=5c93398a19f942d5899be5564f64b963
 #EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png&m2=https://img.sports-data.online/football/team/2f9eb966ea08f899aab909c6af10513a.png", 24/06-14:00 | Shanxi Chongde Ronghai - Tai'an Tiankuang | Chinese Football League 2 | BLV TRẠNG TÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/shanxi-chongde-ronghai-vs-tai-an-tiankuang-3glrw7hn43zkqdy
@@ -2394,6 +2386,14 @@ https://pk79.io.vn/tieulam/play.php?id=50f2593e58554126ba8c04eb382d3a3c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/chengdu-rongcheng-b-vs-guangzhou-dandelion-alpha-y0or5jh89zgeqwz
 https://pk79.io.vn/tieulam/play.php?id=y0or5jh89zgeqwz
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/a47b11232cab8f090309534c8bd3122e.png&m2=https://img.sports-data.online/football/team/7c30b5786f382147b4bad6c360f0ec11.png", 24/06-21:00 | Metallurgist II - FC Irao Tbilisi | Georgia Cup | BLV TRẠNG TÍ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/metallurgist-ii-vs-fc-irao-tbilisi-l7oqdehgzjodr51
+https://pk79.io.vn/tieulam/play.php?id=l7oqdehgzjodr51
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/va0cEUGG-8KJ0tcMR.png&m2=https://static.flashscore.com/res/image/data/OM8Y9ODa-vBKZiE2j.png", 24/06-21:30 | Ukraine - Brazil | Nations League | BLV TRẠNG BỊP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/ukraine-vs-brazil-8b5bbd1dfebb4a5f9e1008569428d7be
+https://pk79.io.vn/tieulam/play.php?id=8b5bbd1dfebb4a5f9e1008569428d7be
 
 
 
@@ -2831,10 +2831,6 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://media.api-sports.io/football/teams/8.png", 🔴 24/06-09:00 | World Cup | Colombia vs Congo DR | blvmason
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png", ⚪ 24/06-16:00 | Bóng Chuyền U18 Đông Nam Á | U18 Việt Nam  vs U18 Philippines | blvcuccu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
@@ -2965,11 +2961,9 @@ https://pk79.io.vn/vtvprime/play.php?id=onfootball
 https://pk79.io.vn/vtvprime/play.php?id=vtv9
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/0N-gEz1G3viuWmZbHRhhXFNKxlEssDqt1qcBDmOIuUc/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50Lzg0MWMwMThhLWU4NzMtNDI3MC1hZDM1LWVmYmY5ZTBkZDM4Mi5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",Box Movie 1 HD ▶️ LIVE 12:27 - Đức Tin Của Clarence
 https://pk79.io.vn/vtvprime/play.php?id=boxmovie
-#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/6S7yHuBIc2VOipQ_UqlxKr7S-wbGBln70bTWGiN9GNg/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzJjMzFhOWZjLWUxNDYtNDRmNy1hMTVjLTViN2I5Y2U3MzkzNS5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",SCTV6 Giải Trí Thế Hệ Mới ▶️ LIVE 11:00 - Ly Hôn Tuổi 60 - Tập 7
-https://pk79.io.vn/vtvprime/play.php?id=sctv6
-#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/4YHL9I9yZaer1aX0RRTYGMOcnqGudaTM6ECnbMJNTDM/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2ZhZTNkMTJiLWViMGMtNGFhYy04NjhkLTY4NWY3ZjQzNmM3My5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",ANTV ⏰ 24/06-11:00 - An Ninh Toàn Cảnh
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/4YHL9I9yZaer1aX0RRTYGMOcnqGudaTM6ECnbMJNTDM/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2ZhZTNkMTJiLWViMGMtNGFhYy04NjhkLTY4NWY3ZjQzNmM3My5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",ANTV ▶️ LIVE 11:30 - An Ninh Toàn Cảnh
 https://pk79.io.vn/vtvprime/play.php?id=antv
-#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/9rxT9EEOgT5N6BNq9g6rxhkDxbJZLHljsD74Dds3RUc/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2E0NTY3ZWRjLWNjOTgtNDZkZi04ZjIwLTY1YjExZmIwNWFkNC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",SCTV6 Giải Trí Thế Hệ Mới ⏰ 24/06-11:00 - Đường Triều Quỷ Sự Lục - Tập 10
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/9rxT9EEOgT5N6BNq9g6rxhkDxbJZLHljsD74Dds3RUc/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2E0NTY3ZWRjLWNjOTgtNDZkZi04ZjIwLTY1YjExZmIwNWFkNC5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",SCTV6 Giải Trí Thế Hệ Mới ▶️ LIVE 11:55 - Đường Triều Quỷ Sự Lục - Tập 10
 https://pk79.io.vn/vtvprime/play.php?id=sctv6
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/hVCG3lg7vLoJxyzqNccXQvwdzZsp3opPwKG-wwehMxw/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzNhYzJkYThiLTAzZGQtNDhlYy04NDM0LTYyNjJlYTAwMWIxZi5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",Box Hits ⏰ 24/06-11:20 - Xe Bọc Thép
 https://pk79.io.vn/vtvprime/play.php?id=boxhits
@@ -2987,6 +2981,8 @@ https://pk79.io.vn/vtvprime/play.php?id=boxmovie
 https://pk79.io.vn/vtvprime/play.php?id=onfootball
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/bIYZgY9z01FRExzLT8jc-7WKbrN9weQxv65HRb5zDIo/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50L2U2Njk2ZWFmLTRhZjEtNDlkNC1hOGEzLTMxMTMwM2I5MzFhYy5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",HTV7 ⏰ 24/06-16:45 - Lưu Thủy Điều Điều - Tập 8
 https://pk79.io.vn/vtvprime/play.php?id=htv7
+#EXTINF:-1 tvg-logo="https://img.vtvprime.vn/Sw74-hQUZP-uYbgRI-ZaJRbLThFTRg373Jbp90iW1vA/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzI1YzgxODM5LTI4NjgtNGYyMi05YTIyLWU0MTNjMmFiNGI4Yi5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",ON Sports 50fps ⏰ 24/06-16:55 - Eastbourne Open 2026
+https://pk79.io.vn/vtvprime/play.php?id=onsports
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/3cOmpK0FwrWf9doIRgQYKc1uq_vU5OT9zRWD8-oN9K4/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzYxMjk5M2VlLTZkZWQtNDk0ZS05MzM3LWQ0ZmUzNmE4ZTMwMi5wbmc=.jpg" group-title="⭐ Sự kiện VTV Prime",ON Football 50fps ⏰ 24/06-18:00 - Nhật Ký World Cup 2026
 https://pk79.io.vn/vtvprime/play.php?id=onfootball
 #EXTINF:-1 tvg-logo="https://img.vtvprime.vn/brv0VbUiWoOhX-r4vxqBcJpX0slX8FGIY4Hgr60mrFU/rs:fit:312:176/czM6Ly9wcmQtc24taW1hZ2VzL2V2ZW50LzRmZWU0NGM0LTc1NzAtNGIyMS04MDE2LTMyNTY4NTQwNmQ0OS5qcGc=.jpg" group-title="⭐ Sự kiện VTV Prime",Box Movie 1 HD ⏰ 24/06-19:58 - Nhiệm Vụ Bất Khả Thi: Chiến Dịch Bóng Ma
