@@ -258,6 +258,8 @@ https://google.com.vn
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png", 28/06/2026 09:00 | World CupW ( ĐẦU CẦU TRUNG LẬP ) | Jordan vs Argentina | BLV THẦN THÔNG
 https://google.com.vn
+#EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png", 28/06/2026 09:00 | World Cup | Jordan vs Argentina | BLV THẦN THÔNG
+https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/10216.png", 28/06/2026 12:00 | Queensland NPL | Gold Coast United vs Moreton City Excelsior | BLV TÁO GIÀ
 https://google.com.vn
 #EXTINF:-1 group-title="⚽ Hoiquan.live" tvg-logo="https://media.api-sports.io/football/teams/10217.png", 28/06/2026 14:00 | Queensland NPL | Lions vs WDSC Wolves | BLV PHAN CA
@@ -1417,9 +1419,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=132343
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-28/06: AC Oulu - Lahti (FIN D1) - BLV WUKONG
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-28/06: Sogndal - Egersunds IK (NOR D2) - QUỐC KHÁNH
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=602153
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 01:00-28/06: Sogndal - Egersunds IK (NOR D2) - BLV GIÓ
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=321443
@@ -2691,10 +2690,6 @@ http://pk79.io.vn/vieon/play.php?id=153b3b1b-ac75-467b-ba3c-7170744a7fee
 #EXTINF:-1 tvg-id="CNTH" tvg-name="Cần Thơ" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2025/09/11/74jzgj7r_logo-ngang_light_468_134.png" group-title="vieon",Cần Thơ
 http://pk79.io.vn/vieon/play.php?id=8f90b6cd-1be1-4fa1-89f4-c1350019c0cb
 
-#EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/wj9uZvn_vZrelLFGH8fnPA_96x96.png", 🏁 27/06-22:00 | Nations League Men's | Mỹ  vs Nhật Bản | blvcuccu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vongcam.live/
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Vòng cấm live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png", 🔴 28/06-00:00 | WWE | Night of champions vs Night of champions | blvphao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vongcam.live/
@@ -3192,14 +3187,14 @@ https://live05.meung.app/live/87547578.m3u8
 https://live05.meung.app/live/14830711.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Algeria vs Áo - BLV BLV GIÀ LÀNG (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Algeria vs Áo - BLV BLV SODA (L1) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/02456966.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Algeria vs Áo - BLV BLV SODA (L2) Giải :Giải vô địch bóng đá thế giới
-https://live05.meung.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Algeria vs Áo - BLV BLV PEPSI (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/59444581.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Algeria vs Áo - BLV BLV PEPSI (L2) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Algeria vs Áo - BLV BLV SODA (L1) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/02456966.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Algeria vs Áo - BLV BLV SODA (L2) Giải :Giải vô địch bóng đá thế giới
+https://live05.meung.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Jordan vs Argentina - BLV BLV C2 (L1) Giải :Giải vô địch bóng đá thế giới
 https://live05.meung.app/live/08552895.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/competition/da617cd58cd9cffaae0daec865457fb5.png!w80" group-title="ColaTV",[09:00 28/06] Jordan vs Argentina - BLV BLV C2 (L2) Giải :Giải vô địch bóng đá thế giới
@@ -3350,6 +3345,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png" group-title="Hội Quán TV",[02:00 29/06] South Africa vs Canada - BLV PHAN QUẨY (SD)
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Hội Quán TV",[09:00 28/06] Jordan  vs Argentina - BLV THẦN THÔNG (FHD)
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Hội Quán TV",[09:00 28/06] Jordan  vs Argentina - BLV THẦN THÔNG (HD)
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Hội Quán TV",[09:00 28/06] Jordan  vs Argentina - BLV THẦN THÔNG (SD)
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
