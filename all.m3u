@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg", 🔴 27/06-19:00 | beijing-guoan-vs-wuhan-three-towns.4eoF-VFJtZ | BLV Thợ Lặn
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/587.png", 🟡 27/06-21:00 | mariehamn-vs-inter-turku.S4e9R1itRc | BLV Phong Vân
 https://xclive.yarncdn.live/live/xctv_blv_vanca/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2082.png", 🟡 27/06-23:00 | gnistan-vs-vps._xKo-abNCX | BLV Bịp Con
@@ -1249,8 +1247,6 @@ http://...../mytv/getabc.php?id=425
 #EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://...../mytv/getabc.php?id=96
 
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/22/16/1634893218113/fc915179ef69_640_360.jpg", 27/06-18:00 | Xổ Số Miền Bắc, kênh On Movies
-http://pk79.io.vn/tv360/play.php?id=181
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/22/17/1782125302434/99e9072a7534_640_360.jpg", 27/06-18:30 | DP WORLD TOUR 2026O PEN D'ITALIA, ngày 3, kênh TV360+ 6
 http://pk79.io.vn/tv360/play360.php?id=sk6
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/22/15/1782115508207/012b369b6aa7_640_360.jpg", 27/06-20:00 | ATP TOUR 250 MALLORCA CHAMPIONSHIPS 2026, CHUNG KẾT, kênh ON SPORTS NEWS
@@ -1296,6 +1292,8 @@ http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/26/14/1782457903264/a615754fd7f5_640_360.jpg", 02/07-07:00 | Mỹ vs Bosnia & Herzegovina, Kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/26/14/178245899886/2560934cdd44_640_360.jpg", 02/07-17:30 | DP WORLD TOUR 2026 BMW INTERNATIONAL OPEN, Ngày 1, kênh TV360 + 6
+http://pk79.io.vn/tv360/play360.php?id=sk6
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/26/14/1782459007344/f61f6e41f885_640_360.jpg", 03/07-17:30 | DP WORLD TOUR 2026 BMW INTERNATIONAL OPEN, Ngày 2, kênh TV360 + 6
 http://pk79.io.vn/tv360/play360.php?id=sk6
 
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20260627/2026062711/5HCnTX17xi-Qj5nxsYmele.webp" group-title="⭐ Sự kiện WC VTVGo",[12:30-27/06] TRỰC TIẾP: Vietnam Wild Live | 27/6/2026 | Lạc bước giữa Hòn Bông Lan - mái nhà kỳ thú của chim biển
@@ -2313,15 +2311,11 @@ http://pk79.io.vn/thvli/play.php?id=thvl4
 #EXTINF:-1 tvg-id="THVL5HD" tvg-name="THVL5HD" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png" group-title="THVL",THVL5HD
 http://pk79.io.vn/thvli/play.php?id=thvl5
 
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/rZCKbaFa-QHeKqeWC.png&m2=https://static.flashscore.com/res/image/data/WvrcHkXg-QBz8eAFI.png", 🔴 27/06-16:00 | Việt Nam - Indonesia | U18 Đông Nam Á | BLV TRẠNG NGỐ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/vi-t-nam-vs-indonesia-fc04b8f225eb48e8ba6b3b3852d4cad3
-https://pk79.io.vn/tieulam/play.php?id=fc04b8f225eb48e8ba6b3b3852d4cad3
 #EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/1c4ae95c663ed84758a04627451e3470.png&m2=https://img.sports-data.online/football/team/85c080cf02a7161687ddd5b5800dc303.png", 🔴 27/06-18:00 | Liaoning Tieren - Shandong Taishan | Chinese Football Super League | BLV TRẠNG BÉO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/liaoning-tieren-vs-shandong-taishan-23xmvkh66083qg8
 https://pk79.io.vn/tieulam/play.php?id=23xmvkh66083qg8
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/e7af298237651113dfeafc32ff734a24.png&m2=https://img.sports-data.online/football/team/9d520898f49a46e0a00feef82240cb80.png", 27/06-19:00 | Beijing Guoan - Wuhan Three Towns | Chinese Football Super League | BLV TRẠNG TÍ
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/e7af298237651113dfeafc32ff734a24.png&m2=https://img.sports-data.online/football/team/9d520898f49a46e0a00feef82240cb80.png", 🔴 27/06-19:00 | Beijing Guoan - Wuhan Three Towns | Chinese Football Super League | BLV TRẠNG TÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/beijing-guoan-vs-wuhan-three-towns-pxwrxlhyy358ryk
 https://pk79.io.vn/tieulam/play.php?id=pxwrxlhyy358ryk
@@ -2349,6 +2343,10 @@ https://pk79.io.vn/tieulam/play.php?id=ba41c9767f944f9cb33448cee18380a0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
 #EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/panama-vs-england-8yomo4h1466xq0j
 https://pk79.io.vn/tieulam/play.php?id=8yomo4h1466xq0j
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/KMZkYbwS-Gff8fOAh.png&m2=https://static.flashscore.com/res/image/data/xr80n8zB-8vfTQDSH.png", 28/06-04:00 | Croatia - Ghana | FIFA World Cup | BLV TRẠNG BÉO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/croatia-vs-ghana-ednm9whw0p49ryo
+https://pk79.io.vn/tieulam/play.php?id=ednm9whw0p49ryo
 
 
 
@@ -3400,12 +3398,6 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Thailand_%28non-standard_colours_3%29.svg/250px-Flag_of_Thailand_%28non-standard_colours_3%29.svg.png" group-title="Hội Quán TV",[19:00 27/06] U18 Thái Lan vs  U18 Philippin - BLV TÁO GIÀ (HD)
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Thailand_%28non-standard_colours_3%29.svg/250px-Flag_of_Thailand_%28non-standard_colours_3%29.svg.png" group-title="Hội Quán TV",[19:00 27/06] U18 Thái Lan vs  U18 Philippin - BLV TÁO GIÀ (SD)
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png" group-title="Hội Quán TV",[16:15 27/06] U18 Việt Nam vs U18 Indonesia - BLV TÁO GIÀ (FHD)
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png" group-title="Hội Quán TV",[16:15 27/06] U18 Việt Nam vs U18 Indonesia - BLV TÁO GIÀ (HD)
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png" group-title="Hội Quán TV",[16:15 27/06] U18 Việt Nam vs U18 Indonesia - BLV TÁO GIÀ (SD)
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" group-title="Hội Quán TV",[04:00 28/06] Croatia vs Ghana - BLV THẦN THÔNG (FHD)
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
