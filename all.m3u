@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z93hM-rXG_o/hqdefault.jpg" group-title="LIVE",🔴 888 BÀI BOLERO TRỮ TÌNH - Tuyệt Phẩm Bolero - ĐẢM BẢO NGỦ SAY - DỄ NGHE DỄ NGỦ - ÊM TAI MỚI RA LÒ
+http://backup.tpkhai.dpdns.org:7777/stream?id=z93hM-rXG_o
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yXjFQjTcWXg/hqdefault.jpg" group-title="LIVE",🔴 Nhạc Không Lời Buổi Sáng Thư Giãn Cực Êm Tai ►Hòa Tấu Guitar Không Lời►Nhạc Cho Phòng Trà, Quán Cafe
+http://backup.tpkhai.dpdns.org:7777/stream?id=yXjFQjTcWXg
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j998zIshMYw/hqdefault.jpg" group-title="LIVE",🔴 🔴TRỰC TIẾP: CHÁY CÙNG WORLD CUP 2026 - ĐỒNG HÀNH CÙNG WORLD CUP 2026 | 27/06/2026
+http://backup.tpkhai.dpdns.org:7777/stream?id=j998zIshMYw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Kcue5h-AftY/hqdefault.jpg" group-title="LIVE",🔴 XSMB - Trực tiếp xổ số Miền Bắc ngày 28/06/2026 - Thái Bình XSTB, xstt, xsmb, SXMB, xổ số thủ đô
+http://backup.tpkhai.dpdns.org:7777/stream?id=Kcue5h-AftY
+
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/21263.png", 🟡 28/06-18:00 | dalian-zhixing-vs-shanghai-shenhua.ZQ0gk01LBW | BLV Chuối
 https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2259.png", 🟡 28/06-20:00 | fk-tobol-kostanay-vs-altay.Idocwlnkxq | BLV Chuối
@@ -431,60 +443,60 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4791_1hrkjbh2vb30.png", 🔴 28/06-17:00 | Daejeon Korail vs Busan Transportation Corporation | BLV BLV TÀO THÁO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=349304921
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/41556_1h1n1m7x0f8.png", 🔴 28/06-17:00 | Zhejiang Professional FC vs Qingdao West Coast | BLV BLV LÝ ỨNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=d99cb2fd-7441-48ca-a15a-dd70f57b12b9
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/41556_1h1n1m7x0f8.png", 🔴 28/06-17:00 | Zhejiang Professional FC vs Qingdao West Coast | BLV BLV LÝ QUỲ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=333744922
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/20319_1jr56cj6pv19.png", 28/06-18:00 | Shanghai Shenhua vs Dalian Zhixing | BLV BLV TÔN LẬP
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/41556_1h1n1m7x0f8.png", 🔴 28/06-17:00 | Zhejiang Professional FC vs Qingdao West Coast | BLV BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=343744923
+http://pk79.io.vn/luongson/play.php?id=d99cb2fd-7441-48ca-a15a-dd70f57b12b9
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4791_1hrkjbh2vb30.png", 🔴 28/06-17:00 | Daejeon Korail vs Busan Transportation Corporation | BLV BLV TÀO THÁO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=349304921
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/20319_1jr56cj6pv19.png", 28/06-18:00 | Shanghai Shenhua vs Dalian Zhixing | BLV BLV MÃ SIÊU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=c1091df1-dcdc-4d5a-b6b0-71ef27367141
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png", 28/06-18:00 | Ningbo Professional Football Club vs Suzhou Dongwu | BLV BLV VƯƠNG LUÂN
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/20319_1jr56cj6pv19.png", 28/06-18:00 | Shanghai Shenhua vs Dalian Zhixing | BLV BLV TÔN LẬP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=8597ad4e-3198-4374-9c2f-aeb38e2adf10
+http://pk79.io.vn/luongson/play.php?id=343744923
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png", 28/06-18:00 | Ningbo Professional Football Club vs Suzhou Dongwu | BLV BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=336515921
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png", 28/06-18:00 | Ningbo Professional Football Club vs Suzhou Dongwu | BLV BLV VƯƠNG LUÂN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=8597ad4e-3198-4374-9c2f-aeb38e2adf10
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4912_20130804165930.gif", 28/06-19:00 | Kaisar Kyzylorda vs Irtysh Pavlodar | BLV BLV LƯU BỊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=387235926
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/23801_1jvr6nqwgn1k.png", 28/06-19:00 | Wuxi Wugou vs Dingnan Ganlian | BLV BLV PHI HỔ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=346515922
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/23801_1jvr6nqwgn1k.png", 28/06-19:00 | Wuxi Wugou vs Dingnan Ganlian | BLV BLV MAYBACH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=b183c29f-0df9-46d8-b216-96f9c6d42be6
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/23801_1jvr6nqwgn1k.png", 28/06-19:00 | Wuxi Wugou vs Dingnan Ganlian | BLV BLV PHI HỔ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=346515922
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/61059_1gvszh7ysf19.png", 28/06-20:00 | Ordabasy vs Ulytau Zhezkazgan | BLV BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=328235921
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/2009_1gy3vmcar026.png", 28/06-20:00 | JaPS vs KaPa | BLV BLV SHIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=318812921
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1810_1ht6ehmpr52t.png", 28/06-20:00 | Norrby IF vs IFK Norrkoping FK | BLV BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=391641922
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1810_1ht6ehmpr52t.png", 28/06-20:00 | Norrby IF vs IFK Norrkoping FK | BLV BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=7401ffc6-669e-4e8e-a5a7-e6a8309ff52d
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1810_1ht6ehmpr52t.png", 28/06-20:00 | Norrby IF vs IFK Norrkoping FK | BLV BLV TRIỆU TỬ LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=391641922
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/362_1h8fzp9swe28.png", 28/06-20:00 | IFK Varnamo vs Landskrona BoIS | BLV BLV LÝ ỨNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=46f6dd08-9b2b-4bf7-aad1-ba123cdc5dc3
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/362_1h8fzp9swe28.png", 28/06-20:00 | IFK Varnamo vs Landskrona BoIS | BLV BLV GẤU KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=261641929
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/6124_1hv2rtjg821v.png", 28/06-21:00 | Paide Linnameeskond vs Nomme JK Kalju | BLV BLV HÀN TÍN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=399313926
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/6124_1hv2rtjg821v.png", 28/06-21:00 | Paide Linnameeskond vs Nomme JK Kalju | BLV BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=b58c040c-80d4-4e9c-96f7-3dab4c67f505
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/6124_1hv2rtjg821v.png", 28/06-21:00 | Paide Linnameeskond vs Nomme JK Kalju | BLV BLV HÀN TÍN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=399313926
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/57206_1gw0t7pdbx31.png", 28/06-21:00 | FC Astana vs Zhenis | BLV BLV LEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=348235923
@@ -512,12 +524,12 @@ http://pk79.io.vn/luongson/play.php?id=304849926
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/579_1jbqr7wg8p11.png", 28/06-23:00 | FC Flora Tallinn vs Levadia Tallinn | BLV BLV TÔN LẬP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=100413929
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png", 28/06-23:30 | Cobreloa vs Deportes La Serena | BLV BLV NGƯỜI THÉP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=371179926
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png", 28/06-23:30 | Cobreloa vs Deportes La Serena | BLV BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=f0864e59-d83f-4694-9b83-99ca471244cb
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png", 28/06-23:30 | Cobreloa vs Deportes La Serena | BLV BLV NGƯỜI THÉP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=371179926
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1291_1gv1yk239p1p.png", 28/06-23:30 | CSD Antofagasta vs Cobresal | BLV BLV TÂY MÔN KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=361179925
@@ -542,24 +554,24 @@ http://pk79.io.vn/luongson/play.php?id=365179929
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1926_165750275450.png", 29/06-02:00 | Denmark U19 vs Germany U19 | BLV BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=207128929
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV YẾN THANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=367370924
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV LEO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=32c5e44b-8239-493d-bb7f-b8e5403b0c2b
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV TÂY MÔN KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=e2a3b0c7-778d-4a81-8fed-868dd80239f1
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV VÕ TÒNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=5954d323-c6aa-4aa1-b65c-ba38fdd16314
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV TRIỆU TỬ LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=80196af7-a204-4d3c-8e8d-dd41b40016cd
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV LEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=32c5e44b-8239-493d-bb7f-b8e5403b0c2b
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=feb242c9-7250-4752-8bcd-9a7846464c6a
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV VÕ TÒNG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=5954d323-c6aa-4aa1-b65c-ba38fdd16314
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png", 29/06-02:00 | Canada vs South Africa | BLV BLV YẾN THANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=367370924
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png", 29/06-02:00 | Ceara vs Juventude | BLV BLV HEINEKEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=215004921
@@ -578,12 +590,12 @@ http://pk79.io.vn/luongson/play.php?id=205004920
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1673_1gqxnqd00y2y.png", 29/06-04:30 | Sport Club do Recife vs Fortaleza | BLV BLV TÀO THÁO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=ce8cc32f-4b5f-4b25-8eb6-3329eb0e6e11
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1621_1grmn7hx11v.png", 29/06-04:30 | Goias vs Nautico (PE) | BLV BLV MAYBACH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=225004922
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1621_1grmn7hx11v.png", 29/06-04:30 | Goias vs Nautico (PE) | BLV BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=fd2564b4-dd05-4ce3-bb44-f142df7f764f
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1621_1grmn7hx11v.png", 29/06-04:30 | Goias vs Nautico (PE) | BLV BLV MAYBACH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=225004922
 
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời để chill khi nhâm nhi cà phê, làm việc và thư giãn
 http://pk79.io.vn/myclip/play.php?id=12279829
@@ -1576,9 +1588,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=485739
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-28/06: Suzhou Dongwu - Ningbo Professional (CHA D1) - BLV ANH TÀI
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=406865
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-28/06: Suzhou Dongwu - Ningbo Professional (CHA D1) - BLV ENZO
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=380460
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 18:00-28/06: Suzhou Dongwu - Ningbo Professional (CHA D1) - BLV COZY
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=531989
