@@ -1247,11 +1247,17 @@ http://...../mytv/getabc.php?id=425
 #EXTINF:-1 tvg-logo="/vimages/1a/ab/b5/54/4f/ff/1ab54-pngthptv1-channel-unkn.png" group-title="MyTV Channel", 📺 Đồng Tháp TV1
 http://...../mytv/getabc.php?id=96
 
-#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/26/10/1782445192577/a0c95878cfc4_640_360.jpg", 29/06-02:00 | BWF WORLD TOUR S300US OPEN 2026, CHUNG KẾT, kênh ON SPORTS+
-http://pk79.io.vn/tv360/play360.php?id=onsportplus
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/26/14/1782457225134/35ef53e09497_640_360.jpg", 30/06-00:00 | Brazil vs Nhật Bản, Kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/28/08/1782610327351/d193087b8cf2_640_360.jpg", 30/06-03:30 | Đức vs Paraguay, Kênh VTV3
+http://pk79.io.vn/tv360/play.php?id=4
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/29/08/1782696215587/7723b0d617ec_640_360.jpg", 30/06-08:00 | Hà Lan vs Ma Rốc, Kênh VTV3
+http://pk79.io.vn/tv360/play.php?id=4
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/29/09/1782699518655/c6486a41feb0_640_360.jpg", 01/07-00:00 | Bờ Biển Ngà vs Na Uy, Kênh VTV3
+http://pk79.io.vn/tv360/play.php?id=4
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/29/09/1782700095971/c207b8692fb2_640_360.jpg", 01/07-04:00 | Pháp vs Thụy Điển, Kênh VTV3
+http://pk79.io.vn/tv360/play.php?id=4
+#EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/29/09/1782700388228/71f0776fefe6_640_360.jpg", 01/07-08:00 | Mexico vs Ecuador, Kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
 #EXTINF:-1 group-title="⭐ Sự kiện hot TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/06/26/14/1782457903264/a615754fd7f5_640_360.jpg", 02/07-07:00 | Mỹ vs Bosnia & Herzegovina, Kênh VTV3
 http://pk79.io.vn/tv360/play.php?id=4
@@ -1956,42 +1962,42 @@ http://pk79.io.vn/thvli/play.php?id=thvl4
 #EXTINF:-1 tvg-id="THVL5HD" tvg-name="THVL5HD" tvg-logo="http://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png" group-title="THVL",THVL5HD
 http://pk79.io.vn/thvli/play.php?id=thvl5
 
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/383d42e0d0843463b538bc3367d0c4c9.png&m2=https://img.sports-data.online/football/team/cc1aef5e69e8d01ba3d3712f24040347.png", 🔴 28/06-17:00 | Qingdao West Coast - Zhejiang Professional FC | Chinese Football Super League | BLV TRẠNG NGỐ
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/b19bd906560a2ff7e4339e37a5ce109d.png&m2=https://img.sports-data.online/football/team/dda89ded6a1290219694047416afecdf.png", 29/06-06:00 | Cavalry FC - Supra Du Quebec | Canadian Premier League | BLV TRẠNG TÈO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/qingdao-west-coast-vs-zhejiang-professional-fc-2y8m4zh55p6eql0
-https://pk79.io.vn/tieulam/play.php?id=2y8m4zh55p6eql0
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/0e5467034917e26c6e60a7162711c150.png&m2=https://img.sports-data.online/football/team/e8327d4681b4a73c83be9fe087b30721.png", 🔴 28/06-18:00 | Dalian Yingbo - Shanghai Shenhua | Chinese Football Super League | BLV TRẠNG BÉO
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/cavalry-fc-vs-supra-du-quebec-23xmvkh628g4qg8
+https://pk79.io.vn/tieulam/play.php?id=23xmvkh628g4qg8
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/3667bc15da8d0df12ea9f51d73627b07.png&m2=https://img.sports-data.online/football/team/a14751ea68523dd03173b441cf5da14d.png", 🔴 29/06-07:00 | Puerto Montt - D. Concepcion | Chilean Cup | BLV TRẠNG BÉO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/dalian-yingbo-vs-shanghai-shenhua-vjxm8gheewlzr6o
-https://pk79.io.vn/tieulam/play.php?id=vjxm8gheewlzr6o
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/rZCKbaFa-QHeKqeWC.png&m2=https://static.flashscore.com/res/image/data/jH8flBZA-UknO2XLh.png", 🔴 28/06-19:00 | U18 Việt Nam - U18 Thái Lan | U18 Đông Nam Á | BLV TRẠNG BỊP
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/puerto-montt-vs-d-concepcion-l7oqdehgzdnxr51
+https://pk79.io.vn/tieulam/play.php?id=l7oqdehgzdnxr51
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/b196a9a7e627dc15cfa96268035c454e.png&m2=https://img.sports-data.online/football/team/093bfeeaa5b64817e7ced2beada10b08.png", 29/06-16:00 | Ha Noi Women - Hồ Chí Minh City Women | Women's National League | BLV TRẠNG TÈO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/u18-vi-t-nam-vs-u18-th-i-lan-c889f72fd9b845fab5061872a1920233
-https://pk79.io.vn/tieulam/play.php?id=c889f72fd9b845fab5061872a1920233
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/1c0bf62c4b74951819a2f761c3d3b5fe.png&m2=https://img.sports-data.online/football/team/56445b7fccea061fbee0ac71cbd53a83.png", 28/06-20:00 | Ulytau Zhezkazgan - Ordabasy | Kazakhstan Premier League | BLV TRẠNG NGỐ
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/ha-noi-women-vs-h-ch-minh-city-women-k82rekhgdny2rep
+https://pk79.io.vn/tieulam/play.php?id=k82rekhgdny2rep
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/47faf6e6e957fc611c55640e13d7d818.png&m2=https://img.sports-data.online/football/team/e5c9882eac2bcd64767b4cdb6544dcd7.png", 29/06-18:00 | Guangdong Women - Wuhan Jiangda Women | CFA Women's Super League | BLV TRẠNG TÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/ulytau-zhezkazgan-vs-ordabasy-n54qllhn42ekqvy
-https://pk79.io.vn/tieulam/play.php?id=n54qllhn42ekqvy
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/4cd66c0860ebbe2bc977e969f7e5b626.png&m2=https://img.sports-data.online/football/team/48159bec0e62ef337e005cc067d75ae0.png", 28/06-22:00 | Dnepr Mogilev - Neman Grodno | Belarusian Premier League | BLV TRẠNG BÉO
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/guangdong-women-vs-wuhan-jiangda-women-1l4rjnh9gv5lm7v
+https://pk79.io.vn/tieulam/play.php?id=1l4rjnh9gv5lm7v
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/ca1261bd7071088e4cf292fd03be814b.png&m2=https://img.sports-data.online/football/team/1da29817ab4e7c4880d8b457cf2db363.png", 29/06-19:30 | CS Sagesse - Tadamon SC Sour | Lebanese Premier League | BLV TRẠNG NGỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/dnepr-mogilev-vs-neman-grodno-dj2ryohll3x0q1z
-https://pk79.io.vn/tieulam/play.php?id=dj2ryohll3x0q1z
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/dnoZORwS-rcthslVl.png&m2=https://static.flashscore.com/res/image/data/f552VMEa-E1YhvyqD.png", 28/06-22:00 | France - Japan | Nations League | BLV TRẠNG BỊP
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/cs-sagesse-vs-tadamon-sc-sour-2y8m4zh56061ql0
+https://pk79.io.vn/tieulam/play.php?id=2y8m4zh56061ql0
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/d07d05c050874c9777e871cbfc7d6414.png&m2=https://img.sports-data.online/football/team/78259d142e5d103bec01afb118c360de.png", 29/06-20:00 | Al Nejmeh SC - Racing Beirut | Lebanese Premier League | BLV TRẠNG TỒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/france-vs-japan-db976301daa24abbae93fbb9bdee53c5
-https://pk79.io.vn/tieulam/play.php?id=db976301daa24abbae93fbb9bdee53c5
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/674b92c29159cc3a21b75a4484db38b6.png&m2=https://img.sports-data.online/football/team/cf385a0c3b72f4030d3290ab495db6cd.png", 29/06-00:00 | Wales U19 - Spain U19 | UEFA European U19 Football Championship | BLV TRẠNG TỒ
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/al-nejmeh-sc-vs-racing-beirut-jw2r09hk242xrz8
+https://pk79.io.vn/tieulam/play.php?id=jw2r09hk242xrz8
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/GtquBmFG-p6nzXaZ3.png&m2=https://static.flashscore.com/res/image/data/G8oYrMil-WI0RRB72.png", 29/06-21:00 | Tomiris-Turan Women - Kaspij Aktau Women | Kazakhstan League Women | BLV TRẠNG BÉO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/wales-u19-vs-spain-u19-pxwrxlhywz3wryk
-https://pk79.io.vn/tieulam/play.php?id=pxwrxlhywz3wryk
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png&m2=https://static.flashscore.com/res/image/data/UDtAW5e5-nBWCl0De.png", 29/06-01:00 | Poland - Argentina | Nations League | BLV TRẠNG BỊP
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/tomiris-turan-women-vs-kaspij-aktau-women-dbfe75949e244ea1b67b0a1ece5ea403
+https://pk79.io.vn/tieulam/play.php?id=dbfe75949e244ea1b67b0a1ece5ea403
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://img.sports-data.online/football/team/967f5eeaf8a599415dc8bef68bdfbc46.png&m2=https://img.sports-data.online/football/team/962dbbcc8466fd77d3d49e4751e46e6e.png", 29/06-22:00 | Italy U19 - Serbia U19 | UEFA European U19 Football Championship | BLV TRẠNG NGỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/poland-vs-argentina-1050755d9e534730accec8e23e2bf6b6
-https://pk79.io.vn/tieulam/play.php?id=1050755d9e534730accec8e23e2bf6b6
-#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/vDiyVxhl-6ys9CWQj.png&m2=https://static.flashscore.com/res/image/data/xpZWyhzB-rZcDn0Ec.png", 29/06-01:30 | Serbia - USA | Nations League | BLV TRẠNG TÍ
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/italy-u19-vs-serbia-u19-vjxm8gheopwdr6o
+https://pk79.io.vn/tieulam/play.php?id=vjxm8gheopwdr6o
+#EXTINF:-1 group-title="⚽ Tiếu Lâm TV" tvg-logo="http://tpkhai.dpdns.org/caheo/covers.php?m1=https://static.flashscore.com/res/image/data/hCaVxehl-88LAtdNt.png&m2=https://static.flashscore.com/res/image/data/Crg4NaGG-ALs6yNah.png", 30/06-00:00 | Brazil - Japan | FIFA World Cup | BLV TRẠNG PỜM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/serbia-vs-usa-c38b1624669a4cf8ad72190916f896ba
-https://pk79.io.vn/tieulam/play.php?id=c38b1624669a4cf8ad72190916f896ba
+#EXTVLCOPT:http-referrer=https://sv1.tieulam1.live/truc-tiep/brazil-vs-japan-l5ergph48k47r8k
+https://pk79.io.vn/tieulam/play.php?id=l5ergph48k47r8k
 
 
 
