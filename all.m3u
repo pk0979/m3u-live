@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/650.png", 🔴 04/07-22:00 | vps-vs-mariehamn.DEpYw8cSZ4 | BLV Chuối
-https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/661.png", 🟡 30/06-23:00 | fk-liepaja-vs-ogre-united.05Ta4GK2JA | BLV Bịp Con
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png", 🟡 01/07-00:00 | ivory-coast-vs-norway.ZMMn5-32dZ | BLV Bịp Con
@@ -43,7 +41,7 @@ https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/2384.png", 🟡 02/07-07:00 | usa-vs-bosnia-herzegovina.Nk2MdEQpDI | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/650.png", 🔴 30/06-22:00 | vps-vs-inter-turku.1Tu-1RlUON | BLV Chuối
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/650.png", 🔴 30/06-22:00 | vps-vs-inter-turku.uqnPETUgX6 | BLV Chuối
 https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/VNoUx1epOyAGWigY1/x240" group-title="Dailymotion | Relaxing World",Châu Tinh Trì | Tuyệt Đỉnh Kung Fu (2004) Thuyết Minh
@@ -491,45 +489,48 @@ http://pk79.io.vn/luongson/play.php?id=234128929
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/5701_1h4343s4a914.png", 30/06-22:00 | Sweden (W) U19 vs Bosnia and Herzegovina (W) U19 | BLV BLV HÀN TÍN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=79e4d2e1-708b-43c2-963f-bedc72944350
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/13159_1gq6j9e8z19.png", 30/06-22:00 | BFC Daugavpils vs FK Rigas Futbola skola | BLV BLV MAYBACH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=4261e7c3-d0d4-42fe-a8d9-339566a4a04a
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/13159_1gq6j9e8z19.png", 30/06-22:00 | BFC Daugavpils vs FK Rigas Futbola skola | BLV BLV LÝ QUỲ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=230704925
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/13159_1gq6j9e8z19.png", 30/06-22:00 | BFC Daugavpils vs FK Rigas Futbola skola | BLV BLV MAYBACH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=4261e7c3-d0d4-42fe-a8d9-339566a4a04a
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/13159_1gq6j9e8z19.png", 30/06-22:00 | BFC Daugavpils vs FK Rigas Futbola skola | BLV BLV DƯƠNG CHÍ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=6dcb32f3-6d3b-499e-b5ab-8e8fdc6435c7
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1853_165724449442.png", 30/06-22:00 | Inter Turku vs Vaasa VPS | BLV BLV TÔN LẬP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=36ae2029-0d72-402e-b551-89a1731ab2f2
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1853_165724449442.png", 30/06-22:00 | Inter Turku vs Vaasa VPS | BLV BLV KEVILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=116260038
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1853_165724449442.png", 30/06-22:00 | Inter Turku vs Vaasa VPS | BLV BLV TÀO THÁO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=b12fba5e-6888-4bce-aaf5-67b8981aab10
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1853_165724449442.png", 30/06-22:00 | Inter Turku vs Vaasa VPS | BLV BLV KEVILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=116260038
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1853_165724449442.png", 30/06-22:00 | Inter Turku vs Vaasa VPS | BLV BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=04f6915a-d1a5-4f00-a792-d0a733e011a9
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/537_1h3tkn4pvs2f.png", 30/06-23:00 | Radnik Surdulica vs Levski Sofia | BLV BLV PHI HỔ
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/1853_165724449442.png", 30/06-22:00 | Inter Turku vs Vaasa VPS | BLV BLV TÔN LẬP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=250760031
+http://pk79.io.vn/luongson/play.php?id=36ae2029-0d72-402e-b551-89a1731ab2f2
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/537_1h3tkn4pvs2f.png", 30/06-23:00 | Radnik Surdulica vs Levski Sofia | BLV BLV LIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=bc199965-5faa-48c0-b93b-68b388864161
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/534_1h5e49xmg9e.png", 30/06-23:00 | Ogre United vs FK Liepaja | BLV BLV HEINEKEN
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/537_1h3tkn4pvs2f.png", 30/06-23:00 | Radnik Surdulica vs Levski Sofia | BLV BLV PHI HỔ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=240704926
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/534_1h5e49xmg9e.png", 30/06-23:00 | Ogre United vs FK Liepaja | BLV BLV LÃO HẠC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=7aae030c-9c05-455d-ab67-49bfa705b4ab
+http://pk79.io.vn/luongson/play.php?id=250760031
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/534_1h5e49xmg9e.png", 30/06-23:00 | Ogre United vs FK Liepaja | BLV BLV GẤU KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=44ad6a35-c373-4bba-8793-13f1cca9fc2d
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV YẾN THANH
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/534_1h5e49xmg9e.png", 30/06-23:00 | Ogre United vs FK Liepaja | BLV BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=fc98d740-5dbb-4753-a92a-7ee2dadf9bfc
+http://pk79.io.vn/luongson/play.php?id=7aae030c-9c05-455d-ab67-49bfa705b4ab
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/534_1h5e49xmg9e.png", 30/06-23:00 | Ogre United vs FK Liepaja | BLV BLV HEINEKEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=240704926
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV LEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=4fdb5504-f25a-46b6-963d-ebf1b8046925
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV TRIỆU TỬ LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=aff6f823-6f54-4e76-9c0c-ebe637c3dca7
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV VÕ TÒNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=2196ed59-e944-4260-a7e3-33c5db4fb336
@@ -539,304 +540,85 @@ http://pk79.io.vn/luongson/play.php?id=77f42390-5b4b-4b99-afbb-8d66912e0777
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV NGƯỜI THÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=208370929
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV LEO
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV YẾN THANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=4fdb5504-f25a-46b6-963d-ebf1b8046925
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/700_165018809229.png", 01/07-00:00 | Norway vs Ivory Coast | BLV BLV TRIỆU TỬ LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=aff6f823-6f54-4e76-9c0c-ebe637c3dca7
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4611_165750436919.png", 01/07-01:00 | Germany (W) U19 vs Poland (W) U19 | BLV BLV MAYBACH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=e719b6d2-be58-4964-aba5-e88fe4edb3a5
+http://pk79.io.vn/luongson/play.php?id=fc98d740-5dbb-4753-a92a-7ee2dadf9bfc
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4611_165750436919.png", 01/07-01:00 | Germany (W) U19 vs Poland (W) U19 | BLV BLV LÝ QUỲ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=344128920
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4611_165750436919.png", 01/07-01:00 | Germany (W) U19 vs Poland (W) U19 | BLV BLV VƯƠNG LUÂN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=459a6a04-ead4-44d5-add0-8e34dcb0ff7d
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/4611_165750436919.png", 01/07-01:00 | Germany (W) U19 vs Poland (W) U19 | BLV BLV MAYBACH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=e719b6d2-be58-4964-aba5-e88fe4edb3a5
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15921_202003231503593819.gif", 01/07-01:00 | CA Atlas vs Central Ballester | BLV BLV GẤU KA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=6a0a7862-0295-41af-9738-e00ee6c054d0
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/15921_202003231503593819.gif", 01/07-01:00 | CA Atlas vs Central Ballester | BLV BLV PHI HỔ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=270153927
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV MÃ SIÊU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=0a59e2d4-1f36-4bad-93db-cab6fea97f0a
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV KEVILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=0a777a00-9e28-4009-9c36-9c1b4593b3ef
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV LƯU BỊ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=5bebc363-b726-44f5-8921-6ade468c921f
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV KAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=58554dd1-6483-4b57-877a-2bc908ef2f5e
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV KEVILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=0a777a00-9e28-4009-9c36-9c1b4593b3ef
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV LỮ BỐ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=d204cadc-289a-4ec1-9dfc-3be04f22f797
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV MÃ SIÊU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=0a59e2d4-1f36-4bad-93db-cab6fea97f0a
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=318370920
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV LÃO HẠC
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/559_164983446440.png", 01/07-04:00 | Sweden vs France | BLV BLV LƯU BỊ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=b085db32-6746-4f4b-9ac9-d6ddb1b390fe
+http://pk79.io.vn/luongson/play.php?id=5bebc363-b726-44f5-8921-6ade468c921f
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV VÕ TÒNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=9632cf09-0595-47d9-a5ce-36b7046585d0
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV TÂY MÔN KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=8de0db88-b289-41e7-9a5a-94524fa40bcb
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV NGƯỜI THÉP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+http://pk79.io.vn/luongson/play.php?id=328370921
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV YẾN THANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=a831a710-722b-47fc-9c96-ef00a195bfcc
 #EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV TRIỆU TỬ LONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 http://pk79.io.vn/luongson/play.php?id=389bfeb8-c9bb-4b6d-a6f6-6ff337310235
-#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV NGƯỜI THÉP
+#EXTINF:-1 group-title="⚽ LSơn TV" tvg-logo="https://cdn-img.cdnokvip.com/logos/710_165018908829.png", 01/07-08:00 | Ecuador vs Mexico | BLV BLV LÃO HẠC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-http://pk79.io.vn/luongson/play.php?id=328370921
+http://pk79.io.vn/luongson/play.php?id=b085db32-6746-4f4b-9ac9-d6ddb1b390fe
 
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Cùng nghe những bài nhạc không lời nhẹ như mây trôi qua cửa sổ
-http://pk79.io.vn/myclip/play.php?id=12279679
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhớ Người Yêu_Mai Tuấn - Lý Hải.
-http://pk79.io.vn/myclip/play.php?id=11689625
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Không Dĩ Vãng (Remix)_Peto
-http://pk79.io.vn/myclip/play.php?id=12081409
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời giúp bạn chậm lại một chút
-http://pk79.io.vn/myclip/play.php?id=12279655
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chắp Tay Lạy Người_Diễm Thùy
-http://pk79.io.vn/myclip/play.php?id=12038602
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mình sinh ra đâu phải để buồn_Hamlet Trương
-http://pk79.io.vn/myclip/play.php?id=11815175
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Playlist nhạc không lời giúp tập trung cho deadline
-http://pk79.io.vn/myclip/play.php?id=12279775
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tết Nghèo - Nhật Phong Lãng.
-http://pk79.io.vn/myclip/play.php?id=11689700
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xa Lạ_Nguyễn Hồng Ân
-http://pk79.io.vn/myclip/play.php?id=11874239
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những bản nhạc piano giúp bạn bình tâm lại trong thoáng chốc
-http://pk79.io.vn/myclip/play.php?id=12279847
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Về miền Tây_Yến Ly
-http://pk79.io.vn/myclip/play.php?id=11874233
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bao Lần Em Khóc Remix_Kim Ny Ngọc
-http://pk79.io.vn/myclip/play.php?id=12081394
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập nhạc lofi không lời giúp tăng sự tập trung
-http://pk79.io.vn/myclip/play.php?id=12279787
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Trách Em Tội Nghiệp_Bella Phương Phạm
-http://pk79.io.vn/myclip/play.php?id=11756201
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nét Mực Màu Thời Gian_Sơn Hạ
-http://pk79.io.vn/myclip/play.php?id=11815190
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời để chill khi nhâm nhi cà phê, làm việc và thư giãn
-http://pk79.io.vn/myclip/play.php?id=12279829
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Căn Phòng Nước Mắt_Hamlet Trương
-http://pk79.io.vn/myclip/play.php?id=11815139
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhìn Người Đi (Lofi Ver)_Quốc Cường
-http://pk79.io.vn/myclip/play.php?id=11755979
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập nhạc không lời hot nhất dành cho người thích chill
-http://pk79.io.vn/myclip/play.php?id=12279856
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức Họa Làng Quê_Trang Anh Thơ
-http://pk79.io.vn/myclip/play.php?id=12038590
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Sao Cũng Được - Nguyễn Hiền.
-http://pk79.io.vn/myclip/play.php?id=11689667
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Ngồi một góc yên tĩnh và nghe playlist nhạc không lời này
-http://pk79.io.vn/myclip/play.php?id=12279814
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lỡ Làng Duyên Em (Thành Đạt)
-http://pk79.io.vn/myclip/play.php?id=11757173
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tân Cổ Xuân Xa Xứ - Sơn Hạ.
-http://pk79.io.vn/myclip/play.php?id=11689691
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Playlist nhạc không lời buổi tối cho tâm hồn bình yên
-http://pk79.io.vn/myclip/play.php?id=12279835
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Học Được Gì Sau Nỗi Đau_Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=12081415
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhìn Thấy Gió - Trương Mộng Quỳnh.
-http://pk79.io.vn/myclip/play.php?id=11689622
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Khoảng lặng tuyệt đẹp cùng tiếng dương cầm du dương
-http://pk79.io.vn/myclip/play.php?id=12283111
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập nhạc piano giúp tăng tập trung và giảm stress
+http://pk79.io.vn/myclip/play.php?id=12279799
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Công Ơn Của Mẹ_Phi Bằng
 http://pk79.io.vn/myclip/play.php?id=11930896
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bờ Vai Hay Bờ Vực? - Hamlet Trương Ft Phạm Quỳnh Anh
 http://pk79.io.vn/myclip/play.php?id=11984869
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập dương cầm du dương cho tâm trí thư thái
-http://pk79.io.vn/myclip/play.php?id=12283126
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức thư anh chưa gửi_Quốc Cường ft The Men
-http://pk79.io.vn/myclip/play.php?id=11815133
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Khoảng Trống Để Lại (Remix) - Quốc Cường
-http://pk79.io.vn/myclip/play.php?id=11674565
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Những bản nhạc không lời khiến lòng bạn nhẹ hơn
-http://pk79.io.vn/myclip/play.php?id=12279850
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Dẫu Con Nơi Xa_Băng Tình
-http://pk79.io.vn/myclip/play.php?id=12081352
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Sài Gòn Không Em - Đức Tuấn.
-http://pk79.io.vn/myclip/play.php?id=11689661
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập nhạc piano giúp tăng tập trung và giảm stress
-http://pk79.io.vn/myclip/play.php?id=12279799
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Nơi Làng Quê_Hiền Ngân Ft Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11930935
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Quán Bên Hồ - Như Hoa
-http://pk79.io.vn/myclip/play.php?id=11984878
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Khoảng lặng tuyệt đẹp cùng tiếng dương cầm du dương
-http://pk79.io.vn/myclip/play.php?id=12283111
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Học Được Gì Sau Nỗi Đau_Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=12081415
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Thà Chưa Từng Quen (Liveshow Thương Quá Việt Nam 1) - Mai Tuấn Ft Trịnh Tuyết Hương
-http://pk79.io.vn/myclip/play.php?id=11984923
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời cho buổi chiều thật chậm
-http://pk79.io.vn/myclip/play.php?id=12279823
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đã Mất_Quốc Cường
-http://pk79.io.vn/myclip/play.php?id=11874206
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bông Ô Môi - Dương Hồng Loan Ft Dương Ngọc Thái
-http://pk79.io.vn/myclip/play.php?id=11984866
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Lắng nghe list nhạc không lời này để trái tim dịu lại
-http://pk79.io.vn/myclip/play.php?id=12279670
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Làm Theo Di Chúc Thiêng Liêng - Nguyễn Duyên Quỳnh
-http://pk79.io.vn/myclip/play.php?id=11674574
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Cái Tình Phu Thê_Phi Bằng
-http://pk79.io.vn/myclip/play.php?id=11874164
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano không lời nghe là thấy nhẹ lòng
-http://pk79.io.vn/myclip/play.php?id=12279751
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Anh Rất Khó_Trương Ỹ Vân
-http://pk79.io.vn/myclip/play.php?id=11755928
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lòng Người Thay Đổi - Phi Bằng
-http://pk79.io.vn/myclip/play.php?id=11674583
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | List nhạc không lời để tâm hồn được tự do lang thang
-http://pk79.io.vn/myclip/play.php?id=12279706
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Cái Số_Phi Bằng
-http://pk79.io.vn/myclip/play.php?id=11815136
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Anh Nhưng Không Thể Quay Về_Triệu Minh ft Châu Gia Kiệt
-http://pk79.io.vn/myclip/play.php?id=11815205
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời êm ái cho tâm hồn mỏi mệt
-http://pk79.io.vn/myclip/play.php?id=12279841
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tâm Sự Người Say_Quách Thành Danh
-http://pk79.io.vn/myclip/play.php?id=12081391
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lời Em Hứa_Khưu Huy Vũ
-http://pk79.io.vn/myclip/play.php?id=12081343
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Hòa tấu không lời cho những phút giây tĩnh tâm
-http://pk79.io.vn/myclip/play.php?id=12283174
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | 1001 Lý Do_Thành Đạt
-http://pk79.io.vn/myclip/play.php?id=11756186
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Nơi Làng Quê_Hiền Ngân Ft Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11930935
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập piano chữa lành dành cho ngày cuối tuần
-http://pk79.io.vn/myclip/play.php?id=12283165
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Út_Phi Bằng
-http://pk79.io.vn/myclip/play.php?id=11930893
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đám Cưới Người Ta_Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=11874191
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Chill music cho ngày dài bớt căng thẳng
-http://pk79.io.vn/myclip/play.php?id=12279652
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Học Được Gì Sau Nỗi Đau_Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=12081415
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mệt Rồi Thì Về Với Mẹ Nghen Con - Hamlet Trương ft Hồng Trang
-http://pk79.io.vn/myclip/play.php?id=11674595
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Lắng nghe nhạc piano cho người hay suy nghĩ
-http://pk79.io.vn/myclip/play.php?id=12279766
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Dẫu Con Nơi Xa_Băng Tình
-http://pk79.io.vn/myclip/play.php?id=12081352
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Càng Đau Càng Trưởng Thành_Thiên Trường
-http://pk79.io.vn/myclip/play.php?id=12081406
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Khoảng trời bình yên với tiếng dương cầm êm ái
-http://pk79.io.vn/myclip/play.php?id=12283180
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Giã Từ_Mai Tuấn ft Lê Sang
-http://pk79.io.vn/myclip/play.php?id=11756000
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Calorie_Trương Mộng Quỳnh
-http://pk79.io.vn/myclip/play.php?id=11755988
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Khoảng lặng tuyệt đẹp cùng tiếng dương cầm du dương
-http://pk79.io.vn/myclip/play.php?id=12283111
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Âm thanh piano trong trẻo khép lại một ngày bình yên
+http://pk79.io.vn/myclip/play.php?id=12283186
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Mùa Thu Năm Ấy_Hồ Trung Dũng
+http://pk79.io.vn/myclip/play.php?id=11815184
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Xa Lạ_Nguyễn Hồng Ân
+http://pk79.io.vn/myclip/play.php?id=11874239
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập nhạc không lời cho người sống chậm
+http://pk79.io.vn/myclip/play.php?id=12279667
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tôi Chưa Vợ_Phi Bằng
+http://pk79.io.vn/myclip/play.php?id=11930965
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Bỏ Anh Mà Đi_Văn Hương
 http://pk79.io.vn/myclip/play.php?id=11874200
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nhìn Người Đi (Remix) - Quốc Cường ft DJ Turbo
-http://pk79.io.vn/myclip/play.php?id=11674625
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Bản hòa âm piano giúp tâm trí nhẹ nhàng hơn
-http://pk79.io.vn/myclip/play.php?id=12283171
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ván Đã Đóng Thuyền_Đình Nguyễn
-http://pk79.io.vn/myclip/play.php?id=11815196
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Không Dĩ Vãng (Remix)_Peto
-http://pk79.io.vn/myclip/play.php?id=12081409
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Hòa tấu không lời cho những phút giây tĩnh tâm
-http://pk79.io.vn/myclip/play.php?id=12283174
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chuyện Tình Nơi Làng Quê_Hiền Ngân Ft Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11930935
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Con Đường Mang Tên Em_Mai Tuấn - Đoàn Minh
-http://pk79.io.vn/myclip/play.php?id=11874185
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Bản piano không lời xoa dịu mọi muộn phiền
-http://pk79.io.vn/myclip/play.php?id=12283108
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Giã Từ_Mai Tuấn ft Lê Sang
-http://pk79.io.vn/myclip/play.php?id=11756000
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Em Là Người Thứ Mấy (Beat)_Ki An
-http://pk79.io.vn/myclip/play.php?id=11874203
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không giúp tâm trí tĩnh lại khi bị stress
-http://pk79.io.vn/myclip/play.php?id=12279694
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Chị Hai Lúa_Hiền Ngân ft Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11815208
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Yêu Anh Rất Khó_Trương Ỹ Vân
-http://pk79.io.vn/myclip/play.php?id=11755928
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Lắng nghe nhạc piano cho người hay suy nghĩ
-http://pk79.io.vn/myclip/play.php?id=12279766
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Lòng Người Thay Đổi - Phi Bằng
-http://pk79.io.vn/myclip/play.php?id=11674583
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Chót Lưỡi Đầu Môi_Duy Minh
-http://pk79.io.vn/myclip/play.php?id=11930887
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Hành trình bình yên qua từng giai điệu dương cầm
-http://pk79.io.vn/myclip/play.php?id=12283132
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tâm Sự Người Say_Quách Thành Danh
-http://pk79.io.vn/myclip/play.php?id=12081391
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | 1001 Lý Do_Thành Đạt
-http://pk79.io.vn/myclip/play.php?id=11756186
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Hòa tấu không lời cho những phút giây tĩnh tâm
-http://pk79.io.vn/myclip/play.php?id=12283174
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đêm Tâm Sự_Duy Khương
-http://pk79.io.vn/myclip/play.php?id=12081412
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hình Bóng Quê Nhà (Remix)_Quách Thành Danh Ft Saka Trương Tuyền
-http://pk79.io.vn/myclip/play.php?id=12038581
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời giúp bạn chậm lại một chút
-http://pk79.io.vn/myclip/play.php?id=12279655
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hãy Để Hoa Rơi_Quốc Cường
-http://pk79.io.vn/myclip/play.php?id=11755967
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đính Ước_Yến Ly - Lâm Hùng
-http://pk79.io.vn/myclip/play.php?id=11874197
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Tuyển tập giai điệu dương cầm nhẹ nhàng mỗi ngày
-http://pk79.io.vn/myclip/play.php?id=12283150
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Hình Bóng Quê Nhà (Remix)_Quách Thành Danh Ft Saka Trương Tuyền
-http://pk79.io.vn/myclip/play.php?id=12038581
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bờ Vai Hay Bờ Vực? - Hamlet Trương Ft Phạm Quỳnh Anh
-http://pk79.io.vn/myclip/play.php?id=11984869
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Hòa tấu không lời cho những phút giây tĩnh tâm
-http://pk79.io.vn/myclip/play.php?id=12283174
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Ai Gieo Chữ Đắng_Duy Minh
-http://pk79.io.vn/myclip/play.php?id=11755982
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Áo Vũ Cơ Hàn_Huy Thái
-http://pk79.io.vn/myclip/play.php?id=12038587
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Nhạc không lời cho một đêm dài mất ngủ
-http://pk79.io.vn/myclip/play.php?id=12279703
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Đừng Bỏ Anh Mà Đi_Văn Hương
-http://pk79.io.vn/myclip/play.php?id=11874200
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bông Ô Môi - Dương Hồng Loan Ft Dương Ngọc Thái
-http://pk79.io.vn/myclip/play.php?id=11984866
 #EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Khúc nhạc piano nhẹ nhàng giữa không gian bình yên
 http://pk79.io.vn/myclip/play.php?id=12283120
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bồ Câu Ơi_Hồ Trung Dũng
-http://pk79.io.vn/myclip/play.php?id=11815130
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức thư anh chưa gửi_Quốc Cường ft The Men
-http://pk79.io.vn/myclip/play.php?id=11815133
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Giai điệu nhạc không lời thư thái cho một ngày không cần vội
-http://pk79.io.vn/myclip/play.php?id=12279682
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Nặng Gánh Ve Chai - Phi Bằng
-http://pk79.io.vn/myclip/play.php?id=11674604
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Khoảng Trời Duy Nhất_Vũ Bình Lê
-http://pk79.io.vn/myclip/play.php?id=11815172
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Playlist nhạc không lời dành cho buổi chiều êm đềm
-http://pk79.io.vn/myclip/play.php?id=12279664
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Em Là Người Thứ Mấy (Beat)_Ki An
-http://pk79.io.vn/myclip/play.php?id=11874203
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Duyên Trời Phận Ta_Duy Minh
-http://pk79.io.vn/myclip/play.php?id=11755925
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://s7ali.myclip.vn/image8/2024/11/14/1731578847318/882475992ec4_180_180.jpg", Nhạc Relaxing thư giãn | Khoảng lặng tuyệt đẹp cùng tiếng dương cầm du dương
-http://pk79.io.vn/myclip/play.php?id=12283111
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Giã Từ_Mai Tuấn ft Lê Sang
-http://pk79.io.vn/myclip/play.php?id=11756000
-#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bức Họa Làng Quê_Trang Anh Thơ
-http://pk79.io.vn/myclip/play.php?id=12038590
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Bất Đồng Quan Điểm_Đinh Kiến Phong
+http://pk79.io.vn/myclip/play.php?id=12038560
+#EXTINF:-1 group-title="🎼 🎧 Myclip" tvg-logo="http://simg1zen.myclip.vn/image1/2020/06/10/1591803477358/d1fcdc675776_180_180.png", Nhạc Trữ Tình Remix | Tấm Áo Không Lành - Phi Bằng.
+http://pk79.io.vn/myclip/play.php?id=11689679
 
 #EXTINF:-1 group-title="🎧  Nhạc" tvg-logo="https://s2.dmcdn.net/v/ZRS7S1f6TQDJUHCEQ/x180", Nhạc|(119) Rượu Quán Nghèo - NS Linh Trúc - Trường Sơn AT - YouTube
 http://pk79.io.vn/daily/play.php?id=x9tvyl8
