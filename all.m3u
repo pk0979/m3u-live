@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/26399.png", 🟡 02/07-19:30 | jwaaya-fc-vs-shabab-al-sahel.3oYWiaigNB | BLV Ciu
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/26399.png", 🔴 02/07-19:30 | jwaaya-fc-vs-shabab-al-sahel.3oYWiaigNB | BLV Ciu
 https://xclive.yarncdn.live/live/xctv_blv_chuoi/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/39/Croatia_national_football_team_crest.svg/884px-Croatia_national_football_team_crest.svg.png", 🟡 02/07-20:00 | croatia-u19-vs-italy-u19.nghulnAS_q | BLV Tam Mao
+#EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png", 🟡 02/07-20:00 | croatia-u19-vs-italy-u19.nghulnAS_q | BLV Tam Mao
 https://xclive.yarncdn.live/live/xctv_blv_tammao/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cháo Gà TV" tvg-logo="https://media.api-sports.io/football/teams/25765.png", 🟡 02/07-21:00 | bars-vs-asia-talas.y2rK62mwxe | BLV Kent
 https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
@@ -75,14 +75,11 @@ https://live05.koepgd.app/live/19919577.m3u8
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80", 🔴 02/07 - 19:00 | Giải hạng nhất quốc gia Kazakhstan | Akademiya Ontustik vs Shakhtar Karagandy | BLV ROCKSTAR
 https://live05.koepgd.app/live/82054853.m3u8
 
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/177dd75f6ff85ecc1677d2f0704eb3a4.png!w80", 🕒 02/07 - 19:30 | Giải Bóng đá Ngoại hạng Lebanon | Jwayya vs Shabab Sahel | BLV 247
+#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/177dd75f6ff85ecc1677d2f0704eb3a4.png!w80", 🔴 02/07 - 19:30 | Giải Bóng đá Ngoại hạng Lebanon | Jwayya vs Shabab Sahel | BLV 247
 https://live05.koepgd.app/live/90865415.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/71ee8803b35df20d3a96b33955dfa14c.png!w80", 🕒 02/07 - 20:00 | Giải hạng nhất quốc gia Kazakhstan | Tobol Kostanai B vs FK Aktobe II | BLV MOUNTAIN DEW
 https://live05.koepgd.app/live/87547578.m3u8
-
-#EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/eea48912dacd0411ebfd9749ac55cba9.png!w80", 🕒 02/07 - 20:00 | Giải hạng nhất quốc gia Kazakhstan | Astana B vs FK Kaspiy Aktau B | BLV PEPSI
-https://live05.koepgd.app/live/59444581.m3u8
 
 #EXTINF:-1 group-title="⚽ colatv.live" tvg-logo="https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80", 🕒 02/07 - 20:00 | Euro U19 | Croatia U19 vs Ý U19 | BLV Cozy
 https://live05.koepgd.app/live/87379114.m3u8
@@ -1002,6 +999,10 @@ https://edgemaxcdn-1.bongco50.xyz/live/baroi-sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://static.flashscore.com/res/image/data/biO74ZWg-UqisNSFP.png",17:00 - 03.07 | Ngoại Hạng Ethiopia | Ethiopia Nigd Bank vs Bahir Dar Kenema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://google.com
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8470_small.png",18:00 - 03.07 | Club Friendlies | AaB vs Viborg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1047,6 +1048,22 @@ https://google.com
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
 #EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",08:30 - 04.07 | World Cup | Colombia vs Ghana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://google.com
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",00:00 - 05.07 | World Cup | Canada vs Morocco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://google.com
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6724_small.png",04:00 - 05.07 | World Cup | Paraguay vs France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://google.com
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",03:00 - 06.07 | World Cup | Brazil vs Norway
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://google.com
+#EXTINF:-1 group-title="Rung90" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",07:00 - 06.07 | World Cup | Mexico vs England
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://google.com
@@ -1311,9 +1328,6 @@ https://vpsttt.vietanhtv.top/socolive/get.php?id=387694
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-02/07: Astana B - FK Kaspiy Aktau B (KAZ D1) - BLV LION
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=603255
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-02/07: Astana B - FK Kaspiy Aktau B (KAZ D1) - BLV VIP
-#EXTVLCOPT:http-origin=https://m.socoliveqn.co/
-https://vpsttt.vietanhtv.top/socolive/get.php?id=491873
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20210503/fca5954ec22137ad05325506d6645592", 19:00-02/07: Astana B - FK Kaspiy Aktau B (KAZ D1) - BLV WUKONG
 #EXTVLCOPT:http-origin=https://m.socoliveqn.co/
 https://vpsttt.vietanhtv.top/socolive/get.php?id=511367
@@ -2719,16 +2733,16 @@ https://pk79.io.vn/vtvprime/play.php?id=vtv9
 
 #EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus9.png", TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887&expires=1783008313&token=74ed87bb8db5492d13cdaaa37dd50a46
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887&expires=1783008611&token=1fbd80f403aa3d0675f02e8e4a2c1af2
 #EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus10.png", TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957&expires=1783008313&token=e29111a13fd414e5c4d9e81898b4d524
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957&expires=1783008611&token=80aa9af0f8e726cde2e43f9b545e5c7a
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://vietanhtv.id.vn/logo/tv360plus11.png", TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958&expires=1783008313&token=c7fafa327a6f3d8a6a1a515eadd97198
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958&expires=1783008611&token=a7761f8e3d282d5eb7fef60224abf551
 #EXTINF:-1 tvg-id="tv360hoathinh" group-title="Rạp Phim" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_640_360.png", Hoạt hình
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9934&expires=1783008313&token=9b73467077cf34c1e6ff4718be91a810
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9934&expires=1783008611&token=5fead1c46558c366c51042ff2c4261ee
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png" , VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -2794,7 +2808,7 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvcplus.png", HTVC Plus HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=132&expires=1783008313&token=35882efaeca22d87bb3a9daa6046def2
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=132&expires=1783008611&token=d546d918df29d495d9a96928cac11c96
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvcdulichcuocsong.png", HTVC Du Lịch HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
@@ -2803,7 +2817,7 @@ https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://img-ali1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png", HTVC Phim HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=15&expires=1783008313&token=c7adb8e680dccff4d29df71d620772e6
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=15&expires=1783008611&token=153ec90a4987048da506e7b69eab80d9
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://vietanhtv.id.vn/logo/htvcgiadinh.png", HTVC Gia Đình HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
@@ -2815,46 +2829,46 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="onphimviet" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onphimviet.png", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175&expires=1783008313&token=eaa6ac392c831a7ae91de02c078990dd
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175&expires=1783008611&token=2598f38675027fddc76b61ae463931d2
 #EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmovies.png", On Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181&expires=1783008313&token=365242e2e181ff716249f05f010952a5
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181&expires=1783008611&token=3eb0a61f3fd7150333dc770d9c29fc38
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onechannel.png", ON E- Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182&expires=1783008313&token=0e7e36444de88433273a4b160aecc0b3
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182&expires=1783008611&token=f5d5a32b9e81b06b62d150da1e7ec5c2
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ono2tv.png", On O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136&expires=1783008313&token=afebb5e692f7e3b0b19e421817f5cc58
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136&expires=1783008611&token=23ca77bd5852f468a67cd6c8a79ef654
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onbibi.png", On BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178&expires=1783008313&token=6185f80335d97c1173b62670e6969cd6
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178&expires=1783008611&token=8de36100aa254b6ccf1167ec4ea46eb1
 #EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png", ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189&expires=1783008313&token=dc2212849eb2ad1c52aafaa4de91b895
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189&expires=1783008611&token=16fb076f50645a415826e34b296f28d1
 #EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/oncine.png", ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176&expires=1783008313&token=130c5aff7be894b01bd2ea263d28306d
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176&expires=1783008611&token=abc08f11916f58a4b870b7bae3b69ec7
 #EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onstyle.png", ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184&expires=1783008313&token=7034bef2aed59b630b78b1ba7f1114c5
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184&expires=1783008611&token=de7675adcdf8762a064ea58189857cb4
 #EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onmusic.png", On Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185&expires=1783008313&token=2d6dad6e67e161e80ac9face679c01b2
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185&expires=1783008611&token=ab41a83daa92e7d7bb5c086544265623
 #EXTINF:-1 tvg-id="ontrending" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/ontrendingtv.png", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186&expires=1783008313&token=f3deb6bf01781efba396b3aaf96d9492
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186&expires=1783008611&token=8176d6aac2fc0eaf9e78733af0c6c496
 #EXTINF:-1 tvg-id="onviedramas" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/viedrama.png", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 tvg-id="onvfamily" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187&expires=1783008313&token=db30e9453cc1137b0a77af7ae140cecd
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187&expires=1783008611&token=da8a6edc525066004e69dbe9b4ce3e50
 #EXTINF:-1 tvg-id="onkids" group-title="VTVcab" tvg-logo="https://vietanhtv.id.vn/logo/onkids.png", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179&expires=1783008313&token=993151701212f58005c2b0146d505440
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179&expires=1783008611&token=30a6f018e2043104b9ea542cf1fc092a
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188&expires=1783008313&token=5cecacc1141d8d4da3ae4914e5f80482
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188&expires=1783008611&token=a6d32a38198317d2de62db48c256a00f
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://vietanhtv.id.vn/logo/sctv2.png", SCTV2 HD - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12vng.vtvprime.vn/hls/SCTV2/03.m3u8
